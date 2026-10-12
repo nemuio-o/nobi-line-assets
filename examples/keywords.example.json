@@ -1,0 +1,26 @@
+{
+  "packages": [
+    {
+      "type": "sticker",
+      "package_id": "9000003",
+      "items": [
+        {
+          "id": "1",
+          "resource_type": "STATIC",
+          "keyword_source": "line",
+          "keywords_raw": ["welcome", "hello", "hi"],
+          "captured_at": "2026-10-12",
+          "description_source": "llm"
+        },
+        {
+          "id": "2",
+          "resource_type": "STATIC",
+          "keyword_source": "line",
+          "keywords_raw": ["ok", "sure", "thumbs up"],
+          "captured_at": "2026-10-12",
+          "description_source": "llm"
+        }
+      ]
+    }
+  ]
+}

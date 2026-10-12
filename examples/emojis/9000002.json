@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "description": {
+        "en": "Beaming with joy",
+        "ja": "満面の笑みで喜びを伝えている"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "en": "Smile",
+        "ja": "笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-10-12",
+        "description_source": "human",
+        "keyword_source": "human",
+        "keywords_raw": [
+          "smile",
+          "happy"
+        ]
+      },
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "喜び"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "9000002",
+  "schema_version": 1,
+  "status": "active",
+  "type": "emoji"
+}

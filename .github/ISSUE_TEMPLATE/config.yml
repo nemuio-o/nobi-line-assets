@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: セキュリティ・権利・秘匿の連絡
+    url: https://github.com/nemuio-o
+    about: 公開の Issue に書けない内容は maintainer へ連絡してください

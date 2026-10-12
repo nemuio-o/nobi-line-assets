@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "type": "emoji",
+  "package_id": "9000002",
+  "license": "CC0-1.0",
+  "status": "active",
+  "items": [
+    {
+      "id": "1",
+      "name": { "ja": "笑顔" },
+      "emotion": ["joy"],
+      "description": { "ja": "満面の笑みで喜びを伝えている" },
+      "provenance": {
+        "keyword_source": "human",
+        "keywords_raw": ["smile"],
+        "captured_at": "2026-10-12",
+        "description_source": "human"
+      },
+      "review": { "status": "draft" }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "description": "type",
+    "schema": { "type": "string" },
+    "tests": [
+      { "description": "a string is valid", "data": "a", "valid": true },
+      { "description": "a number is invalid", "data": 1, "valid": false },
+      { "description": "null is invalid", "data": null, "valid": false }
+    ]
+  },
+  {
+    "description": "enum",
+    "schema": { "enum": ["a", "b"] },
+    "tests": [
+      { "description": "member is valid", "data": "a", "valid": true },
+      { "description": "non-member is invalid", "data": "c", "valid": false }
+    ]
+  },
+  {
+    "description": "const",
+    "schema": { "const": 1 },
+    "tests": [
+      { "description": "equal is valid", "data": 1, "valid": true },
+      { "description": "different is invalid", "data": 2, "valid": false }
+    ]
+  },
+  {
+    "description": "required",
+    "schema": { "type": "object", "required": ["a"], "properties": { "a": { "type": "string" } } },
+    "tests": [
+      { "description": "present is valid", "data": { "a": "x" }, "valid": true },
+      { "description": "missing is invalid", "data": {}, "valid": false }
+    ]
+  },
+  {
+    "description": "additionalProperties",
+    "schema": {
+      "type": "object",
+      "properties": { "a": { "type": "string" } },
+      "additionalProperties": false
+    },
+    "tests": [
+      { "description": "only declared is valid", "data": { "a": "x" }, "valid": true },
+      { "description": "extra property is invalid", "data": { "a": "x", "b": 1 }, "valid": false }
+    ]
+  },
+  {
+    "description": "items",
+    "schema": { "type": "array", "items": { "type": "number" } },
+    "tests": [
+      { "description": "all numbers valid", "data": [1, 2], "valid": true },
+      { "description": "mixed invalid", "data": [1, "x"], "valid": false }
+    ]
+  },
+  {
+    "description": "minItems",
+    "schema": { "type": "array", "minItems": 1 },
+    "tests": [
+      { "description": "one item valid", "data": [1], "valid": true },
+      { "description": "empty invalid", "data": [], "valid": false }
+    ]
+  },
+  {
+    "description": "uniqueItems",
+    "schema": { "type": "array", "uniqueItems": true },
+    "tests": [
+      { "description": "distinct valid", "data": [1, 2], "valid": true },
+      { "description": "duplicate invalid", "data": [1, 1], "valid": false }
+    ]
+  },
+  {
+    "description": "minLength",
+    "schema": { "type": "string", "minLength": 2 },
+    "tests": [
+      { "description": "long enough valid", "data": "ab", "valid": true },
+      { "description": "too short invalid", "data": "a", "valid": false }
+    ]
+  },
+  {
+    "description": "pattern",
+    "schema": { "type": "string", "pattern": "^[0-9]+$" },
+    "tests": [
+      { "description": "digits valid", "data": "123", "valid": true },
+      { "description": "letters invalid", "data": "12a", "valid": false }
+    ]
+  },
+  {
+    "description": "allOf",
+    "schema": { "allOf": [{ "type": "string" }, { "minLength": 2 }] },
+    "tests": [
+      { "description": "satisfies both valid", "data": "ab", "valid": true },
+      { "description": "fails one invalid", "data": "a", "valid": false }
+    ]
+  },
+  {
+    "description": "$ref",
+    "schema": { "$defs": { "s": { "type": "string" } }, "$ref": "#/$defs/s" },
+    "tests": [
+      { "description": "string valid", "data": "a", "valid": true },
+      { "description": "number invalid", "data": 1, "valid": false }
+    ]
+  },
+  {
+    "description": "nested object",
+    "schema": {
+      "type": "object",
+      "properties": {
+        "a": { "type": "object", "properties": { "b": { "type": "integer" } }, "additionalProperties": false }
+      },
+      "additionalProperties": false
+    },
+    "tests": [
+      { "description": "nested valid", "data": { "a": { "b": 1 } }, "valid": true },
+      { "description": "nested extra invalid", "data": { "a": { "b": 1, "c": 2 } }, "valid": false },
+      { "description": "nested wrong type invalid", "data": { "a": { "b": "x" } }, "valid": false }
+    ]
+  }
+]

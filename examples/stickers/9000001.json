@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "contributors": [
+        "@nemuio-o"
+      ],
+      "description": {
+        "en": "Waving a hand in a cheerful greeting",
+        "ja": "手を振って明るくあいさつしている"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "en": "Greeting",
+        "ja": "あいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-10-12",
+        "description_source": "human",
+        "keyword_source": "line",
+        "keywords_raw": [
+          "hi",
+          "howdy",
+          "hello"
+        ]
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "reviewed_at": "2026-10-12",
+        "reviewed_by": "@nemuio-o",
+        "status": "reviewed"
+      },
+      "tags": [
+        "あいさつ",
+        "手を振る"
+      ]
+    },
+    {
+      "contributors": [
+        "@nemuio-o"
+      ],
+      "description": {
+        "en": "Gratefully saying thanks with hands together",
+        "ja": "両手を合わせてうれしそうにお礼を言っている"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "2",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "en": "Thanks",
+        "ja": "お礼"
+      },
+      "provenance": {
+        "captured_at": "2026-10-12",
+        "description_source": "human",
+        "keyword_source": "line",
+        "keywords_raw": [
+          "thanks",
+          "thank you"
+        ]
+      },
+      "resource_type": "ANIMATION",
+      "review": {
+        "reviewed_at": "2026-10-12",
+        "reviewed_by": "@nemuio-o",
+        "status": "reviewed"
+      },
+      "tags": [
+        "お礼",
+        "感謝"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "9000001",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

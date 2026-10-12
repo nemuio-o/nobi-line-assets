@@ -1,0 +1,8 @@
+node_modules/
+dist/
+drafts/*
+!drafts/.gitkeep
+
+.DS_Store
+Thumbs.db
+*.swp

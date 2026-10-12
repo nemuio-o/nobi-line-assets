@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/nemuio-o/nobi-line-assets/main/schema/package.schema.json",
+  "title": "nobi-line-assets package record",
+  "description": "LINE スタンプ/絵文字1パッケージ分の説明メタデータ。画像・公式名称などの権利物は含めない。",
+  "type": "object",
+  "required": ["schema_version", "type", "package_id", "license", "status", "items"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "const": 1 },
+    "type": { "enum": ["sticker", "emoji"] },
+    "package_id": { "type": "string", "pattern": "^[0-9]+$" },
+    "license": { "const": "CC0-1.0" },
+    "status": { "enum": ["active", "retired"] },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/item" }
+    }
+  },
+  "$defs": {
+    "localizedText": {
+      "type": "object",
+      "required": ["ja"],
+      "additionalProperties": false,
+      "properties": {
+        "ja": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 }
+      }
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["keyword_source", "keywords_raw", "captured_at", "description_source"],
+      "additionalProperties": false,
+      "properties": {
+        "keyword_source": { "enum": ["line", "human", "vision"] },
+        "keywords_raw": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "captured_at": { "$ref": "#/$defs/date" },
+        "description_source": { "enum": ["human", "llm", "vision"] }
+      }
+    },
+    "review": {
+      "type": "object",
+      "required": ["status"],
+      "additionalProperties": false,
+      "properties": {
+        "status": { "enum": ["draft", "reviewed"] },
+        "reviewed_by": { "type": "string", "minLength": 1 },
+        "reviewed_at": { "$ref": "#/$defs/date" }
+      }
+    },
+    "item": {
+      "type": "object",
+      "required": ["id", "name", "emotion", "description", "provenance", "review"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[0-9]+$" },
+        "resource_type": { "enum": ["STATIC", "ANIMATION", "SOUND", "MESSAGE"] },
+        "name": { "$ref": "#/$defs/localizedText" },
+        "emotion": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "joy",
+              "sadness",
+              "anger",
+              "fear",
+              "surprise",
+              "disgust",
+              "love",
+              "gratitude",
+              "confusion",
+              "calm",
+              "excitement",
+              "tired"
+            ]
+          }
+        },
+        "intent": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "greeting",
+              "farewell",
+              "thanks",
+              "apology",
+              "request",
+              "agree",
+              "refuse",
+              "celebrate",
+              "encourage",
+              "comfort",
+              "question",
+              "answer",
+              "ok",
+              "no"
+            ]
+          }
+        },
+        "tags": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "description": { "$ref": "#/$defs/localizedText" },
+        "provenance": { "$ref": "#/$defs/provenance" },
+        "review": { "$ref": "#/$defs/review" },
+        "contributors": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "updated_at": { "$ref": "#/$defs/date" }
+      }
+    }
+  }
+}

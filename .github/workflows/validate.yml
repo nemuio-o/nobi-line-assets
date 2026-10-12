@@ -1,0 +1,41 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Formatting (all files)
+        run: node scripts/format.mjs --check
+
+      - name: Validator tests
+        run: node --test "test/**/*.test.mjs"
+
+      - name: Validate changed records
+        if: github.event_name == 'pull_request'
+        run: |
+          git fetch --no-tags origin "${{ github.base_ref }}"
+          files=$(git diff --name-only --diff-filter=ACMR \
+            "origin/${{ github.base_ref }}...HEAD" -- data examples \
+            | grep -E '^(data|examples)/(stickers|emojis)/[0-9]+\.json$' || true)
+          if [ -z "$files" ]; then
+            echo "No data files changed."
+          else
+            echo "$files"
+            node scripts/validate.mjs $files
+          fi
+
+      - name: Validate all records
+        if: github.event_name != 'pull_request'
+        run: node scripts/validate.mjs

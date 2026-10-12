@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "type": "sticker",
+  "package_id": "9000001",
+  "license": "CC0-1.0",
+  "status": "active",
+  "items": [
+    {
+      "id": "1",
+      "resource_type": "STATIC",
+      "name": { "ja": "あいさつ", "en": "Greeting" },
+      "emotion": ["joy"],
+      "intent": ["greeting"],
+      "tags": ["あいさつ", "手を振る"],
+      "description": { "ja": "手を振って明るくあいさつしている", "en": "Waving a hand in a cheerful greeting" },
+      "provenance": {
+        "keyword_source": "line",
+        "keywords_raw": ["hi", "howdy"],
+        "captured_at": "2026-10-12",
+        "description_source": "human"
+      },
+      "review": { "status": "reviewed", "reviewed_by": "@nemuio-o", "reviewed_at": "2026-10-12" },
+      "contributors": ["@nemuio-o"]
+    }
+  ]
+}
