@@ -1,0 +1,1129 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服の人物が腰を曲げ、手に黒いものを持って下を見ている。持ち物の詳細は不明確。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "9447",
+      "name": {
+        "ja": "腰を曲げて何かを見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "青い服",
+        "前かがみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の人物が両手を胸元で合わせ、笑顔を見せている。頭上に黄色い星のような飾りがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9448",
+      "name": {
+        "ja": "手を合わせて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "両手",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の人物が片手を額に当てて敬礼している。頭上に赤い星のような記号がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9449",
+      "name": {
+        "ja": "敬礼する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "敬礼",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、口をすぼめている。そばに赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9450",
+      "name": {
+        "ja": "ハートを添えて口づける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ハート",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で前方を指し、頭上に黄色い疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "9451",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべて指す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "疑問符",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で顔の下半分を覆い、目元から涙が流れている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "9452",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "涙",
+        "顔を覆う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さく描かれた人物が片足を上げて走っている。背後に赤や青の花のような図形がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9453",
+      "name": {
+        "ja": "軽やかに走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "走る",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の頭上に、ろうそくのように見える飾りが並び、周囲にきらめきが描かれている。飾りの詳細は不明確。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9454",
+      "name": {
+        "ja": "頭上に飾りを載せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ろうそくのような飾り",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が先端に炎のようなものがある棒を前方へ掲げている。そばに黄色い強調線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "9455",
+      "name": {
+        "ja": "火のついた棒を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "棒",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤と白の縦長の物を両手で抱えている。表面の文字や細部は判読しにくい。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9456",
+      "name": {
+        "ja": "赤白の物を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "赤白",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が座り、赤い服の前面に明確な英字「NO」が表示されている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9457",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "NO",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服の人物が両腕を広げ、頭上に英字「OK」が表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9458",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "OK",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で顔を覆い、指の間から涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "9459",
+      "name": {
+        "ja": "顔を覆って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "涙",
+        "顔を覆う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の一部がピンク色の煙のようなものの中から見えている。全体の状況は不明確。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "9460",
+      "name": {
+        "ja": "煙の中から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ピンク色",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を頭の横に上げている。背後に黄色い円形の光のような図形がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9461",
+      "name": {
+        "ja": "頭の横に手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "手を上げる",
+        "黄色い光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服の女性が両腕を広げて踊り、周囲に音符やきらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9462",
+      "name": {
+        "ja": "音符とともに踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "音符",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を横たえ、脚を上に向けた姿勢で動いている。周囲に黄色い動きの線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "9463",
+      "name": {
+        "ja": "勢いよく転がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "転ぶ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が腕を組み、目を閉じて立っている。服に英字のような文字があるが、判読は不確か。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9464",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頬を赤らめ、目を閉じている。周囲に黄色いきらめきがあり、口元に赤い線が見える。"
+      },
+      "emotion": [
+        "love",
+        "surprise"
+      ],
+      "id": "9465",
+      "name": {
+        "ja": "頬を赤らめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "赤面",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色い物を手にして、渦巻く線の上を走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9466",
+      "name": {
+        "ja": "渦の上を走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "渦",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開け、両目から太い涙を流して泣いている。周囲に赤い強調線がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "9467",
+      "name": {
+        "ja": "大泣きする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "大泣き",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を前に伸ばして伏せ、背後に英字「SORRY」が表示されている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "9468",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "SORRYと謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "SORRY",
+        "謝罪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が手足を広げて横たわり、片方の靴が外れている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "9469",
+      "name": {
+        "ja": "手足を広げて倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "倒れる",
+        "靴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が寄り添い、周囲にハートや英字「LOVE」が描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9470",
+      "name": {
+        "ja": "LOVEを掲げて寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "LOVE",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が並び、それぞれ腕を上げている。中央の人物は口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9471",
+      "name": {
+        "ja": "腕を上げて盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "腕を上げる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が口を開けて身をそらし、背後で別の人物が走っている。周囲に赤い動きの線がある。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "9472",
+      "name": {
+        "ja": "慌てて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "走る",
+        "赤い動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がうつぶせに伏せ、上から青い縦線が降り注いでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9473",
+      "name": {
+        "ja": "うつぶせに伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "うつぶせ",
+        "雨の線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色い浅い水槽のようなものに入り、片手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9474",
+      "name": {
+        "ja": "水の中で手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "水",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手を前へ伸ばし、赤い物が手元から離れている。物の詳細は不明確。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "9475",
+      "name": {
+        "ja": "赤い物を投げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤い物",
+        "投げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を傾けて動き、周囲に青い動きの線が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9476",
+      "name": {
+        "ja": "軽やかに動く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "動き",
+        "青い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横たわり、腹の上に皿が何枚も積まれている。そばに小さな容器もある。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "9477",
+      "name": {
+        "ja": "皿を抱えて横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "皿",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が赤い物の上に片足を置き、もう一方の足を上げている。周囲に動きの線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "9478",
+      "name": {
+        "ja": "赤い物を踏む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "踏む",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がピンク色の水たまりのようなものに横たわり、両腕を上げている。上に青い水滴がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "9479",
+      "name": {
+        "ja": "水たまりに横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "水たまり",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手を上げて手を振り、上部に英字「HELLO」が表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9480",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "HELLOと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "HELLO",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が険しい表情で、片手に細長いもののようなものを持って振りかざしている。持ち物の詳細は不明確。"
+      },
+      "emotion": [
+        "anger",
+        "confusion"
+      ],
+      "id": "9481",
+      "name": {
+        "ja": "険しい顔で振りかざす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "険しい表情",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い縞模様の服の人物が、赤い布のようなもののそばで片手を上げている。頭上に黄色い模様の帽子のようなものがある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9482",
+      "name": {
+        "ja": "驚いて手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "青い服",
+        "赤い布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の親指を立て、手の周囲に黄色い強調線が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9483",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "親指",
+        "黄色い強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横たわった姿勢で片腕を伸ばし、上方を指差している。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "9484",
+      "name": {
+        "ja": "指をさして倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "指差し",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔の周囲を赤や黄色の炎が取り囲み、眉を寄せた険しい表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9485",
+      "name": {
+        "ja": "炎に包まれて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "炎",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を開けて驚き、そばに長い黒髪の人物のような姿が淡い輪郭の中に描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "9486",
+      "name": {
+        "ja": "幽霊のような姿に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "驚き",
+        "黒髪の姿"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "752",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

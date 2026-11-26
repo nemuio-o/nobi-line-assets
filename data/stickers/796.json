@@ -1,0 +1,1126 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "オレンジ色の服の人物が、赤い帽子の小さな人物を抱え、片手を上げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11071",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "親子で手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親子",
+        "手を振る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の龍がとぐろを巻き、黄色い光に囲まれている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11072",
+      "name": {
+        "ja": "光の中の龍"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "龍",
+        "緑",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の人物が両腕を広げて立ち、背後に赤と黄色の放射状の背景がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11073",
+      "name": {
+        "ja": "腕を広げて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ色の服",
+        "両腕",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片目に緑色の機器をつけた人物が、正面を見ている。左側に縦書きの赤い文字があるが、細部は判読しにくい。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "11074",
+      "name": {
+        "ja": "スカウターで見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スカウター",
+        "緑色の機器",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が白い布を頭に巻き、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "11075",
+      "name": {
+        "ja": "口を開けて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色の人物",
+        "白い布",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の人物が目を閉じ、口を大きく開けて叫んでいる。周囲に赤い縦書きの文字と動きの線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "11076",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "赤い文字",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が紫色の服を着て、片手で顔を覆っている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "11077",
+      "name": {
+        "ja": "顔を手で覆う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色の人物",
+        "手で顔を覆う",
+        "紫色の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い人物が岩の上で両腕を上げ、口を開けている。周囲に赤い効果文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "11078",
+      "name": {
+        "ja": "両腕を上げて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い人物",
+        "両腕",
+        "岩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と黄色の服の人物が両手を広げ、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11079",
+      "name": {
+        "ja": "両手を広げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "両手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の人物が、片腕を上げて勢いよく走っている。頭上に黄色い輪がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11080",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ色の服",
+        "走る",
+        "光輪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い人物が両手を握り、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11081",
+      "name": {
+        "ja": "拳を握って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い人物",
+        "拳",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猿のようなキャラクターが、両腕を上げて跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11082",
+      "name": {
+        "ja": "両腕を上げる猿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猿",
+        "両腕",
+        "尻尾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の人物が、両腕で大きな食べ物のようなものを抱えて食べている。詳細は判別しにくい。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11083",
+      "name": {
+        "ja": "食べ物を抱えて食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べる",
+        "オレンジ色の服",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が壁にもたれて座り、目を閉じている。そばに縦書きの小さな文字があるが、判読は不確か。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "11084",
+      "name": {
+        "ja": "壁にもたれて眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "壁",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が二人、地面の上を並んで歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11085",
+      "name": {
+        "ja": "二人で歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色の人物",
+        "二人",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の人物が地面に横たわり、周囲に土ぼこりが描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "11086",
+      "name": {
+        "ja": "地面に倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "地面",
+        "オレンジ色の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の小さな人物が片手を上げて歩いている。画面左に「さようなら天さん・・・・」と読める縦書きの文字がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "11087",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って別れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小さな人物",
+        "手を振る",
+        "さようなら天さん"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が背中を反らして後方へ吹き飛ばされているような姿勢で描かれ、周囲に効果線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "11088",
+      "name": {
+        "ja": "吹き飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き飛ぶ",
+        "効果線",
+        "赤い記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が両手を前に出し、右上へ青い光の塊を放っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11089",
+      "name": {
+        "ja": "青い光を放つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い光",
+        "放つ",
+        "小さな人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が片手の人差し指を立て、正面を見ている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11090",
+      "name": {
+        "ja": "指を立てて示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "指を立てる",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と白の人物が腕を組み、正面を見て構えている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "11091",
+      "name": {
+        "ja": "腕を組んで構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の人物",
+        "腕組み",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の人物と黒い服の人物が並び、拳を握ってポーズを決めている。上に青い文字があるが、内容は判読しにくい。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11092",
+      "name": {
+        "ja": "二人でポーズを決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "拳",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の人物が両手を握り、力を込めて前を見ている。周囲に黄色い効果線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "11093",
+      "name": {
+        "ja": "力を込めて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ色の服",
+        "構える",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が前後に並び、赤と黄色の放射状の背景の中で構えている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "11094",
+      "name": {
+        "ja": "並んで構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数の人物",
+        "戦闘服",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が白と茶色の服を着て、まとまって前方へ進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "11095",
+      "name": {
+        "ja": "集団で前進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数の人物",
+        "戦闘服",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が白い手袋をつけ、細長い赤い棒のようなものを持って立っている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "11096",
+      "name": {
+        "ja": "棒を持って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い髪",
+        "棒",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "坊主頭の人物が両手の指を目の横に当て、画面に「太陽拳!!!!」と表示されている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11097",
+      "name": {
+        "ja": "太陽拳を放つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "坊主頭",
+        "両手",
+        "太陽拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が目を閉じて手を合わせ、下部に「タッカラプト ポッポルンガ プピリットパロ」と読める文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "calm"
+      ],
+      "id": "11098",
+      "name": {
+        "ja": "呪文を唱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色の人物",
+        "呪文",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が丸い窓のある乗り物の中に座り、外を見ているように見える。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "11099",
+      "name": {
+        "ja": "機内で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機内",
+        "窓",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と白の人物が正面を向き、右側に「わたしの戦闘力は530000です」と読める縦書きの文字がある。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "11100",
+      "name": {
+        "ja": "戦闘力を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の人物",
+        "スカウター",
+        "戦闘力"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が険しい表情で叫んでいる。周囲に赤い縦書きの文字と効果線があるが、細部は判読しにくい。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "11101",
+      "name": {
+        "ja": "怒って叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "叫ぶ",
+        "赤い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と白の人物が青い光に包まれ、宙に浮かんでいる。右側に赤い縦書きの文字があるが、内容は判読しにくい。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11102",
+      "name": {
+        "ja": "光をまとって飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の人物",
+        "青い光",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が青白い円形の光の中で浮かび、周囲に大きな青い光が広がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "11103",
+      "name": {
+        "ja": "青い光の中で浮かぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い光",
+        "浮かぶ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の人物の腕に、白い人物の手が絡むように描かれている。周囲に赤い効果文字がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "11104",
+      "name": {
+        "ja": "腕をつかまれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の人物",
+        "腕",
+        "つかむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "草地の上で大きな土煙が上がり、中央付近に赤い効果文字がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "11105",
+      "name": {
+        "ja": "地面から煙が上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "煙",
+        "地面",
+        "爆発"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が両腕を高く上げ、力を込めた表情をしている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11106",
+      "name": {
+        "ja": "両腕を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "両腕",
+        "力を込める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い体に紫色の部分がある人物が、長い尾を垂らして正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11107",
+      "name": {
+        "ja": "正面を向いて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白と紫",
+        "尾",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が眉を寄せ、険しい表情で正面をにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "11108",
+      "name": {
+        "ja": "険しい顔でにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "険しい表情",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と白の人物が宙に浮かび、周囲に青い縦向きの文字と光の表現がある。文字の細部は判読しにくい。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11109",
+      "name": {
+        "ja": "光の中で浮かぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の人物",
+        "青い文字",
+        "尾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金色の髪の人物が拳を前に突き出し、背景に光が広がっている。左側に「クリリンのことかーーっ」と読める赤い文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "11110",
+      "name": {
+        "ja": "怒りを爆発させる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金色の髪",
+        "拳",
+        "クリリンのことか"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "796",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

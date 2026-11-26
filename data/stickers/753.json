@@ -1,0 +1,1160 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "女性が手を口元に添え、周囲にピンクのハートとキスマークが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9487",
+      "name": {
+        "ja": "投げキスをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ハート",
+        "キスマーク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が赤いバラの花束を両手で抱え、花に顔を寄せている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9488",
+      "name": {
+        "ja": "バラの花束を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "バラ",
+        "花束"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ヘルメットをかぶった人物が、星や動きの線を伴ってバイクに乗っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9489",
+      "name": {
+        "ja": "バイクで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バイク",
+        "ヘルメット",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が口元に指を添え、ピンクの放射状の線を背にしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9490",
+      "name": {
+        "ja": "口元に指を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "指",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がピンク色の浴槽のような入れ物に横たわり、赤い衣装と小物が見える。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "9491",
+      "name": {
+        "ja": "浴槽でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "浴槽",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が手を口元に当て、頭の上に渦巻き状の線が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "9492",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "渦巻き",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手を頬のそばに置き、赤い強調線を背にして目を見開いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9493",
+      "name": {
+        "ja": "驚いて頬に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "驚き",
+        "強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手を耳のそばに添え、画面に明確な英字「Tell Me」が表示されている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "9494",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "Tell Meと尋ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "Tell Me",
+        "質問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "エプロン姿の女性が、ハートの飾りが付いた皿をトレイに載せて運んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "9495",
+      "name": {
+        "ja": "料理を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "エプロン",
+        "トレイ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が口元に手を添え、背後に大きな黒い疑問符のような記号が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "9496",
+      "name": {
+        "ja": "口元に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "疑問符",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が白い犬のような動物を抱きしめ、ピンクのハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9497",
+      "name": {
+        "ja": "白い犬を抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "白い犬",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が電話の受話器を持ち、画面に明確な英字「Call Me」が表示されている。"
+      },
+      "emotion": [
+        "excitement",
+        "love"
+      ],
+      "id": "9498",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "Call Meと呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "電話",
+        "Call Me"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がうつぶせになって顔を上げ、吹き出しに明確な英字「BOOP-BOOP A-DOOP」が表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9499",
+      "name": {
+        "ja": "うつぶせで呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "うつぶせ",
+        "BOOP-BOOP A-DOOP"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手を上げて動き、画面に明確な英字「HELLO」が表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9500",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "HELLOと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "HELLO",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が床に座り込み、腕を抱えるようにしてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9501",
+      "name": {
+        "ja": "座り込んでうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "座る",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンを付けた女性が贈り物を抱え、画面に明確な英字「Congratulations」が表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9502",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "Congratulationsと祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "贈り物",
+        "Congratulations"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手を差し出し、画面に明確な英字「Thank you!」が表示されている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "9503",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "Thank youと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "Thank you",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が足を組んで座り、目を閉じて穏やかな表情をしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9504",
+      "name": {
+        "ja": "足を組んで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "座る",
+        "足を組む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が膝をつき、片手で頬を支えて目を閉じている。周囲に淡い円が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "9505",
+      "name": {
+        "ja": "頬杖をつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "頬杖",
+        "淡い円"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が掃除用具を持ち、ピンク色の掃除機のような機器のそばで掃除をしている。"
+      },
+      "emotion": [
+        "joy",
+        "tired"
+      ],
+      "id": "9506",
+      "name": {
+        "ja": "掃除をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "掃除",
+        "掃除機"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が膝をつき、目を閉じて両手を合わせている。背後に青い背景がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9507",
+      "name": {
+        "ja": "手を合わせて願う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "両手を合わせる",
+        "膝立ち"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が浴槽のような入れ物に横たわり、水しぶきと黄色いアヒルの玩具が見える。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "9508",
+      "name": {
+        "ja": "浴槽でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "浴槽",
+        "アヒル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が赤いバラの大きな花束を両手で差し出している。"
+      },
+      "emotion": [
+        "love",
+        "gratitude",
+        "joy"
+      ],
+      "id": "9509",
+      "name": {
+        "ja": "バラの花束を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "バラ",
+        "花束"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が鏡の前に座り、手にした小物で身支度をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9510",
+      "name": {
+        "ja": "鏡の前で身支度する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "鏡",
+        "身支度"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が白い猫のような動物を抱き、ハート型の背景の中にいる。画面下に明確な英字「BETTY BOOP」がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9511",
+      "name": {
+        "ja": "白い猫を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "白い猫",
+        "BETTY BOOP"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手を合わせ、画面に明確な英字「Please!」が表示されている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9512",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "Please!と頼む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "Please!",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手にポンポンを持ち、画面に明確な英字「Victory!」が表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9513",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "Victoryと喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ポンポン",
+        "Victory"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が手に小さな物を持ち、吹き出しに明確な英字「Sweet!」が表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "9514",
+      "name": {
+        "ja": "Sweet!と喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "Sweet!",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が赤い帽子をかぶって三日月の上で眠り、白い猫のような動物が寄り添っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "9515",
+      "name": {
+        "ja": "三日月で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "三日月",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が人差し指を立て、画面に明確な英字「NO!」が表示されている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "9516",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "NO!と拒む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "NO!",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手を上げて合図をし、画面に明確な英字「OK!」が表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9517",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OK!と応じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "OK!",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が走るような姿勢で腕を伸ばし、周囲に青いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "excitement"
+      ],
+      "id": "9518",
+      "name": {
+        "ja": "走りながらハートを送る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "走る",
+        "青いハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両腕を広げ、カラフルな円とハートに囲まれ、画面下に明確な英字「HAPPY」が表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9519",
+      "name": {
+        "ja": "HAPPYと喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "HAPPY",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両脚を上げた逆さまに近い姿勢で、白い猫のような動物とハート型の背景に描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "9520",
+      "name": {
+        "ja": "逆さまにポーズをとる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "逆さま",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が青いオープンカーを運転し、画面に明確な英字「Let's Go」が表示されている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9521",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "車で出発する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "青い車",
+        "Let's Go"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子とコートを着た女性が、複数の買い物袋を持って立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9522",
+      "name": {
+        "ja": "買い物袋を持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤い帽子",
+        "買い物袋"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がハートを抱え、画面に明確な英字「I LOVE U」が表示されている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9523",
+      "name": {
+        "ja": "I LOVE Uと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "I LOVE U",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が黒い衣装を着て腰に手を当て、頭に赤い角のような飾りがある。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "9524",
+      "name": {
+        "ja": "角を付けて身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "角",
+        "黒い衣装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がグラスを掲げ、画面に明確な英字「Cheers!」が表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9525",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "Cheers!と乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "グラス",
+        "Cheers!"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子をかぶった女性がギターを弾き、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9526",
+      "name": {
+        "ja": "ギターを弾く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ギター",
+        "音符"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "753",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

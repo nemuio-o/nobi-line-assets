@@ -1,0 +1,1125 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤いキャラクターが小さく手を振るように片手を上げ、周囲にピンクや赤のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11863",
+      "name": {
+        "ja": "ハートに囲まれて手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "ハート",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが片目を閉じ、白い手の人差し指を立てている。指先のそばに黄色い強調線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11864",
+      "name": {
+        "ja": "片目を閉じて指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "ウインク",
+        "指を立てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが両手を上げ、目を伏せたような表情で、片側の頬に青い涙が見える。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "11865",
+      "name": {
+        "ja": "涙を浮かべて両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "涙",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが、ピンクのハートが描かれた白い封筒のようなものを抱えている。周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11866",
+      "name": {
+        "ja": "ハート付きの手紙を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "封筒",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターがうつぶせに近い姿勢で横になっている。背中の上に白黒の小さな形が見える。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "11867",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが白い鉢巻きを締め、眉を寄せた表情で立っている。背後に炎が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "11868",
+      "name": {
+        "ja": "炎を背に身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "鉢巻き",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが白いターバン風の頭飾りをつけ、両手のひらを前に向けている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "11869",
+      "name": {
+        "ja": "ターバン姿で手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "ターバン",
+        "手のひら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが横向きに転がるような姿勢で、白い英字で「Love」と書かれた大きなピンクのハートを抱えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11870",
+      "name": {
+        "ja": "Loveのハートを抱えて転がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "ハート",
+        "Love"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが腕を組み、眉を寄せたような目つきで正面を見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "11871",
+      "name": {
+        "ja": "腕を組んでにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "腕組み",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが、紙幣や硬貨が積み上がったピンク色の乗り物のようなものの上に座っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11872",
+      "name": {
+        "ja": "お金の山に埋もれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "紙幣",
+        "硬貨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが両手に黄色いポンポンのようなものを持ち、片目を閉じて動いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11873",
+      "name": {
+        "ja": "黄色いポンポンを振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "黄色いポンポン",
+        "動く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが両手を横に広げ、目を下げたような困った表情をしている。頭の上に渦巻きがある。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "11874",
+      "name": {
+        "ja": "困った顔で両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "困惑",
+        "渦巻き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが大きな白い紙の束のようなものを抱え、足元に動きの線を出して走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "11875",
+      "name": {
+        "ja": "大きな紙を抱えて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "紙の束",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが赤い小さなキャラクターをそばに置き、赤いキャラクターの上に明瞭な英字で「Hello」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11876",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "Helloと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いキャラクター",
+        "Hello"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが両腕を広げ、目を細めて笑いながら走っている。周囲にピンクの丸い飾りがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11877",
+      "name": {
+        "ja": "笑顔で駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "笑顔",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが腰に手を当て、眉を寄せた険しい目つきで立っている。横に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "11878",
+      "name": {
+        "ja": "険しい目つきで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "険しい表情",
+        "腰に手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが片目を閉じ、頬を赤らめて口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "11879",
+      "name": {
+        "ja": "ウインクして笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "ウインク",
+        "赤面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが白黒の給仕服風の衣装を着て、飲み物の入ったトレーを片手に持っている。背後にピンクのハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "11880",
+      "name": {
+        "ja": "トレーを持って給仕する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "トレー",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが白い枕の上で横になり、両手を頬の近くに置いている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "11881",
+      "name": {
+        "ja": "枕で横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "枕",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが両手を頬に当て、目を見開いたような表情をしている。頭の両側に白い雲形の記号がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "11882",
+      "name": {
+        "ja": "頬に手を当てて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "驚き",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが箸を持ち、湯気の立つ器の中の麺のようなものを食べている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11883",
+      "name": {
+        "ja": "湯気の立つ麺を食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "麺",
+        "箸"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターの顔の下に赤いひげのような部分が見え、正面を向いて立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "11884",
+      "name": {
+        "ja": "赤いひげ風の姿で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いひげ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが白い斑点のある黄色い帽子をかぶり、目を閉じて白い枕のようなものを抱えている。周囲にきらめきがある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "11885",
+      "name": {
+        "ja": "黄色い帽子で眠そうにする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "黄色い帽子",
+        "枕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが片手の指を口元に当て、もう片方の腕を動かすように立っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "11886",
+      "name": {
+        "ja": "口元に指を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いキャラクター",
+        "口元",
+        "指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが赤い小さな道具のようなものと、文字のような印があるカップを持っている。周囲に青い泡がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11887",
+      "name": {
+        "ja": "小物とカップを手にする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "カップ",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが黒い「G」の帽子と白黒の服を着て、野球ボールを投げるような姿勢をしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "11888",
+      "name": {
+        "ja": "ボールを投げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "野球ボール",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが片目を閉じて歩き、周囲に黄色いきらめきが広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11889",
+      "name": {
+        "ja": "きらめきの中で歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "ウインク",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが星の付いた小さな車に乗り、青い帽子をかぶっている。周囲に緑の動きの記号がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11890",
+      "name": {
+        "ja": "車に乗って進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "車",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが片手を上げ、目を細めて口を大きく開けている。頭の横に赤い強調線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11891",
+      "name": {
+        "ja": "片手を上げて声を張るようにする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "片手",
+        "強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが赤いギターのような楽器を持って演奏している。周囲に黒い音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11892",
+      "name": {
+        "ja": "ギターを弾く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "ギター",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが両手でピースサインを作り、周囲に色とりどりの星が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11893",
+      "name": {
+        "ja": "両手でピースをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "ピースサイン",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のキャラクターが体を縮め、目を大きく見開いている。周囲に青いしずくや紫色の揺れのような線がある。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "11894",
+      "name": {
+        "ja": "震えながら縮こまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "震える",
+        "青いしずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と赤のキャラクターが並んで座り、前方の画面に表示された車のような映像を見ている。"
+      },
+      "emotion": [
+        "excitement",
+        "calm"
+      ],
+      "id": "11895",
+      "name": {
+        "ja": "画面を並んで見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いキャラクター",
+        "画面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と赤のキャラクターが並び、赤いキャラクターが指を立てている。頭上に黄色い電球の図がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "11896",
+      "name": {
+        "ja": "ひらめきを示して指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いキャラクター",
+        "電球"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と赤のキャラクターが芝生のような背景の上で、盤面と白い駒のあるボードを挟んで座っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11897",
+      "name": {
+        "ja": "ボードゲームを一緒に遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いキャラクター",
+        "ボードゲーム"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と赤のキャラクターが、色とりどりの紙片が舞う大きな開いた箱から飛び出している。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "11898",
+      "name": {
+        "ja": "箱から一緒に飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いキャラクター",
+        "箱"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが緑のキャラクターの背後に立ち、緑のキャラクターを両腕で抱きしめている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11899",
+      "name": {
+        "ja": "背後から抱きつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いキャラクター",
+        "抱きしめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と赤のキャラクターが、耳の付いた白と黄色の着ぐるみ風の衣装を着て並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11900",
+      "name": {
+        "ja": "動物耳の衣装で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いキャラクター",
+        "動物耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と赤のキャラクターが虹の上に並び、背後に青い空のような背景ときらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11901",
+      "name": {
+        "ja": "虹の上で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いキャラクター",
+        "虹"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と緑のキャラクターが横になって並び、緑のキャラクターが赤い小さな道具のようなものを持っている。周囲に黒い音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11902",
+      "name": {
+        "ja": "音符に囲まれて横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のキャラクター",
+        "赤いキャラクター",
+        "音符"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "826",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

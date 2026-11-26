@@ -1,0 +1,1125 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黄色いキャラクターが、小さな白い仲間を両手で抱いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9743",
+      "name": {
+        "ja": "小さな仲間を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱っこ",
+        "小さな仲間",
+        "黄色いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手を上げ、左右に小さな旗を持っている。そばに音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9744",
+      "name": {
+        "ja": "旗を掲げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "旗",
+        "両手を上げる",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが、ふたの付いた小さな容器のようなものを抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9745",
+      "name": {
+        "ja": "おやつを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "容器",
+        "抱える",
+        "黄色いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが、れんが模様の壁の陰から顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "9746",
+      "name": {
+        "ja": "壁の陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "壁",
+        "のぞく",
+        "れんが模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが座り、片手を頬に当てている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9747",
+      "name": {
+        "ja": "頬に手を当てて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "頬に手",
+        "黄色いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンの付いた白い毛のキャラクターの中央に贈り物の絵があり、下に「Thank you!」と明確に書かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "9748",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ありがとうを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Thank you!",
+        "贈り物",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが背を向けて立ち、そばに小さなキャラクターがいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9749",
+      "name": {
+        "ja": "背を向けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "立つ",
+        "小さな仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが横になって眠り、そばに「Z」の記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "9750",
+      "name": {
+        "ja": "すやすや眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "横になる",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが横になり、扇風機の風を受けている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "9751",
+      "name": {
+        "ja": "風に吹かれて休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "扇風機",
+        "横になる",
+        "風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが赤と黄色のチェック柄のマフラーにくるまっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9752",
+      "name": {
+        "ja": "マフラーにくるまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マフラー",
+        "チェック柄",
+        "くるまる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが頭を下げて座り込み、そばに小さな白いキャラクターがいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9753",
+      "name": {
+        "ja": "うつむいて座り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "座り込む",
+        "小さな仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターの頭上に電球の絵が浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "9754",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電球",
+        "ひらめき",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが片手を上げ、そばに点の描かれたさいころが浮かんでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "9755",
+      "name": {
+        "ja": "さいころを振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "さいころ",
+        "片手を上げる",
+        "遊び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが目を見開き、全身に汗を浮かべている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "9756",
+      "name": {
+        "ja": "汗をかいて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "汗",
+        "目を見開く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが大きく目を見開き、後ろを振り返っている。そばに感嘆符がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9757",
+      "name": {
+        "ja": "びっくりして振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り返る",
+        "感嘆符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが首をかしげ、頭のそばに疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "9758",
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "首をかしげる",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが体を縮め、周囲に震えを示す線が出ている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "9759",
+      "name": {
+        "ja": "身震いする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震える",
+        "縮こまる",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが花を持って動き、そばに小さなキャラクターと音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9760",
+      "name": {
+        "ja": "花を持って踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "音符",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが座り込み、目の下に涙のような線があり、周囲に小さな丸が浮かんでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9761",
+      "name": {
+        "ja": "座って落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "涙",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターがリボンを付けた白いキャラクターに寄り添い、そばに赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9762",
+      "name": {
+        "ja": "ハートを添えて寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "寄り添う",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが目をつぶって顔をしかめ、頭のそばに怒りを示す記号がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9763",
+      "name": {
+        "ja": "悔しそうに怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "しかめ顔",
+        "怒りの記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが仰向けに近い姿勢で上を向き、そばに赤い丸い模様の小さな物がある。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "9764",
+      "name": {
+        "ja": "上を向いて眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "上を向く",
+        "仰向け",
+        "赤い模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターがピンク色の旗を持って歩き、そばに小さな白いキャラクターがいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9765",
+      "name": {
+        "ja": "旗を振って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "旗",
+        "歩く",
+        "小さな仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが黄色い食べ物のようなものを両手で抱え、そばに小さなキャラクターと積み重なった食べ物がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9766",
+      "name": {
+        "ja": "食べ物を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べ物",
+        "抱える",
+        "小さな仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手を胸元に寄せ、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9767",
+      "name": {
+        "ja": "ハートを抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "両手",
+        "喜ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手を高く上げ、体を浮かせている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9768",
+      "name": {
+        "ja": "両手を上げて跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手を上げる",
+        "跳ねる",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが口元に手を当て、頭や体に汗を浮かべている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "9769",
+      "name": {
+        "ja": "汗を流して困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "汗",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが体を横向きにし、片方の腕を前へ伸ばしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9770",
+      "name": {
+        "ja": "横を指し示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横向き",
+        "腕を伸ばす",
+        "指し示す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが赤い車に乗って走り、車の後ろに動きの線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9771",
+      "name": {
+        "ja": "車で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車",
+        "走る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが前へ走り、体の周囲に勢いを示す線が出ている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9772",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "勢い",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが重なった黄色い食べ物のようなものの下で横になり、そばに小さな白いキャラクターがいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "9773",
+      "name": {
+        "ja": "食べ物の下で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "食べ物",
+        "小さな仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手を頭上に上げ、頭のそばに小さな丸い記号がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "9774",
+      "name": {
+        "ja": "両手を上げて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手を上げる",
+        "丸い記号",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが腕を胸の前で交差させ、上に「NO--!」と明確に書かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9775",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと拒む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO--!",
+        "腕を交差",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが太陽の形の枠に入り、正面を向いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9776",
+      "name": {
+        "ja": "太陽になって笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "太陽",
+        "笑顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが赤い持ち手の傘になり、周囲から水滴が落ちている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "9777",
+      "name": {
+        "ja": "傘で雨をしのぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "雨",
+        "水滴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが前へ走り、周囲に風や動きを示す線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9778",
+      "name": {
+        "ja": "風を切って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "風",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが皿の上に座り、そばに赤い実のようなものがある。周囲に赤い強調線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "9779",
+      "name": {
+        "ja": "皿の上で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "皿",
+        "赤い実",
+        "強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが脚付きの器の中に入り、そばにスプーンと小さな黄色い物がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9780",
+      "name": {
+        "ja": "器の中でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "器",
+        "スプーン",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが体を丸めてうずくまり、頭の上に小さな花のようなものがある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9781",
+      "name": {
+        "ja": "うずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うずくまる",
+        "丸まる",
+        "小さな花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが体を丸め、横になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "9782",
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "丸まる",
+        "休む"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "768",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

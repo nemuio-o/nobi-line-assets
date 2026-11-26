@@ -1,0 +1,1089 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒い丸耳のキャラクターが赤い服と黄色い靴で両手を上げて立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10111",
+      "name": {
+        "ja": "両手を上げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い耳",
+        "赤い服",
+        "両手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのリボンをつけた黒い耳のキャラクターが立ち、頭上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "10112",
+      "name": {
+        "ja": "ハートを添えて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンクのリボン",
+        "ハート",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の小さなキャラクターが黄色い太陽の下に並び、そばにピンクと青の小さな飾りが見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10113",
+      "name": {
+        "ja": "二人で日なたに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "太陽",
+        "飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服のキャラクターが星のある濃い青色の背景の下に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10114",
+      "name": {
+        "ja": "星空の下に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星空",
+        "黄色い服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い耳のキャラクターが横を向いて立ち、周囲に青い汗のような記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "10115",
+      "name": {
+        "ja": "汗を浮かべて横を向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い耳",
+        "汗",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのリボンをつけたキャラクターが歩き、頭のそばにオレンジ色の怒りの記号が二つある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10116",
+      "name": {
+        "ja": "怒りの記号と歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "リボン",
+        "歩く",
+        "怒りの記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが両手を上げ、頭上に赤い「!!!」が表示されている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "10117",
+      "name": {
+        "ja": "驚いて手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "両手",
+        "!!!"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが首をかしげるように立ち、周囲に青い疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "10118",
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の服",
+        "疑問符",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶったキャラクターが前方へ走り、背後に水色の風の線が出ている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10119",
+      "name": {
+        "ja": "風を受けて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "走る",
+        "風の線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのリボンをつけたキャラクターが封筒を持って歩き、上に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10120",
+      "name": {
+        "ja": "手紙を持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "リボン",
+        "封筒",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服のキャラクターが立ち、頭上に小さな灰色の点が三つ並んでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "10121",
+      "name": {
+        "ja": "黄色い服で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い服",
+        "三つの点",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い耳のキャラクターが小さな青い物のそばに立ち、頭の横に緑色の強調線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "10122",
+      "name": {
+        "ja": "小さな机のそばで驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い耳",
+        "机",
+        "強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の小さなキャラクターが緑と赤の大きな風船につかまって浮かんでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10123",
+      "name": {
+        "ja": "二つの風船で浮かぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "風船",
+        "浮かぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "縞模様のキャラクターが両腕を広げ、周囲に青い渦巻きの線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10124",
+      "name": {
+        "ja": "縞模様で回転する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "縞模様",
+        "渦巻き",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の小さなキャラクターが黄色い太陽の下に並び、右端に縞模様のキャラクターがいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10125",
+      "name": {
+        "ja": "仲間と日なたに集まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数のキャラクター",
+        "太陽",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青紫色の長い耳のキャラクターが座り、頭上に黒い小さな点が三つ浮かんでいる。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "10126",
+      "name": {
+        "ja": "うつむいて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "長い耳",
+        "座る",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が飲み物の入ったカップと皿のような物を手にしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10127",
+      "name": {
+        "ja": "飲み物と皿を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "カップ",
+        "皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が階段のそばに立ち、青い時計と汗のような記号が近くに描かれている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "10128",
+      "name": {
+        "ja": "階段のそばで慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "階段",
+        "時計",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が台の上に座り、黒い動物のようなものを抱えている。上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "10129",
+      "name": {
+        "ja": "黒い動物を抱えて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "黒い動物",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが赤い壁の後ろから顔を出し、上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "10130",
+      "name": {
+        "ja": "壁の後ろで寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "赤い壁",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが両手を高く上げ、頭上に青い「!!!」が表示されている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "10131",
+      "name": {
+        "ja": "驚いて両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "両手",
+        "!!!"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物と小さな赤いキャラクターが向かい合うように走り、両側に動きの線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10132",
+      "name": {
+        "ja": "小さな相手と走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "走る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターと青いキャラクターが向かい合って手を合わせ、頭上に黄色い星が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10133",
+      "name": {
+        "ja": "二人が手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手を合わせる",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターがカラフルな乗り物のような台に乗り、周囲に小さなハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10134",
+      "name": {
+        "ja": "二人で乗り物に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "乗り物",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪のキャラクターが立ち、両側に水色の涙のような記号が浮かんでいる。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "10135",
+      "name": {
+        "ja": "涙を流して立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "涙",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の大きな怪物のようなキャラクターが黄色い歯を見せて笑っている。頭上に黄色い星がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10136",
+      "name": {
+        "ja": "紫色の怪物が笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の怪物",
+        "笑顔",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と赤の服の人物が両腕を上げ、頭のそばに赤い怒りの記号が浮かんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10137",
+      "name": {
+        "ja": "怒って両腕を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒と赤の服",
+        "両腕",
+        "怒りの記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギのようなキャラクターが走り、周囲に水色の汗のような記号がある。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "10138",
+      "name": {
+        "ja": "汗をかいて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いキャラクター",
+        "走る",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が小さな青い鳥のそばに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10139",
+      "name": {
+        "ja": "小鳥と並んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "小鳥",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物と黒髪の人物が青い水の上の黄色い乗り物に乗っている。周囲に黄色い輝きがある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10140",
+      "name": {
+        "ja": "二人で水上を進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "水上",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の角のあるキャラクターが三つまたの道具を持って立ち、周囲に紫色の煙のような線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10141",
+      "name": {
+        "ja": "三つまたの道具を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "角",
+        "三つまたの道具",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物と青い服の人物が並んで立ち、周囲に色とりどりの紙吹雪が舞っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10142",
+      "name": {
+        "ja": "二人で祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "紙吹雪",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の大きな人物が両腕を曲げ、力を込めた姿勢で立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10143",
+      "name": {
+        "ja": "力を込めて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きな人物",
+        "両腕",
+        "力を込める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が片手を高く上げ、手の周囲に黄色い強調線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10144",
+      "name": {
+        "ja": "片手を高く上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "片手",
+        "強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の大きな人物が両拳を上げ、周囲に赤茶色の四角い物が飛んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10145",
+      "name": {
+        "ja": "拳を上げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きな人物",
+        "両拳",
+        "飛び散る物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の小さな人物が並んで立ち、頭上に色とりどりの紙吹雪が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10146",
+      "name": {
+        "ja": "三人で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "紙吹雪",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が色とりどりの物を胸の前に抱えて立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10147",
+      "name": {
+        "ja": "物を抱えて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "抱える",
+        "色とりどり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物の顔が大きく描かれ、眉を寄せて口を強く結んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10148",
+      "name": {
+        "ja": "険しい顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い髪",
+        "険しい顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物の顔と、上向きの親指が大きく描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10149",
+      "name": {
+        "ja": "親指を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "親指",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つの拳が前に突き出され、周囲に赤い強調線が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10150",
+      "name": {
+        "ja": "二つの拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二つの拳",
+        "強調線",
+        "正面"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "775",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

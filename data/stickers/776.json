@@ -1,0 +1,1134 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を口元に当て、目を見開いて小さく震えている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "10151",
+      "name": {
+        "ja": "小さく震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "震え",
+        "不安そうな表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を上げて丸い形を作り、笑顔で立っている。そばに「OK」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10152",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "笑顔",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが腕を組み、目を閉じて困ったような表情をしている。そばに「NG」と表示されている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "10153",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NGを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NG",
+        "腕組み",
+        "困った顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが笑顔で両手を広げ、足元に動きの線を出しながら跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10154",
+      "name": {
+        "ja": "にこやかに跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "跳ねる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターがカップのような器を両手で持ち、正面を見ている。頭のそばに星形の記号がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10155",
+      "name": {
+        "ja": "飲み物を持って見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "正面",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが床に横になり、目を閉じて休んでいる。周囲に淡い色の丸が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10156",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "休む",
+        "淡い丸"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが首をかしげ、口を少し開けている。頭上に疑問符がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "10157",
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "首をかしげる",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが両手を上げて動き、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10158",
+      "name": {
+        "ja": "音符と一緒に動く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "両手",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた茶色のキャラクターが、カップを手にして座っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10159",
+      "name": {
+        "ja": "カップを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カップ",
+        "花飾り",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが片手を上げ、笑顔で手を振っている。そばに「Bye」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10160",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って別れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Bye",
+        "手を振る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが机に向かい、紙と文房具の前で作業している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10161",
+      "name": {
+        "ja": "机に向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "文房具",
+        "作業"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターがカップを持って笑い、周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10162",
+      "name": {
+        "ja": "ハートに囲まれて飲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "カップ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターの周囲に、色とりどりの飾りや音符、きらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10163",
+      "name": {
+        "ja": "飾りに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飾り",
+        "音符",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが座り込み、目から大粒の涙を流して泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "10164",
+      "name": {
+        "ja": "大泣きする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが封筒を手にしている。そばに「MAIL」と表示されている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10165",
+      "name": {
+        "ja": "封筒を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "封筒",
+        "MAIL",
+        "手紙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を細めて顔をしかめ、両手を前にして震えている。周囲に動きの線がある。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "10166",
+      "name": {
+        "ja": "顔をしかめて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震え",
+        "しかめ顔",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を見開いて身をすくめている。頭のそばにびっくり記号がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "10167",
+      "name": {
+        "ja": "驚いて身をすくめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "びっくり記号",
+        "身をすくめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが体を丸めて座り、眉を寄せたような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "10168",
+      "name": {
+        "ja": "丸まって座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "丸まる",
+        "座る",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の枕に頭をのせたキャラクターが横になって眠っている。頭上に「Z」の記号がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10169",
+      "name": {
+        "ja": "眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "枕",
+        "Z記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を閉じ、口元を結んでじっとしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10170",
+      "name": {
+        "ja": "目を閉じてじっとする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "静止",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を閉じ、手を前にしてうつむくように座っている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "10171",
+      "name": {
+        "ja": "目を閉じてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "うつむく",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を細めて笑い、胸の前で手を合わせている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "10172",
+      "name": {
+        "ja": "笑顔で手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を合わせる",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さなキャラクターと白いキャラクターが並び、互いに近い位置に立っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "10173",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが笑顔で立ち、頭上に明るい電球の記号が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "10174",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電球",
+        "ひらめき",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが身をかがめ、周囲に汗のしずくと動きの線が描かれている。上部に判読しにくい文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "fear"
+      ],
+      "id": "10175",
+      "name": {
+        "ja": "汗をかいて身をかがめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "身をかがめる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を高く上げて喜び、上に「やった！」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10176",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "やったと喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "やった",
+        "両手",
+        "喜ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を閉じて笑っている。上に「おつかれさま」とハートが表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "10177",
+      "name": {
+        "ja": "おつかれさまの笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おつかれさま",
+        "笑顔",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが笑顔で歩き、周囲にハートときらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "10178",
+      "name": {
+        "ja": "うれしそうに歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが泡の浮かぶ青い浴槽に入り、頭上に物干しのような線ときらめきが描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "10179",
+      "name": {
+        "ja": "泡風呂に入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泡風呂",
+        "泡",
+        "リラックス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが涙を流し、腕を組んで座っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "10180",
+      "name": {
+        "ja": "腕を組んで泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "腕組み",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが笑顔で手を合わせている。上に「Thank you」とハートが表示されている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "10181",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Thank you",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが腕を組み、目を細めて不満そうな表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10182",
+      "name": {
+        "ja": "不満そうに腕を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "不満",
+        "しかめ顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが花飾りをつけ、きらめきに囲まれて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10183",
+      "name": {
+        "ja": "花飾りで華やぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "きらめき",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが机に顔を伏せて横になり、左右にカップのような物が置かれている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "10184",
+      "name": {
+        "ja": "机に伏せて休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "休む",
+        "カップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが手を合わせて笑っている。上に「いただきます」と表示されている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "10185",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "いただきます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "いただきます",
+        "手を合わせる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を閉じ、頬を赤らめながら手を合わせている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "10186",
+      "name": {
+        "ja": "目を閉じて手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "手を合わせる",
+        "赤面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手で頬を横に引っ張っている。頭上に「ぴろーん」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10187",
+      "name": {
+        "ja": "頬を引っ張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "引っ張る",
+        "ぴろーん"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが黄色い壁の後ろから顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "10188",
+      "name": {
+        "ja": "壁の後ろからのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "壁",
+        "片目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターがイーゼルの前で筆のような道具を持ち、絵を描いている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "10189",
+      "name": {
+        "ja": "絵を描く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絵",
+        "イーゼル",
+        "描く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが横向きに寝そべり、両手を顔の前に置いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "10190",
+      "name": {
+        "ja": "横向きに寝そべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横向き",
+        "寝そべる",
+        "手"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "776",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

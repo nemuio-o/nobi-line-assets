@@ -1,0 +1,1096 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物のようなキャラクターが立ち、正面を向いている。細部は不明確。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9703",
+      "name": {
+        "ja": "立ってこちらを見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "立つ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが横向きの姿勢で描かれている。動作の細部は不明確。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9704",
+      "name": {
+        "ja": "横向きに動く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "横向き",
+        "姿勢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を上げた姿勢をしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9705",
+      "name": {
+        "ja": "手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "手",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが体を低くした姿勢で描かれている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "9706",
+      "name": {
+        "ja": "身をかがめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "かがむ",
+        "姿勢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を広げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9707",
+      "name": {
+        "ja": "両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "両手",
+        "広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが前方へ走っているように見える。周囲に動きを示す線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9708",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "走る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが目を見開いたような表情で、手を上げている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9709",
+      "name": {
+        "ja": "驚いて手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "驚き",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが大きく腕を動かすような姿勢で描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9710",
+      "name": {
+        "ja": "大きく身振りする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "腕",
+        "身振り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターがうつむいたような姿勢で立っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "9711",
+      "name": {
+        "ja": "うつむいて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "うつむく",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を振っているように見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9712",
+      "name": {
+        "ja": "手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "手を振る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが座った姿勢で描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9713",
+      "name": {
+        "ja": "座って休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "座る",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが横になった姿勢で描かれている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "9714",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが顔をしかめたような表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9715",
+      "name": {
+        "ja": "顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "表情",
+        "しかめ顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "9716",
+      "name": {
+        "ja": "困った顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "困惑",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが目を見開いたように正面を見つめている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9717",
+      "name": {
+        "ja": "驚いて見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "驚き",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが胸元で両手を合わせている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "9718",
+      "name": {
+        "ja": "両手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "両手",
+        "合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが宙に浮くような姿勢で、前方へ動いている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9719",
+      "name": {
+        "ja": "勢いよく飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "飛ぶ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが腕を組んで立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9720",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが体をひねり、後ろを振り返るような姿勢をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9721",
+      "name": {
+        "ja": "振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "振り返る",
+        "姿勢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を前方へ差し出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9722",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を前に出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "手",
+        "前に出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターがしゃがみ、身構えるような姿勢をしている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "9723",
+      "name": {
+        "ja": "しゃがんで構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "しゃがむ",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが腕を振り上げた姿勢で描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9724",
+      "name": {
+        "ja": "手を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "腕",
+        "振り上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが体を丸め、うずくまるような姿勢をしている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "9725",
+      "name": {
+        "ja": "うずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "うずくまる",
+        "姿勢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を上げ、控えめに合図しているように見える。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9726",
+      "name": {
+        "ja": "小さく手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "手",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが目を閉じたような、穏やかな表情をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9727",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "笑顔",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが首をかしげたような姿勢をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "9728",
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "首をかしげる",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが驚いたような表情で、体を後ろへ引いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "9729",
+      "name": {
+        "ja": "驚いて後ずさる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "驚き",
+        "後ずさる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両腕を広げ、大きく身振りをしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9730",
+      "name": {
+        "ja": "大きく手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "両腕",
+        "身振り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが手で顔の一部を覆っている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "9731",
+      "name": {
+        "ja": "顔を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "手",
+        "顔を隠す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが体に力を込めたような姿勢で構えている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9732",
+      "name": {
+        "ja": "力を込めて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "構える",
+        "力"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが小さく描かれ、静かに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9733",
+      "name": {
+        "ja": "小さくたたずむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "立つ",
+        "静か"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を差し出した姿勢で描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9734",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "手",
+        "差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが口を開け、明るい表情で笑っているように見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9735",
+      "name": {
+        "ja": "大きく笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "笑顔",
+        "口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが座り、疲れたような姿勢をしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "9736",
+      "name": {
+        "ja": "疲れて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "座る",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが横を向いた姿勢で描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9737",
+      "name": {
+        "ja": "横を向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "横向き",
+        "姿勢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが前方へ進み、周囲に動きを示す線が見える。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9738",
+      "name": {
+        "ja": "勢いよく進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "進む",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが胸を張るように立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9739",
+      "name": {
+        "ja": "胸を張って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "立つ",
+        "胸を張る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが体をひねった動きのある姿勢をしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9740",
+      "name": {
+        "ja": "体をひねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "体をひねる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが横たわった姿勢で描かれている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "9741",
+      "name": {
+        "ja": "横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "横たわる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが正面を向き、ポーズを取っている。細部は不明確。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9742",
+      "name": {
+        "ja": "正面でポーズを取る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "正面",
+        "ポーズ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "767",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

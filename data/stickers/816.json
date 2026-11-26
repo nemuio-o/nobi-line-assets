@@ -1,0 +1,1129 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白い鳥が頭を下に向け、オレンジ色の輪の中に描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11663",
+      "name": {
+        "ja": "輪の中で頭を下げる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "オレンジの輪",
+        "頭を下げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "鳥が木の幹の陰から顔を出し、木のそばに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11664",
+      "name": {
+        "ja": "木の陰から顔を出す鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "木",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "鳥が翼を広げ、赤と黄色の炎のような背景の中で動いている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11665",
+      "name": {
+        "ja": "炎の中で羽ばたく鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "翼",
+        "炎のような背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二羽の鳥が並んで翼を広げ、周囲に音符や小さな飾りが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11666",
+      "name": {
+        "ja": "並んで羽ばたく鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二羽",
+        "翼",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が横向きに歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11667",
+      "name": {
+        "ja": "歩く鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "歩く",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が横向きに立ち、くちばしのそばに波線が描かれている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "11668",
+      "name": {
+        "ja": "においを気にする鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "波線",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥がまっすぐ立ち、足元に黄色と赤の強調線が出ている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11669",
+      "name": {
+        "ja": "勢いよく立つ鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "強調線",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三羽の鳥が大きな赤い丸いものを囲むように描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "11670",
+      "name": {
+        "ja": "赤いものを囲む鳥たち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "三羽",
+        "赤いもの"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が体を丸め、横たわるような姿勢になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "11671",
+      "name": {
+        "ja": "丸まって休む鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "丸まる",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の鳥が目を見開き、オレンジ色の爆発のような背景の中にいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "11672",
+      "name": {
+        "ja": "驚いて飛び出す鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の鳥",
+        "驚き",
+        "強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が翼を広げ、足元に水しぶきのような表現がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11673",
+      "name": {
+        "ja": "水しぶきと羽ばたく鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "翼",
+        "水しぶき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が立ち、頭のそばに小さなきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11674",
+      "name": {
+        "ja": "きらめきを添えて立つ鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "きらめき",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が雪のような白い塊の中に座り、周囲に灰色の雪景色が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "11675",
+      "name": {
+        "ja": "雪の中で休む鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "雪",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が地面に沿って横たわり、上に黄色い太陽のような印がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "11676",
+      "name": {
+        "ja": "地面に横たわる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "横たわる",
+        "太陽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が翼を上げ、頭上に明確な英字「BYE BYE」が表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11677",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って別れを告げる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "翼",
+        "BYE BYE"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い細長い動物が地面に伏せ、横向きになっている。種類は明確ではない。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "11678",
+      "name": {
+        "ja": "地面に伏せる茶色い動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色の動物",
+        "横向き",
+        "伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒っぽい鳥が歩き、周囲にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11679",
+      "name": {
+        "ja": "ハートに囲まれて歩く鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "ハート",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が翼を大きく広げて正面を向いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11680",
+      "name": {
+        "ja": "翼を広げて立つ鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "翼",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑とオレンジの鳥たちが横一列に並び、低い姿勢になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "11681",
+      "name": {
+        "ja": "並んで伏せる鳥たち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥たち",
+        "横一列",
+        "低い姿勢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二羽の黒っぽい鳥が向かい合い、頭を寄せるように立っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "11682",
+      "name": {
+        "ja": "向かい合って頭を寄せる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二羽",
+        "向かい合う",
+        "頭を寄せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が正面を向いて立ち、左右に淡い青色の点が並んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11683",
+      "name": {
+        "ja": "点々の中に立つ鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "正面",
+        "青い点"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が横を向き、頭上に大きな疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "11684",
+      "name": {
+        "ja": "疑問符を浮かべる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "疑問符",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三羽のひな鳥が巣に並び、上に丸い吹き出しのような形が描かれている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "11685",
+      "name": {
+        "ja": "巣のひな鳥を見守る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひな鳥",
+        "巣",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が走り、足元と背後に動きの線が出ている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11686",
+      "name": {
+        "ja": "走る鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "走る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が翼を広げ、背後に大きな青いX形の印がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "11687",
+      "name": {
+        "ja": "青い印の前で翼を広げる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "翼",
+        "青い印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長いくちばしの鳥が口を大きく開け、周囲に小さな星が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "11688",
+      "name": {
+        "ja": "くちばしを開ける鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "長いくちばし",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が横向きに歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11689",
+      "name": {
+        "ja": "歩く白い鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "歩く",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長いくちばしの鳥が首元に花飾りをつけて立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11690",
+      "name": {
+        "ja": "花飾りをつけた鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "花飾り",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな鳥たちが横一列に並び、左右に揺れるような線が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11691",
+      "name": {
+        "ja": "並んで揺れる小鳥たち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "横一列",
+        "揺れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒っぽい鳥が「GOAL」と書かれた旗を両翼で掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11692",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "GOALの旗を掲げる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "GOAL",
+        "旗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の鳥の頭上に電球が浮かび、周囲に小さな点が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "11693",
+      "name": {
+        "ja": "ひらめきと鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の鳥",
+        "電球",
+        "ひらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二羽の鳥が向かい合い、翼で赤いハートを持ち上げている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11694",
+      "name": {
+        "ja": "ハートを掲げる二羽の鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二羽",
+        "ハート",
+        "向かい合う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒っぽい鳥が花の中に立ち、そばに小さなハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "11695",
+      "name": {
+        "ja": "花に囲まれる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "花",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ペンギンが水の中に立ち、左右に岩がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11696",
+      "name": {
+        "ja": "水の中で立つペンギン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ペンギン",
+        "水",
+        "岩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな鳥が大きな緑の葉の下に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11697",
+      "name": {
+        "ja": "大きな葉の下の小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "葉",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が歩き、その背中に小さな茶色い鳥が乗っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11698",
+      "name": {
+        "ja": "背中に小鳥を乗せる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "小鳥",
+        "背中に乗る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二羽の細長いくちばしの鳥が向かい合い、片方が首を上に伸ばしている。背景に灰色の雲のような表現がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "11699",
+      "name": {
+        "ja": "向かい合う二羽の鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二羽",
+        "向かい合う",
+        "灰色の雲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の布のような形の中に鳥の顔が描かれ、頭上に赤い強調線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "11700",
+      "name": {
+        "ja": "羽根模様の鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "灰色の背景",
+        "強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が翼を上げ、頭上に明確な英字「THANK YOU」が表示されている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "11701",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "THANK YOUと手を振る鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "翼",
+        "THANK YOU"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の鳥が翼を広げて飛ぶように動き、周囲にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11702",
+      "name": {
+        "ja": "ハートを背に羽ばたく鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "翼",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "816",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
