@@ -1,0 +1,1147 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青緑のキャラクターが蝶ネクタイを付け、水中を泳いでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12935",
+      "name": {
+        "ja": "蝶ネクタイで泳ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "蝶ネクタイ",
+        "泳ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが三日月と星の浮かぶ夜空の下で眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "12936",
+      "name": {
+        "ja": "月夜に眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "月",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが太陽の下で目を閉じ、口を開けて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12937",
+      "name": {
+        "ja": "日なたで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "太陽",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが横を向き、頭上に疑問符と感嘆符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "12938",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "疑問符",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターがサングラスとヘッドホンを着け、音符の中で音楽を聴いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12939",
+      "name": {
+        "ja": "音楽を聴く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "ヘッドホン",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが立ち止まり、頭上に大きな疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "12940",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "疑問符",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが赤い帽子をかぶり、吹き出しを浮かべて考えている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "12941",
+      "name": {
+        "ja": "帽子をかぶって考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "帽子",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターがベンチに座り、片手を上げて休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "12942",
+      "name": {
+        "ja": "ベンチで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "ベンチ",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが帽子のつばに手を添え、鋭い表情で前を見ている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "12943",
+      "name": {
+        "ja": "帽子を正して気合いを入れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "帽子",
+        "気合い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターがスクーターに乗り、前方を指しながら進んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "12944",
+      "name": {
+        "ja": "スクーターで出発する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "スクーター",
+        "出発"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが帽子をかぶり、歯を見せてにやりと笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12945",
+      "name": {
+        "ja": "にやりと笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "帽子",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが振り返り、頭上に感嘆符と疑問符を浮かべている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "12946",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "驚き",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが帽子を押さえ、強い風に吹かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12947",
+      "name": {
+        "ja": "風に吹かれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "風",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが帽子で顔を隠すように、地面にうずくまっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "12948",
+      "name": {
+        "ja": "うずくまって落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "うずくまる",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが腕を組み、頭上の吹き出しを見ながら考えている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "12949",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "考えを巡らせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "吹き出し",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが足を大きく蹴り上げ、勢いよく動いている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "12950",
+      "name": {
+        "ja": "蹴りを繰り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "キック",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが両手を上げ、笑顔で喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12951",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが腕を組み、背後に赤い炎を燃え上がらせている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "12952",
+      "name": {
+        "ja": "怒って燃える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "怒り",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが拳を高く突き上げ、口を開けて叫んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "12953",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "拳を突き上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "拳",
+        "気合い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが雨に打たれ、肩を落として立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "12954",
+      "name": {
+        "ja": "雨に打たれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "雨",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが目を見開き、体をこわばらせて立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12955",
+      "name": {
+        "ja": "驚いて立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "驚き",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが手で口元を隠し、困った表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "12956",
+      "name": {
+        "ja": "口元を隠して困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "口元",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが指を立て、頭上に電球を浮かべている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "12957",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "電球",
+        "ひらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが足を大きく動かし、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "12958",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "走る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが帽子を押さえ、目を見開いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12959",
+      "name": {
+        "ja": "帽子を押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "帽子",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが座り込み、口からため息のような線を出している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "12960",
+      "name": {
+        "ja": "座ってため息をつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "座る",
+        "ため息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが煙を残しながら、勢いよく上へ飛び出している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "12961",
+      "name": {
+        "ja": "勢いよく飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "ジャンプ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが手足を広げて飛び上がり、驚いた顔をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "12962",
+      "name": {
+        "ja": "飛び上がって驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "ジャンプ",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが帽子をかぶり、横目で振り返って見ている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "12963",
+      "name": {
+        "ja": "振り返って見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "帽子",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが腕を組み、胸を張って堂々と立っている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "12964",
+      "name": {
+        "ja": "胸を張って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "腕組み",
+        "自信"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが目を大きく見開き、縦線の中で固まっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12965",
+      "name": {
+        "ja": "驚いて固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "驚き",
+        "硬直"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが帽子を押さえながら、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "12966",
+      "name": {
+        "ja": "帽子を飛ばして叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "帽子",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが片手を前に伸ばし、吹き出しの中で声を上げている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "12967",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "手を伸ばして叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "手を伸ばす",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが仰向けに寝転び、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12968",
+      "name": {
+        "ja": "笑って寝転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "寝転ぶ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが仰向けに転び、手足をばたつかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12969",
+      "name": {
+        "ja": "転んで手足をばたつかせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "転ぶ",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが帽子をかぶり、灰色の影の中で身を隠している。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "12970",
+      "name": {
+        "ja": "物陰に隠れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "隠れる",
+        "物陰"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが柵の後ろから顔を出し、こちらを覗いている。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "12971",
+      "name": {
+        "ja": "柵の後ろから覗く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "柵",
+        "覗く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターがドアの隙間から顔を出し、片目でこちらを見ている。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "12972",
+      "name": {
+        "ja": "ドアの隙間から覗く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "ドア",
+        "覗く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが帽子をかぶり、湯気の立つ飲み物を手にしている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12973",
+      "name": {
+        "ja": "飲み物でひと息つく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "飲み物",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑のキャラクターが親指を立て、もう一人と並んで肯定の合図をしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12974",
+      "intent": [
+        "agree",
+        "encourage"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青緑のキャラクター",
+        "親指",
+        "肯定"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "868",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

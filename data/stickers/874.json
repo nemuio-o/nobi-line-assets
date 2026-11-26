@@ -1,0 +1,1144 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "キャラクターが手を上げ、笑顔で「HELLO」とあいさつしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13143",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "笑顔であいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あいさつ",
+        "笑顔",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが手を合わせ、笑顔で「Thank you」と感謝を伝えている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "13144",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ありがとう",
+        "感謝",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが笑顔で片手を上げ、こちらに応えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13145",
+      "name": {
+        "ja": "手を振って応える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を振る",
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターがヘッドホンを着け、音楽プレーヤーを手に座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "13146",
+      "name": {
+        "ja": "音楽を聴いてくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "ヘッドホン",
+        "リラックス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが頬を赤らめ、頭の上に小さな飾りを載せて嬉しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "13147",
+      "name": {
+        "ja": "照れて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが腕を組んで考え込み、周囲に疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "13148",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問に首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "困惑",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが音符に囲まれ、楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13149",
+      "name": {
+        "ja": "二人で楽しく踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ダンス",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが翼と光輪を付け、きらめきの中で笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "13150",
+      "name": {
+        "ja": "天使の笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "天使",
+        "翼",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが眉を寄せ、歯を食いしばって強く構えている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13151",
+      "name": {
+        "ja": "怒って歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "歯を食いしばる",
+        "力む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが小さな乗り物に乗り、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "13152",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "スピード",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターがうつむき気味に立ち、背後に重い雰囲気の縦線が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "13153",
+      "name": {
+        "ja": "落ち込んで立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "立ち尽くす",
+        "縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが腕を組み、吹き出しで「NO」とはっきり拒否している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13154",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "はっきり断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "断る",
+        "NO",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手にポンポンを持ち、紙吹雪の中で元気に応援している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13155",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "ポンポンを持って応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ポンポン",
+        "チア"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが華やかな衣装で歌い、周囲に音符ときらめきが舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13156",
+      "name": {
+        "ja": "華やかに歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歌う",
+        "ステージ衣装",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが唇をすぼめ、投げキッスを送っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13157",
+      "name": {
+        "ja": "投げキッス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "投げキッス",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を上げ、きらめきに囲まれて嬉しそうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13158",
+      "name": {
+        "ja": "きらきら笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "首を長く伸ばしたキャラクターが、足元の小さなキャラクターを見下ろしている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "13159",
+      "name": {
+        "ja": "長い首で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "長い首",
+        "小さなキャラクター",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが肩を組み、並んで楽しそうに立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "13160",
+      "name": {
+        "ja": "二人で肩を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩を組む",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが転んで座り込み、痛そうな表情を浮かべている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "13161",
+      "name": {
+        "ja": "転んで痛がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "痛い",
+        "しりもち"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが汗を流し、口を開けて困ったように立っている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "13162",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困る",
+        "おろおろ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが寝転び、音符に囲まれながら音楽を聴いている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "13163",
+      "name": {
+        "ja": "寝転んで音楽を聴く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寝転ぶ",
+        "音楽",
+        "イヤホン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが驚いた顔で身を乗り出し、急いで駆け出している。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "13164",
+      "name": {
+        "ja": "急いで駆け出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "急ぐ",
+        "駆け出す",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが座布団に座り、湯気の立つ飲み物を手にひと休みしている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13165",
+      "name": {
+        "ja": "お茶でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お茶",
+        "休憩",
+        "座布団"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ひつじの姿をしたキャラクターが立ち、横の吹き出しに点が並んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "13166",
+      "name": {
+        "ja": "ひつじ姿で返事を待つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひつじ",
+        "吹き出し",
+        "待つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を広げ、たくさんのハートに囲まれて笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13167",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが頬を赤らめ、汗を浮かべながら恥ずかしそうにしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "13168",
+      "name": {
+        "ja": "照れて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "汗",
+        "赤面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが灰色のカーテンの陰に隠れ、後ろ姿を見せている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "13169",
+      "name": {
+        "ja": "カーテンの陰に隠れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "隠れる",
+        "カーテン",
+        "後ろ姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが寝転ぶような姿勢で踊り、音符と動きの線が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13170",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "音楽",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが正面を向き、短い吹き出しを添えて話しかけている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13171",
+      "name": {
+        "ja": "吹き出しで話しかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "話す",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドレス姿のキャラクターが手を口元に添え、色とりどりのハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13172",
+      "name": {
+        "ja": "ハートを届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "ドレス",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人のキャラクターが布団に並んで入り、眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "13173",
+      "name": {
+        "ja": "布団でおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "おやすみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を広げ、きらめきに囲まれて明るく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13174",
+      "name": {
+        "ja": "きらきら笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を握り、力強いガッツポーズをしている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13175",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "力強くガッツポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ガッツポーズ",
+        "応援",
+        "力強い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが水辺でボールを投げ、小さなキャラクターが水に浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13176",
+      "name": {
+        "ja": "水辺でボールを投げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ボール",
+        "水辺",
+        "投げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが腕を組み、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "13177",
+      "name": {
+        "ja": "腕を組んで待つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "待つ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターがハートの中に並び、下に「HAPPY BIRTHDAY」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "13178",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "誕生日を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "誕生日",
+        "ハート",
+        "祝い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人のキャラクターが並び、音符に囲まれて楽しそうに歌っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13179",
+      "name": {
+        "ja": "みんなで楽しく歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "歌う",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが口をへの字にして、むっとした表情で歩いている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13180",
+      "name": {
+        "ja": "むっとして歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "不機嫌",
+        "歩く",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが口を大きく開けて叫び、汗を飛ばしながら跳ねている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13181",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "叫ぶ",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが頬を赤らめて笑い、周囲にたくさんのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13182",
+      "name": {
+        "ja": "ハートいっぱいの笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "愛情"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "874",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

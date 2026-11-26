@@ -1,0 +1,1132 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "金髪の人物が目を閉じて上を向き、「フランスばんざい」と書かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "11951",
+      "name": {
+        "ja": "目を閉じて上を向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "横顔",
+        "フランス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が白い馬にまたがり、手綱を取って前へ進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "11952",
+      "name": {
+        "ja": "馬を駆って進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "白馬",
+        "疾走"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が軍服姿で正面を見つめ、強い意志を示している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "11953",
+      "name": {
+        "ja": "決意を込めて見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "軍服",
+        "決意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が涙を浮かべ、頬に手を添えて訴えかけている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "11954",
+      "name": {
+        "ja": "涙ぐんで訴える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "涙",
+        "訴え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が目を閉じて微笑み、長い髪に手を添えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11955",
+      "name": {
+        "ja": "髪に手を添えて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "髪",
+        "微笑み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "軍服姿の金髪の女性が額に手を当て、困ったような表情をしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "11956",
+      "name": {
+        "ja": "額に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "軍服",
+        "額に手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が目を見開き、放射状の線を背に驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "11957",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "叫び",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "軍服姿の金髪の女性が片手を額に添え、敬礼している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11958",
+      "name": {
+        "ja": "敬礼する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "軍服",
+        "敬礼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が拳を握り、背後に赤い炎を燃え上がらせている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "11959",
+      "name": {
+        "ja": "炎を背負って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "炎",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が髪と衣装をなびかせ、腕を伸ばして勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11960",
+      "name": {
+        "ja": "勢いよく駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "軍服",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "軍服姿の金髪の女性が片手を差し出し、こちらへ呼びかけている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11961",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を差し出して呼ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "手招き",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性がうつむき、周囲に小さな音符が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "11962",
+      "name": {
+        "ja": "うつむいて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "うつむく",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性がバイオリンを構えて弾き、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "11963",
+      "name": {
+        "ja": "バイオリンを弾く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "バイオリン",
+        "演奏"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が穏やかに微笑み、そばに「OK」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11964",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "OK",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性の顔に汗が流れ、目を見開いて焦っている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "11965",
+      "name": {
+        "ja": "汗をかいて焦る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "汗",
+        "焦り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が口を開けて歌い、そばに音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11966",
+      "name": {
+        "ja": "音符とともに歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "歌う",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が長い髪を手で整えながら振り向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11967",
+      "name": {
+        "ja": "髪を整えて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "振り向く",
+        "髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が片手の指を立て、もう一方の手を添えて話している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11968",
+      "name": {
+        "ja": "指を立てて語る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "指差し",
+        "説明"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が大粒の涙を流し、悲しそうに泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "11969",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "涙",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い衣装の金髪の女性が腕を広げ、光の線を背に舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11970",
+      "name": {
+        "ja": "白い衣装で舞う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "白い衣装",
+        "舞う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が紫色の衣装と装飾を身につけ、優雅に微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11971",
+      "name": {
+        "ja": "優雅に微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "微笑み",
+        "装飾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が横顔を見せ、髪と大きなリボンをなびかせている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11972",
+      "name": {
+        "ja": "髪をなびかせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "横顔",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が涙を浮かべ、胸の前で手を合わせている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "11973",
+      "name": {
+        "ja": "祈るように手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "祈り",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が花を持って現れ、周囲に赤い衝撃線が描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11974",
+      "name": {
+        "ja": "勢いよく登場する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "登場",
+        "衝撃線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の男性が白い衣装で立ち、横に縦書きの台詞が添えられている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11975",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "背後から語りかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "白い衣装",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の男性が腕を伸ばして指を差し、強い表情で訴えている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "11976",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "強く言い聞かせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "指差し",
+        "強い表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の男性が両手で頭を抱え、困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "11977",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "頭を抱える",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の男性が草地にうつ伏せになり、落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "11978",
+      "name": {
+        "ja": "うつ伏せで落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "うつ伏せ",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の男性が振り返り、頭上に動きを示す線が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "11979",
+      "name": {
+        "ja": "振り返って驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "振り返る",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が涙を浮かべ、頬に手を添えて切実に訴えている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "11980",
+      "name": {
+        "ja": "涙ぐんで訴える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "涙",
+        "訴え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の男性が前かがみになり、勢いよく走っている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "11981",
+      "name": {
+        "ja": "逃げるように走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "走る",
+        "逃走"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の女性が振り返り、口を開けて叫んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "11982",
+      "name": {
+        "ja": "振り返って叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "振り返る",
+        "叫び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が大きくまとめた髪を見せ、周囲に動きの線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "11983",
+      "name": {
+        "ja": "髪を整えて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "髪",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性と黒髪の男性が勢いよく振り向き、動きの線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "11984",
+      "name": {
+        "ja": "勢いよく振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男女",
+        "振り向く",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性と黒髪の男性が寄り添い、女性が涙を浮かべている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "11985",
+      "name": {
+        "ja": "涙ながらに見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男女",
+        "涙",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が走りながら振り返り、髪と衣装をなびかせている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11986",
+      "name": {
+        "ja": "走りながら振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "走る",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の男性が白い衣装で横になり、目を閉じて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "11987",
+      "name": {
+        "ja": "眠り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "眠る",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が目を閉じて顔を背け、そばに「NO」と表示されている。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "11988",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "NO",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が頭を下げ、暗い色の影の中でうなだれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "11989",
+      "name": {
+        "ja": "うなだれて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "うなだれる",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の男性が金髪の女性を後ろから抱きしめ、寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "11990",
+      "name": {
+        "ja": "抱きしめて寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男女",
+        "抱擁",
+        "寄り添う"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "833",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

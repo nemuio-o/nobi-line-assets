@@ -1,0 +1,1157 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青いキャラクターが両手を広げ、笑顔であいさつしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14319",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "Helloと手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "Hello",
+        "手を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが座り、正面を静かに見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14320",
+      "name": {
+        "ja": "座って見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "座る",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが小さな花を添え、申し訳なさそうに頭を下げている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14321",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "Sorryと謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "Sorry",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが笑顔で親指を立て、もう片方の手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14322",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKと親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "OK",
+        "親指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが泡の浮かぶ浴槽でくつろぎ、そばに花と小物が置かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "14323",
+      "name": {
+        "ja": "お風呂でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "風呂",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが青空と太陽の下で、気持ちよさそうに手を広げている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14324",
+      "name": {
+        "ja": "晴れた空を喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "太陽",
+        "晴天"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが横になり、眠そうに目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14325",
+      "name": {
+        "ja": "眠そうに横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "眠い",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが花柄の布団にくるまり、気持ちよさそうに眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14326",
+      "name": {
+        "ja": "花柄の布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "睡眠",
+        "花柄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが首をかしげ、頭上に大きな疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "14327",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "疑問符",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが困った表情で立ち、頭の周りに汗のような線が出ている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "14328",
+      "name": {
+        "ja": "困って汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "汗",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが目を見開き、驚いた表情で立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14329",
+      "name": {
+        "ja": "Shockと驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "Shock",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターの周囲に炎が燃え上がり、怒った表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "14330",
+      "name": {
+        "ja": "怒りで燃える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "炎",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが大きな肉にかぶりつき、そばに骨付き肉が置かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14331",
+      "name": {
+        "ja": "肉を食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "肉",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが手を伸ばし、頭上の吹き出しにパンケーキを思い浮かべている。"
+      },
+      "emotion": [
+        "tired",
+        "joy"
+      ],
+      "id": "14332",
+      "name": {
+        "ja": "パンケーキを思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "パンケーキ",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが受話器を耳に当て、電話で話している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14333",
+      "name": {
+        "ja": "電話で話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "電話",
+        "通話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが大粒の涙を流し、花を添えて泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14334",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "泣いて謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "涙",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが両手を合わせ、きらめきに囲まれて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14335",
+      "name": {
+        "ja": "きらきら笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが氷に包まれ、寒そうに震えている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "14336",
+      "name": {
+        "ja": "凍えて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "氷",
+        "震える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが大きく口を開け、舌を出して楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14337",
+      "name": {
+        "ja": "舌を出して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "舌",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが大きく口を開け、動きの線を伴って勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "14338",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "走る",
+        "スピード"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが両手で大きなハンバーガーを抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14339",
+      "name": {
+        "ja": "大きなハンバーガーを食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "ハンバーガー",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが手を振り、Bye Byeと別れを告げている。"
+      },
+      "emotion": [
+        "joy",
+        "sadness"
+      ],
+      "id": "14340",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "Bye Byeと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "Bye Bye",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが手を広げ、周囲にたくさんのハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14341",
+      "name": {
+        "ja": "ハートを飛ばして喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターとピンク色のキャラクターが寄り添い、Kissと描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14342",
+      "name": {
+        "ja": "Kissをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "ピンクのキャラクター",
+        "Kiss"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターがうつむいて座り、頭上にぐるぐるした線が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "14343",
+      "name": {
+        "ja": "落ち込んで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "落ち込み",
+        "渦"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターがケーキを囲み、Happy Birthdayの文字と飾りで誕生日を祝っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14344",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "誕生日を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "Happy Birthday",
+        "ケーキ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが机の前に座り、周囲をたくさんの書類に囲まれている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "14345",
+      "name": {
+        "ja": "書類に囲まれて働く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "書類",
+        "仕事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが大きなリボンを付け、花束を抱えて座っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14346",
+      "name": {
+        "ja": "花束を抱えて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "花束",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが海辺で夕日を眺め、そばに小さな花を置いている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "14347",
+      "name": {
+        "ja": "夕日を眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "夕日",
+        "海"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが手を合わせ、きらめきとともにThank youと伝えている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "14348",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "Thank youと感謝する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "Thank you",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが口を大きく開け、眠そうにあくびをしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "14349",
+      "name": {
+        "ja": "あくびをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "あくび",
+        "眠い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが眼鏡をかけ、本を片手に立っている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "14350",
+      "name": {
+        "ja": "眼鏡と本で学ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "眼鏡",
+        "本"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが横になり、色とりどりのハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "14351",
+      "name": {
+        "ja": "ハートに囲まれて寝そべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "ハート",
+        "寝そべる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが大きく口を開け、黄色い衝撃線に囲まれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14352",
+      "name": {
+        "ja": "驚いて飛び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "驚き",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが目を見開き、周囲に放射状の線を出して立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14353",
+      "name": {
+        "ja": "びっくりして立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "驚き",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが横になり、頭上の吹き出しに三つの点を浮かべている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "14354",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "横になって考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "横になる",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが目を閉じて腕を交差し、Noと拒否している。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "14355",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "Noと断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "No",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが眠そうな顔で座り、そばに小さな花を置いている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "14356",
+      "name": {
+        "ja": "眠気に負けて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "眠い",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターがギターを激しく弾き、スピーカーの前でRockと盛り上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "14357",
+      "name": {
+        "ja": "ギターでRockする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "ギター",
+        "Rock"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターがヘッドホンを着け、DJ機器を操作している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "14358",
+      "name": {
+        "ja": "DJとして演奏する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "DJ",
+        "音楽"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "925",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

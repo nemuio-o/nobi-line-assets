@@ -1,0 +1,1143 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "女性が笑顔で立ち、周囲に音符ときらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13711",
+      "name": {
+        "ja": "音符と一緒に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "音符",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手でピースサインを示し、笑顔でこちらを見ている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13712",
+      "name": {
+        "ja": "ピースサインで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ピースサイン",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を閉じ、口元を手で押さえながら笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13713",
+      "name": {
+        "ja": "口元を押さえて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑い",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が楽しそうに踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13714",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "音符",
+        "ダンス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がウインクをしながら片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13715",
+      "name": {
+        "ja": "ウインクして手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ウインク",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が首をかしげるように立ち、頭上に大きな疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "13716",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "疑問符",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がスマートフォンを持ち、頭上に「Call Me」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13717",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "電話してねと呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "スマートフォン",
+        "Call Me"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を閉じて立ち、そばに青い「Z」が並んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "13718",
+      "name": {
+        "ja": "眠そうに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "眠気",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を閉じて険しい表情をし、周囲を赤い炎が囲んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13719",
+      "name": {
+        "ja": "怒りに燃える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "怒り",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が座り込み、うつむいた表情で小さくなっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "13720",
+      "name": {
+        "ja": "落ち込んで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "落ち込み",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を見開き、口を大きく開けて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13721",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "驚き",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目に涙を浮かべ、両手を顔の近くに添えて動揺している。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "13722",
+      "name": {
+        "ja": "泣いて取り乱す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "涙",
+        "動揺"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が青い「NO!」と書かれた札を両手で掲げている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13723",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "はっきり断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "NO",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がピンク色の「OK!」と書かれた札を掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13724",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "OKと返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "OK",
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が親指を立て、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13725",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "親指",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手を額に当てて立っている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "13726",
+      "name": {
+        "ja": "額に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "額に手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が歩くような姿勢で、後ろを振り返っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13727",
+      "name": {
+        "ja": "歩きながら振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "歩く",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を大きく見開き、両目から涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "13728",
+      "name": {
+        "ja": "涙を流して驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "涙",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が顔を伏せ、髪で表情を隠すようにうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "13729",
+      "name": {
+        "ja": "うつむいて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "うつむく",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が青い服と白いマスクを身につけ、横に暗い雲のような印が描かれている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "13730",
+      "name": {
+        "ja": "マスクで体調を気づかう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "マスク",
+        "体調不良"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が横顔で立ち、そばに空の吹き出しが描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13731",
+      "name": {
+        "ja": "そっと話しかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "吹き出し",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がカップのような飲み物を両手で持ち、目を閉じてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "13732",
+      "name": {
+        "ja": "飲み物を手にしょんぼりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "飲み物",
+        "しょんぼり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手を口元に当て、周囲に青いしずくのような表現が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "13733",
+      "name": {
+        "ja": "くしゃみをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "くしゃみ",
+        "水しぶき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が床に座り込み、うつむいて落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "13734",
+      "name": {
+        "ja": "座り込んでしょんぼりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "座る",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が水色の背景の中で座り、足を伸ばしてくつろいでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "13735",
+      "name": {
+        "ja": "水辺でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "水辺",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が小さな袋を持って歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13736",
+      "name": {
+        "ja": "買い物袋を持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "買い物袋",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が床に座り、赤や緑の食材のようなものを前にして料理をしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13737",
+      "name": {
+        "ja": "料理をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "料理",
+        "キッチン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がグラスを掲げ、そばにボトルともう一つのグラスが置かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13738",
+      "name": {
+        "ja": "グラスを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "グラス",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がハート形の目で笑い、周囲をピンク色のハートが囲んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13739",
+      "name": {
+        "ja": "ハートの目で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がテーブルのそばに立ち、ティーポットとカップを用意している。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "13740",
+      "name": {
+        "ja": "テーブルでお茶を用意する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "テーブル",
+        "ティーセット"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がソファに座り、ピンク色のひざ掛けにくるまってくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13741",
+      "name": {
+        "ja": "ひざ掛けでくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ひざ掛け",
+        "ソファ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が泡の浮かぶ浴槽に入り、湯船でくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "13742",
+      "name": {
+        "ja": "泡風呂に入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "浴槽",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が笑顔で右方向へ走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13743",
+      "name": {
+        "ja": "元気に走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "走る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がピンク色のポンポンのようなものを持って立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13744",
+      "name": {
+        "ja": "ポンポンを持って応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ポンポン",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がパーティー帽をかぶり、周囲に紙吹雪が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13745",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "パーティーを祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "パーティー帽",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が壁の端から顔だけを出して、そっとこちらをのぞいている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "13746",
+      "name": {
+        "ja": "壁からそっとのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "のぞく",
+        "壁"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が手に丸い道具のようなものを持ち、そばに「Pa Fu Pa Fu」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13747",
+      "name": {
+        "ja": "パフパフと音を鳴らす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "音",
+        "パフパフ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がベッドの上で両手を広げ、そばに「Good Morning」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13748",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "おはようと目覚める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "Good Morning",
+        "ベッド"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を閉じて手を合わせ、そばに「Good Night」と表示されている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13749",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "おやすみと眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "Good Night",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がベンチに座り、星と三日月の浮かぶ夜空を眺めている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13750",
+      "name": {
+        "ja": "月夜を眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "月",
+        "夜空"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "900",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

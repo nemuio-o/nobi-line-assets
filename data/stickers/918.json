@@ -1,0 +1,1151 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "短髪の女性が片手で自分を指し、驚いたような表情を見せている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14239",
+      "name": {
+        "ja": "驚いて指をさす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "指差し",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が目を閉じて笑い、両手を上げて楽しそうなポーズをしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14240",
+      "name": {
+        "ja": "笑顔でポーズを決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が横を向き、頭上に描かれた虹を見上げている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "14241",
+      "name": {
+        "ja": "虹を見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "虹",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が虹色の輪を背に、片手を差し出して戸惑ったように立っている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "14242",
+      "name": {
+        "ja": "虹を背に戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "虹",
+        "戸惑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が赤い花冠をかぶり、頬を赤らめて照れたように笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "14243",
+      "name": {
+        "ja": "花冠で照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "花冠",
+        "照れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が目を細め、肩を落として疲れた表情を見せている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "14244",
+      "name": {
+        "ja": "疲れてため息をつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "疲労",
+        "ため息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が片目を細め、口元に笑みを浮かべている。そばにきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14245",
+      "name": {
+        "ja": "にやりと笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が頬に手を当て、紫色の文字のような表現に囲まれている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14246",
+      "name": {
+        "ja": "文字に囲まれて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "文字",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が目を閉じて笑い、周囲に緑の葉を散らしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14247",
+      "name": {
+        "ja": "葉っぱを散らして笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "葉っぱ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の女性が両手を高く上げ、指を立てて明るく喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14248",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "両手を上げる",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が腕を組み、自信ありげな笑みを浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14249",
+      "name": {
+        "ja": "自信ありげに笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "自信"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の女性が頭を抱え、顔を隠すようにうつむいている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "14250",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "困惑",
+        "頭を抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性がノートパソコンを両手で差し出し、強い表情で見ている。"
+      },
+      "emotion": [
+        "anger",
+        "confusion"
+      ],
+      "id": "14251",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "ノートパソコンを差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ノートパソコン",
+        "問いかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の女性が目を閉じ、足を組んで静かに座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14252",
+      "name": {
+        "ja": "無表情で座禅する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "座禅",
+        "無表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が腕を振り、勢いよく走っている。周囲に大きな動きの線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "14253",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "走る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の女性が胸の前で手を合わせ、お願いするような表情をしている。"
+      },
+      "emotion": [
+        "gratitude",
+        "sadness"
+      ],
+      "id": "14254",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を合わせて頼む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "手を合わせる",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が背を向け、黄色い光と動きの線に包まれて振り返っている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14255",
+      "name": {
+        "ja": "背を向けて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "後ろ姿",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の女性が口を大きく開け、両手を握って叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "14256",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "叫ぶ",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の女性が腕を抱え、耐えるような表情で微笑んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "joy"
+      ],
+      "id": "14257",
+      "name": {
+        "ja": "耐えて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "我慢",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性がクッションに囲まれて座り、飲み物を手に休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14258",
+      "name": {
+        "ja": "クッションで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "クッション",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の女性が片手で三本の指を立て、正面を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14259",
+      "name": {
+        "ja": "指を三本立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "指",
+        "数字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が逆さまになり、頭の上に小さな人物のようなものを載せている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "14260",
+      "name": {
+        "ja": "逆さまにぶら下がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "逆さま",
+        "ぶら下がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が水しぶきの中で転び、腕を伸ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14261",
+      "name": {
+        "ja": "水しぶきの中で転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "転ぶ",
+        "水しぶき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が皿に載せた食べ物を両手で差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14262",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "食べ物を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "食べ物",
+        "差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が疲れた顔でうつむき、衣服の絵柄の中に描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "14263",
+      "name": {
+        "ja": "疲れてうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "疲労",
+        "うなだれる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着た男性が眉をひそめ、口を開けて激しく叫んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "14264",
+      "name": {
+        "ja": "怒って叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "怒り",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の女性が並んで立ち、肩を寄せて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14265",
+      "name": {
+        "ja": "二人で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "女性",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の衣を着た人物が片膝をつき、手を合わせて穏やかにあいさつしている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "14266",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "穏やかにあいさつする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "僧侶",
+        "あいさつ",
+        "合掌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の女性が正面を向き、力なく立ち尽くしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "14267",
+      "name": {
+        "ja": "ぼんやり立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ぼんやり",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性がメガホンを持ち、大声で叫んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "14268",
+      "name": {
+        "ja": "メガホンで叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "メガホン",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が目を閉じ、両手を広げて大きく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14269",
+      "name": {
+        "ja": "声を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑い",
+        "両手を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の男性が炎のような装飾のある剣を掲げ、厳しい表情で問いかけている。"
+      },
+      "emotion": [
+        "anger",
+        "confusion"
+      ],
+      "id": "14270",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "剣を掲げて問いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "剣",
+        "問いかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が狭い隙間から顔を半分だけ出し、こちらを見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "14271",
+      "name": {
+        "ja": "隙間からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "のぞく",
+        "隙間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな目をした小さな怪物が、頭に赤いリボンを付けて歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14272",
+      "name": {
+        "ja": "小さな怪物が歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怪物",
+        "歩く",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い毛の人物が緑色のサボテンを抱えて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "14273",
+      "name": {
+        "ja": "サボテンを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "サボテン",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "柄物の服を着た男性がうつむき、元気なく立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "14274",
+      "name": {
+        "ja": "うなだれて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "落ち込み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が笑顔で片手を握り、もう一方の指を上に向けて祝っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14275",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "指を上げて祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "祝福",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の女性が手を合わせ、申し訳なさそうな表情で頭を下げている。"
+      },
+      "emotion": [
+        "sadness",
+        "gratitude"
+      ],
+      "id": "14276",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "手を合わせて謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "合掌",
+        "謝罪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の女性が笑顔で片手を上げ、もう一方の手で肯定のサインを示している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14277",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "笑顔でオーケー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "手のサイン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が目を閉じて笑いながら、両手を振って拒否を示している。"
+      },
+      "emotion": [
+        "joy",
+        "anger"
+      ],
+      "id": "14278",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "笑顔でノー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "拒否"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "918",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

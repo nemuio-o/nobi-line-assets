@@ -1,0 +1,1133 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "眼鏡をかけた少年が口を大きく開け、明るい笑顔でこちらを見ている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12455",
+      "name": {
+        "ja": "元気に笑う少年"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "笑顔",
+        "眼鏡",
+        "蝶ネクタイ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の少年が本を手に持ち、頭に手を添えながら考え込んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "12456",
+      "name": {
+        "ja": "本を読んで考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "本",
+        "眼鏡",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた少年が、落ち着いた真剣な表情で正面を見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12457",
+      "name": {
+        "ja": "じっと見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "眼鏡",
+        "真剣な表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が両手で眼鏡に触れ、きりっとした表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12458",
+      "name": {
+        "ja": "眼鏡を直す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "眼鏡",
+        "蝶ネクタイ",
+        "眼鏡を直す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の少年が片手で髪を整えながら、少しうつむいている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12459",
+      "name": {
+        "ja": "髪を整える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "眼鏡",
+        "髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が頭の上に手を置き、困ったようにうつむいている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "12460",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "困る",
+        "頭を抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の少年が本を開き、静かに読み進めている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12461",
+      "name": {
+        "ja": "本を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "本",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が肩越しに振り返り、横顔を見せている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "12462",
+      "name": {
+        "ja": "振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "振り返る",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が目を閉じて大きく笑い、周囲に勢いを表す線が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12463",
+      "name": {
+        "ja": "明るく笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "笑顔",
+        "眼鏡",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年の横顔の上に疑問符が浮かび、戸惑った様子を示している。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "12464",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "横顔で疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "横顔",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が振り返り、そばに縦長の吹き出しが添えられている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "12465",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "振り返って声をかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "振り返る",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が正面を向き、頭上に短い縦長の吹き出しが描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "12466",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "短く返事をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "返事",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の少年が目を細め、穏やかな笑みを浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12467",
+      "name": {
+        "ja": "穏やかに微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "微笑み",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年がうつむき、顔を隠すようにして考え込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "12468",
+      "name": {
+        "ja": "うつむいて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "うつむく",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が床に座り、両手を頭の近くに上げて身支度をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12469",
+      "name": {
+        "ja": "座って身支度をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "座る",
+        "身支度"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が腕を組み、目を閉じて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "12470",
+      "name": {
+        "ja": "腕を組んで考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "腕組み",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が湯気の立つ湯船につかり、顔だけを出している。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "12471",
+      "name": {
+        "ja": "湯につかって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "湯船",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が枕に頭を乗せ、目を閉じて横になっている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "12472",
+      "name": {
+        "ja": "横になって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "眠る",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性が、目を閉じて口を大きく開け、豪快に笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12473",
+      "name": {
+        "ja": "豪快に笑う男性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "笑顔",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性が新聞を広げ、目を通している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12474",
+      "name": {
+        "ja": "新聞を読む男性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "新聞",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性が口を大きく開け、勢いよく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12475",
+      "name": {
+        "ja": "大笑いする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "大笑い",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性と少年が並び、二人とも口を開けて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12476",
+      "name": {
+        "ja": "一緒に笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "少年",
+        "笑い",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が少年の肩をつかみ、少年が驚いて振り向いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12477",
+      "name": {
+        "ja": "肩をつかまれて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "男性",
+        "驚き",
+        "肩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が机に突っ伏し、疲れたように目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "12478",
+      "name": {
+        "ja": "机に突っ伏して疲れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "机",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服を着た少年が、落ち着いた横顔を見せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12479",
+      "name": {
+        "ja": "穏やかな横顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "横顔",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の女性が、台所で鍋を使って料理をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12480",
+      "name": {
+        "ja": "料理をする女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "料理",
+        "エプロン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年の横顔から大きな涙が流れ落ちている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "12481",
+      "name": {
+        "ja": "涙を流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "涙",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった男性が腕を組み、目を細めてこちらを見ている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "12482",
+      "name": {
+        "ja": "腕を組んで見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "腕組み",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が目に涙を浮かべ、悲しそうな表情をしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "12483",
+      "name": {
+        "ja": "涙ぐむ女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "涙",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の男性が眼鏡に手を添え、笑顔でこちらを見ている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12484",
+      "name": {
+        "ja": "眼鏡を押し上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "眼鏡",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い物陰から人物の目だけがのぞき、警戒するような雰囲気がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "12485",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "物陰",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が壁の端から顔の一部をのぞかせ、様子をうかがっている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "12486",
+      "name": {
+        "ja": "壁の向こうからのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "壁",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった男性が険しい表情で身構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "12487",
+      "name": {
+        "ja": "帽子をかぶって構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "帽子",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が身を縮め、両手を上げて震えているような姿を見せている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "12488",
+      "name": {
+        "ja": "身を縮めて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "震える",
+        "怯える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が少年の頬をつまみ、少年が驚いた表情を浮かべている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "12489",
+      "name": {
+        "ja": "頬をつねられる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "男性",
+        "頬をつねる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が目を見開いて驚き、頭上に大きな効果線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "12490",
+      "name": {
+        "ja": "勢いよく驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "驚き",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を見開いて振り返り、背後の少年も驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12491",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "少年",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が口を大きく開け、声を上げるように描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "12492",
+      "name": {
+        "ja": "みんなで叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "叫ぶ",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が身を寄せ、驚いた表情で声を上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12493",
+      "name": {
+        "ja": "驚きの声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "驚き",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた男性が眼鏡に手を添え、驚いた表情を浮かべている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12494",
+      "name": {
+        "ja": "眼鏡を押さえて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "眼鏡",
+        "驚き"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "856",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

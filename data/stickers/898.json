@@ -1,0 +1,1163 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "うさぎが笑顔で番号札を掲げ、周囲に紙吹雪が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13631",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "笑顔で番号札を見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "番号札",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤白の服を着たうさぎが手を振り、横に「HELLO」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13632",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "HELLOと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "手を振る",
+        "HELLO"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが帽子を持ち上げ、頭を下げるように挨拶している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "13633",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "帽子を取って挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "帽子",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが大きく笑い、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "13634",
+      "name": {
+        "ja": "白いうさぎがきらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いうさぎ",
+        "きらめき",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが「OK」の文字とともに手を上げ、指で合図している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13635",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKと手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "OK",
+        "指サイン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが両手を前にそろえ、丁寧におじぎをしている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "13636",
+      "name": {
+        "ja": "丁寧におじぎする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "おじぎ",
+        "丁寧"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤白の服を着たうさぎが両手を広げ、頭上に黄色い光が広がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13637",
+      "name": {
+        "ja": "両手を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが口を開け、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13638",
+      "name": {
+        "ja": "ハートを飛ばす鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "ハート",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが「YES」の文字とともに花に囲まれ、笑顔で座っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "13639",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと花に囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "YES",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが両手を上げ、周囲に動きの線を出して元気に応援している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13640",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "元気に応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "応援",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが両手を振り、横に「BYE-BYE」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "13641",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って別れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "BYE-BYE",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ロボットのような姿が緑色の光に包まれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "13642",
+      "name": {
+        "ja": "ロボットになる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "変身",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤白の服を着たうさぎがロケットにまたがり、勢いよく飛んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13643",
+      "name": {
+        "ja": "ロケットで飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "ロケット",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが大きなハートを抱え、上に「LOVE」と表示されている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13644",
+      "name": {
+        "ja": "LOVEを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "LOVE",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが手を広げ、「Lets Play」と誘っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13645",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "一緒に遊ぼうと誘う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "Lets Play",
+        "誘い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸いキャラクターが口を大きく開け、汗を浮かべて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13646",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "叫ぶ",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが指を立て、頭上に電球のひらめきが描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "13647",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "電球",
+        "ひらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが怒った表情で前に突進し、周囲に怒りの記号が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "13648",
+      "name": {
+        "ja": "怒って突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "怒り",
+        "突進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが頬に手を当てて考え込み、頭上に思考の吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "13649",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "考える",
+        "思考"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪のようなものをつけた緑色のカエルが座っている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "13650",
+      "name": {
+        "ja": "黒髪のカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "黒髪",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒のキャラクターとうさぎがぶつかり、周囲に激しい動きの線が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "13651",
+      "name": {
+        "ja": "二人がぶつかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "衝突",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎがろうそくの立ったケーキを前に笑い、上に「Happy Birthday」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13652",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "誕生日を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "誕生日",
+        "ケーキ",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが目を見開いて飛び上がり、周囲に驚きの動きが描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13653",
+      "name": {
+        "ja": "驚いて飛び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "驚き",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが泡の立つ飲み物を掲げ、楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13654",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "飲み物を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "飲み物",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎがカップのような飲み物を口元に当てている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "13655",
+      "name": {
+        "ja": "飲み物を飲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "飲み物",
+        "飲む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のうさぎが大きな荷物を背負い、並んで歩いている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "13656",
+      "name": {
+        "ja": "大きな荷物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "荷物",
+        "運ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが枕と布団にくるまり、上に「Zzz」と表示されている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "13657",
+      "name": {
+        "ja": "ぐっすり眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "睡眠",
+        "Zzz"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが大きな赤いハートを抱え、周囲にも小さなハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13658",
+      "name": {
+        "ja": "ハートを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色のキャラクター",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが横になって眠り、頭上の小さなテレビから音符が出ている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "13659",
+      "name": {
+        "ja": "テレビを見ながら寝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "テレビ",
+        "寝る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎがマイクを持って歌い、もう一方の手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13660",
+      "name": {
+        "ja": "マイクで歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "マイク",
+        "歌う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪のようなものをつけたうさぎが新聞を広げて読んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13661",
+      "name": {
+        "ja": "新聞を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "新聞",
+        "読む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが羽と輪をつけ、空中を飛んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "13662",
+      "name": {
+        "ja": "天使のように飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "天使",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが目を見開き、黄色い背景の動きとともに驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13663",
+      "name": {
+        "ja": "驚いて立ち上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "驚き",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤白の服を着たうさぎが指を一本立てて合図している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13664",
+      "name": {
+        "ja": "指を立てて合図する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "指サイン",
+        "赤白の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが腕を広げ、頭上に輪と星が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "13665",
+      "name": {
+        "ja": "頭上に輪を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "輪",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男女を示す案内板の下に、花に囲まれた顔が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "13666",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "案内板の前に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "案内板",
+        "男女",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが机に向かい、ノートパソコンのような機器を操作している。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13667",
+      "name": {
+        "ja": "机で作業する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "机",
+        "ノートパソコン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが音楽機器を操作し、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13668",
+      "name": {
+        "ja": "音楽を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "音楽",
+        "レコード"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが横になってぐったりし、上に強い太陽と熱気の線が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "13669",
+      "name": {
+        "ja": "暑さでぐったりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "暑さ",
+        "太陽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが並んで立ち、どちらも黒い帽子のようなものをかぶっている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "13670",
+      "name": {
+        "ja": "二人で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "立つ",
+        "黒い帽子"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "898",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1242 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤い装甲の人物が手のひらをこちらに向けて止まるよう示している"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "13223",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "停止を促す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "停止",
+        "手のひら",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が宙を飛び、両腕を広げている"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13224",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "飛びながら喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ぶ",
+        "装甲",
+        "躍動感"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が正面を向き、別れを告げる文字が添えられている"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "13225",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "別れを告げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "別れ",
+        "正面",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が横を向き、考え込むように立っている"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "13226",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "横向き",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が飛びながら注意を促している"
+      },
+      "emotion": [
+        "excitement",
+        "fear"
+      ],
+      "id": "13227",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "気をつけて飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "注意",
+        "飛ぶ",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と青の装甲の人物が向かい合い、頭上に驚きの記号がある"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "13228",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "向かい合って驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い装甲の人物が腕を広げ、拒否を示している"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13229",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "拒否する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "黒い装甲",
+        "腕を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い装甲の人物が正面を向き、こちらを見るように立っている"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13230",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "こちらを見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "装甲",
+        "視線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い装甲の人物が地面すれすれを勢いよく駆けている"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13231",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "急いで駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "急ぐ",
+        "走る",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装甲の人物が正面を向き、挨拶の文字を添えている"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "13232",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "挨拶",
+        "正面",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装甲の人物が武器を掲げ、勢いよく跳び上がっている"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13233",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "勢いよく跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "跳ぶ",
+        "武器",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が光に包まれ、装備を強調している"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13234",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "装備を整える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "装備",
+        "光",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装甲の人物が構え、戦いを促す文字が添えられている"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "13235",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "戦いを始める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "戦闘",
+        "構える",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が水しぶきの中で驚いたように立っている"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13236",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "水しぶきに驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "驚き",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装甲の人物が星形の背景の中で感謝を示している"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "13237",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "星",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "文字と光の背景で、待つよう促すメッセージが描かれている"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13238",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "待っていてと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "待つ",
+        "メッセージ",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黒の装甲の人物が並び、待っている様子を示している"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13239",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "二人で待つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "待つ",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が正面を向き、心配不要というメッセージを添えている"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13240",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "心配しないでと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "安心",
+        "正面",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金色に光る目とともに、正体を示すメッセージが描かれている"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "13241",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "正体を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正体",
+        "光る目",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が横向きに飛ばされ、勢いを表す文字が添えられている"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13242",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "吹き飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ばされる",
+        "衝撃",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装甲の人物が正面を向き、頭上に疑問符を浮かべている"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "13243",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "正面",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と青の装甲の人物が向かい合い、問いかける文字が添えられている"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "13244",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "何と問いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "問いかけ",
+        "二人",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が背を向け、吹き出しの中に点が並んでいる"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "13245",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "黙って考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "無言",
+        "吹き出し",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い装甲の人物が拳を前に出し、頭上に赤い感嘆符がある"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13246",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "驚いて身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感嘆符",
+        "拳",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物がうつむき、困った様子を見せている"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "13247",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "困ってうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困る",
+        "うつむく",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が前方へ勢いよく突進している"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "13248",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "突進",
+        "動き",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が背を向け、頭上に感嘆符を浮かべている"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "13249",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "考え直す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感嘆符",
+        "振り返る",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装甲の人物が正面を向き、了解を示す文字が上にある"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "13250",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "了解する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "了解",
+        "正面",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が両手を下ろして正面に立っている"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13251",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "正面に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "装甲",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が正面を向き、問題ないというメッセージを添えている"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "13252",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "問題ないと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "安心",
+        "正面",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い装甲の人物が赤い照準の中で構えている"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "13253",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "標的を狙う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照準",
+        "狙う",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が爆発の中を前進している"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "13254",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "爆発に飛び込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "爆発",
+        "前進",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装甲の人物が爆発の勢いで宙を舞っている"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "13255",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "宙を舞う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "爆発",
+        "宙を舞う",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い装甲の人物が前方へ飛びかかっている"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "13256",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "飛びかかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛びかかる",
+        "攻撃",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が光とともに前へ突撃している"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "13257",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "突撃する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "突撃",
+        "光",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が手のひらを掲げ、力を示している"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13258",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "手を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "力",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が円形の光の中で回転しながら飛んでいる"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13259",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "回転しながら飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "回転",
+        "飛ぶ",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装甲の人物が星形の光を散らしながら飛んでいる"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13260",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星を散らして飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "飛ぶ",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装甲の人物が円形の光を描きながら飛んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13261",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "円を描いて飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "回転",
+        "飛ぶ",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装甲の人物が星形の光を散らしながら飛んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13262",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星を散らして飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "飛ぶ",
+        "装甲"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "876",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
