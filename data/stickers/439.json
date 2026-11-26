@@ -1,0 +1,1101 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "正面を向き、片手の指を立てて静かに示している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1788",
+      "name": {
+        "ja": "指を立てて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "正面",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手の指先を頭の上に添え、もう片方の手を腰に置いている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1789",
+      "name": {
+        "ja": "額に指先"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指先",
+        "頭",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を頭の上で合わせ、まっすぐ立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1790",
+      "name": {
+        "ja": "頭上で合掌"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "合掌",
+        "頭上",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "座って開いた本を手元に置き、片手に細い道具を持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1791",
+      "name": {
+        "ja": "本を開いて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "座る",
+        "道具"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手の指を口元に当て、もう片方の手を腰に置いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1792",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "口元に指"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "指",
+        "腰"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を顔の横に上げ、手のひらをこちらへ向けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1793",
+      "name": {
+        "ja": "手のひらを見せて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "片手",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いふわふわした形の中で横になり、片手を顔の横で立てている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1794",
+      "name": {
+        "ja": "黄色の中で横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "黄色",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "口元から細い線を出し、片手に小さな物を持って立っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "1795",
+      "name": {
+        "ja": "息をふっと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "息",
+        "小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を胸の前に広げ、手のひらをこちらへ向けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1796",
+      "name": {
+        "ja": "両手を前に"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "手のひら",
+        "前"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い背景の前で、片手を顔の横に上げている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1797",
+      "name": {
+        "ja": "赤い背景で合図"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い背景",
+        "片手",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "胸の前で両手を合わせ、目を閉じたような表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1798",
+      "name": {
+        "ja": "胸元で合掌"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "合掌",
+        "胸元",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机に向かって座り、片手の指を立てながら頬にもう片手を添えている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1799",
+      "name": {
+        "ja": "机で指を立てて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "指",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片腕を横に抱え、もう片手を顔の横で立てている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1800",
+      "name": {
+        "ja": "腕を組んで手を立てて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "片手",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手で頬杖をつき、少し傾いた表情でこちらを見ている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "1801",
+      "name": {
+        "ja": "頬杖でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬杖",
+        "休憩",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を口元に添え、もう片方の手で二本の指を立てている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1802",
+      "name": {
+        "ja": "口元と指先"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "二本指",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "背中を向け、片手を頭に当てながらもう片手を腰に置いている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1803",
+      "name": {
+        "ja": "背中で頭に手"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "頭",
+        "腰"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を襟元に近づけ、首元を整えるような仕草をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1804",
+      "name": {
+        "ja": "襟元を整えて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "襟元",
+        "両手",
+        "仕草"
+      ]
+    },
+    {
+      "description": {
+        "ja": "画面の端から顔と片手をのぞかせ、指を立てている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1805",
+      "name": {
+        "ja": "端から指を立てて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "端",
+        "のぞく",
+        "指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を顔の横に高く上げ、手のひらを見せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1806",
+      "name": {
+        "ja": "手のひらを高く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "片手",
+        "高く上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手に緑色の飲み物を持ち、もう片方の手を上げている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1807",
+      "name": {
+        "ja": "緑の飲み物と一緒に"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "緑",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を横に向け、胸元で両手を合わせている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1808",
+      "name": {
+        "ja": "横向きに合掌"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "合掌",
+        "横向き",
+        "胸元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横になりながら片手を上へ伸ばし、顔を上向きにしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "1809",
+      "name": {
+        "ja": "横になって片手を上げて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "片手",
+        "上向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を額にかざし、遠くを見るように目を細めている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1810",
+      "name": {
+        "ja": "ひさしを作って"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "額",
+        "手をかざす",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "背中を向けたまま顔を横へ向け、片手を腰に置いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1811",
+      "name": {
+        "ja": "振り返る背中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "振り返る",
+        "腰"
+      ]
+    },
+    {
+      "description": {
+        "ja": "画面の端から顔を出し、片手の指をまっすぐ立てている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1812",
+      "name": {
+        "ja": "指先を立てて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "顔",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手で上着の襟元をつまみ、前を整えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1813",
+      "name": {
+        "ja": "襟をつまんで"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "襟元",
+        "両手",
+        "上着"
+      ]
+    },
+    {
+      "description": {
+        "ja": "胸の前で両手を合わせ、正面を向いている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "1814",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "胸元でお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "合掌",
+        "お願い",
+        "胸元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "開いた本を手元に置き、片手にピンク色のカップを持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1815",
+      "name": {
+        "ja": "本とピンクのカップ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "カップ",
+        "読書"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を左右に揺らすような線に囲まれ、正面を向いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1816",
+      "name": {
+        "ja": "体を揺らして"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "揺れ",
+        "正面",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を頭に添え、もう片方の腕を曲げて腰の横に置いている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1817",
+      "name": {
+        "ja": "手を頭に添えて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭",
+        "腕",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を腰に当て、正面を向いて立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "1818",
+      "name": {
+        "ja": "両手を腰に"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腰",
+        "両手",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "腕を組み、目を細めたような表情で正面に立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "1819",
+      "name": {
+        "ja": "腕組みで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "正面",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い枕のようなものに顔を伏せ、体を折り曲げている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "1820",
+      "name": {
+        "ja": "枕に顔を伏せて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を伏せる",
+        "枕",
+        "うつ伏せ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い面に顔を伏せ、黒い髪だけを下に見せている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "1821",
+      "name": {
+        "ja": "伏せたまま動かず"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を伏せる",
+        "髪",
+        "うつ伏せ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭を下にして体を折り、両足を上へ伸ばしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1822",
+      "name": {
+        "ja": "逆さに足を上げて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆さ",
+        "足",
+        "折れ曲がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "床にうつ伏せになり、頭を下げて両腕を前へ伸ばしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "1823",
+      "name": {
+        "ja": "床に伏せて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつ伏せ",
+        "床",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "床に顔を伏せ、両手を前方へ伸ばしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "1824",
+      "name": {
+        "ja": "顔を伏せて手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を伏せる",
+        "両手",
+        "床"
+      ]
+    },
+    {
+      "description": {
+        "ja": "床に座り込み、顔をゆがめて涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "1825",
+      "name": {
+        "ja": "座り込んで涙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "座り込む",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "座って深くうつむき、頬に涙を見せている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "1826",
+      "name": {
+        "ja": "うつむいて涙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "うつむく",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "しゃがんで片手を胸元に置き、周囲に動きの線が出ている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "1827",
+      "name": {
+        "ja": "しゃがんで身を寄せて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しゃがむ",
+        "胸元",
+        "動き"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "439",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

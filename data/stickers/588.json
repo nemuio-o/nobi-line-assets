@@ -1,0 +1,1096 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑の葉を広げた茎の先で、オレンジ色の花が大きく咲いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4601",
+      "name": {
+        "ja": "咲いた花"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "オレンジ",
+        "植物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の姿が絵筆を手にし、もう片方の手に絵の具らしき赤い色を持っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "4602",
+      "name": {
+        "ja": "絵筆を持って"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絵筆",
+        "青い服",
+        "制作"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が黄色い座布団のようなものに腰を下ろし、両手を横に添えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4603",
+      "name": {
+        "ja": "黄色い座布団"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "座る",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の姿のまわりに、青や赤や黄色の小さな花が並んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4604",
+      "name": {
+        "ja": "花を囲んで"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "緑の服",
+        "小さな花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服を着た白い姿が、正面を向いて静かに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4605",
+      "name": {
+        "ja": "黄色い服で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い服",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿がオレンジ色の大きな浮き輪の中に入り、顔だけを出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4606",
+      "name": {
+        "ja": "浮き輪で水遊び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "浮き輪",
+        "水遊び",
+        "オレンジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い細かな柄の服を着た姿が、両手を前にそろえて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4607",
+      "name": {
+        "ja": "柄の服"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "柄模様",
+        "青",
+        "服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿が、黄色い小さな人形を胸元に抱えている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "4608",
+      "name": {
+        "ja": "黄色い人形と一緒"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人形",
+        "黄色",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の腰布をつけた姿の横に、大小の黄色い星が浮かんでいる。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "4609",
+      "name": {
+        "ja": "星を見上げて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "オレンジ",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が青い浮き輪の中央から顔と上半身を出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4610",
+      "name": {
+        "ja": "浮き輪からひょこっ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "浮き輪",
+        "水",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の飛行機に二つの小さな姿が乗り、雲のそばを飛んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "4611",
+      "name": {
+        "ja": "飛行機で空へ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛行機",
+        "二人",
+        "空"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿が目を閉じ、腕を下ろして立っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "4612",
+      "name": {
+        "ja": "目を閉じて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "オレンジの服",
+        "休息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と青の服を着た二人が並び、口を丸く開けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "4613",
+      "name": {
+        "ja": "二人で飲みもの"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "飲みもの",
+        "黄色と青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿が大きな黄色い三日月に寄りかかっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4614",
+      "name": {
+        "ja": "月に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "月",
+        "オレンジ",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸みのある白い姿が正面を向き、左右に黄色い星が輝いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "4615",
+      "name": {
+        "ja": "星空の丸い姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "丸い姿",
+        "白"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の姿がろうそくの立った丸いケーキの前に座り、周囲に光が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4616",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ケーキを囲んで"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ケーキ",
+        "お祝い",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の大きな板の横から、白い姿が顔と片手をのぞかせている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "4617",
+      "name": {
+        "ja": "壁からひょっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "壁",
+        "のぞく",
+        "オレンジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿が、ひもにつながった青い凧を空へ上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4618",
+      "name": {
+        "ja": "凧を飛ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "凧",
+        "ひも",
+        "オレンジの服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿が黄色い小さな姿を抱え、そばに青い音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4619",
+      "name": {
+        "ja": "黄色い相棒と音楽"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "音符",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が赤い帯を締め、黄色い小さな太鼓を並べてばちを持っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "4620",
+      "name": {
+        "ja": "小さな太鼓を並べて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "太鼓",
+        "黄色",
+        "ばち"
+      ]
+    },
+    {
+      "description": {
+        "ja": "旗を立てた黄色と青の船が、青い波の上を進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "4621",
+      "name": {
+        "ja": "船で進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "船",
+        "波",
+        "海"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな姿がかごを抱え、赤や青や黄色の風船が上へ広がっている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4622",
+      "name": {
+        "ja": "風船を持って"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "かご",
+        "色とりどり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つの姿が黄色いシーソーの両端に座り、向かい合っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4623",
+      "name": {
+        "ja": "シーソー遊び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "シーソー",
+        "二人",
+        "遊び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が白い丸いものを抱えて並び、黄色い雨粒模様の傘に入っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4624",
+      "name": {
+        "ja": "雨宿りの二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "雨",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服と帽子の姿が、青い細長い道具を横に持って立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4625",
+      "name": {
+        "ja": "黄色い水兵服"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い服",
+        "帽子",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と茶色の二人が青とオレンジの飲み物を手に並び、周囲に光がきらめいている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4626",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "二人で乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "乾杯",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿の上に、青い縦線が一面に降り注いでいる。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "4627",
+      "name": {
+        "ja": "雨に打たれて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "青い線",
+        "オレンジの服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の姿が自転車に乗り、そばにオレンジ色の音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4628",
+      "name": {
+        "ja": "自転車で歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "音符",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿が黄色い木の枝に腰掛け、幹をつかんでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4629",
+      "name": {
+        "ja": "木の枝に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木",
+        "枝",
+        "オレンジの服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の姿が二本の黄色い棒の間で逆さまになり、足を上に向けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "4630",
+      "name": {
+        "ja": "逆さまぶら下がり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆さま",
+        "ぶら下がる",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿が青いトランポリンの上で跳ね、周囲に光が散っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "4631",
+      "name": {
+        "ja": "トランポリンで跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "トランポリン",
+        "ジャンプ",
+        "オレンジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿が黄色いすべり台の脇に座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4632",
+      "name": {
+        "ja": "すべり台の前で"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "すべり台",
+        "遊具",
+        "オレンジの服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が黄色いくまのぬいぐるみを抱き、ベッドの中で目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "love"
+      ],
+      "id": "4633",
+      "name": {
+        "ja": "くまを抱いてお昼寝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "昼寝",
+        "くま",
+        "ベッド"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の姿が大きな緑の亀の背に座り、左右に小さな花が咲いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4634",
+      "name": {
+        "ja": "亀の背に乗って"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "亀",
+        "緑の服",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い王冠をかぶった姿が、同じ色の服で片手を頬に添えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4635",
+      "name": {
+        "ja": "王冠をかぶって"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "黄色",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の姿が縞模様のかばんと青い小さな荷物を両手に持っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "4636",
+      "name": {
+        "ja": "荷物を持って出発"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "旅行かばん",
+        "荷物",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が青いカウンターの奥から身を乗り出し、白いカップのような物を手にしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4637",
+      "name": {
+        "ja": "案内カウンター"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウンター",
+        "案内",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が白い布団の中から顔だけを出して、こちらを見ている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "4638",
+      "name": {
+        "ja": "布団から顔だけ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "顔",
+        "休息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の姿が、手に持ったオレンジ色の風船を高く掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4639",
+      "name": {
+        "ja": "風船を掲げて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "青い服",
+        "オレンジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い机の前で白い姿が手紙を書き、横に封筒が置かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4640",
+      "name": {
+        "ja": "手紙を書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手紙",
+        "封筒",
+        "机"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "588",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1160 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い姿が帽子をかぶり、黄色い風船を手に紙吹雪の中で弾むように立っている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4361",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "風船と紙吹雪"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "帽子",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "木の机の奥から顔を出し、両手を机の縁にかけている"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "4362",
+      "name": {
+        "ja": "机からひょっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "顔を出す",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が白い丸いものを抱え、口を大きく開けて笑っている"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4363",
+      "name": {
+        "ja": "おなかを抱えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "抱える",
+        "大笑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の枠の中から小さな姿が顔をのぞかせ、片手を上げている"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "4364",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ピンクの入口から"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク",
+        "入口",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いドアのすき間から顔だけを出し、そっとこちらを見ている"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "4365",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ドアのすき間から"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドア",
+        "すき間",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の姿が片足を上げて引っぱられ、隣の姿が腕をつかんでいる"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4366",
+      "name": {
+        "ja": "腕を引っぱられる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕をつかむ",
+        "片足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の姿が机に向かい、鉛筆を持って紙に書き込んでいる"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4367",
+      "name": {
+        "ja": "机で書きもの"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "鉛筆",
+        "書く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が大きく口を開け、床に倒れた姿勢で手足をばたつかせている"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4368",
+      "name": {
+        "ja": "驚いて転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "驚き",
+        "手足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が目を閉じて泣き、顔の下に水が流れ落ちている"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "4369",
+      "name": {
+        "ja": "涙があふれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "水"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が茶色い丸いパンを重ねて抱え、横から顔をのぞかせている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4370",
+      "name": {
+        "ja": "パンを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パン",
+        "抱える",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が小さな器を両手で持ち、左右に音符が浮かんでいる"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4371",
+      "name": {
+        "ja": "音符と一緒に"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "器",
+        "持つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の頭飾りをつけた姿が、料理を載せた盆を両手で運んでいる"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4372",
+      "name": {
+        "ja": "料理を運ぶ少女"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "盆",
+        "水玉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が赤いカップを持って腕を上げ、大きなOK文字の下で笑っている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4373",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "カップ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が赤いカップを持ちながら腕を広げ、大きなNO文字とともに立っている"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "4374",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "カップ",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が横を向いて口をすぼめ、頭上に疑問符が浮かんでいる"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "4375",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "口をすぼめた横顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "疑問符",
+        "口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が横顔のまま一点を見つめ、そばに縦の点が並んでいる"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "4376",
+      "name": {
+        "ja": "黙って見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "見つめる",
+        "点"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた姿の顔が大きく描かれ、周囲に星のような輝きが散っている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4377",
+      "name": {
+        "ja": "きらめく笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "眼鏡",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "首に布を巻いた姿が口を開け、音符に囲まれて歌っている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4378",
+      "name": {
+        "ja": "音符の中で歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歌う",
+        "音符",
+        "布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の姿が口を開けて両手を広げ、ガーンという文字のそばで立ち尽くしている"
+      },
+      "emotion": [
+        "surprise",
+        "sadness"
+      ],
+      "id": "4379",
+      "name": {
+        "ja": "ガーンと驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "オレンジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の姿がグラスを片手に持ち、きらめきの中で笑っている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4380",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "飲み物を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "乾杯",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が背を向けたまま振り返り、頭上に赤い記号を浮かべている"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4381",
+      "name": {
+        "ja": "背中でびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "振り返る",
+        "記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が顔を真っ赤にし、涙を飛ばしながら勢いよく走っている"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "4382",
+      "name": {
+        "ja": "涙を流して走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "涙",
+        "赤い顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が背中を向けつつ顔だけを横に向け、頭上に赤いハートが浮かんでいる"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4383",
+      "name": {
+        "ja": "振り返る背中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "振り返る",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が目を閉じて手を口元に添え、ピンクのハートを飛ばしている"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4384",
+      "name": {
+        "ja": "ハートを飛ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "投げキス",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿がうつむき、ピンクの背景の中で頬から涙をこぼしている"
+      },
+      "emotion": [
+        "sadness",
+        "gratitude"
+      ],
+      "id": "4385",
+      "name": {
+        "ja": "ほろりと涙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "うつむく",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が体を丸めて横たわり、目から涙を流している"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "4386",
+      "name": {
+        "ja": "丸まって泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "涙",
+        "丸まる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が座り込み、両目をぎゅっと閉じて左右から涙を流している"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "4387",
+      "name": {
+        "ja": "両目を閉じて涙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "涙",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が口を大きく開け、片手の親指を立てている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4388",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が細長く伸び、両手を上げて口を大きく開けている"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "4389",
+      "name": {
+        "ja": "細い場所で絶叫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絶叫",
+        "両手",
+        "細長い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が横を向いて立ち、体の両側に震えを示す線が走っている"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "4390",
+      "name": {
+        "ja": "震える横顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "震え",
+        "線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が水玉模様の布団にくるまり、目を閉じて横になっている"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "4391",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "眠る",
+        "水玉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿がヤシの木のある砂浜で背を向け、遠くの景色を見ている"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4392",
+      "name": {
+        "ja": "南国の景色を眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ヤシの木",
+        "砂浜",
+        "背中"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の青い顔が重なり合い、ひとつのまとまりになって並んでいる"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4393",
+      "name": {
+        "ja": "顔が集まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数",
+        "顔",
+        "集まる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が細い棒を口元に当て、いくつものシャボン玉を吹いている"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4394",
+      "name": {
+        "ja": "シャボン玉を吹く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "シャボン玉",
+        "吹く",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が歯を見せて大きく笑い、片手の指先に星の輝きを添えている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4395",
+      "name": {
+        "ja": "きらりと笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "輝き",
+        "指先"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が口を大きく開け、両手を広げて跳ねるように笑っている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4396",
+      "name": {
+        "ja": "声を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑う",
+        "両手",
+        "跳ねる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が雲の背景の中で両腕を広げ、口を開けて笑っている"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4397",
+      "name": {
+        "ja": "空の雲と大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雲",
+        "大笑い",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の青い姿が赤と黄色の小さな車に乗り、音符を浮かべて進んでいる"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4398",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "みんなで車に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車",
+        "仲間",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が目を閉じて立ち、胸の前で両手を合わせている"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "4399",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "手を合わせて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "手を合わせる",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "水玉模様の布団が夜空の星と三日月の下に置かれている"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "4400",
+      "name": {
+        "ja": "星空の下で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星空",
+        "布団",
+        "三日月"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "582",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

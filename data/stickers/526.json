@@ -1,0 +1,1154 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "両手を高く上げ、片足を跳ね上げて楽しそうに飛びはねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2108",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "元気にジャンプ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "両手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手から伸びた小さなハートを、もう一方の手がそっと受け取っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "2109",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ハートをどうぞ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "手渡し",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を口元に添え、もう片方の手を伸ばしながら赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "2110",
+      "name": {
+        "ja": "投げキッス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "ハート",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪に左右のカーラーを巻き、両手を上げてにこやかに立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "2111",
+      "name": {
+        "ja": "くるくるヘア"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カーラー",
+        "髪型",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頬に手を当てて考え込み、頭上に赤い疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "2112",
+      "name": {
+        "ja": "頭にクエスチョン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "頬杖",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大粒の涙を流しながら、片手を前へ伸ばして右方向を指している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "2113",
+      "name": {
+        "ja": "涙をぬぐわず"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "指差し",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色とオレンジの傘を肩にかけ、赤い長靴で静かに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2114",
+      "name": {
+        "ja": "傘の下で"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "雨",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りの帽子と黄色い服で、両手を広げて軽やかに歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2115",
+      "name": {
+        "ja": "花柄でおでかけ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花柄",
+        "帽子",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を横に倒して手足を伸ばし、勢いよく空中を飛んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "2116",
+      "name": {
+        "ja": "空中でひと回り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宙返り",
+        "横向き",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "受話器を耳に当て、黄色い吹き出しに英字が書かれたまま呼びかけている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2117",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "電話で呼んでね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "呼びかけ",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "汗のしずくを飛ばしながら、両腕を広げて勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "2118",
+      "name": {
+        "ja": "走って到着"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "縄を両手で回しながら、緑のスカートを揺らして跳んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2119",
+      "name": {
+        "ja": "なわとび中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "縄跳び",
+        "運動",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸い団子が三つ並んだ串を片手に持ち、嬉しそうに眺めている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2120",
+      "name": {
+        "ja": "だんごをひとくち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "串団子",
+        "食べ物",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "エプロンと頭巾を身につけ、ほうきを手にして掃除をしている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "2121",
+      "name": {
+        "ja": "おそうじします"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除",
+        "ほうき",
+        "エプロン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いギターを抱えて弾き、頭上に音符を浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2122",
+      "name": {
+        "ja": "ギターを奏でる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ギター",
+        "音符",
+        "演奏"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黄色の風船をひもで持ち、楽しそうに立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2123",
+      "name": {
+        "ja": "風船を持って"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "二色",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手の指で左右の頬を押し、口をすぼめておどけている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "2124",
+      "name": {
+        "ja": "ほっぺをむにっ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "両手",
+        "おどける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服で座り、赤いひも飾りを頭にかけて穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "2125",
+      "name": {
+        "ja": "赤いひも飾り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "赤い飾り",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "腕を組み、口元に赤いバツ印をつけて強く拒んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "2126",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "口にバツ印"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バツ印",
+        "腕組み",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頬をふくらませて口を尖らせ、頭の両側に灰色の煙を浮かべている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "2127",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "ぷくっと不満"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふくれ顔",
+        "煙",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机に向かい、鉛筆を握って紙へ熱心に書き込んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "2128",
+      "name": {
+        "ja": "書き込み中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "鉛筆",
+        "書く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ヘッドホンをつけて音楽を聴き、片手を上げながら楽しんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "2129",
+      "name": {
+        "ja": "音楽を聴く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ヘッドホン",
+        "音符",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "涙を流しながら、口元へ何かを運ぶように片手を添えている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "2130",
+      "name": {
+        "ja": "泣きながら食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "食事",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭に大きなリボンをつけ、湯気の立つ料理を皿に載せて差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2131",
+      "name": {
+        "ja": "料理を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "湯気",
+        "おたま"
+      ]
+    },
+    {
+      "description": {
+        "ja": "角のついた姿で三つ叉の道具を持ち、赤い服のまま立っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "2132",
+      "name": {
+        "ja": "小さな悪魔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "角",
+        "三つ叉",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭上に輪を浮かべ、白い翼を広げて両手を差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "2133",
+      "name": {
+        "ja": "天使のように"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "輪",
+        "翼",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いソファに座り、膝の上の白い猫を抱いてくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "2134",
+      "name": {
+        "ja": "ソファでひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ソファ",
+        "猫",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サングラスをかけたうさぎが、赤いハートと花束を両手に持っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "2135",
+      "name": {
+        "ja": "うさぎの花束"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "花束",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のじょうろを傾け、もう片手に小さな園芸道具を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "2136",
+      "name": {
+        "ja": "水やり日和"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "じょうろ",
+        "植物",
+        "園芸"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いナイトキャップをかぶり、青い星柄の毛布に包まれて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "2137",
+      "name": {
+        "ja": "おやすみなさい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "毛布",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫を添えた浴槽に浸かり、ピンクのタオルを頭に巻いている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "2138",
+      "name": {
+        "ja": "お風呂で休憩"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "浴槽",
+        "猫",
+        "入浴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サングラスをかけたうさぎが、片手を腰に当てて堂々と立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "2139",
+      "name": {
+        "ja": "クールなうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "サングラス",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "飾りのついた王冠を頭に載せ、青い蝶ネクタイで誇らしげに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2140",
+      "name": {
+        "ja": "王冠でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "リボン",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手で頬を横に引っぱり、舌を出しておどけている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "2141",
+      "name": {
+        "ja": "ほっぺを引っぱる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "舌",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手で小さなきらめく物を掲げ、目を輝かせて見つめている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2142",
+      "name": {
+        "ja": "きらめく宝物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小物",
+        "輝き",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を高く掲げ、頭上の青いハートを見上げながら笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "2143",
+      "name": {
+        "ja": "ハートを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "片手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が顔を寄せ、英字の書かれたカラフルな横断幕を一緒に掲げている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "2144",
+      "name": {
+        "ja": "ふたりでLOVE U"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "横断幕",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが片足を踏み出し、そばに大きくNOと示して拒んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "2145",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "うさぎのNO"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "NO",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎが両手を上げて笑い、大きくYESと示している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2146",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "うさぎのYES"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "YES",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を合わせてお願いしながら、大粒の涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "2147",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "涙のお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "お願い",
+        "両手"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "526",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1129 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑の縞模様の服を着た姿が床に横たわり、そばに小さな『Z』が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5199",
+      "name": {
+        "ja": "寝ころび休息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "睡眠",
+        "縞模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "道具や部品を抱えた赤い機械の姿と、縞模様の服の小さな姿が並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5200",
+      "name": {
+        "ja": "道具を囲む仲間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機械",
+        "道具",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い縞模様の服を着た姿が、緑の帽子をかぶって腰掛けている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5201",
+      "name": {
+        "ja": "帽子で整える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の帽子",
+        "赤い服",
+        "腰掛け"
+      ]
+    },
+    {
+      "description": {
+        "ja": "蝶ネクタイを着けた灰色の長い耳の姿が電話を手にし、上には英字の呼びかけが描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "5202",
+      "name": {
+        "ja": "電話で呼びかけ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "蝶ネクタイ",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエルが正面を向き、どっしり座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5203",
+      "name": {
+        "ja": "正面のカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "緑",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の服の姿が汗を飛ばしながら腕を振り、隣の小さな姿と走っている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "5204",
+      "name": {
+        "ja": "汗をかいて駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のような姿が口を開け、頭上の皿に盛られた料理を思い浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "confusion"
+      ],
+      "id": "5205",
+      "name": {
+        "ja": "食べものを思う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い姿",
+        "料理",
+        "想像"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い縞模様の服の姿が腕を曲げて前へ走り、背後に速さの線が伸びている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5206",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "スピード",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の服の姿が目元から涙を流し、手を顔の近くに添えている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "5207",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "悲しみ",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの耳の姿が手を合わせ、周囲を大小のハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5208",
+      "name": {
+        "ja": "ハートに囲まれて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "ピンク",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の姿が音符のそばで足を動かし、カラフルな丸い物を並べている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5209",
+      "name": {
+        "ja": "音符とリズム"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "踊り",
+        "縞模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い縞模様の姿が、道具を積んだ赤い機械のそばで勢いよく転がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "5210",
+      "name": {
+        "ja": "吹き飛ぶ仲間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転がる",
+        "機械",
+        "道具"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の長い耳の姿が腕を組み、正面をまっすぐ見ている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5211",
+      "name": {
+        "ja": "腕組み正面顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "正面",
+        "長い耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の姿が両腕を頭上に伸ばし、手で大きな輪を作っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "5212",
+      "name": {
+        "ja": "頭上で丸を作る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "輪",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ひもに緑の縞模様の服と小さな姿が掛かり、下に丸い物がぶら下がっている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5213",
+      "name": {
+        "ja": "物干しの仲間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひも",
+        "服",
+        "ぶら下がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い機械の姿が道具や鍋を並べ、横に魚と器が置かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "5214",
+      "name": {
+        "ja": "道具と料理を並べて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "道具",
+        "鍋",
+        "魚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い長い耳の姿が複数並び、胸元にオレンジ色の数字が見えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5215",
+      "name": {
+        "ja": "黒い姿の列"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い姿",
+        "列",
+        "数字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の姿が花と白い雲のような飾りに囲まれ、横向きに歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "5216",
+      "name": {
+        "ja": "花の中を歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "歩く",
+        "雲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と黄色の縞模様の服が画面いっぱいに描かれ、周囲に強い光が走っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "5217",
+      "name": {
+        "ja": "光る赤い服"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "縞模様",
+        "光",
+        "接写"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い長い耳の姿が大きな赤いハートを抱え、きらめきに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5218",
+      "name": {
+        "ja": "赤いハートを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱える",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の姿と赤い縞模様の姿が並び、二人とも汗を浮かべている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "5219",
+      "name": {
+        "ja": "並んで汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "汗",
+        "縞模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服と緑の服の二つの姿が並び、どちらも親指を立てている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "5220",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てて並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "親指",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の姿が正面を向き、口を大きく開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "5221",
+      "name": {
+        "ja": "大きく口を開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "大口",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の姿が青い風船を持ち、下から小さなカエルが顔を出している。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "5222",
+      "name": {
+        "ja": "風船とカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "カエル",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の姿が前へ身をかがめ、汗を飛ばしながら走っている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "5223",
+      "name": {
+        "ja": "急いで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "前傾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの長い耳の姿が、葉物を添えた大きな料理の上に乗っている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "5224",
+      "name": {
+        "ja": "料理に乗った姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "葉物",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サングラスをかけたピンクの姿が、飲み物のようなものを手にして座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "5225",
+      "name": {
+        "ja": "眼鏡で一服"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "飲み物",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服と緑の服の二つの姿が肩を寄せ、片方がもう片方に顔を近づけている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5226",
+      "name": {
+        "ja": "肩を寄せる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添い",
+        "赤と緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い縞模様の姿が床に座り、数字の見える紙面を両手で広げている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5227",
+      "name": {
+        "ja": "新聞を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "新聞",
+        "座る",
+        "紙面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の機械的な長い耳の姿を横から描き、頭の後ろに金属部品が付いている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5228",
+      "name": {
+        "ja": "機械の横顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機械",
+        "横顔",
+        "金属部品"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の姿が汗を流し、口を開けたまま立っている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "5229",
+      "name": {
+        "ja": "汗だくの青い髪"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "青い髪",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を大きく見開いた顔の上半分が画面いっぱいに切り取られている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5230",
+      "name": {
+        "ja": "驚きの目元"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目元",
+        "驚き",
+        "接写"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の頭部と黄色い顔、赤い大きな口を持つ姿が正面を向いている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "5231",
+      "name": {
+        "ja": "カエルのような顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑",
+        "黄色",
+        "赤い口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い姿が赤い大きな口を開け、周囲をピンクの花ときらめきに囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "5232",
+      "name": {
+        "ja": "花に囲まれた黄色い姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "花",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の姿が青いマスクを口元に当て、赤い縞模様の小さな姿と走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "5233",
+      "name": {
+        "ja": "青いマスクで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マスク",
+        "走る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの長い耳の顔が画面いっぱいに迫り、目を見開いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5234",
+      "name": {
+        "ja": "顔いっぱいの驚き"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "驚き",
+        "接写"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の縞模様の姿が汗を浮かべて振り返り、そばに大きな疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "5235",
+      "name": {
+        "ja": "汗と疑問符"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "汗",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの姿が目を見開いて振り返り、そばに赤い驚きの印が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5236",
+      "name": {
+        "ja": "赤いびっくり印"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り返る",
+        "記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳の姿が青い布のようなものを胸に抱え、両目から涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5237",
+      "name": {
+        "ja": "青い布を抱えて泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "青い布",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が険しい顔で立ち、背後に黄色い稲妻が大きく走っている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "5238",
+      "name": {
+        "ja": "雷を背負う赤い姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い姿",
+        "稲妻",
+        "険しい顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "601",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

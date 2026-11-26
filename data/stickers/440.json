@@ -1,0 +1,1133 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑の姿が目を細め、口元から白い息のようなものを飛ばしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1828",
+      "name": {
+        "ja": "くしゃみの瞬間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くしゃみ",
+        "水しぶき",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が小さな封筒を両手で胸元に掲げ、周りにハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "1829",
+      "name": {
+        "ja": "ハートを届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "封筒",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が両手を胸元で合わせ、きらめきに囲まれて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "1830",
+      "name": {
+        "ja": "きらきら笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が背中を向け、横に伸ばした手のそばで黄色い光が弾けている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "1831",
+      "name": {
+        "ja": "背中でひと振り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "手を振る",
+        "黄色い光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が黄色い注意標識の横に立ち、標識を手にしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1832",
+      "name": {
+        "ja": "注意をお知らせ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "注意標識",
+        "案内",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が赤い布にくるまり、頭に青い冷却具をのせて鼻を垂らしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "1833",
+      "name": {
+        "ja": "風邪でぐったり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "体調不良",
+        "氷のう",
+        "ティッシュ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が新聞を広げて読み、足元には湯気のない飲み物のカップが置かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1834",
+      "name": {
+        "ja": "新聞とひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "新聞",
+        "飲み物",
+        "読書"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が三角帽子をかぶり、吹き戻しを鳴らしながら紙吹雪の中ではしゃいでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "1835",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "パーティーで祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パーティー帽",
+        "紙吹雪",
+        "笛"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が目を大きく見開き、口を開けたまま白い涙のようなものを垂らしている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "1836",
+      "name": {
+        "ja": "あわてて涙目"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "涙",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が黒いサングラスをかけ、両手をポケットに入れて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1837",
+      "name": {
+        "ja": "サングラスで登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "ポーズ",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿の体の中央から緑の顔が前にのぞいている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1838",
+      "name": {
+        "ja": "赤い姿から顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い姿",
+        "緑の顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が険しい顔で立ち、全身を赤い炎が取り囲んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "1839",
+      "name": {
+        "ja": "燃える怒り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が白い便器に座り、手にした灰色の紙筒を見ている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "1840",
+      "name": {
+        "ja": "トイレでひと息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "トイレットペーパー",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が座って片手を伸ばし、先に結び目のある細い線をたどっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1841",
+      "name": {
+        "ja": "糸をたぐる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "糸",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が腕を広げ、左右に浮かぶ赤いハートと一緒に笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "1842",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ハートで歓迎"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "歓迎",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が青い丸い札を抱え、周囲に「OK」の文字が並んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1843",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "丸い札",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が黄色い「NO!」の札を前に出し、周囲にも同じ文字が散っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "1844",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOをはっきり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が砂地にうずくまり、体から汗を飛ばしながら赤い渦線に囲まれている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "1845",
+      "name": {
+        "ja": "ふらふら回転"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふらつき",
+        "汗",
+        "砂地"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が緑の縞模様の布にくるまって横になり、頭上に「Z」が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1846",
+      "name": {
+        "ja": "おやすみ中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "Z",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が眉をつり上げて叫び、黄色い縁取りと稲妻のような線をまとっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "1847",
+      "name": {
+        "ja": "怒りの変身"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "稲妻",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が下端から顔だけをのぞかせ、口を大きく開けている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "1848",
+      "name": {
+        "ja": "顔だけひょっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "のぞく",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が目を見開き、両手のひらをこちらに向けて高く上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "1849",
+      "name": {
+        "ja": "両手を上げて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "驚き",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が黄色い傘の下に立ち、周囲に雨粒が落ちている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "1850",
+      "name": {
+        "ja": "雨宿りの傘"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "雨",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が器の料理を食べ、隣には赤い飲み物のカップが置かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1851",
+      "name": {
+        "ja": "食事と飲み物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "器",
+        "ストロー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が眼鏡と蝶ネクタイを身につけ、書類と黒いかばんを持って立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1852",
+      "name": {
+        "ja": "書類を持って出勤"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スーツ",
+        "書類",
+        "かばん"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が胸元で手を合わせ、目を輝かせながら黄色いきらめきに包まれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "1853",
+      "name": {
+        "ja": "きらめく感激"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "感激",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が水面に浸かり、頭に白い布をのせて湯気を立てている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "1854",
+      "name": {
+        "ja": "湯気でぽかぽか"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯気",
+        "水面",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が両手で口元を覆い、目を見開いて立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "1855",
+      "name": {
+        "ja": "口を押さえて絶句"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絶句",
+        "両手",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が両手を口元で組み、左右の目から青い涙を大量に流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "1856",
+      "name": {
+        "ja": "涙が止まらない"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が黄色と黒の縞模様の柱の陰から半身だけをのぞかせている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "1857",
+      "name": {
+        "ja": "柱の陰から"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "隠れる",
+        "柱",
+        "赤い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が舌を出し、両手を広げておどけている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1858",
+      "name": {
+        "ja": "舌を出しておどける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舌",
+        "おどける",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が携帯電話を耳に当て、足元の「CALL ME」と書かれた札を示している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1859",
+      "name": {
+        "ja": "電話してね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "CALL ME",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿と赤い姿が肩を寄せて並び、顔を近づけている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "1860",
+      "name": {
+        "ja": "肩を並べて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "並ぶ",
+        "緑と赤"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が緑の姿を抱えるようにしながら手を振り、下に「BYE BYE」とある。"
+      },
+      "emotion": [
+        "joy",
+        "sadness"
+      ],
+      "id": "1861",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "BYE BYEと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "BYE BYE",
+        "手を振る",
+        "別れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿と緑の姿が並び、頭上に赤い疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "1862",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "二人で首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "二人",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が背中を向け、その脇から緑の姿が顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "1863",
+      "name": {
+        "ja": "背中からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "のぞく",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が赤い姿の背後から腕を回し、赤い姿は両手を上げている。"
+      },
+      "emotion": [
+        "love",
+        "surprise"
+      ],
+      "id": "1864",
+      "name": {
+        "ja": "ぎゅっと抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "二人",
+        "赤と緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が赤い服のようなものを着て、口に黄色いおしゃぶりをくわえている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1865",
+      "name": {
+        "ja": "おしゃぶりで安心"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おしゃぶり",
+        "赤い服",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が赤い姿の背後に寄り添い、赤い姿の横で黄色い動き線が走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "1866",
+      "name": {
+        "ja": "背中を押す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "動き",
+        "背中"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が手を振る一方、緑の姿は前を向いて歩き去ろうとしている。"
+      },
+      "emotion": [
+        "joy",
+        "sadness"
+      ],
+      "id": "1867",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って見送る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "見送り",
+        "手を振る",
+        "二人"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "440",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

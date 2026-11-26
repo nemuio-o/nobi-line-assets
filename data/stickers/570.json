@@ -1,0 +1,1135 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色い姿が赤い敷物の上で横になり、白い姿と小さな黄色い姿がそばにいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "4001",
+      "name": {
+        "ja": "芝生でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休憩",
+        "敷物",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿と白い姿が青いグラスを掲げて乾杯し、小さな黄色い姿が見守っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4002",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "グラスで乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乾杯",
+        "グラス",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が眼鏡をかけて劇場の席に座り、手前の容器から食べ物を楽しんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4003",
+      "name": {
+        "ja": "映画館の二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "劇場",
+        "眼鏡",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿が野菜の並ぶ売り場で青いかごを持ち、白い姿が隣に立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4004",
+      "name": {
+        "ja": "買い物かご"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物",
+        "野菜",
+        "かご"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い傘の下で茶色い姿と白い姿が寄り添い、足元に小さな黄色い姿がいる。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "4005",
+      "name": {
+        "ja": "雨宿りの傘"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "傘",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿と白い姿が大きな画面を並んで見ており、そばに飲み物が置かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4006",
+      "name": {
+        "ja": "テレビに夢中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テレビ",
+        "二人",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿が赤い花束を差し出し、白い姿と小さな黄色い姿が向かい合っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4007",
+      "name": {
+        "ja": "赤い花をどうぞ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "贈り物",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が箱の中の青い宝石を見つめ、周囲に小さなきらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4008",
+      "name": {
+        "ja": "宝石を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宝石",
+        "箱",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿が白い姿を後ろから抱きしめ、小さな黄色い姿がそばに立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4009",
+      "name": {
+        "ja": "背中からぎゅっ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "二人",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が腕を広げて走り、後ろから茶色い姿も楽しそうに追いかけている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4010",
+      "name": {
+        "ja": "元気に駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "笑顔",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿と白い姿が並んでポーズを取り、周囲に星のようなきらめきが出ている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4011",
+      "name": {
+        "ja": "きらきらポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポーズ",
+        "きらめき",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が夜空を背に茶色い姿へ抱きつき、小さな黄色い姿が横にいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "4012",
+      "name": {
+        "ja": "夜の抱きつき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜空",
+        "抱擁",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿がテーブルの料理を食べ、後ろから茶色い姿が寄り添い、小さな黄色い姿もいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4013",
+      "name": {
+        "ja": "食卓でぱくぱく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "テーブル",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿が白い姿の入った大きなピンク色の箱を抱え、小さな黄色い姿がそばにいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "4014",
+      "name": {
+        "ja": "箱の中でお昼寝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "抱える",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が茶色い姿を抱き上げるように寄り添い、二人のそばで小さな黄色い姿が見ている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "4015",
+      "name": {
+        "ja": "抱えて大喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "喜び",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿の横で白い姿が口元を押さえ、背後に湯気の立つ赤いものが見えている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4016",
+      "name": {
+        "ja": "湯気のそばで"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯気",
+        "驚き",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿が机の前に座り、白い姿がその顔を両手で覆うようにしている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "4017",
+      "name": {
+        "ja": "画面の前でびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "画面",
+        "いたずら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が赤い毛糸を手に編み物をし、茶色い姿が青と赤の巻き物を身につけている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4018",
+      "name": {
+        "ja": "マフラーを編む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "編み物",
+        "毛糸",
+        "マフラー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿と白い姿が泡の浮かぶ浴槽に入り、小さな黄色い姿が端で見ている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4019",
+      "name": {
+        "ja": "泡いっぱいのお風呂"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お風呂",
+        "泡",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が茶色い姿の頬に顔を寄せ、周りに赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4020",
+      "name": {
+        "ja": "ほっぺにキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キス",
+        "ハート",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が赤い小型の乗り物に乗って勢いよく走り、後ろに煙が上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4021",
+      "name": {
+        "ja": "二人で急発進"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乗り物",
+        "疾走",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が赤い車を運転し、茶色い姿と小さな黄色い姿が乗っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4022",
+      "name": {
+        "ja": "赤い車で出発"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車",
+        "ドライブ",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い乗り物のような枠の中で茶色い姿が水槽をのぞき、青い魚の影が見えている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "4023",
+      "name": {
+        "ja": "水槽の前で"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水槽",
+        "魚",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿と白い姿が並んで腰を下ろし、橙色の景色を背景に小さな黄色い姿がいる。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "4024",
+      "name": {
+        "ja": "夕景を眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夕景",
+        "並んで座る",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿と白い姿が屋外の食卓を囲み、皿料理と飲み物の上に青い水滴が落ちている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4025",
+      "name": {
+        "ja": "屋外でごちそう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "料理",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿と白い姿が砂の上に立ち、周囲に足あとが残り、小さな黄色い姿がそばにいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4026",
+      "name": {
+        "ja": "砂浜の足あと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "砂浜",
+        "足あと",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿と白い姿が緑の地面に横たわり、小さな黄色い姿が近くにいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4027",
+      "name": {
+        "ja": "芝生でごろごろ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "芝生",
+        "横になる",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿と白い姿が月の出た夜にベンチへ並んで座り、小さな黄色い姿が足元にいる。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "4028",
+      "name": {
+        "ja": "月夜のベンチ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "月夜",
+        "ベンチ",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い明かりの差す入口で茶色い姿が中へ進み、足元に小さな黄色い姿がいる。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "4029",
+      "name": {
+        "ja": "明かりの入口"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "入口",
+        "明かり",
+        "進む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿が夜の中で額縁のような画面を見上げ、そこに白い姿が映っている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "4030",
+      "name": {
+        "ja": "画面を見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "画面",
+        "夜",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い姿が灰色の掛け布団にくるまり、寝床で静かに眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "4031",
+      "name": {
+        "ja": "布団でおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "睡眠",
+        "寝床"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が赤い格子柄の布団に入り、茶色い姿がそばで体温計を持っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "4032",
+      "name": {
+        "ja": "熱を測って看病"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "看病",
+        "体温計",
+        "布団"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が「NEW」と表示された紫色の箱を指し、茶色い姿が向かいで見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4033",
+      "name": {
+        "ja": "新しい箱を発見"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "新しい",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が紫色の包みを差し出し、茶色い姿と丸い白い姿がテーブル越しに向かい合っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4034",
+      "name": {
+        "ja": "贈り物を渡す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "包み",
+        "テーブル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿がピンクの服を着て、青と緑の服を示しながら茶色い姿に問いかけている。"
+      },
+      "emotion": [
+        "confusion",
+        "joy"
+      ],
+      "id": "4035",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "服を選ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "服",
+        "選ぶ",
+        "質問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿がサングラスをかけて先を走り、茶色い姿が緑の荷物を引いてついていく。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4036",
+      "name": {
+        "ja": "荷物を引いて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "荷物",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿と茶色い姿が同じ柄のTシャツを着て並び、小さな黄色い姿が足元にいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "4037",
+      "name": {
+        "ja": "おそろいの服"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おそろい",
+        "Tシャツ",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が険しい顔で茶色い姿に向かい、頭上に青いしずくと動きの線が出ている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "4038",
+      "name": {
+        "ja": "怒って向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "対面",
+        "しずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が両手を上げて怒った表情を見せ、茶色い姿が横で身を縮めている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "4039",
+      "name": {
+        "ja": "両手を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "両手",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が涙を流しながら茶色い姿の腕をつかみ、茶色い姿は前へ進もうとしている。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "4040",
+      "name": {
+        "ja": "泣きながらつかむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "腕をつかむ",
+        "二人"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "570",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

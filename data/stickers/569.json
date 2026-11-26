@@ -1,0 +1,1127 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色い猫が頬に手を添え、片目を閉じたような表情で星に囲まれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4153",
+      "name": {
+        "ja": "きらめきポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ポーズ",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い角の猫が炎を背に、眉をひそめて拳を握っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "4154",
+      "name": {
+        "ja": "炎のぷんぷん"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が両手を頬に当て、花やハートに囲まれて嬉しそうにしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4155",
+      "name": {
+        "ja": "ハートに囲まれて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "花",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が大きな涙を流し、縦線の雨の中で紫色の物を抱えている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "4156",
+      "name": {
+        "ja": "雨の涙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "雨",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を大きく見開き、舌を長く出して驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "4157",
+      "name": {
+        "ja": "目玉びっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "大きな目",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青みがかった猫が両手を胸元に寄せ、涙を浮かべて震えている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "4158",
+      "name": {
+        "ja": "青ざめ涙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "震え",
+        "青色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "縞模様の猫が背中を向けて座り、長い影と落ち葉のそばでうつむいている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "4159",
+      "name": {
+        "ja": "背中でしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "落ち葉",
+        "しょんぼり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が手足をばたつかせて転び、目から青い涙を飛ばしている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "4160",
+      "name": {
+        "ja": "泣きながら転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "涙",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三匹の猫が並んで手足を動かし、周囲に線を散らして騒いでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4161",
+      "name": {
+        "ja": "三匹の大騒ぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三匹",
+        "動き",
+        "にぎやか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が体を丸めて横たわり、暗い雨の中で静かに休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "4162",
+      "name": {
+        "ja": "雨の丸まり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "横たわる",
+        "休息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が頭を垂れてよだれを落とし、頭上の吹き出しに肉のような食べ物を浮かべている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "4163",
+      "name": {
+        "ja": "おなかすいた"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "空腹",
+        "よだれ",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と黒の猫が並んで走り、汗を飛ばしながら前へ急いでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "4164",
+      "name": {
+        "ja": "一緒に大急ぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "二匹",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "包帯を巻いた猫が目を閉じ、杖のような棒を手にふらついている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "4165",
+      "name": {
+        "ja": "包帯でよろよろ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "包帯",
+        "杖",
+        "ふらつき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が頭に手を当てて座り込み、額に星を浮かべてぐったりしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "4166",
+      "name": {
+        "ja": "頭をかかえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭を抱える",
+        "疲れ",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が白い骨のような物のそばで横になり、目を閉じて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "4167",
+      "name": {
+        "ja": "骨のそばで熟睡"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠り",
+        "横たわる",
+        "骨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を輝かせて立ち、頭上に黄色い電球を浮かべている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "4168",
+      "name": {
+        "ja": "ひらめいた"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひらめき",
+        "電球",
+        "目を輝かせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が覆面姿で腰を落とし、険しい目つきで身構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "4169",
+      "name": {
+        "ja": "忍者の構え"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "覆面",
+        "構え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を輝かせて片足を上げ、弾むように踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4170",
+      "name": {
+        "ja": "るんるんステップ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "片足",
+        "楽しさ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が歯を食いしばり、上からの水しぶきを浴びて身をよじっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4171",
+      "name": {
+        "ja": "水しぶき直撃"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "びっくり",
+        "身をよじる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サボテンのような緑の衣装を着た猫が、涙を流して座り込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "4172",
+      "name": {
+        "ja": "サボテン姿で涙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サボテン",
+        "涙",
+        "衣装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "包帯のような布を巻いた猫が、冷たい雨の中で身を縮めている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "4173",
+      "name": {
+        "ja": "冷たい雨に震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "布",
+        "身を縮める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の雨具を着た猫が、水しぶきを上げながら楽しそうに歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4174",
+      "name": {
+        "ja": "雨具でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨具",
+        "水しぶき",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子と赤い飾りを身につけた猫が、雪のような白い背景で踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4175",
+      "name": {
+        "ja": "冬のステップ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "冬",
+        "ダンス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が浜辺の敷物に寝そべり、飲み物をそばに置いて日差しを浴びている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4176",
+      "name": {
+        "ja": "浜辺でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "浜辺",
+        "日差し",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サボテンの衣装を着た猫が眉をつり上げ、緑の物を抱えて怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "4177",
+      "name": {
+        "ja": "サボテンでぷんぷん"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サボテン",
+        "怒り",
+        "緑色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い猫が細長い柱のような物に巻き付くように固定され、困った顔をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "4178",
+      "name": {
+        "ja": "ぐるぐる縛られた"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "固定",
+        "柱",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "涙を流す茶色い猫の肩に、黒い猫が寄り添っている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "4179",
+      "name": {
+        "ja": "隣でなぐさめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "寄り添い",
+        "二匹"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が緑の旗を高く掲げ、舌を出して元気に振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4180",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "緑の旗を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "旗",
+        "黒猫",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を閉じて小さなクッションのような物を抱き、ピンクのハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4181",
+      "name": {
+        "ja": "ハートを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱く",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が片手で長方形の札を掲げ、もう一方の手を上げて満足そうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4182",
+      "name": {
+        "ja": "札を掲げて満足"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "札",
+        "笑顔",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が腕を交差させるようにして、赤い印とともに強く拒んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "4183",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "きっぱり拒否"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "腕",
+        "黒猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が剣のような物を手に、放射状の背景の前で勢いよく構えている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4184",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "勢いよく出発"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "勢い",
+        "構える",
+        "黒猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が首をかしげ、汗を浮かべながら小さな水色の物を手にしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "4185",
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困惑",
+        "汗",
+        "水色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を閉じて頭に手を当て、もう一方の手に細長い棒を持って考えている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "4186",
+      "name": {
+        "ja": "考え中の鉛筆"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "棒",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が片目を閉じて振り向き、青い丸い物が体に当たっている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "4187",
+      "name": {
+        "ja": "ボールにびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ボール",
+        "振り向く",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫がフォークを掲げ、網焼きの大きな肉を前に舌を出して喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4188",
+      "name": {
+        "ja": "ごちそう前の笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肉料理",
+        "フォーク",
+        "ごちそう"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の猫が木の根元で横になり、一匹は目を閉じて休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "4189",
+      "name": {
+        "ja": "木陰でひと眠り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二匹",
+        "木陰",
+        "休息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が口を大きく開けて水しぶきを浴び、小さな黒い猫が足元にいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4190",
+      "name": {
+        "ja": "水をかぶって大慌て"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "二匹",
+        "大慌て"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が丸い目で立ち、緑の模様がある長い道具を抱えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4191",
+      "name": {
+        "ja": "茶色い道具を手に"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "道具",
+        "茶色",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が小鍋のそばで長い道具を動かし、下の火から黄色い炎が上がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4192",
+      "name": {
+        "ja": "火のそばで料理"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "鍋",
+        "火"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "569",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
