@@ -1,0 +1,1120 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "ミッキーが片手を上げて手を振り、そばに青い渦巻き状の線が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8871",
+      "name": {
+        "ja": "手を振るミッキー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "手を振る",
+        "青い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが片手を上げて手を振り、周囲にピンク色の渦巻き状の線がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8872",
+      "name": {
+        "ja": "手を振るミニー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "手を振る",
+        "ピンクのリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーが赤い車に並んで乗り、二人とも前方を見ている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8873",
+      "name": {
+        "ja": "赤い車で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "赤い車"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーが大きな黄色いカップの中に入り、カップの縁から顔を出している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8874",
+      "name": {
+        "ja": "大きなカップでひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "カップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーが手をつないで寄り添い、上にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8875",
+      "name": {
+        "ja": "手をつないで寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーが黄色い足場の上で肩を寄せ、並んで立っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8876",
+      "name": {
+        "ja": "並んで立つ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーが手をつなぎ、歩くような姿勢で並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8877",
+      "name": {
+        "ja": "手をつないで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "手をつなぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーが白い装飾の前に並び、背後に月と星が描かれた円形の背景がある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8878",
+      "name": {
+        "ja": "星空を背に並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "星空"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドが片手を上げて手を振り、そばに青い渦巻き状の線がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8879",
+      "name": {
+        "ja": "手を振るドナルド"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "手を振る",
+        "青い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "デイジーが片手を上げて手を振り、そばに紫色の渦巻き状の線が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8880",
+      "name": {
+        "ja": "手を振るデイジー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "デイジー",
+        "手を振る",
+        "紫の線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドとデイジーが公園のベンチに座り、肩を寄せている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "8881",
+      "name": {
+        "ja": "ベンチで寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "ベンチ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドとデイジーがテーブルを挟んで座り、飲み物と食べ物を前にしている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8882",
+      "name": {
+        "ja": "テーブルを囲む二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "食卓"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドが複数の箱を抱えて走り、デイジーが赤いハート形のものを持っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8883",
+      "name": {
+        "ja": "箱を抱えて駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "箱"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドとデイジーがベンチに座り、二人の間にポップコーンの容器が置かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8884",
+      "name": {
+        "ja": "ポップコーンを分け合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "ポップコーン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドとデイジーが水色の縁取りのある砂地におり、デイジーが黄色い道具を手にしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8885",
+      "name": {
+        "ja": "砂地で遊ぶ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "砂地"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドとデイジーが寄り添って座り、月と星の描かれた丸い夜空の背景に包まれている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "8886",
+      "name": {
+        "ja": "夜空の下で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "月"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーがピンク色の鏡台の前に座り、鏡に映ったミニーの顔を見ている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8887",
+      "name": {
+        "ja": "鏡を見るミニー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーのそばにミッキーの顔が浮かび、二人の周囲に赤いハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8888",
+      "name": {
+        "ja": "ハートに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーとデイジーがテーブルを囲み、ミッキーが身振りを交えて話している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8889",
+      "name": {
+        "ja": "お茶の席で話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "デイジー",
+        "テーブル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーとデイジーが並んで歩き、二人とも買い物袋を持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8890",
+      "name": {
+        "ja": "買い物袋を持つ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "デイジー",
+        "買い物袋"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーとデイジーが向かい合うように立ち、手を広げて踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8891",
+      "name": {
+        "ja": "並んで踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "デイジー",
+        "ダンス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーとデイジーがテーブルを挟んで座り、皿に盛られた料理を前にしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8892",
+      "name": {
+        "ja": "食卓で向かい合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "デイジー",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが手を広げて立ち、足元にドナルドが横たわっている。上には英字の『oh no!』が見える。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "8893",
+      "name": {
+        "ja": "困って立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "ドナルド",
+        "びっくり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーが赤いリボンの付いた大きな贈り物を一緒に抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8894",
+      "name": {
+        "ja": "贈り物を抱える二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "プレゼント"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーとデイジーが肩を寄せて立ち、ミニーが片手を口元に添えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8895",
+      "name": {
+        "ja": "肩を寄せて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "デイジー",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーが頬に手を当てて立ち、周囲にオレンジ色の疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "8896",
+      "name": {
+        "ja": "疑問符に囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "疑問符",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドが両腕を曲げて拳を握り、頭の周りに赤みがかった煙のような形が出ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8897",
+      "name": {
+        "ja": "怒って腕を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "怒る",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーとドナルドが向かい合い、顔の間に赤い波線が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8898",
+      "name": {
+        "ja": "向かい合って言い合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じて顔を覆い、隣のデイジーが心配そうに見ている。二人の上に青い縦線がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "8899",
+      "name": {
+        "ja": "泣いて顔を覆う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "デイジー",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが赤い台の上で白い機器のようなものに向かい、上方にミッキーの顔が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8900",
+      "name": {
+        "ja": "赤い台で作業する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "赤い台",
+        "白い機器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが丸い台の前で紙を読み、上方の丸い吹き出しのような中にミッキーの顔がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8901",
+      "name": {
+        "ja": "紙を読むミニー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "紙",
+        "ミッキー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが赤と黄色のリボンの付いた贈り物を胸の前に抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8902",
+      "name": {
+        "ja": "贈り物を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミニー",
+        "プレゼント",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーが向かい合い、赤と黄色のリボンのようなものを一緒に持っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8903",
+      "name": {
+        "ja": "赤いリボンを持つ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーが赤いリボンの贈り物を掲げ、ミニーが隣で手を添えている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8904",
+      "name": {
+        "ja": "贈り物を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "プレゼント"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーがミニーの頬にキスをし、二人の上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8905",
+      "name": {
+        "ja": "頬にキスする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドがデイジーの方を指差し、二人の上にオレンジ色の強調線が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "8906",
+      "name": {
+        "ja": "指を差して知らせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドがデイジーを抱き寄せ、二人の周囲に淡いピンク色の雲形が描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8907",
+      "name": {
+        "ja": "抱き寄せる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "抱擁"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドとデイジーが大きな赤いハートを抱え、ハートに『LOVE』の文字がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8908",
+      "name": {
+        "ja": "LOVEのハートを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "ハート",
+        "LOVE"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ドナルドとデイジーが手をつないで歩き、二人の間に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8909",
+      "name": {
+        "ja": "手をつなぐ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドナルド",
+        "デイジー",
+        "手をつなぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニー、ドナルドとデイジーが寄り添い、大きな青いハート形の中に描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8910",
+      "name": {
+        "ja": "ハートの中で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ミッキー",
+        "ミニー",
+        "ドナルド",
+        "デイジー",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "732",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

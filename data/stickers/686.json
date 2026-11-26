@@ -1,0 +1,1105 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が片手を頭のそばに置いて立っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "7711",
+      "name": {
+        "ja": "気を取り直す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンクの髪",
+        "立つ",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクと青緑の髪の二人が向かい合っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7712",
+      "name": {
+        "ja": "一緒に遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "向かい合う",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑とピンクの髪の二人が並んで立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7713",
+      "name": {
+        "ja": "向かい合う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "並ぶ",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が横になり、そばに渦巻きの記号がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7714",
+      "name": {
+        "ja": "並んで眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "渦巻き",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑とピンクの髪の二人が並んで座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7715",
+      "name": {
+        "ja": "寄り添って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "並ぶ",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が近くで寄り添い、周囲に動きの線がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7716",
+      "name": {
+        "ja": "仲良く寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が星のついた棒を掲げている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7717",
+      "name": {
+        "ja": "星を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "棒",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑の髪の人物が星の飾りとともに空中へ跳んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7718",
+      "name": {
+        "ja": "星と一緒に飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "跳ぶ",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑の髪の人物が受話器を耳に当てている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7719",
+      "name": {
+        "ja": "電話で話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "受話器",
+        "話す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が電話機のそばで受話器を持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7720",
+      "name": {
+        "ja": "電話をかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "受話器",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑の髪の人物が枕に伏せ、ラジオのような機器に耳を向けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7721",
+      "name": {
+        "ja": "ラジオを聴く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機器",
+        "枕",
+        "伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が機器の前に座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7722",
+      "name": {
+        "ja": "機器のそばで話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機器",
+        "座る",
+        "ピンクの髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑の髪の人物が電話を耳に当て、灰色の猫がそばにいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7723",
+      "name": {
+        "ja": "猫と電話する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "灰色の猫",
+        "話す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が電話機の受話器を持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7724",
+      "name": {
+        "ja": "電話を受ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "受話器",
+        "ピンクの髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑の髪の人物の頭上に疑問符があり、そばに猫がいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "7725",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "猫",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が両手を口元に当てている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "7726",
+      "name": {
+        "ja": "驚いて口元を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物の周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7727",
+      "name": {
+        "ja": "ハートを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "目を閉じる",
+        "ピンクの髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑の髪の人物が先のとがった黄色い帽子のようなものをかぶっている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7728",
+      "name": {
+        "ja": "帽子をかぶる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い帽子のようなもの",
+        "青緑の髪",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人がMAILと書かれた郵便受けのようなものの前にいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7729",
+      "name": {
+        "ja": "郵便を届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "MAIL",
+        "郵便受けのようなもの",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑の髪の人物が白い包みのようなものを持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7730",
+      "name": {
+        "ja": "贈り物を渡す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "包みのようなもの",
+        "電話",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑とピンクの髪の二人が背を向けて並んでいる。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "7731",
+      "name": {
+        "ja": "背を向ける二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "背を向ける",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ハート型のボードに「I LOVE YOU」と表示されている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "7732",
+      "name": {
+        "ja": "愛を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "I LOVE YOU",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑とピンクの髪の二人が抱き合っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7733",
+      "name": {
+        "ja": "抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "二人",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人がピンク色の雲の上で横になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7734",
+      "name": {
+        "ja": "雲の上で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雲",
+        "横になる",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が白い帽子をかぶり、菓子のようなものを扱っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7735",
+      "name": {
+        "ja": "一緒に料理する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "白い帽子",
+        "菓子のようなもの"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が紫色の布団のようなものにくるまって横になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7736",
+      "name": {
+        "ja": "布団で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団のようなもの",
+        "横になる",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が小さなケーキを囲み、上にろうそくのような飾りがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7737",
+      "name": {
+        "ja": "ケーキを祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ケーキ",
+        "ろうそくのような飾り",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑の髪の人物が椅子に座るピンクの人物のそばにいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7738",
+      "name": {
+        "ja": "一緒に過ごす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "二人",
+        "小さな動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がピンクの雲のような背景に横たわっている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "7739",
+      "name": {
+        "ja": "飾りの中でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雲のような背景",
+        "星",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクと青緑の髪の二人が手をつないで立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7740",
+      "name": {
+        "ja": "手をつなぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手をつなぐ",
+        "二人",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が星の飾りのあるそりのような乗り物に乗っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7741",
+      "name": {
+        "ja": "そりで出かける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "そりのような乗り物",
+        "星",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が先端に飾りのある帽子をかぶって並んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7742",
+      "name": {
+        "ja": "パーティー帽子をかぶる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パーティー帽子",
+        "二人",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が大きなピンクのハートに寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7743",
+      "name": {
+        "ja": "ハートに寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "寄り添う",
+        "小さな動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑とピンクの人物が星形の飾りのある衣装を着ている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7744",
+      "name": {
+        "ja": "星の衣装で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星形の飾り",
+        "青い衣装",
+        "ピンクの衣装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の上に「THANK YOU」と表示されている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "7745",
+      "name": {
+        "ja": "感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "THANK YOU",
+        "星",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人がピンク色の雲の上で寄り添って横になっている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "7746",
+      "name": {
+        "ja": "雲の上で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雲",
+        "寄り添う",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が星空の三日月の上に座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "7747",
+      "name": {
+        "ja": "月で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三日月",
+        "星空",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が白い猫のような動物を抱いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7748",
+      "name": {
+        "ja": "猫と一緒に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い猫のような動物",
+        "抱く",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑の髪の人物がピンクの人物へ星の飾りを差し出している。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "7749",
+      "name": {
+        "ja": "贈り物を飾る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星の飾り",
+        "椅子",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の上に「HAPPY NEW YEAR」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7750",
+      "name": {
+        "ja": "新年を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "HAPPY NEW YEAR",
+        "正月らしい飾り",
+        "二人"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "686",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

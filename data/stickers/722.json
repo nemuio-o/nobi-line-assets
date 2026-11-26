@@ -1,0 +1,1166 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色いクマが青い帽子と赤い服を身につけ、黄色い靴のようなものを両足に着けて座っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8679",
+      "name": {
+        "ja": "青い帽子で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "赤い服",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが二人並び、紫と青のリボンを着けて寄り添っている。頭上にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8680",
+      "name": {
+        "ja": "白い二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いキャラクター",
+        "リボン",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが赤い枠の看板の中に座り、上部に「HELLO」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8681",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "HELLOの看板"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "HELLO",
+        "看板",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが青いリボンと黄色い服を身につけ、両手に青いポンポンを持っている。横に応援を示す赤い文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8682",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "ポンポンで応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ポンポン",
+        "青いリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが赤い水玉模様の大きなリボンを頭に着けて立っている。周囲に黄色い星が散っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8683",
+      "name": {
+        "ja": "赤い水玉リボン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水玉リボン",
+        "星",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "飾りとろうそくが載った大きなケーキが描かれ、上部に「HAPPY BIRTHDAY」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8684",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "誕生日ケーキ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "誕生日",
+        "ケーキ",
+        "ろうそく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターと黄色いキャラクターが、赤と黄色の大きな箱を一緒に運んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8685",
+      "name": {
+        "ja": "箱を運ぶ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "プレゼント箱",
+        "運ぶ",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉リボンを着けたキャラクターが座り、片手を上げてポーズを取っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8686",
+      "name": {
+        "ja": "赤いリボンでポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いリボン",
+        "ポーズ",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが座り、片手に青い文字のようなもの、もう片手に赤い丸のようなものを持っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "8687",
+      "name": {
+        "ja": "文字を持って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "文字",
+        "座る",
+        "小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉リボンを着けた茶色いクマが、両手で顔を覆っている。周囲にピンクの花がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "8688",
+      "name": {
+        "ja": "顔を隠して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いリボン",
+        "顔を隠す",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが紫のリボンを着けて座り、横に「CALL ME」と書かれている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "8689",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "電話してね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "CALL ME",
+        "白いキャラクター",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉リボンを着けた二体の茶色いクマが向かい合い、頭上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "8690",
+      "name": {
+        "ja": "向かい合ってハート"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "向かい合う",
+        "赤いリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが横になって目を閉じ、そばに黄色い靴のようなものが見える。下に「おやすみ」と書かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8691",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "おやすみのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おやすみ",
+        "横になる",
+        "黄色い靴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが青い服で立ち、横に大きな青い疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "8692",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "白いキャラクターと疑問符"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "白いキャラクター",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二体のクマが並んで歩き、下に外出を示す赤い日本語の文字が書かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8693",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "出かける二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "外出",
+        "赤い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫の服と大きな紫のリボンを身につけた白いキャラクターが、両手を広げて動いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8694",
+      "name": {
+        "ja": "紫の服で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫の服",
+        "リボン",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクター二体が赤いリボンの贈り物を前に並び、下に「おめでとう」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8695",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "贈り物でお祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "お祝い",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが片手を上げ、横に太陽の絵と「おはよう」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8696",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "朝のあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "朝",
+        "太陽",
+        "おはよう"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが紫のリボンを着けて片手を上げ、周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8697",
+      "name": {
+        "ja": "手を振る白いキャラクター"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "白いキャラクター",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが体をひねって振り返り、目を見開いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "8698",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り返る",
+        "驚き",
+        "茶色いクマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉リボンを着けたクマを中央に、三体のクマが重なるように寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8699",
+      "name": {
+        "ja": "三人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "寄り添う",
+        "赤いリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが片手を上げて動き、横に青い日本語の文字が書かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "8700",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "白いキャラクターが急ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "急ぐ",
+        "白いキャラクター",
+        "青い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが仰向けに倒れ、上に赤い日本語の驚きを示す文字がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "8701",
+      "name": {
+        "ja": "びっくりして倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "倒れる",
+        "赤い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色や黄色のキャラクターが複数並び、中央付近に白いキャラクターもいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8702",
+      "name": {
+        "ja": "みんなで並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数のキャラクター",
+        "並ぶ",
+        "小さなキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターと黄色いキャラクターが並び、下に「Hello」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8703",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "二人のハロー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "HELLO",
+        "二人",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが横になって目を閉じ、下に青い「ねむい…」という文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8704",
+      "name": {
+        "ja": "眠そうに横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠い",
+        "横になる",
+        "青い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが片手を上げ、横に大きく「YES」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8705",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "白いキャラクターの返事"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "白いキャラクター",
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマがこちらに背を向けて立っている。背景に淡い青色の縦線がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8706",
+      "name": {
+        "ja": "背を向けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "茶色いクマ",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが紫のリボンを着けて立ち、下に「こんばんは」と書かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8707",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "夜のあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "こんばんは",
+        "夜",
+        "白いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二体の茶色いキャラクターが並んで座り、前に赤い楽器のようなものを置いている。周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8708",
+      "name": {
+        "ja": "二人で音楽"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "二人",
+        "楽器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉リボンを着けた茶色いクマが座り、周囲に月と星がある。下に「おやすみ」と書かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8709",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "星空でおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おやすみ",
+        "月",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが紫のリボンを着けて手を上げ、横に「いいね」と黄色いハートがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8710",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "いいねのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "いいね",
+        "白いキャラクター",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉リボンを着けた茶色いクマが、床に伏せて目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8711",
+      "name": {
+        "ja": "伏せて休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "伏せる",
+        "赤いリボン",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが両手を広げ、頭上に黄色い電球のようなものと赤い放射線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "8712",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電球",
+        "ひらめき",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターと黄色いキャラクターが並んで座り、下に黄色い日本語の文字が書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8713",
+      "name": {
+        "ja": "二人でよろしく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "座る",
+        "黄色い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉リボンを着けた茶色いクマが片手を上げ、下に「またね♪」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8714",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "またねと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "またね",
+        "手を振る",
+        "赤いリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが青い帽子と青い服を身につけて座り、下に「ただいま」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8715",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ただいまの帰宅"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ただいま",
+        "青い帽子",
+        "帰宅"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターがピンクのリボンを着けて座り、横にハート、下に「おかえり」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8716",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "おかえりの出迎え"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おかえり",
+        "ピンクのリボン",
+        "出迎え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターがチェック柄のリボンを着けて座り、横に赤い「うん！」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8717",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "うんと返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うん",
+        "返事",
+        "チェック柄リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "チェック柄のリボンを着けた茶色いクマが座り、横に「へえ〜」と書かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "8718",
+      "name": {
+        "ja": "へえと聞く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "へえ",
+        "聞く",
+        "チェック柄リボン"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "722",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

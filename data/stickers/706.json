@@ -1,0 +1,1131 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色と白の動物が頬を赤らめ、目を閉じて座っている。周囲に小さな花と青いしずくのような図形がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "8271",
+      "name": {
+        "ja": "頬を赤らめて目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬を赤らめる",
+        "目を閉じる",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が両手を頬に添えて笑い、周囲に赤とピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8272",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "両手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物がうつむいて座り、両目から大きな涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "8273",
+      "name": {
+        "ja": "涙を流してうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "うつむく",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が笑顔で立ち、頭の周囲に黄色いきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8274",
+      "name": {
+        "ja": "きらめきの中で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "笑顔",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が座り、近くを落ち葉が飛ぶ中で前方を見つめている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "8275",
+      "name": {
+        "ja": "葉を見つめて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち葉",
+        "座る",
+        "しょんぼり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が両手を上げて立ち、体の周囲に青い汗のような線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "8276",
+      "name": {
+        "ja": "汗をかいて両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "両手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が腕を組んで立ち、頭上に赤い怒りの記号がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8277",
+      "name": {
+        "ja": "怒って腕を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が赤い格子柄の枕に顔を乗せ、横になって眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8278",
+      "name": {
+        "ja": "枕で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "枕",
+        "睡眠",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が額縁の前に座り、額の中の絵のようなものを見ている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "8279",
+      "name": {
+        "ja": "額縁の前で眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "額縁",
+        "眺める",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が床に体を伸ばして伏せ、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "8280",
+      "name": {
+        "ja": "床に伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "床",
+        "伏せる",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が大きなとうもろこしと緑の葉を抱えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8281",
+      "name": {
+        "ja": "とうもろこしを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "とうもろこし",
+        "野菜",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が数枚の紙のようなものを抱え、口元に手を添えている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "8282",
+      "name": {
+        "ja": "紙を抱えて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙",
+        "抱える",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が、赤いカニのように見えるものを片手で掲げている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "8283",
+      "name": {
+        "ja": "赤いものを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いもの",
+        "掲げる",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が体を低くして走り、周囲に青い汗のような線が出ている。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "8284",
+      "name": {
+        "ja": "汗をかいて駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が片手を上げて笑い、頭上に赤い「OK!」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8285",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKと手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "手を上げる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が緑色の小舟に乗り、水面に浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "8286",
+      "name": {
+        "ja": "小舟に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小舟",
+        "水面",
+        "乗る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が座って首をかしげ、頭の横に紫色の疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "8287",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "首をかしげる",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が木箱の開口部から顔を出し、周囲に青い葉のようなものが見える。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "8288",
+      "name": {
+        "ja": "木箱から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木箱",
+        "顔を出す",
+        "隠れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が両手を上げて驚き、目の前を黒い鳥が飛んでいる。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "8289",
+      "name": {
+        "ja": "鳥に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "驚く",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が青と赤の大きな筒状の荷物を抱え、体を伸ばして運んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "8290",
+      "name": {
+        "ja": "大きな荷物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "運ぶ",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が大きな渦巻き模様のキャンディーを持って笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8291",
+      "name": {
+        "ja": "キャンディーを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャンディー",
+        "花",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が泡の浮いた浴槽につかり、そばに黄色いアヒルのようなものが浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8292",
+      "name": {
+        "ja": "泡の中でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "浴槽",
+        "泡",
+        "アヒル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が木の札を掲げ、札には「THANK YOU」と書かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "8293",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "感謝の札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "札",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が赤い柵の後ろから顔を出している。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8294",
+      "name": {
+        "ja": "柵の後ろから顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "柵",
+        "顔を出す",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が前かご付きの自転車に乗って進んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8295",
+      "name": {
+        "ja": "自転車で進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "かご",
+        "移動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が、帽子をかぶった人物に抱き寄せられている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8296",
+      "name": {
+        "ja": "抱きしめてもらう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "人物",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が水しぶきの中にいて、赤い丸いものを抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8297",
+      "name": {
+        "ja": "水しぶきの中で遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "赤いもの",
+        "遊ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が大きく口を開け、口元に青い泡のような丸が浮かんでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "8298",
+      "name": {
+        "ja": "あくびをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あくび",
+        "眠気",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い帽子をかぶった茶色と白の動物が、湯気の立つ鍋を前に料理している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8299",
+      "name": {
+        "ja": "湯気の立つ鍋を料理する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鍋",
+        "料理",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が椅子に座り、テーブルの上の器とスプーンの前にいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8300",
+      "name": {
+        "ja": "テーブルで食事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テーブル",
+        "食事",
+        "椅子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が座って体を後ろに傾け、口元から白い息のような形が出ている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8301",
+      "name": {
+        "ja": "息をついて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "ため息",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物がハンモックに横たわり、そばに飲み物と音符がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8302",
+      "name": {
+        "ja": "ハンモックでくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハンモック",
+        "飲み物",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が赤と緑のリボン付きの贈り物を両手で抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8303",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "贈り物を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "リボン",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が木箱の開口部から顔を出し、笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8304",
+      "name": {
+        "ja": "木箱から笑顔を見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木箱",
+        "笑顔",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が、黄色い小さな動物を両手で抱いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8305",
+      "name": {
+        "ja": "小さな仲間を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱く",
+        "小さな動物",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の茶色と白の動物が並び、頬を寄せ合っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8306",
+      "name": {
+        "ja": "頬を寄せ合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "頬を寄せる",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が机の前に座り、モニター画面に向かっている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8307",
+      "name": {
+        "ja": "画面に向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "モニター",
+        "机",
+        "作業"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が机に向かい、積まれた本のそばで開いた本を読んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8308",
+      "name": {
+        "ja": "本を読んで勉強する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "勉強",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い画面のようなものの前に、茶色と白の動物が犬のような大きな動物と並んで座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8309",
+      "name": {
+        "ja": "画面の前で過ごす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "画面",
+        "犬",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の動物が屋外で洗濯物を干し、手前に水の入ったたらいのような容器がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8310",
+      "name": {
+        "ja": "外で洗濯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "洗濯",
+        "物干し",
+        "屋外"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "706",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

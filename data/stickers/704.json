@@ -1,0 +1,1119 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服のキャラクターが片手を上げ、もう片方の手で親指を立てている。そばに大きく「OK」と見える文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8191",
+      "name": {
+        "ja": "OKを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "親指",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着たキャラクターが両手を頬に添え、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8192",
+      "name": {
+        "ja": "ハートに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "頬に手",
+        "紫色の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが両手を握って上げ、片足を上げて跳ねている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8193",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "ジャンプ",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服を着たキャラクターが胸元で大きなピンク色のハートを抱えている。周囲に光の表現がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8194",
+      "name": {
+        "ja": "ハートを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱える",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが胸の前で手を合わせ、周囲に淡い点や花びらのような形が描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8195",
+      "name": {
+        "ja": "手を合わせて頼む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を合わせる",
+        "紫色の服",
+        "点模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが体を横にして倒れ、帽子が離れ、周囲に動きの線が出ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "8196",
+      "name": {
+        "ja": "勢いよく転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "帽子",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服のキャラクターが机に向かい、画面のある機器を操作している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8197",
+      "name": {
+        "ja": "机で作業する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "画面",
+        "作業"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが低い横線の向こうから顔と両手を出し、目を細めている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "8198",
+      "name": {
+        "ja": "机から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "机",
+        "目を細める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "水色の服のキャラクターが両手を上げ、片足を折り曲げて跳ねている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8199",
+      "name": {
+        "ja": "両手を上げて跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "両手",
+        "水色の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが口を開け、両手を広げて笑っている。左右に揺れを示す線がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8200",
+      "name": {
+        "ja": "声を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑う",
+        "両手",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが画面の端から身を乗り出し、片手をこちらへ伸ばしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8201",
+      "name": {
+        "ja": "横から手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "身を乗り出す",
+        "片手",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが顔のそばに手を添え、目の下に青い涙のような線がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "8202",
+      "name": {
+        "ja": "涙を浮かべて手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "顔に手",
+        "紫色の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが頬に手を当て、周囲に赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8203",
+      "name": {
+        "ja": "頬を寄せて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "頬に手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが大きな赤いハートのそばで口を開け、片手を上げている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8204",
+      "name": {
+        "ja": "大きなハートを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きなハート",
+        "片手",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子と黒い服のキャラクターが片手を上げて立ち、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8205",
+      "name": {
+        "ja": "華やかにポーズを決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポーズ",
+        "きらめき",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "2人のキャラクターが並び、上部に「THANK YOU」と読める大きな文字がある。周囲に花や星が描かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "8206",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "THANK YOU",
+        "2人",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "2人のキャラクターが並んで歩き、複数の色付きの買い物袋を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8207",
+      "name": {
+        "ja": "一緒に買い物へ行く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "2人",
+        "買い物袋",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが画面の端から顔を出し、片手を広げている。近くに小さなハートがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8208",
+      "name": {
+        "ja": "横から手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "手を広げる",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが仰向けに倒れ、両足を上げている。周囲に黄色い動きの線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "8209",
+      "name": {
+        "ja": "仰向けに倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "両足",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが片足を前に出し、横を向いて歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8210",
+      "name": {
+        "ja": "歩いて進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "青い服",
+        "移動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "2人のキャラクターが並んで動き、周囲に紙吹雪やハート、星のような記号が舞っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8211",
+      "name": {
+        "ja": "2人で盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "2人",
+        "紙吹雪",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが前へ手を伸ばして走り、周囲に青い汗のような線がある。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "8212",
+      "name": {
+        "ja": "汗をかいて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが腕を組み、周囲に淡い花が浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8213",
+      "name": {
+        "ja": "花に囲まれて照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "腕組み",
+        "紫色の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが正面を向いて立ち、頭の左右に緑色の疑問符がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "8214",
+      "name": {
+        "ja": "疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "正面",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが片手を頬に添え、横に大きく「YES」と読める文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8215",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "同意",
+        "頬に手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが腰に両手を当て、左右に大きく「NO」と読める文字がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8216",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "腰に手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "2人のキャラクターが買い物袋をいくつも持って歩き、足元に色付きの小さな四角形が並んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8217",
+      "name": {
+        "ja": "2人で買い物をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "2人",
+        "買い物袋",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが両腕を広げて跳ね、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8218",
+      "name": {
+        "ja": "ハートを広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "両腕",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服のキャラクターが両手に黄色いポンポンのような丸い飾りを持ち、音符のそばで踊っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8219",
+      "name": {
+        "ja": "ポンポンを持って踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポンポン",
+        "踊る",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが膝をつき、片手で頭を覆っている。背景に縦の線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8220",
+      "name": {
+        "ja": "膝をついて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "膝をつく",
+        "頭を覆う",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが体をひねって立ち、周囲に青い怒りのような記号がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8221",
+      "name": {
+        "ja": "怒って身をよじる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "体をひねる",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが前方へ体を低くして走り、後ろに水色の動きの線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "8222",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "動きの線",
+        "前進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが片目をハート形にして歩き、周囲に赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8223",
+      "name": {
+        "ja": "ハートを飛ばして歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "歩く",
+        "片目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "2人のキャラクターがテーブルを挟んで向かい合い、中央に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8224",
+      "name": {
+        "ja": "食卓で向かい合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "2人",
+        "テーブル",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが横になって眠り、頭上に「Z」の記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8225",
+      "name": {
+        "ja": "横になって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "横になる",
+        "Z記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが顔に手を添え、周囲に赤い疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "8226",
+      "name": {
+        "ja": "疑問を抱えて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "顔に手",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが両手を頬に添えて縮こまり、体の周囲に細かな震えの線がある。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "8227",
+      "name": {
+        "ja": "縮こまって震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震え",
+        "縮こまる",
+        "頬に手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが両手を広げ、周囲に青い汗のような線を出している。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "8228",
+      "name": {
+        "ja": "汗をかいて慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "両手",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服のキャラクターが両手を上げ、頭の左右に赤いびっくりマークがある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "8229",
+      "name": {
+        "ja": "驚いて両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "びっくりマーク",
+        "両手",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが床に座り、片手を頭に添えている。近くに紫色の音符のような記号がある。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "8230",
+      "name": {
+        "ja": "座って困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "頭に手",
+        "記号"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "704",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

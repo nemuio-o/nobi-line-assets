@@ -1,0 +1,1120 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "短髪の少年が白いシャツの前を整えながら、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7511",
+      "name": {
+        "ja": "シャツを整える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "白いシャツ",
+        "服装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年がこちらに向かって勢いよく走り、周囲に放射状の動きの線が出ている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7512",
+      "name": {
+        "ja": "勢いよく駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "走る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が頬を赤らめ、横を向いて照れたような表情をしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7513",
+      "name": {
+        "ja": "照れて目をそらす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "赤面",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が膝を抱えて座り、うつむいたように見える。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "7514",
+      "name": {
+        "ja": "膝を抱えて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "膝を抱える",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と青の服を着た少年が、体をひねって両腕を下げ、身構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7515",
+      "name": {
+        "ja": "青い服で身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "青い服",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子をかぶった女性が、横を向いて立っている。帽子のそばに短い英字のような文字が見えるが、判読は不確か。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7516",
+      "name": {
+        "ja": "帽子をかぶって横を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "帽子",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が目を見開き、両手を口元に当てている。背後に黄色い強調線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "7517",
+      "name": {
+        "ja": "驚いて手を口元へ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "驚き",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の女性が片手で指の合図をし、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7518",
+      "name": {
+        "ja": "ハートを添えて合図する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ハート",
+        "指の合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の女性が腰に手を当て、眉を寄せて怒った表情をしている。頭のそばに赤い怒りの記号がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "7519",
+      "name": {
+        "ja": "腰に手を当てて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤い服",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の女性が汗のしずくを浮かべ、両腕を振って走っている。"
+      },
+      "emotion": [
+        "tired",
+        "fear"
+      ],
+      "id": "7520",
+      "name": {
+        "ja": "汗をかいて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "汗",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の女性がピンク色のぬいぐるみを抱え、口元に吹き出しのような線を出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7521",
+      "name": {
+        "ja": "ぬいぐるみを抱えて話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ぬいぐるみ",
+        "会話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が床に両手をつき、片脚を伸ばしてうつぶせに近い姿勢になっている。そばに靴が脱げている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7522",
+      "name": {
+        "ja": "床に手をつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "床",
+        "倒れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い服を着た二人の人物が並んで立っている。手前の人物は眼鏡のようなものをかけているが、細部は不明確。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7523",
+      "name": {
+        "ja": "二人で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "男性",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が鍵盤楽器を弾き、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7524",
+      "name": {
+        "ja": "キーボードを弾く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "キーボード",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が横になり、周囲を紫色の花で囲まれている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "7525",
+      "name": {
+        "ja": "花に囲まれて休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "花",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が片手を頭の後ろに回し、困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "7526",
+      "name": {
+        "ja": "頭をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白髪",
+        "頭をかく",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が目を細め、口元から白い息のような線を出している。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7527",
+      "name": {
+        "ja": "ため息をつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "ため息",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が目を閉じ、穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7528",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白髪",
+        "笑顔",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が首をかしげ、左右に疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "7529",
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "疑問符",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が床に座り、左右を積み上がった本に挟まれている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "7530",
+      "name": {
+        "ja": "本の山に埋もれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "本",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の二人の人物が、体を寄せ合うように並んで立っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "7531",
+      "name": {
+        "ja": "寄り添って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "青い髪",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服の女性が両手を広げ、周囲に音符を浮かべて踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7532",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "音符",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が一枚の布団にくるまって横になり、頭上に眠りを示す記号が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7533",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "布団",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と白で描かれた鳥のようなキャラクターが立ち、背後に黄色い六角形状の光が広がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "7534",
+      "name": {
+        "ja": "光の中で構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥のようなキャラクター",
+        "光",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒白の鳥のようなキャラクターが、翼を広げて右方向へ走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7535",
+      "name": {
+        "ja": "勢いよく走る鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "走る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が指の間に細長いものを持ち、険しい表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7536",
+      "name": {
+        "ja": "指に何かを持って構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白髪",
+        "手に細長いもの",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い眼鏡をかけた女性が、目を細めて正面を鋭く見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "7537",
+      "name": {
+        "ja": "眼鏡越しににらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤い眼鏡",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の細い線で描かれた人物のようなシルエットが、片腕を上げて立っている。細部は不明確。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "7538",
+      "name": {
+        "ja": "影の人物が立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "影",
+        "人物",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が大きなカメラを正面に向け、片目をつぶって撮影している。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "7539",
+      "name": {
+        "ja": "カメラを向ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "カメラ",
+        "撮影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が両腕で食べ物のようなものを抱え、口を大きく開けて笑っている。内容物の詳細は不明確。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7540",
+      "name": {
+        "ja": "食べ物を抱えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "食べ物",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機械的なキャラクターが両手を広げ、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "7541",
+      "name": {
+        "ja": "手を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の機体",
+        "ハート",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と紫の機械的なキャラクターが、前方へ勢いよく進んでいる。背後に速度線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7542",
+      "name": {
+        "ja": "機体で突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い機体",
+        "突進",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機械的なキャラクターが手のひらを前に向け、画像中央に「STOP」と表示されている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "7543",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "手を掲げて止める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の機体",
+        "手のひら",
+        "STOP"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機械的なキャラクターが正面を向き、両手を広げている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "7544",
+      "name": {
+        "ja": "両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の機体",
+        "両手",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機械的なキャラクターが体を傾けて動き、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7545",
+      "name": {
+        "ja": "音楽に合わせて動く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の機体",
+        "音符",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細身の機械的なキャラクターが街並みを背景に立ち、上空に明るい光の帯が伸びている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "7546",
+      "name": {
+        "ja": "街を背に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機械的なキャラクター",
+        "街並み",
+        "夕景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機械的なキャラクターが、英字で「MERRY CHRISTMAS」と書かれた箱から飛び出している。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "7547",
+      "name": {
+        "ja": "箱から飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の機体",
+        "箱",
+        "MERRY CHRISTMAS"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機械的なキャラクターが斜め向きの姿勢で描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7548",
+      "name": {
+        "ja": "斜め向きに構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の機体",
+        "斜め向き",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機械的なキャラクターが、頭部を下にした逆さの向きで描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "7549",
+      "name": {
+        "ja": "逆さに構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の機体",
+        "逆さ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金色の機械的なキャラクターが街並みを背景に描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "7550",
+      "name": {
+        "ja": "街を背景にたたずむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金色の機体",
+        "街並み",
+        "夕景"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "681",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
