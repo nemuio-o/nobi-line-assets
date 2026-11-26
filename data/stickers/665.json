@@ -1,0 +1,1115 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "仮面の人物が正面を向き、両手を握って立っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7143",
+      "name": {
+        "ja": "正面で構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "握りこぶし",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が片手を前方へ指差し、もう一方の腕を引いている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7144",
+      "name": {
+        "ja": "指差して構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "腕を引く",
+        "構え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が両腕を左右に広げ、片足を踏み出している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7145",
+      "name": {
+        "ja": "両腕を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "踏み出す",
+        "構え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が片手の親指を立て、もう一方の手を腰に置いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7146",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "腰に手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が体を横向きに浮かせ、片腕を前へ伸ばしている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "7147",
+      "name": {
+        "ja": "空中で腕を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "空中",
+        "腕を伸ばす",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が両手を前に広げ、体を反らせている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "7148",
+      "name": {
+        "ja": "手を広げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "手を広げる",
+        "反る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が片手のひらを正面に向け、もう一方の手を胸元に置いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "7149",
+      "name": {
+        "ja": "手のひらを向ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "胸元",
+        "制止"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が片手を上げ、両足を広げて立っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7150",
+      "name": {
+        "ja": "片手を上げて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "構え",
+        "両足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が口元に指を添え、片手を腰に置いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7151",
+      "name": {
+        "ja": "口元に指を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "指",
+        "腰に手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が片脚を前方へ大きく蹴り出している。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "7152",
+      "name": {
+        "ja": "前へ蹴り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蹴り",
+        "片脚",
+        "前方"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が片脚を高く蹴り上げ、黒い姿に向かっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7153",
+      "name": {
+        "ja": "大きく蹴り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蹴り上げる",
+        "片脚",
+        "対峙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が黒い姿に向かって片拳を突き出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7154",
+      "name": {
+        "ja": "拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "突き出す",
+        "対峙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が片拳を前へ突き出し、もう一方の腕を伸ばしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7155",
+      "name": {
+        "ja": "拳を前へ出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "腕を伸ばす",
+        "攻撃姿勢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い姿が片腕を頭上へ振り上げ、体を傾けている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7156",
+      "name": {
+        "ja": "片腕を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片腕",
+        "振り上げる",
+        "黒い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い姿が複数並び、腕を上げて立っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7157",
+      "name": {
+        "ja": "並んで腕を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数",
+        "腕を上げる",
+        "列"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い姿と仮面の人物が並んで歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7158",
+      "name": {
+        "ja": "並んで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "歩く",
+        "同行"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い姿が複数、横一列に並んで走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7159",
+      "name": {
+        "ja": "列になって走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数",
+        "走る",
+        "横一列"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い姿が自転車にまたがり、ハンドルを握っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7160",
+      "name": {
+        "ja": "自転車に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "またがる",
+        "ハンドル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い姿と仮面の人物が近くで向かい合うように立っている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "7161",
+      "name": {
+        "ja": "向かい合って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "向かい合う",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の顔が正面を向き、大きく口を開けたように見える。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "7162",
+      "name": {
+        "ja": "仮面の顔を見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仮面",
+        "正面",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物がバイクに乗り、車体を傾けて走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7163",
+      "name": {
+        "ja": "バイクで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バイク",
+        "走る",
+        "傾ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物がバイクにまたがり、ハンドルを握っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7164",
+      "name": {
+        "ja": "バイクにまたがる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バイク",
+        "またがる",
+        "ハンドル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が両拳を握って構え、背後に炎が上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7165",
+      "name": {
+        "ja": "炎を背負って構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "両拳",
+        "構え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が両腕を下げて立ち、全身を炎が囲んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7166",
+      "name": {
+        "ja": "炎に囲まれて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "立つ",
+        "全身"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が片腕を後ろへ引き、片脚を上げて走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7167",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "片脚",
+        "腕を引く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が両腕を上げ、片脚を曲げて跳び上がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7168",
+      "name": {
+        "ja": "腕を上げて跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "跳ぶ",
+        "両腕",
+        "片脚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が両手を頭上に上げ、まっすぐ跳び上がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7169",
+      "name": {
+        "ja": "両手を上げて跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "跳ぶ",
+        "頭上"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が二人並び、片方がもう片方に寄り添って立っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "7170",
+      "name": {
+        "ja": "二人で並んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "並ぶ",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が口元に指を当て、もう一方の腕を下げている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7171",
+      "name": {
+        "ja": "口元に指を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "指",
+        "片腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が両腕を交差させ、手のひらを前へ向けている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "7172",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "両腕で拒む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "交差",
+        "手のひら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が片拳を頭上に掲げ、もう一方の拳を胸元で握っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7173",
+      "name": {
+        "ja": "拳を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "掲げる",
+        "胸元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が歩きながら片手を顔の横で上げ、もう一方の腕を下げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7174",
+      "name": {
+        "ja": "歩きながら手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "片手",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と黒の姿が両腕を組み、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7175",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "正面",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と赤の姿が両手を頭上へ上げ、片足を踏み出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7176",
+      "name": {
+        "ja": "両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "踏み出す",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が複数、段差をつけて並んで立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7177",
+      "name": {
+        "ja": "複数で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数",
+        "並ぶ",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が両手を上げ、触手のような形を周囲に広げて立っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "7178",
+      "name": {
+        "ja": "両手を上げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "白い姿",
+        "広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と橙色の姿が翼のような形を左右に広げ、両腕を上げている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7179",
+      "name": {
+        "ja": "翼を広げて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "翼",
+        "両腕",
+        "構え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と黄色の姿が片手に剣を持ち、もう一方の手を前へ伸ばしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7180",
+      "name": {
+        "ja": "剣を持って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "剣",
+        "片手",
+        "腕を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い姿が両腕を左右に広げ、尾のような形を背後に上げている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "7181",
+      "name": {
+        "ja": "腕を広げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "青い姿",
+        "尾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が片腕を上げ、もう一方の腕を曲げて構えている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "7182",
+      "name": {
+        "ja": "片腕を上げて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片腕",
+        "構え",
+        "緑色"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "665",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

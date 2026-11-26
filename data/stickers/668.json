@@ -1,0 +1,1164 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物が片手の人差し指を前方に向けて指さしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7263",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "人差し指で指さす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指さす",
+        "片手",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を広げ、そばに赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7264",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ハートと腕を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "両腕",
+        "赤"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を頭の後ろに回して髪をかき、吹き出しに「あ〜恋愛してぇ」とある。"
+      },
+      "emotion": [
+        "love",
+        "sadness"
+      ],
+      "id": "7265",
+      "name": {
+        "ja": "恋愛してぇ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "髪",
+        "片手",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が街灯のそばで、両手をポケットに入れて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7266",
+      "name": {
+        "ja": "街灯のそばに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "街灯",
+        "立つ",
+        "ポケット"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い小さな花を持ち、吹き出しに「恋だね」とある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7267",
+      "name": {
+        "ja": "恋だね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "恋",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横たわり、片手を頭に添えて目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7268",
+      "name": {
+        "ja": "横たわって頭を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "頭",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が壁の向こうから顔をのぞかせ、片手で黄色い面を押さえている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "7269",
+      "name": {
+        "ja": "壁の向こうからのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "壁",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が背を向け、片手を背中に回して赤いハート形を隠している。"
+      },
+      "emotion": [
+        "love",
+        "confusion"
+      ],
+      "id": "7270",
+      "name": {
+        "ja": "背中にハートを隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "ハート",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が灰色の場所にうつ伏せになり、力なく沈み込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7271",
+      "name": {
+        "ja": "うつ伏せで沈む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつ伏せ",
+        "沈む",
+        "灰色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片腕を伸ばし、背後の大きなピンク色のハートを示している。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7272",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "大きなハートを差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "腕を伸ばす",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手の指でピースサインを作っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7273",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手でピース"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピース",
+        "両手",
+        "指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が背を向け、赤いリボンの付いた白い贈り物のそばに立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "love"
+      ],
+      "id": "7274",
+      "name": {
+        "ja": "贈り物を背に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "贈り物",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で双眼鏡を目元に当てている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "7275",
+      "name": {
+        "ja": "双眼鏡をのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "双眼鏡",
+        "両手",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向き、目を細めた無表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7276",
+      "name": {
+        "ja": "無表情で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "無表情",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤いリボンの付いた箱を両手で開けようとしている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "7277",
+      "name": {
+        "ja": "贈り物を開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "箱",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がカップを持ち、顔を赤らめている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7278",
+      "name": {
+        "ja": "赤面してカップを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カップ",
+        "赤面",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きなピンク色の花束を両手で持ち、顔を隠している。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7279",
+      "name": {
+        "ja": "花束で顔を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "両手",
+        "顔を隠す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きなピンク色の花束を持ち、横から顔をのぞかせている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7280",
+      "name": {
+        "ja": "花束を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "顔",
+        "贈る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を広げて踏ん張り、赤い文字で「まだいける!」とある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7281",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "まだいける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "踏ん張る",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腰を落として座り、眉を寄せた表情をしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7282",
+      "name": {
+        "ja": "力なく座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "眉",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を上げてうなだれ、赤い文字で「やっぱ無理だ！」とある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7283",
+      "name": {
+        "ja": "やっぱ無理だ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "うなだれ",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が女性を後ろから抱きしめている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7284",
+      "name": {
+        "ja": "後ろから抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "二人",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、後ろの人物が前の人物の肩に手を置いている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "7285",
+      "name": {
+        "ja": "肩に手を置く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が手すりの前に並び、後ろの人物が前の人物に寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "7286",
+      "name": {
+        "ja": "手すりで寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手すり",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が身を乗り出し、吹き出しに「愛してる」とある。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "7287",
+      "name": {
+        "ja": "愛してる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "愛情",
+        "吹き出し",
+        "前かがみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が隣の人物へ顔を寄せ、近づいている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7288",
+      "name": {
+        "ja": "顔を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "顔を寄せる",
+        "近づく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手をポケットに入れ、目を閉じて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "7289",
+      "name": {
+        "ja": "ポケットに手を入れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポケット",
+        "目を閉じる",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の親指を立て、吹き出しに「こうしー」とある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7290",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "こうしー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "吹き出し",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片腕を曲げて振り、前へ進むような姿勢をしている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7291",
+      "name": {
+        "ja": "腕を振って進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕",
+        "進む",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片腕を曲げて構え、吹き出しに「行くぜ」とある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7292",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "行くぜ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片腕",
+        "吹き出し",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がしゃがみ込み、吹き出しに「帰ろっか」とある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7293",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "帰ろっか"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しゃがむ",
+        "吹き出し",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が両手を上げ、手を合わせている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7294",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ハイタッチ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "両手",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がろうそくの立ったケーキを両手で持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7295",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ケーキを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ケーキ",
+        "ろうそく",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を上げ、黄色い強調文字に囲まれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "7296",
+      "name": {
+        "ja": "両手を上げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "驚き",
+        "黄色",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組んで机に伏せ、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7297",
+      "name": {
+        "ja": "机に伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "腕組み",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の指を口元に当てている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "7298",
+      "name": {
+        "ja": "口元に指を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "指",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の背景の上で、人物の黒い影が片足を上げて踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7299",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "夕景で踊る影"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "影",
+        "踊る",
+        "夕景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、肩を組んで歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "7300",
+      "name": {
+        "ja": "二人で肩を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩を組む",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が抱き合い、前の人物の顔から青い涙が流れている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "7301",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "泣きながら抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "涙",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横になって布団を持ち上げ、吹き出しに「こいよ」とある。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "7302",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "布団から誘う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "布団",
+        "吹き出し"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "668",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

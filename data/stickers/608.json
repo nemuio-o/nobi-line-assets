@@ -1,0 +1,1124 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "丸い人物が両目から青い涙を流し、眉を下げて口を開けている。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "5495",
+      "name": {
+        "ja": "涙を流して叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "叫ぶ",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸い人物が青い水しぶきの中で赤い筒状の物を振り回している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5496",
+      "name": {
+        "ja": "赤い筒を振り回す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い物",
+        "振り回す",
+        "水しぶき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で顔を覆い、目元から青い涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "5497",
+      "name": {
+        "ja": "顔を覆って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "顔を覆う",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が座って膝を抱え、目元から青い涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5498",
+      "name": {
+        "ja": "座って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "膝を抱える",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が椅子に座り、頭を抱えながら青い涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5499",
+      "name": {
+        "ja": "椅子で泣き崩れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "頭を抱える",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに転がり、目を見開いて口を開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5500",
+      "name": {
+        "ja": "転がって慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転がる",
+        "目を見開く",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開け、舌を見せて叫ぶような表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "5501",
+      "name": {
+        "ja": "大口で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大口",
+        "舌",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を細め、口をすぼめた渋い表情をしている。"
+      },
+      "emotion": [
+        "disgust",
+        "anger"
+      ],
+      "id": "5502",
+      "name": {
+        "ja": "渋い顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を細める",
+        "口をすぼめる",
+        "渋い顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い人物が黄色い目を光らせ、歯をむき出しにして正面をにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5503",
+      "name": {
+        "ja": "赤い怒り顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い顔",
+        "黄色い目",
+        "歯をむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が歯を見せて笑い、片手の親指を立てている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5504",
+      "name": {
+        "ja": "歯を見せて親指"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "歯",
+        "親指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を細め、歯を見せてにやりと笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5505",
+      "name": {
+        "ja": "にやりと笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "にやり",
+        "歯",
+        "目を細める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い人物が目を閉じ、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5506",
+      "name": {
+        "ja": "黒い姿が笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い姿",
+        "笑う",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頬に指を当て、赤い目を見開いて戸惑った表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "5507",
+      "name": {
+        "ja": "指を当てて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "指",
+        "戸惑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がマイクのような物を持ち、口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5508",
+      "name": {
+        "ja": "マイクで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マイク",
+        "大口",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が舌を出して口を大きく開け、両手を下げてはしゃいでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5509",
+      "name": {
+        "ja": "舌を出してはしゃぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舌",
+        "大口",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きく口を開けて笑い、片手で横を指差している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5510",
+      "name": {
+        "ja": "指差して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "大笑い",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、口を開けて青い汗を飛ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5511",
+      "name": {
+        "ja": "驚いて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "汗",
+        "目を見開く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い人物が目を閉じて口を開け、口元から白い息のようなものを左右に出している。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5512",
+      "name": {
+        "ja": "青い姿で冷気を吐く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い姿",
+        "白い息",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と白の人物が口を開け、黄色い目で笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5513",
+      "name": {
+        "ja": "黒白の姿が笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒白",
+        "黄色い目",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色い大きな目を見開き、口を少し開けて立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "5514",
+      "name": {
+        "ja": "目を丸くして立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を見開く",
+        "立つ",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が茶色い熊のぬいぐるみと並び、片足を上げて跳ねるようなポーズをしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5515",
+      "name": {
+        "ja": "熊のぬいぐるみと跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "熊",
+        "ぬいぐるみ",
+        "片足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で灰色の布状の物を頭上に持ち上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "5516",
+      "name": {
+        "ja": "布を持ち上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布",
+        "両手",
+        "持ち上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が茶色い熊のそばに立ち、二人とも横向きに動いているような姿をしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5517",
+      "name": {
+        "ja": "熊と並んで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "熊",
+        "二人",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物がオレンジ色の姿の上に跳び上がり、片手を伸ばしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5518",
+      "name": {
+        "ja": "白い姿が跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "跳ぶ",
+        "片手",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が地面に座り込み、頭を下げて両手を前に垂らしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5519",
+      "name": {
+        "ja": "地面に座り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座り込む",
+        "頭を下げる",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がサングラスをかけ、両手を腰付近に置いてポーズを決めている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5520",
+      "name": {
+        "ja": "サングラスでポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "ポーズ",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い丸い姿を両腕で抱え、横向きに動いている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5521",
+      "name": {
+        "ja": "赤い姿を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い姿",
+        "抱える",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い服のような物を両手で引っ張り、力を込めている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5522",
+      "name": {
+        "ja": "赤い物を引っ張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "引っ張る",
+        "両手",
+        "赤い物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を左右に大きく広げ、青い放射状の線の前に立っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "5523",
+      "name": {
+        "ja": "両腕を広げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "放射線",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きになり、腕を大きく振っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5524",
+      "name": {
+        "ja": "横向きに腕を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横向き",
+        "腕を振る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤いバンダナを頭に巻き、床に座って片手を頬に当てている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5525",
+      "name": {
+        "ja": "赤いバンダナで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いバンダナ",
+        "座る",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤いバンダナを頭に巻き、黒い服で腕を組んで立っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5526",
+      "name": {
+        "ja": "赤いバンダナで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いバンダナ",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がうつぶせになり、頬を赤らめながら両手を前に伸ばしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5527",
+      "name": {
+        "ja": "うつぶせで頬を赤らめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつぶせ",
+        "赤ら顔",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横になり、口元に緑の葉の付いたオレンジ色の野菜を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "5528",
+      "name": {
+        "ja": "野菜を抱えて食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "野菜",
+        "横になる",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな茶色い骨のような物を両手で持ち、口を開けている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5529",
+      "name": {
+        "ja": "大きな骨を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "骨のような物",
+        "両手",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が瓶のような物を両手で抱え、青い涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5530",
+      "name": {
+        "ja": "瓶を抱えて泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "瓶",
+        "両手",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い物を片手で振り上げ、もう一方の腕を伸ばしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5531",
+      "name": {
+        "ja": "赤い物を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い物",
+        "振り上げる",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と黒の人物が赤い物を抱え、眉をひそめて怒った表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5532",
+      "name": {
+        "ja": "黄色い姿が怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い姿",
+        "怒り",
+        "赤い物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に倒れ、片腕を上に伸ばしながら青い汗を飛ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5533",
+      "name": {
+        "ja": "転びながら手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "片腕",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が座り、赤い物を両腕で抱えながら顔をしかめている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5534",
+      "name": {
+        "ja": "赤い物を抱えて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "抱える",
+        "赤い物"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "608",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

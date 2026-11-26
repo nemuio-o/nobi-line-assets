@@ -1,0 +1,1129 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白い人物が机の下で横になり、目を閉じて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5671",
+      "name": {
+        "ja": "机の下で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "横になる",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が赤い布をまとい、灰色の布を引き上げながら震えている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "5672",
+      "name": {
+        "ja": "毛布にくるまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "毛布",
+        "震える",
+        "赤い布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が歯を食いしばって目を閉じ、腕を抱えて震えている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "5673",
+      "name": {
+        "ja": "寒さに震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震える",
+        "歯を食いしばる",
+        "腕を抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が赤い自転車にまたがり、箱を持って勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5674",
+      "name": {
+        "ja": "自転車で疾走"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "走る",
+        "箱"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が茶色い人物の肩を支え、二人で歩いている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "5675",
+      "name": {
+        "ja": "肩を貸して歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "支える",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物と灰色の人物が机に向かい、灰色の人物が紙に書いている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5676",
+      "name": {
+        "ja": "机で一緒に書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "机",
+        "書く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が座る灰色の人物の背中に手を添えている。"
+      },
+      "emotion": [
+        "gratitude",
+        "sadness"
+      ],
+      "id": "5677",
+      "name": {
+        "ja": "背中をさする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "背中",
+        "手を添える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が机で紙に書きながら、壁の風景画を見ている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "5678",
+      "name": {
+        "ja": "絵を眺めて書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "書く",
+        "風景画"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が目を閉じ、青い涙を流しながら手で顔をぬぐっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5679",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "顔をぬぐう",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が紙を両手で持ち、眉を寄せて見つめている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "5680",
+      "name": {
+        "ja": "紙を見て困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙",
+        "困る",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が机に座り、口を大きく開けて笑いながら両手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5681",
+      "name": {
+        "ja": "机で大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大笑い",
+        "机",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物がスマートフォンの画面を見ながら、口元を上げて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "5682",
+      "name": {
+        "ja": "写真を見て笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スマートフォン",
+        "笑顔",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が赤いスプーンを口元に当て、茶色い人物が後ろから顔を寄せている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "5683",
+      "name": {
+        "ja": "二人で味見"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "スプーン",
+        "味見"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が腕を組み、厳しい目つきで立っている。後ろに茶色い人物がいる。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "5684",
+      "name": {
+        "ja": "腕組みで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "厳しい顔",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物と茶色い人物が並び、白い人物の頭上に赤い炎が上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5685",
+      "name": {
+        "ja": "怒りの炎を背負う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "怒り",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物と赤い人物が互いにつかみ合い、激しくぶつかっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5686",
+      "name": {
+        "ja": "二人で取っ組み合い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "つかみ合い",
+        "衝突"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物と白い人物が並び、白い人物が料理の皿を差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "5687",
+      "name": {
+        "ja": "食べ物を分ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "料理",
+        "差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物がサッカーボールを蹴り、茶色い人物が後ろから走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5688",
+      "name": {
+        "ja": "ボールを追う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サッカー",
+        "走る",
+        "ボール"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が飲み物の入ったグラスを掲げ、茶色い人物と一緒に飛び上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5689",
+      "name": {
+        "ja": "乾杯で飛び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乾杯",
+        "グラス",
+        "飛び上がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が太鼓をたたき、白い人物がギターを弾いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5690",
+      "name": {
+        "ja": "楽器を演奏する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "太鼓",
+        "ギター",
+        "演奏"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物がバケツをひっくり返して水をこぼし、茶色い人物がそばで立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5691",
+      "name": {
+        "ja": "水をこぼして慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水",
+        "バケツ",
+        "こぼす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物と茶色い人物が並んで前へ走り、白い人物が赤い拡声器を持っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5692",
+      "name": {
+        "ja": "二人で駆け出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "走る",
+        "拡声器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が背中を向け、赤い空を背景に立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "5693",
+      "name": {
+        "ja": "夕日に立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "夕日",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が壁の端から顔を出し、茶色い人物と並んでこちらを見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "5694",
+      "name": {
+        "ja": "壁から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "壁",
+        "顔を出す",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が険しい顔をし、後ろの人物に両肩を押さえられている。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "5695",
+      "name": {
+        "ja": "肩をもまれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肩",
+        "険しい顔",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が窓のそばで目をつぶり、歯を食いしばっている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "5696",
+      "name": {
+        "ja": "窓辺で歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "窓",
+        "歯を食いしばる",
+        "目をつぶる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物と茶色い人物が赤いひもを引っ張り合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5697",
+      "name": {
+        "ja": "二人で引っ張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ひも",
+        "引っ張る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が床に横たわり、片手で顔を覆っている。周囲に本や容器が置かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5698",
+      "name": {
+        "ja": "床で寝転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "顔を覆う",
+        "本"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が両腕を上げて踊り、周囲に紙が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5699",
+      "name": {
+        "ja": "紙をまき散らして踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "紙",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が本を開いて読みながら歩いている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "5700",
+      "name": {
+        "ja": "本を読んで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "読む",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が赤い料理の入った器を前に手を上げ、茶色い人物がそばにいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "5701",
+      "name": {
+        "ja": "食べ物を前に慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "器",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が両手に料理と飲み物を持ち、前へ進んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5702",
+      "name": {
+        "ja": "料理を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "飲み物",
+        "運ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が緑色の箱から顔を出し、口を大きく開けている。箱の前に赤いハートがある。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "5703",
+      "name": {
+        "ja": "箱から飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "顔を出す",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物と茶色い髪の人物が顔を寄せ、茶色い髪の人物が頬を赤らめている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5704",
+      "name": {
+        "ja": "頬を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "頬を寄せる",
+        "赤ら顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が本を抱えて立ち、壁の向こうから白い人物が顔を出している。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5705",
+      "name": {
+        "ja": "本を抱えて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "抱える",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が白い人物を指し、白い人物は涙を流して泣いている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "5706",
+      "name": {
+        "ja": "泣く相手を指さす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "指さす",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が驚いた表情で立ち、白い人物が片手の指を立てている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "5707",
+      "name": {
+        "ja": "驚いて指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が青い丸い姿と向き合い、手を差し出している。周囲に飾りがある。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "5708",
+      "name": {
+        "ja": "青い姿と向き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "青い姿",
+        "手を差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が机に向かい、山積みの紙を前に目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "5709",
+      "name": {
+        "ja": "山積みの紙を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙",
+        "机",
+        "山積み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が黒い上着と青いズボンで走り、片手にバッグを持っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5710",
+      "name": {
+        "ja": "バッグを持って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "バッグ",
+        "片手"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "614",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

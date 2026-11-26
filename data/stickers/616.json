@@ -1,0 +1,1128 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色のくまが体を横たえて、片腕を前に伸ばしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5751",
+      "name": {
+        "ja": "横たわるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "横たわる",
+        "片腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが顔を伏せ、目を閉じたようにしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "5752",
+      "name": {
+        "ja": "うつむくくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "うつむき",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いひよこが目を細め、頬を赤らめて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5753",
+      "name": {
+        "ja": "にっこりひよこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひよこ",
+        "笑顔",
+        "赤ら顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが目を伏せ、顔の周りに涙のような丸い印を浮かべている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "5754",
+      "name": {
+        "ja": "泣き顔の白いくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "涙",
+        "目を伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いひよこが両足で立ち、正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5755",
+      "name": {
+        "ja": "立つひよこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひよこ",
+        "立つ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが背を向け、頭を下げて立っている。頭の上に青い縦線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5756",
+      "name": {
+        "ja": "背を向けるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "後ろ姿",
+        "青い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いひよこが片目を細め、頭の上に怒りを示す印を浮かべている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5757",
+      "name": {
+        "ja": "怒り顔のひよこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひよこ",
+        "怒り",
+        "片目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが横向きに寝そべり、腕と脚を伸ばしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5758",
+      "name": {
+        "ja": "寝そべるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "寝そべる",
+        "手足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが腕を広げ、片脚を上げて歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5759",
+      "name": {
+        "ja": "歩くくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "歩く",
+        "片脚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いひよこが両手を上げ、片脚を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5760",
+      "name": {
+        "ja": "手を上げるひよこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひよこ",
+        "両手",
+        "片脚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが目を閉じて頭を下げ、頭上に青い縦線を浮かべている。横に点が並ぶ吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "5761",
+      "name": {
+        "ja": "黙り込むくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "吹き出し",
+        "青い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが両手を胸元で組み、正面を向いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "5762",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を組む白いくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "両手",
+        "手を組む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが黄色い掛け物に包まれ、横になって目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5763",
+      "name": {
+        "ja": "黄色い布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "睡眠",
+        "掛け物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが耳付きのピンクの服を着て、片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5764",
+      "name": {
+        "ja": "ピンクの服でポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "ピンク",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが体を横に伸ばし、四肢を広げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5765",
+      "name": {
+        "ja": "伸びるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "横向き",
+        "伸びる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いひよことピンクの丸い姿が向かい合い、体を寄せている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5766",
+      "name": {
+        "ja": "黄色とピンクの抱擁"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひよこ",
+        "ピンク",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまと黄色いひよこが並び、赤い音符のそばで踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5767",
+      "name": {
+        "ja": "音符と踊る二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "ひよこ",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが横向きに転がり、腕と脚を伸ばしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5768",
+      "name": {
+        "ja": "転がるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "転がる",
+        "手足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが立ち、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5769",
+      "name": {
+        "ja": "ハートに囲まれる白いくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "ハート",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが黄色いひよこを両腕で抱き、顔を寄せている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5770",
+      "name": {
+        "ja": "ひよこを抱く白いくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "ひよこ",
+        "抱擁"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いひよこが片手を上げ、上に赤い「OK」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5771",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKを示すひよこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひよこ",
+        "OK",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが片手を上げ、上にオレンジ色の「YES」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5772",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと返事する白いくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "YES",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが腕を交差させ、横に青い「NO」の文字がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5773",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOを示すくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "NO",
+        "腕を交差"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが大きな赤いハートに手を添え、上に「Thank you」の文字がある。"
+      },
+      "emotion": [
+        "gratitude",
+        "love"
+      ],
+      "id": "5774",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ハートを添える感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "ハート",
+        "Thank you"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまがヘッドホンを着け、両手を広げている。周囲に赤い音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5775",
+      "name": {
+        "ja": "ヘッドホンで音楽"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "ヘッドホン",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いひよこが赤い音符に囲まれ、片手に小さな四角い物を持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5776",
+      "name": {
+        "ja": "音楽を聴くひよこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひよこ",
+        "音符",
+        "四角い物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが首を傾け、横に緑色の「？」がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "5777",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符の白いくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "疑問符",
+        "首を傾ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いひよこが蜂のような衣装を着て、羽を広げて飛んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5778",
+      "name": {
+        "ja": "蜂の衣装で飛ぶひよこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひよこ",
+        "蜂の衣装",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが腹ばいになり、手足を伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "5779",
+      "name": {
+        "ja": "床に伏せるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "腹ばい",
+        "手足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが体を水平にして、両腕を前へ伸ばしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "5780",
+      "name": {
+        "ja": "飛び込むくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "水平",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが目を伏せ、口元から青い涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "5781",
+      "name": {
+        "ja": "涙を流すくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "涙",
+        "目を伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りを頭に付けた白いくまが、黄色いひよこと一緒に小さな乗り物に乗っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5782",
+      "name": {
+        "ja": "花飾りで乗り物に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "ひよこ",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが背中を向けて立ち、頭の横に白い雲形の印がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5783",
+      "name": {
+        "ja": "背中を向けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いくま",
+        "後ろ姿",
+        "雲形"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが片手を腹部に当て、額に汗を浮かべている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "5784",
+      "name": {
+        "ja": "汗をかくくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "汗",
+        "腹部"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが腰掛け、両手で横に伸びた細い棒状の物を持っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "5785",
+      "name": {
+        "ja": "糸を引くくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "腰掛け",
+        "棒状の物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いひよこが体を丸め、片足を上げてポーズを取っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5786",
+      "name": {
+        "ja": "丸いひよこのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひよこ",
+        "片足",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまがたくさんのオレンジ色の花に囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "5787",
+      "name": {
+        "ja": "花に囲まれるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "花",
+        "オレンジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが白い縁取りのある顔をしかめ、横に小さな震えの印を浮かべている。"
+      },
+      "emotion": [
+        "sadness",
+        "disgust"
+      ],
+      "id": "5788",
+      "name": {
+        "ja": "顔をしかめるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "しかめ顔",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが青い水玉模様の布を頭からかぶり、汗をかいている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "5789",
+      "name": {
+        "ja": "水玉の布をかぶるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "水玉",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが黄色い物を背に付けて走り、前方に赤い容器と黄色い星形の印がある。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "5790",
+      "name": {
+        "ja": "走って逃げるくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "走る",
+        "赤い容器"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "616",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

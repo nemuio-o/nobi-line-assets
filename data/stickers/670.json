@@ -1,0 +1,1115 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物がポップコーンの入った容器を抱え、片手にチケットを持って穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7343",
+      "name": {
+        "ja": "ポップコーンとチケット"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポップコーン",
+        "チケット",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が手を口元に添え、頬を赤らめてきらめきに囲まれている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "7344",
+      "name": {
+        "ja": "きらめきに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を口元",
+        "赤ら顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が座った姿勢で片手を上げ、あいさつするように笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7345",
+      "name": {
+        "ja": "手を振るあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あいさつ",
+        "手を上げる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔が目を閉じ、口元をゆるめて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "7346",
+      "name": {
+        "ja": "目を閉じた笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "目を閉じる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔が両手を頬に当て、頬を赤らめている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7347",
+      "name": {
+        "ja": "頬に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "両手",
+        "赤ら顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を腰に当て、目を閉じて大きく笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7348",
+      "name": {
+        "ja": "手を腰に笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "両手",
+        "腰"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が雨粒に囲まれて立ち、目を伏せて両手を前で組んでいる。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "7349",
+      "name": {
+        "ja": "雨の中で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "うつむき",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が雨の線に囲まれてしゃがみ、顔を腕で覆っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7350",
+      "name": {
+        "ja": "雨の中でうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "しゃがむ",
+        "顔を覆う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔が目から涙を流し、口をへの字にしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "7351",
+      "name": {
+        "ja": "涙を流す顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "涙",
+        "泣き顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組んで立ち、横に大きく肯定の文字を添えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7352",
+      "name": {
+        "ja": "自信のある肯定"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肯定",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がしゃがみ、横に大きく否定の文字を添えている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "7353",
+      "name": {
+        "ja": "しゃがんで否定"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "否定",
+        "しゃがむ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を口元に添え、周囲の疑問符を見ながら戸惑っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "7354",
+      "name": {
+        "ja": "疑問符に戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "戸惑い",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手の拳を握り、目を閉じて怒った表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "7355",
+      "name": {
+        "ja": "拳を握って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "拳",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が口を大きく開け、両手を握って勢いよく表現している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7356",
+      "name": {
+        "ja": "髪をなびかせて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "長い髪",
+        "口を開ける",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔が目を細め、口を曲げて不満そうにしている。"
+      },
+      "emotion": [
+        "disgust",
+        "anger"
+      ],
+      "id": "7357",
+      "name": {
+        "ja": "王冠形の不満顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "不満顔",
+        "目を細める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "フードをかぶった人物が座り、そばの吹き出しに三つの点が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "7358",
+      "name": {
+        "ja": "無言で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "フード",
+        "座る",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が片手に小さな銃のような物を掲げ、感謝を示す文字が添えられている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "7359",
+      "name": {
+        "ja": "小道具を掲げて感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "片手",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "海賊帽の人物が剣のような物を掲げ、応援を示す文字が添えられている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "7360",
+      "name": {
+        "ja": "帽子をかぶって応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "海賊帽",
+        "剣",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白い大きな動物の背に寄り添い、そばにハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7361",
+      "name": {
+        "ja": "白い動物に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い動物",
+        "寄り添い",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白い大きな動物の背に座り、そばにハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7362",
+      "name": {
+        "ja": "白い動物に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い動物",
+        "座る",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んで立ち、周囲のハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7363",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添い",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片ひざをつくように座り、そばに好意を示す文字と大きなハートが描かれている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "7364",
+      "name": {
+        "ja": "好意を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "好意",
+        "ハート",
+        "片ひざ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がうつ伏せに横たわり、頭の周囲に渦巻きが描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7365",
+      "name": {
+        "ja": "うつ伏せで眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "うつ伏せ",
+        "渦巻き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔の両目に渦巻きが描かれ、舌を出している。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "7366",
+      "name": {
+        "ja": "渦巻き目の顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "渦巻き目",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を前に傾け、腕を振って勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7367",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "前傾姿勢",
+        "腕を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔が汗をかき、目を細めて困ったようにしている。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "7368",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "汗",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに倒れ、両腕を前に伸ばして目を閉じている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "7369",
+      "name": {
+        "ja": "転びそうになる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "両腕",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔が眉を寄せ、放射状の赤い背景の中で怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "7370",
+      "name": {
+        "ja": "放射状の怒り顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "怒り",
+        "放射状"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に座り、本を開いて読んでいる。周囲に本が積まれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7371",
+      "name": {
+        "ja": "本を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "読書",
+        "本",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔の両目が星形にきらめき、口元を開けている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "7372",
+      "name": {
+        "ja": "きらめく目の顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "星",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が飲み物の入った二つのグラスを盆に載せて運んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "7373",
+      "name": {
+        "ja": "飲み物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "グラス",
+        "盆"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が帽子をかぶり、盆の上の飲み物を片手で運んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "7374",
+      "name": {
+        "ja": "飲み物を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "飲み物",
+        "盆"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔が両目から涙を流し、口を下向きにしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "7375",
+      "name": {
+        "ja": "涙を流す顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "涙",
+        "泣き顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔が涙を流し、頭上に小さな骨の印が浮かんでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7376",
+      "name": {
+        "ja": "骨のそばで泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "涙",
+        "骨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物の顔が目を閉じ、口元に丸い物をくわえたようにして眠っている。頭上に眠りを示す文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7377",
+      "name": {
+        "ja": "眠り込む顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "睡眠",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サンタ帽の人物が小さな袋を抱え、そばに小さな人形と星が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7378",
+      "name": {
+        "ja": "サンタ姿で贈り物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サンタ帽",
+        "袋",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正装で座り、両手を前で組んでいる。背景に贈り物のリボンが描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "7379",
+      "name": {
+        "ja": "贈り物を抱える正装姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正装",
+        "リボン",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が贈り物のリボンを背景に立ち、片手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7380",
+      "name": {
+        "ja": "贈り物と一緒に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "リボン",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が肩を寄せ、並んで正面を向いて立っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "7381",
+      "name": {
+        "ja": "二人で並んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "並んで立つ",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が手をつなぎ、ハートを背景に並んで立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7382",
+      "name": {
+        "ja": "手をつないで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手をつなぐ",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "670",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

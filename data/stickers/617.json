@@ -1,0 +1,1126 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物が口を大きく開け、両腕を上げて声を出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5791",
+      "name": {
+        "ja": "両手を上げて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "叫ぶ",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、胸元で両手を合わせて頭を下げている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "5792",
+      "name": {
+        "ja": "手を合わせておじぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "目を閉じる",
+        "おじぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を額に当て、目を閉じたような表情で口を開けている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "5793",
+      "name": {
+        "ja": "額に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "額",
+        "片手",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を額の横に添え、正面を見て立っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5794",
+      "name": {
+        "ja": "額に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "額",
+        "片手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がマイクを片手に持ち、口を大きく開けて歌っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5795",
+      "name": {
+        "ja": "マイクで歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マイク",
+        "歌う",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を伏せ、口を少し開けて肩を落とすように立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5796",
+      "name": {
+        "ja": "しょんぼり立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を伏せる",
+        "肩を落とす",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で顔を覆い、うつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5797",
+      "name": {
+        "ja": "顔を覆う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "顔を覆う",
+        "うつむき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黒い背景の中で目を見開き、口を大きく開けている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "5798",
+      "name": {
+        "ja": "黒い影の中で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い背景",
+        "目を見開く",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きく目を見開き、口を開けて正面を見ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "5799",
+      "name": {
+        "ja": "目を見開く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を見開く",
+        "口を開ける",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、両腕を前方へ伸ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5800",
+      "name": {
+        "ja": "驚いて手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両腕",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて口を開け、周囲に音符を浮かべながら片手を広げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5801",
+      "name": {
+        "ja": "音符と一緒に歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "歌う",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を少し開け、頭の横に疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "5802",
+      "name": {
+        "ja": "疑問符に戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "戸惑い",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて笑いながら、白い長方形の物を両手で抱えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5803",
+      "name": {
+        "ja": "白い物を抱えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "両手",
+        "白い物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に伏せ、片腕を前へ伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "5804",
+      "name": {
+        "ja": "床に伏せて手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "床",
+        "伏せる",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開け、正面を向いて立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "5805",
+      "name": {
+        "ja": "口を開けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口を開ける",
+        "正面",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がカメラのような物を両手で持ち、前方へ向けている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5806",
+      "name": {
+        "ja": "カメラを構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カメラ",
+        "両手",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を広げ、片脚を上げて走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5807",
+      "name": {
+        "ja": "腕を広げて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "両腕",
+        "片脚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を開け、両腕を横に伸ばして走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5808",
+      "name": {
+        "ja": "両手を広げて駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "両腕",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が縄のような線を両手に持ち、跳び上がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5809",
+      "name": {
+        "ja": "縄跳びで跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "縄跳び",
+        "ジャンプ",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片脚を上げ、両腕を伸ばしてよろめいている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5810",
+      "name": {
+        "ja": "片脚でよろめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片脚",
+        "よろめき",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が座り込み、目を伏せて両手を前に下げている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5811",
+      "name": {
+        "ja": "座ってうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "うつむき",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を回したような表情で、両腕を広げながら横へ動いている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "5812",
+      "name": {
+        "ja": "よろめきながら手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を回す",
+        "両腕",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が背を向け、両腕を広げて跳び上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5813",
+      "name": {
+        "ja": "両腕を広げて跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "両腕",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を広げ、脚を上げたまま後ろへ倒れている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5814",
+      "name": {
+        "ja": "後ろ向きに転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転倒",
+        "両腕",
+        "脚を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を丸め、頭を下にして床に伏せている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5815",
+      "name": {
+        "ja": "丸まって伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "丸まる",
+        "床",
+        "伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が前のめりになり、両手を下へ伸ばしながら倒れている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "5816",
+      "name": {
+        "ja": "前のめりに転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転倒",
+        "前のめり",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に手をつき、片脚を伸ばしながら這っている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "5817",
+      "name": {
+        "ja": "床を這う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "床",
+        "這う",
+        "片脚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がうつぶせになり、腕を前へ伸ばして横たわっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5818",
+      "name": {
+        "ja": "うつぶせに横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつぶせ",
+        "横たわる",
+        "腕を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で小さな札のような物を掲げ、もう一方の手を下げて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5819",
+      "name": {
+        "ja": "小さな札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "札",
+        "片手",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が掛け物に包まれ、顔だけを出して横になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5820",
+      "name": {
+        "ja": "布団で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色い傘を差し、黄色い靴を履いて歩いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "5821",
+      "name": {
+        "ja": "傘を差して歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "歩く",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が長椅子に横たわり、目を閉じてくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "5822",
+      "name": {
+        "ja": "椅子でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "長椅子",
+        "横たわる",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白い服を着て、両腕を上げて立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "5823",
+      "name": {
+        "ja": "両手を上げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "白い服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服を着た人物が、片手に花のような物を持って立っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "5824",
+      "name": {
+        "ja": "花を持つピンクの姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク",
+        "花",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな茶色い物を背負うようにして、汗の線を浮かべながら歩いている。"
+      },
+      "emotion": [
+        "tired",
+        "fear"
+      ],
+      "id": "5825",
+      "name": {
+        "ja": "大きな物を背負って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きな物",
+        "歩く",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片脚を上げ、両腕を広げて回るように踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5826",
+      "name": {
+        "ja": "くるくる踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "片脚",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が灰色の細長い形を両手で抱え、顔の前に寄せている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "5827",
+      "name": {
+        "ja": "灰色の形を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "細長い形",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を上げ、周囲を取り巻く渦の線の中で回っている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "5828",
+      "name": {
+        "ja": "渦の中で回る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "渦",
+        "回る",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな箱のような物を頭上に載せ、両手で支えている。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "5829",
+      "name": {
+        "ja": "大きな箱を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "頭上",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "箱のような形の人物が、足元の水しぶきの中に立っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5830",
+      "name": {
+        "ja": "箱型の姿で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱型",
+        "立つ",
+        "水しぶき"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "617",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

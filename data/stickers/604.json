@@ -1,0 +1,1128 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色のキャラクターが青い小さな荷物を引き、片足を上げて歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5319",
+      "name": {
+        "ja": "荷物を引いて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "歩く",
+        "片足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが青い座席に座り、開いた容器を両手で持っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "5320",
+      "name": {
+        "ja": "車内で弁当を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車内",
+        "座る",
+        "容器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが小さなかごを抱え、足元に二つの小さなきのこがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "5321",
+      "name": {
+        "ja": "小さなきのこと歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "かご",
+        "きのこ",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と茶色のきのこが単独で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5322",
+      "name": {
+        "ja": "立つきのこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きのこ",
+        "単独",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "かごの中に複数の茶色のきのこが詰まっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5323",
+      "name": {
+        "ja": "きのこのかご盛り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "かご",
+        "複数",
+        "きのこ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "かごの中に白い丸い姿が複数並び、前方の姿が笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5324",
+      "name": {
+        "ja": "白い姿のかご盛り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "かご",
+        "複数",
+        "白い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが左右に積まれた皿の間に立ち、皿を持っている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "5325",
+      "name": {
+        "ja": "皿を積む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "皿",
+        "積み重ね",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが首に白いタオルをかけ、片手にもう一枚の布を持っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5326",
+      "name": {
+        "ja": "タオルを首にかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "タオル",
+        "首",
+        "布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが前かがみになって走り、周囲に汗のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "5327",
+      "name": {
+        "ja": "汗をかいて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "前かがみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長いキャラクターが両腕を広げ、周囲に紙片が舞う中で回っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5328",
+      "name": {
+        "ja": "腕を広げて回る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "回転",
+        "紙片"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが口を結び、周囲に青い縦線を出して震えている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "5329",
+      "name": {
+        "ja": "震える顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震え",
+        "青い線",
+        "口を結ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が密集し、赤や白の小さな旗を掲げている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "5330",
+      "name": {
+        "ja": "旗の群れ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "群れ",
+        "旗",
+        "密集"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さなテレビの横で茶色のキャラクターが眠り、頭上に眠りを示す記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5331",
+      "name": {
+        "ja": "テレビの前で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テレビ",
+        "睡眠",
+        "眠りの記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが小さなテレビの横で画面を見ている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "5332",
+      "name": {
+        "ja": "テレビを見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テレビ",
+        "見る",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターがサッカーボールのそばで片足を上げ、背後にGOALの文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5333",
+      "name": {
+        "ja": "サッカーボールとゴール"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サッカー",
+        "ボール",
+        "ゴール"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の茶色のキャラクターが密集し、赤い印や小さな旗を掲げている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5334",
+      "name": {
+        "ja": "旗を掲げる群衆"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "群衆",
+        "旗",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが両腕を曲げて左右に広げ、周囲に紙片が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5335",
+      "name": {
+        "ja": "両腕を曲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "ポーズ",
+        "紙片"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の二つの姿が並び、周囲に複数の葉が落ちている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "5336",
+      "name": {
+        "ja": "葉の中の二つの姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二つ",
+        "葉",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが黄色いきのこの上に座り、片手に飲み物の入ったグラスを掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5337",
+      "name": {
+        "ja": "飲み物を掲げて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "きのこ",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターがほうきを持ち、床を掃いている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5338",
+      "name": {
+        "ja": "ほうきで掃く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ほうき",
+        "掃除",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが目を閉じ、ティッシュを顔に当てている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5339",
+      "name": {
+        "ja": "ティッシュで泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ティッシュ",
+        "目を閉じる",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターがベンチに座り、周囲に葉が舞っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5340",
+      "name": {
+        "ja": "ベンチで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ベンチ",
+        "座る",
+        "葉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つの茶色のきのこが顔を寄せて並び、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5341",
+      "name": {
+        "ja": "きのこ同士で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二つ",
+        "きらめき",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが背を向けて立ち、頭上に三つの点の吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "5342",
+      "name": {
+        "ja": "背を向けて話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "吹き出し",
+        "三点"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子と丸眼鏡を着けたキャラクターが青い本を開いて読んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "5343",
+      "name": {
+        "ja": "眼鏡で本を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "丸眼鏡",
+        "本",
+        "読む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い傘の下で二人のキャラクターが並び、周囲に雨粒が落ちている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "5344",
+      "name": {
+        "ja": "傘を差す二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "二人",
+        "雨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つの茶色のキャラクターが並んで立ち、周囲に青い汗のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "5345",
+      "name": {
+        "ja": "並んで汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二つ",
+        "汗",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが頬に手を当て、周囲に黄色い光線が広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "5346",
+      "name": {
+        "ja": "光の中で頬に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "手を当てる",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが座り込んでうつむき、周囲に雨を示す青い線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5347",
+      "name": {
+        "ja": "雨の中でうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "座り込む",
+        "雨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い丸い姿が多数集まり、互いに重なっている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "5348",
+      "name": {
+        "ja": "白い姿の群れ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "群れ",
+        "白い姿",
+        "重なる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが両手を体の前で組み、目を細めて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5349",
+      "name": {
+        "ja": "手を前で組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "立つ",
+        "目を細める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが片手で小さな札を持ち、もう一方の手を体の前に置いている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "5350",
+      "name": {
+        "ja": "札を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "札",
+        "片手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが赤いうちわを掲げ、もう一方の手から白い雲状のものが出ている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5351",
+      "name": {
+        "ja": "うちわと白い息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うちわ",
+        "片手",
+        "白い雲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子をかぶったキャラクターが両腕を上げて踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5352",
+      "name": {
+        "ja": "音符と踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "音符",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数のキャラクターが集まり、青や赤の楽器を持って演奏している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5353",
+      "name": {
+        "ja": "楽器を演奏する群れ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数",
+        "楽器",
+        "演奏"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが複数の箱を頭上に積んで抱え、周囲に汗のしずくがある。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "5354",
+      "name": {
+        "ja": "箱を積んで運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "積み重ね",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子のキャラクターがパレットと絵筆を持ち、冠を着けたキャラクターが隣で杖を掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5355",
+      "name": {
+        "ja": "絵筆を持つ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絵筆",
+        "パレット",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いとんがり帽子をかぶったキャラクターが杖を持ち、白い姿と並んで立っている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "5356",
+      "name": {
+        "ja": "帽子と白い姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "とんがり帽子",
+        "杖",
+        "白い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが赤い模様の布団に横になり、頭の上に小さなかごが置かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5357",
+      "name": {
+        "ja": "布団で横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "横になる",
+        "かご"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが赤い模様の布団の横で横になり、背後に緑色の姿がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5358",
+      "name": {
+        "ja": "布団のそばで横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "横になる",
+        "緑色の姿"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "604",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
