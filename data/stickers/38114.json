@@ -1,0 +1,1134 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "耳を横に広げ、穏やかな笑顔で片手を上げて朝のあいさつをしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "928263345",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "朝のあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あいさつ",
+        "朝",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さなテーブルで皿に載った食べ物を前に、嬉しそうに食事をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "928263346",
+      "name": {
+        "ja": "朝食タイム"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "パン",
+        "テーブル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を細めた笑顔で両手を広げ、周りに小さなハートを浮かべている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "928263347",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "にっこり賛成"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "賛成",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を閉じてにっこりしながら、長い耳を左右に動かしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "928263348",
+      "name": {
+        "ja": "耳をぱたぱた"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "耳",
+        "動き",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を丸めて座り、目を閉じた穏やかな表情でくつろいでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263349",
+      "name": {
+        "ja": "ひとやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休憩",
+        "座る",
+        "リラックス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を高く上げ、明るい笑顔で元気よく返事をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "928263350",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "元気に返事"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "返事",
+        "手を上げる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を閉じて両手をそろえ、深くおじぎをして感謝を伝えている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "928263351",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "丁寧なお礼"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お礼",
+        "おじぎ",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を上げて満面の笑みを浮かべ、周囲に光がきらめいている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "928263352",
+      "name": {
+        "ja": "きらきら喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "きらきら",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両腕を勢いよく上げ、光の線に囲まれて大喜びしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "928263353",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "大はしゃぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歓喜",
+        "万歳",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頬を赤らめた穏やかな笑顔で、胸の前に手を置いている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "928263354",
+      "name": {
+        "ja": "好きの笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "好意",
+        "笑顔",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなハートに囲まれ、両手を胸元に寄せてうっとりしている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "928263355",
+      "name": {
+        "ja": "愛いっぱい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "愛情",
+        "ハート",
+        "抱きしめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片側を見ながら首をかしげ、考え込むような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "928263356",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "気になる顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "首かしげ",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな相手を胸元に抱き寄せ、周囲にハートを浮かべている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "928263357",
+      "name": {
+        "ja": "そっと寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寄り添う",
+        "ハート",
+        "親密"
+      ]
+    },
+    {
+      "description": {
+        "ja": "床に体を伸ばし、目を細めて気持ちよさそうに横たわっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263358",
+      "name": {
+        "ja": "ふわふわ気分"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふわふわ",
+        "横になる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "柔らかな敷物の縁から顔だけを出し、眠そうにこちらを見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263359",
+      "name": {
+        "ja": "ちらりとのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "寝床",
+        "控えめ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "耳を前に垂らし、両手で顔を隠して照れたようにうつむいている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "928263360",
+      "name": {
+        "ja": "照れかくし"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "顔を隠す",
+        "赤面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "段ボール箱の中から身を乗り出し、両手を広げて現れている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "928263361",
+      "name": {
+        "ja": "箱から登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "登場",
+        "びっくり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "座り込んで小さなものを胸に抱え、心細そうな顔で待っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "928263362",
+      "name": {
+        "ja": "ぎゅっと待つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "待つ",
+        "抱える",
+        "寂しさ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を横たえて耳を下げ、目元に涙を浮かべてしょんぼりしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "928263363",
+      "name": {
+        "ja": "しょんぼり横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "横になる",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "耳を弾ませながら小走りで進み、見つけたように振り返っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "928263364",
+      "name": {
+        "ja": "見つけた走り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "発見",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "床に伏せたまま頬をふくらませ、むっとした表情を見せている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "928263365",
+      "name": {
+        "ja": "むっとする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "不満",
+        "ふくれ顔",
+        "床"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を低くして横たわり、細かな揺れ線とともに震えている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "928263366",
+      "name": {
+        "ja": "ぶるぶる震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震える",
+        "不安",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手をあごに添えて座り、静かに前方を見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263367",
+      "name": {
+        "ja": "じっと見守る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "見守る",
+        "座る",
+        "落ち着き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "耳を大きく立て、目を見開いたような表情で立っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "928263368",
+      "name": {
+        "ja": "驚きの耳"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "耳",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を耳元に添え、もう片方を差し出して話を受け止める姿勢を見せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263369",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "話を聞くよ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "聞く",
+        "会話",
+        "手招き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭の上に手を添え、やさしくなでるような穏やかな表情をしている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "928263370",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "なでなで"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "なでる",
+        "安心",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手に黄色いポンポンを持ち、力いっぱい応援している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "928263371",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "応援ポンポン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ポンポン",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "耳を大きく跳ね上げ、前のめりに倒れ込むような勢いを見せている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "928263372",
+      "name": {
+        "ja": "勢いよく転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "勢い",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頬を大きくふくらませ、両手を握って不満を示している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "928263373",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "ぷんと抗議"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抗議",
+        "ふくれ顔",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机に向かい、小さなノートパソコンを開いて真剣に作業している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263374",
+      "name": {
+        "ja": "集中して作業"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仕事",
+        "ノートパソコン",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を広げ、目を閉じた満足そうな笑顔で終わりを知らせている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "928263375",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "作業完了"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "完了",
+        "達成",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "前足をそろえて座り、落ち着いた笑顔でその場で待っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263376",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "ここで待つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "待つ",
+        "座る",
+        "約束"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を横に伸ばしてぐったりし、額に汗を浮かべている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "928263377",
+      "name": {
+        "ja": "へとへと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲労",
+        "横になる",
+        "ぐったり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなリボンをつけ、両手で飲み物を包むように持って労っている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "928263378",
+      "name": {
+        "ja": "おつかれの一服"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "労い",
+        "飲み物",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長いマフラーに包まり、目を閉じて暖かそうに身を縮めている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263379",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "あったか支度"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "防寒",
+        "マフラー",
+        "ぬくもり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横になって目を細め、眠気に負けそうにゆっくりあくびをしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "928263380",
+      "name": {
+        "ja": "うとうと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠気",
+        "あくび",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな星を周囲に浮かべ、黄色い枕に寄り添って静かに眠っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263381",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "星空の眠り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おやすみ",
+        "睡眠",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を丸めて目を閉じ、静かな寝息を立てているように眠っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "928263382",
+      "name": {
+        "ja": "眠りの余韻"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "丸まる",
+        "静けさ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "柔らかな姿勢で横になり、穏やかな表情のまま夢を見ているようだ。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263383",
+      "name": {
+        "ja": "夢の中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夢",
+        "睡眠",
+        "リラックス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "耳を横に伸ばして横たわり、安らかな顔で夜の眠りにつこうとしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "928263384",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "静かな就寝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "就寝",
+        "夜",
+        "安らぎ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "38114",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

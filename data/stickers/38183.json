@@ -1,0 +1,1218 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "二人が並んで穏やかに笑い、親しみを込めて礼を伝える様子。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "923395137",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "並んで感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お礼",
+        "並ぶ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が楽しそうに身振りを示し、周囲に音符が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395138",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "元気な丸印"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肯定",
+        "ポーズ",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が花に囲まれて手を合わせ、控えめに願いを伝えている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "923395139",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "花を添えたお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お願い",
+        "花",
+        "丁寧"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が落ち着いた表情でうなずき、そばに緑の枝葉が添えられている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "923395140",
+      "intent": [
+        "agree",
+        "answer"
+      ],
+      "name": {
+        "ja": "納得のうなずき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "了解",
+        "うなずき",
+        "葉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が軽く頭を下げ、落ち着いた調子で応じている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "923395141",
+      "intent": [
+        "answer",
+        "agree"
+      ],
+      "name": {
+        "ja": "丁寧な受け答え"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "返事",
+        "お辞儀",
+        "礼儀"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を広げて弾むように喜び、周囲に小さな飾りが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395142",
+      "name": {
+        "ja": "弾む気持ち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "嬉しい",
+        "跳ねる",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が寄り添って座り、安心した表情で助けへの感謝を示している。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "923395143",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ほっとするお礼"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "安心",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を上げて明るく呼びかけ、朝の光の中を歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395144",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "朝のひと声"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "朝",
+        "挨拶",
+        "太陽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い門の前で手を広げ、訪れた相手を迎えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395145",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "入口で歓迎"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歓迎",
+        "入口",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物がベンチに腰掛け、静かに相手を気遣うような表情を見せている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "923395146",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "ベンチで気遣い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "気遣い",
+        "ベンチ",
+        "外出"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が花壇のそばで頬杖をつき、これからの時間を楽しみにしている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "923395147",
+      "name": {
+        "ja": "待ち遠しい時間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "楽しみ",
+        "待つ",
+        "花壇"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を細めて大きく笑い、柔らかな色の飾りに囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "923395148",
+      "name": {
+        "ja": "にっこり喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "笑顔",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を高く上げ、きらめきを背景に力強く応援している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "923395149",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "背中を押す声"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "声援",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が深く頭を下げ、両手をそろえて丁寧な敬意を表している。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "923395150",
+      "name": {
+        "ja": "敬意のお辞儀"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "敬意",
+        "お辞儀",
+        "丁寧"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が小さな相手に手を差し出し、再会を喜ぶように笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "923395151",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "久しぶりの再会"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "再会",
+        "笑顔",
+        "小花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が庭の前で相手に向かって頭を下げ、そっといたわっている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "923395152",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "そっと見守る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "見守り",
+        "庭",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が振り返りながら丁寧に頭を下げ、その場を離れようとしている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "923395153",
+      "intent": [
+        "farewell",
+        "apology"
+      ],
+      "name": {
+        "ja": "先に失礼"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "別れ",
+        "お辞儀",
+        "退出"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が湯気の立つ飲み物のそばで横になり、疲れを癒やしている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "923395154",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "ひと休みの午後"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休憩",
+        "紅茶",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が飲み物を手に向かい合い、くつろいだ笑顔で過ごしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395155",
+      "name": {
+        "ja": "一緒に楽しく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "楽しい",
+        "仲間",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が布団の上で目を閉じ、月明かりの下で静かに眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "923395156",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "夜のまどろみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "睡眠",
+        "月"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が穏やかに手を差し出し、相手の心配を和らげようとしている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "923395157",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "気にしないで"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "気遣い",
+        "安心",
+        "草花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が湯気の立つ茶碗を前に座り、ほっと一息ついている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "923395158",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "湯気の休息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お茶",
+        "休憩",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな包みを抱え、嬉しそうに相手へ差し出している。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "923395159",
+      "name": {
+        "ja": "大切な贈り物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "喜び",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が屋外の腰掛けに座り、手を振りながら楽しげに誘っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395160",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "腰掛けて遊ぼう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "遊び",
+        "ベンチ",
+        "晴れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が首をかしげ、相手の様子をたずねるように見つめている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "923395161",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "様子をたずねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "体調",
+        "質問",
+        "気遣い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横になって目を閉じ、花びらに囲まれて静かに過ごしている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "923395162",
+      "name": {
+        "ja": "静かな時期"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休み",
+        "季節",
+        "静けさ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が並んで柔らかな座面に腰掛け、落ち着いた表情で過ごしている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "923395163",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "隣で安心"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "安心",
+        "寄り添い",
+        "ソファ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が色とりどりの花のそばで小さく手を振り、明るく知らせている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "923395164",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "色とりどりの便り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "彩り",
+        "手紙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が傘を差して立ち、雨の中でも大丈夫だと励ますように笑っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "923395165",
+      "intent": [
+        "encourage",
+        "ok"
+      ],
+      "name": {
+        "ja": "雨の日も大丈夫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "雨",
+        "安心"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が身を乗り出して手を振り、明るい笑顔で応援を送っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "923395166",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "いつも応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "声援",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人がゆったり歩きながら、それぞれの調子で楽しそうに進んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395167",
+      "name": {
+        "ja": "自分のペース"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マイペース",
+        "散歩",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が光の差す方向を見上げ、前向きな気持ちで立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395168",
+      "name": {
+        "ja": "光を見つける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "光",
+        "希望",
+        "発見"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が緑の葉に囲まれて座り、健やかさを願うように静かに微笑んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "923395169",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "健やかな願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "健康",
+        "葉",
+        "願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が柔らかなクッションに顔をうずめ、力を抜いて休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "923395170",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "ゆるやかな休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ゆっくり",
+        "休息",
+        "クッション"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が夜空を背に振り返り、名残惜しそうに手を振っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "923395171",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "また会おうね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "別れ",
+        "再会",
+        "夜空"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が飾り付けたケーキのそばで手を広げ、祝福の気持ちを表している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395172",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "祝いのひと皿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お祝い",
+        "ケーキ",
+        "拍手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が花に囲まれて優しく微笑み、穏やかな親しみを伝えている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "923395173",
+      "name": {
+        "ja": "柔らかな笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "花",
+        "親しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を上げ、花のそばで明るく相手へ合図を送っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395174",
+      "name": {
+        "ja": "明るい合図"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "合図",
+        "元気",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに寝そべり、柔らかな寝具の上で穏やかにくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "923395175",
+      "name": {
+        "ja": "ゆったり過ごす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休息",
+        "クッション",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きなケーキの隣で嬉しそうに座り、特別な出来事を祝っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "923395176",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "祝福のケーキ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祝福",
+        "ケーキ",
+        "記念日"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "38183",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
