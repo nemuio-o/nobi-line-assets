@@ -29,6 +29,8 @@ https://store.line.me/api/search/sticker?query=<URL-encoded-term>&offset=0&limit
 
 Advance `offset` for additional search results and deduplicate package IDs. The search API returns product IDs in JSON; the showcase pages expose links matching `stickershop/product/<STKPKGID>`. Do not use `/stickershop/showcase/ranking/ja` (404), the regular search page for ID extraction, or the nonexistent `/api/products/<id>` endpoint.
 
+Treat these sources as discovery aids, not a complete catalog. In the 2026-11-26 Japanese-store crawl, showcase pagination ended at top page 99 and new page 60 (page 61 returned 404); keyword searches often reached an API limit at `offset=5020` (HTTP 400), and some queries timed out. Record each source's page range and stopping reason; never infer exhaustive coverage from a successful search.
+
 ## 2. Read one Japanese package page
 
 For each selected package, fetch:
