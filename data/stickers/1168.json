@@ -1,0 +1,1185 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "鋭い爪を前に突き出した人物のそばに、黄色い「YES!」の文字が大きく描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20071",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "爪を突き出してイエス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "爪",
+        "YES",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が腕を組み、横の小さな吹き出しに「UMMM...」とある。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "20072",
+      "name": {
+        "ja": "腕を組んでうなる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "考える",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が腕を組み、頭の横に青い疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "20073",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "腕組み",
+        "白い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が拳を高く掲げ、そばに「!!!」と小さな吹き出しが描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "20074",
+      "name": {
+        "ja": "拳を掲げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "驚き",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "爪を大きく広げた人物が、放射状の線を背にしてこちらへ飛び込んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "20075",
+      "name": {
+        "ja": "爪を構えて飛び込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "爪",
+        "突進",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い人物と紫色の影のような姿が、赤い放射線を背にして並んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "20076",
+      "name": {
+        "ja": "影を背負って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "影",
+        "対峙",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔の横に、緑色の大きな「OK」の文字が配置されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20077",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "オーケーの合図"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "合図",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と黒の服の人物が両腕を広げ、上に赤い「NO!」の文字が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "20078",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "ノーと身を引く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い頭部の人物が顔をしかめ、横に赤いギザギザの効果線が出ている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "20079",
+      "name": {
+        "ja": "顔をしかめて耐える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しかめ顔",
+        "痛み",
+        "赤い効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が腕を組み、鋭い表情で正面をにらんでいる。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "20080",
+      "name": {
+        "ja": "腕を組んでにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "にらむ",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "雪の積もった木立の中を、人物がひとり歩いている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "20081",
+      "name": {
+        "ja": "雪の森を歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪",
+        "森",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が爪を突き出し、胸元に「SNIKT!」の効果音が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20082",
+      "name": {
+        "ja": "爪を鳴らして威嚇"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "爪",
+        "威嚇",
+        "効果音"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物と黒い服の人物が向かい合い、腕を伸ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "20083",
+      "name": {
+        "ja": "腕を伸ばして向き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕を伸ばす",
+        "対面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が勢いよく振り向き、横方向の線が動きを強調している。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "20084",
+      "name": {
+        "ja": "勢いよく振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り向く",
+        "動き",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と黄色の服の人物が飛びながら両手を伸ばし、下に「WAIT!」と描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "20085",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "待ってと手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "WAIT",
+        "手を伸ばす",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い手袋の拳が大きく突き出され、横に「I CAN DO IT!」と描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20086",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "拳でやる気を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "やる気",
+        "I CAN DO IT"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と黄色の服の人物が赤い背景の中で跳ね上がり、そばに「YA!」とある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20087",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "飛び上がってイエス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YA",
+        "ジャンプ",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔の横に青い疑問符が大きく浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "20088",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "顔",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が顔の横からこちらを見つめ、吹き出しに「SERIOUS?」とある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "20089",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "本気かと問い返す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "SERIOUS",
+        "疑問",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と赤の服の人物がうつぶせに倒れ、上に青い「BOOM」の文字がある。"
+      },
+      "emotion": [
+        "surprise",
+        "sadness"
+      ],
+      "id": "20090",
+      "name": {
+        "ja": "勢いよく倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "BOOM",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の横顔の上に、白い「THINKING...」の文字が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "20091",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "考え込む横顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "THINKING",
+        "横顔",
+        "思案"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を前に出して叫び、中央に赤い効果音の文字が重なっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20092",
+      "name": {
+        "ja": "大声で吠える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "攻撃",
+        "効果音"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が赤い円形の背景を背に、後ろへ飛ばされている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20093",
+      "name": {
+        "ja": "吹き飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き飛ぶ",
+        "赤い背景",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が正面を指し、下に「COME ON...」と描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20094",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "カモンと挑発する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "COME ON",
+        "挑発",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と黒の顔が大きく描かれ、上の吹き出しに「!」がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "20095",
+      "name": {
+        "ja": "目を見開いて反応する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目",
+        "驚き",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と青の服の人物がうつむき、下に「SORRY...」と描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20096",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "うつむいてソーリー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "SORRY",
+        "謝罪",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開け、前に爪を突き出しながら叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "20097",
+      "name": {
+        "ja": "爪を突き出して叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "爪",
+        "効果音"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と黄色の服の人物が両手を広げて飛び出し、下に「GO!」とある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "20098",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "ゴーと飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "GO",
+        "飛ぶ",
+        "突進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が歯を食いしばった顔で叫び、上に大きな「NOOOOOO!」と描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "20099",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "ノーと叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "叫ぶ",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が格子状の背景の前で横倒しになり、周囲に衝撃の印がある。"
+      },
+      "emotion": [
+        "surprise",
+        "sadness"
+      ],
+      "id": "20100",
+      "name": {
+        "ja": "衝撃で倒れ込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転倒",
+        "衝撃",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔の横に吹き出しがあり、「WHAT?」と書かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "20101",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "何事かと聞き返す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "WHAT",
+        "疑問",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口元を上げて笑い、頭上に「HEHEHE...」と描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20102",
+      "name": {
+        "ja": "含み笑いをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "いたずら",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の女性が片手を伸ばし、もう一方の手に輪のような道具を持っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20103",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "捕まえに行く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "CATCH YOU",
+        "女性",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を広げて現れ、下に「HERE I AM!」と描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20104",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ここにいると名乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "HERE I AM",
+        "登場",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒で描かれた人物が椅子に座り、横の吹き出しに小さく「…」とある。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "20105",
+      "name": {
+        "ja": "黙って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "無言",
+        "白黒"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の人物が両腕を伸ばし、上の吹き出しに「WELCOME!」とある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20106",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "腕を伸ばして歓迎する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "WELCOME",
+        "歓迎",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が刀のようなものを構え、上に「STOP」と大きく描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "20107",
+      "intent": [
+        "request",
+        "no"
+      ],
+      "name": {
+        "ja": "ストップをかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "STOP",
+        "制止",
+        "刀"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と黄色の服の人物が爪を広げ、赤い線を背にして前方へ突進している。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "20108",
+      "name": {
+        "ja": "爪を立てて突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "爪",
+        "突進",
+        "赤い効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "漫画のコマの中で人物が大きく口を開け、腕を広げて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20109",
+      "name": {
+        "ja": "大声で飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "飛び出す",
+        "漫画コマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪と桃色の服の女性が窓辺に座り、吹き出しで「HELLO!」と呼びかけている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20110",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "窓辺からこんにちは"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "HELLO",
+        "挨拶",
+        "女性"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1168",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

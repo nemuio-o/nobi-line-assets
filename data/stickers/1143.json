@@ -1,0 +1,1158 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが赤い花を手に持ち、頬を染めて穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19951",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "花を添えて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが両手を大きく広げ、目を見開いて勢いよく前へ出ている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "19952",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を広げて飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "飛び出す",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが目に涙を浮かべながら口を大きく開け、周囲に花びらのような飾りを散らしている。"
+      },
+      "emotion": [
+        "joy",
+        "sadness"
+      ],
+      "id": "19953",
+      "name": {
+        "ja": "涙をこぼして笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "笑顔",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが大口を開けて笑い、隣の白い猫が頬に口づけしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19954",
+      "name": {
+        "ja": "ほっぺにキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キス",
+        "笑顔",
+        "白い猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の少年が壁の陰から顔と片手を出し、歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "19955",
+      "name": {
+        "ja": "壁からにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "壁",
+        "親指",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の少年が頭を抱えてうずくまり、周囲に大きな拳や煙のような効果が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "19956",
+      "name": {
+        "ja": "拳に囲まれてへこむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "へこむ",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の少年が青い丸いキャラクターに背後から抱えられ、驚いたように身をよじっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19957",
+      "name": {
+        "ja": "背後からつかまえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "つかむ",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが黄色い服の少年の腕をつかみ、少年は前へ手を伸ばしながら振り返っている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "19958",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "腕をつかんで止める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕",
+        "制止"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが目を閉じて腕を広げ、背後から黄色い光が放射状に広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19959",
+      "name": {
+        "ja": "光を背に笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "光",
+        "笑顔",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが目を閉じ、口元を上げて穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19960",
+      "name": {
+        "ja": "目を閉じてにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "目を閉じる",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが口を大きく開けて笑い、両手を上げたまま体を揺らしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19961",
+      "name": {
+        "ja": "大笑いで揺れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大笑い",
+        "揺れ",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが目を細め、頬を赤らめながら力の抜けた笑顔を浮かべている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "19962",
+      "name": {
+        "ja": "ぼんやり笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぼんやり",
+        "笑顔",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが両手を横に広げ、目を閉じて大きな笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19963",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を広げて満面の笑み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "笑顔",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが大きな工具を手に歯を見せて踏ん張り、周囲に白い煙が上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "19964",
+      "name": {
+        "ja": "工具を手に奮闘"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "工具",
+        "煙",
+        "奮闘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが渦を巻くように回転し、上方の眼鏡の少年も勢いよく飛ばされている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "19965",
+      "name": {
+        "ja": "ぐるぐる大回転"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "回転",
+        "二人",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の少年が人差し指を高く立て、口を開けて強く訴えかけるようにしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19966",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "指を立てて主張する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "主張",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い丸い姿のキャラクターが青いぼかしの中に立ち、目を丸くしてこちらを見ている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "19967",
+      "name": {
+        "ja": "白くぼやけて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い",
+        "ぼやける",
+        "無表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の少年が両手を前に広げ、目を見開いて戸惑い、頭の横に青い疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "19968",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "手を広げて戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "戸惑い",
+        "両手",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが眉を寄せ、口を結んだ不満そうな表情で正面を見つめている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "19969",
+      "name": {
+        "ja": "むっと見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "不満",
+        "無言",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが両手を下げて立ち、額に汗を浮かべながら困ったような顔をしている。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "19970",
+      "name": {
+        "ja": "汗をかいて立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "立つ",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の男性が片手を上げ、黄色い光を背に爽やかな笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19971",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を上げて爽やかに"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を上げる",
+        "笑顔",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の少年が肩を組み、片方が前を向いて駆けながら、もう片方が後ろから寄り添っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19972",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "肩を組んで駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩組み",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の男性が拳を握って胸を張り、黄色い光の中で堂々とポーズを決めている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19973",
+      "name": {
+        "ja": "胸を張って決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポーズ",
+        "拳",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服の女性が振り返り、片手を頬のそばに添えて笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "19974",
+      "name": {
+        "ja": "振り返ってにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "振り返る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが両手を前に出して顔を突き出し、背後から赤と黄色の強い効果線が広がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "19975",
+      "name": {
+        "ja": "勢いよく顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "勢い",
+        "赤い効果"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが頬を大きくふくらませ、口をとがらせて不満そうにしている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "19976",
+      "name": {
+        "ja": "頬をふくらませる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "不満",
+        "青い光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが体を揺らし、汗を飛ばしながら両手を動かして慌てている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19977",
+      "name": {
+        "ja": "汗をかいてあたふた"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "慌てる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが目を半ば閉じ、口を下げた疲れた表情で正面を見ている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19978",
+      "name": {
+        "ja": "うつろに見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつろ",
+        "疲れ",
+        "無表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の大柄な少年が前かがみになり、汗を流して息を切らしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "19979",
+      "name": {
+        "ja": "汗だくでへとへと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "疲労",
+        "オレンジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の少年が小さな台の上で片足を上げ、腕を振りながら跳ねている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "19980",
+      "name": {
+        "ja": "台の上で跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "跳ぶ",
+        "台",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた男性が肩をすくめ、目を細めた苦笑いを浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "joy"
+      ],
+      "id": "19981",
+      "name": {
+        "ja": "肩をすくめて苦笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肩をすくめる",
+        "眼鏡",
+        "苦笑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "たてがみのある動物が炎に包まれたような姿で、口を大きく開けて激しく吠えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19982",
+      "name": {
+        "ja": "炎のように吠える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ライオン",
+        "炎",
+        "叫び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが目を見開き、舌を出して顔を赤くしながらむせている。"
+      },
+      "emotion": [
+        "surprise",
+        "disgust"
+      ],
+      "id": "19983",
+      "name": {
+        "ja": "舌を出してむせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舌",
+        "むせる",
+        "赤い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターがテーブルのお菓子に囲まれて腕を上げ、隣の小さな姿と一緒に楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19984",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "お菓子を囲んで乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お菓子",
+        "乾杯",
+        "パーティー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが口を大きく開けて叫びながら両手を上げ、周囲に白い煙が広がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "19985",
+      "name": {
+        "ja": "大声で飛び跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大声",
+        "跳ぶ",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが胸を張って立ち、口を開けた明るい笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19986",
+      "name": {
+        "ja": "胸を張って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸を張る",
+        "笑顔",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが床に座り、腕を組んで口を結び、考え込むようにしている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "19987",
+      "name": {
+        "ja": "腕を組んで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "座る",
+        "考え込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが床にうつぶせになり、体を丸めて落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19988",
+      "name": {
+        "ja": "うつぶせでしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつぶせ",
+        "落ち込む",
+        "しょんぼり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが後ろから手で引っぱられ、足を浮かせながら前へ進もうとしている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "19989",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "引っぱられて抵抗する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "引っぱる",
+        "抵抗",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが戸口に入り込もうとし、丸い背中と足だけを外へ出している。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "19990",
+      "name": {
+        "ja": "戸口からお尻が出る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "戸口",
+        "お尻",
+        "入り込む"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1143",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

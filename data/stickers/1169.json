@@ -1,0 +1,1141 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白いうさぎが両手を頬に添え、青い涙を流しながら目を見開いている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "20111",
+      "name": {
+        "ja": "涙をこらえきれない"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "うさぎ",
+        "動揺"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが目を細め、歯を見せていたずらっぽく笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20112",
+      "name": {
+        "ja": "にやりと笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "うさぎ",
+        "いたずら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いうさぎが片手を前に出し、親指を立てて満足そうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20113",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "赤いうさぎの親指サイン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "赤いうさぎ",
+        "満足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが赤いりんごを手に持ち、口元を赤くしながらかじっている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20114",
+      "name": {
+        "ja": "りんごをかじる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "りんご",
+        "食事",
+        "うさぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い耳のうさぎが雨の線に囲まれ、目を伏せてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20115",
+      "name": {
+        "ja": "雨に打たれてしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "うさぎ",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが腕を振り、前方へ勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "20116",
+      "name": {
+        "ja": "急いで駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "うさぎ",
+        "急ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが湯気の立つ麺をすすり、汗をかきながら驚いた顔をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20117",
+      "name": {
+        "ja": "熱々の麺にむせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "麺",
+        "食事",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い耳の人物が大量の紙に囲まれ、机に向かって疲れた表情を浮かべている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "20118",
+      "name": {
+        "ja": "書類に埋もれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "書類",
+        "疲れ",
+        "仕事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが口を大きく開けて叫び、頭上に赤い感嘆符を出している。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "20119",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "感嘆符",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが舌を出して汗を流し、赤くなった顔でぐったりしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "20120",
+      "name": {
+        "ja": "舌を出してへばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "舌",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが大きな黄色い手を掲げ、汗をかきながら力強く応援している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20121",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "大きな手で応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "大きな手",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが椅子に沈み込み、目を閉じて青い涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20122",
+      "name": {
+        "ja": "椅子で泣き崩れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "椅子",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いくまが割れたスイカに囲まれ、赤い果汁の飛び散る中で座っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "20123",
+      "name": {
+        "ja": "スイカに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "スイカ",
+        "果物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いくまが黄色いフードをかぶり、黄色い小鳥のそばで器を手に休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "20124",
+      "name": {
+        "ja": "黄色い顔でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "小鳥",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いくまの顔に赤い星形の物がぶつかり、くまが後ろへよろめいている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "20125",
+      "name": {
+        "ja": "顔にぶつかって痛い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "衝突",
+        "痛み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いくまが青い壁を正面から突き破り、破片を飛ばしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20126",
+      "name": {
+        "ja": "壁を突き破る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "壁",
+        "破壊"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが両手を上げて驚き、背後の茶色いくまに頭を押さえられている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20127",
+      "name": {
+        "ja": "背後からつかまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "くま",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いくまが白いうさぎを背後から抱え、うさぎが腕を伸ばして逃れようとしている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "20128",
+      "name": {
+        "ja": "背中から抱え込まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "うさぎ",
+        "つかまる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いくまと白いうさぎが色違いの服を着て、肩を並べて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "20129",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "仲よく並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "うさぎ",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いくまが黄色い物を片手に振り上げ、赤い衝撃線とともに前へ投げている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20130",
+      "name": {
+        "ja": "勢いよく投げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "投げる",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いくまが雨に打たれて立ち、足元に黄色い小鳥と小さなかたつむりがいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20131",
+      "name": {
+        "ja": "雨宿りするくま"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "くま",
+        "小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いあひるが寿司の皿を前に座り、手を添えてすすめるようにしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "20132",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "お寿司をすすめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あひる",
+        "寿司",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いあひるが黒い装束を着て転び、周囲に白い卵の殻が散らばっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20133",
+      "name": {
+        "ja": "黒装束で転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あひる",
+        "転ぶ",
+        "卵"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いあひるが青い容器を振り、水を勢いよくまき散らしている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "20134",
+      "name": {
+        "ja": "水をまき散らす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あひる",
+        "水",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いあひるが大きな拡声器を持ち、前方へ呼びかけている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "20135",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "拡声器で呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あひる",
+        "拡声器",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いあひるが骨の飾りのベルトを締め、片手に木の棒を持って構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20136",
+      "name": {
+        "ja": "骨のベルトで構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あひる",
+        "骨",
+        "棒"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いあひるが緑色の手に押され、赤い衝撃線を出しながら転びかけている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20137",
+      "name": {
+        "ja": "緑の手に押し飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あひる",
+        "衝撃",
+        "転ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いあひると緑の蛙が並び、赤い感嘆符を出して驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20138",
+      "name": {
+        "ja": "蛙と一緒に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あひる",
+        "蛙",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いあひると緑の蛙が雨に打たれ、水たまりの上で立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20139",
+      "name": {
+        "ja": "雨の中で立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "あひる",
+        "蛙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の蛙が口を開け、青いよだれを垂らしながらこちらを見ている。"
+      },
+      "emotion": [
+        "joy",
+        "tired"
+      ],
+      "id": "20140",
+      "name": {
+        "ja": "よだれを垂らす蛙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蛙",
+        "よだれ",
+        "口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の蛙が水たまりに横たわり、口元から青いよだれを流している。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "20141",
+      "name": {
+        "ja": "水たまりでぐったり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蛙",
+        "水たまり",
+        "よだれ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の蛙が二本の瓶のそばで座り、頬を赤くしてごきげんそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "tired"
+      ],
+      "id": "20142",
+      "name": {
+        "ja": "瓶を並べて酔う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蛙",
+        "瓶",
+        "酔い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の蛙が両腕を広げ、口元を上げて得意そうに立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "20143",
+      "name": {
+        "ja": "胸を張る蛙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蛙",
+        "自信",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いシャツの男性が腹部を見せ、そこに赤いハートと文字の描かれた姿でポーズを取っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20144",
+      "name": {
+        "ja": "おなかに愛を描く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "男性",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の男性が黄色い丸眼鏡をかけ、口を結んだ険しい表情で正面を見ている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "20145",
+      "name": {
+        "ja": "険しい顔で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "眼鏡",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いハートの飾りを身につけた男性が、小さな花のような飾りを掲げて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "20146",
+      "name": {
+        "ja": "花を掲げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "花",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い金髪の人物が拳を握り、背後に赤い炎を燃やしながら怒っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20147",
+      "name": {
+        "ja": "炎を背負って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い金髪の人物が赤い花を髪に飾り、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "20148",
+      "name": {
+        "ja": "赤い花を添えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "花",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い金髪の人物が正面を向き、口を少し開けた無表情で見つめている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "20149",
+      "name": {
+        "ja": "ぼんやり見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "無表情",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い金髪の人物がシャワーを浴びながら、赤い顔で眉を寄せている。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "20150",
+      "name": {
+        "ja": "シャワーで怒りを流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "シャワー",
+        "金髪",
+        "怒り"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1169",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

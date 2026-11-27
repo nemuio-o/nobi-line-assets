@@ -1,0 +1,1211 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い精霊が手を振り、白い衣装の人物とともに明るく登場している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20415",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "笑顔で登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "登場",
+        "手を振る",
+        "明るい"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が親指を立て、胸を張って肯定を示している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20416",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指で太鼓判"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "肯定",
+        "太鼓判"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が腕を組み、険しい顔で拒むように立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "20417",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "腕組みでお断り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "拒否",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が男女のそばで拳を掲げ、祝福するように笑っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "20418",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "拳を掲げて祝福"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "祝福",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が大きな花に囲まれ、笑顔で感謝を伝えている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "20419",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花いっぱいの感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "感謝",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が青い精霊を見て、目を見開き驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "20420",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "思わず二度見"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "二人",
+        "目を見開く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が小さな相手に頭を下げ、申し訳なさそうにしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "20421",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "小さく謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "頭を下げる",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が手を広げて別れを告げ、白いものを押し上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20422",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を広げて別れ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "別れ",
+        "手を広げる",
+        "見送る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "舞台の幕の陰から青い精霊と人物たちが顔を出し、様子をうかがっている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "20423",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "幕間からひょっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舞台",
+        "顔を出す",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い光の球体の顔が、目を輝かせて大きく笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20424",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "光る笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "光",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が身を低くして両手を口元に寄せ、秘密を打ち明けようとしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "20425",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "こっそり秘密話"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "秘密",
+        "小声",
+        "こっそり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が指を立て、耳を傾けるように身を乗り出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "20426",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "耳をすませて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "聞く",
+        "指を立てる",
+        "耳を傾ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の女性が花びらに囲まれ、穏やかな笑顔で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20427",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "花に包まれた笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "花びら",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が寄り添って座り、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "20428",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "寄り添うふたり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が顔を近づけ、親しげに頬を寄せている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "20429",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "そっと頬を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親密",
+        "頬を寄せる",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "夜空の大きな月の下で、人物が魔法のじゅうたんに乗って飛んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20430",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "月夜の空中散歩"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "月夜",
+        "空飛ぶじゅうたん",
+        "夜空"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が魔法のじゅうたんから転げ落ち、楽器も宙に舞っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "20431",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "空中で大あわて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "じゅうたん",
+        "転ぶ",
+        "楽器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が大きな耳を前に出し、にっこり笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20432",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "耳を広げてにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きな耳",
+        "笑顔",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が口を大きく開け、驚いたように声を上げている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "20433",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "口を開けてびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "大口",
+        "声"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が体を伸ばし、弾むように元気よく跳ねている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "20434",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "伸びやかにジャンプ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "元気",
+        "躍動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を振って踊り、そばで小さな仲間が楽器を奏でている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20435",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "音楽",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が両手で頬を押さえ、舌を出しておどけている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20436",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "舌を出しておどける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舌",
+        "おどける",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が歯を食いしばり、目を細めて強くにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "20437",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "歯を食いしばる",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が縦長の口を開き、言葉を失ったように固まっている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "20438",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "言葉を失う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絶句",
+        "口を開ける",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が床に伏せ、長い尾を上に曲げてぐったりしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "20439",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "床でぐったり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲れ",
+        "伏せる",
+        "ぐったり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が頬杖をつき、頭上に小さな渦を浮かべて悩んでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "20440",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "頬杖で思案中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "頬杖",
+        "思案"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が列になって勢いよく走り、前へ進もうとしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "20441",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "みんなで一斉ダッシュ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "列",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が大きく身を反らし、願いをかなえるように片手を伸ばしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20442",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "願いをかなえる手"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "願い",
+        "手を伸ばす",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が人物を腕で包み込み、安心させるように抱きしめている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "20443",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "ぎゅっと包む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "安心",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が両手を広げ、涙を飛ばしながら大声で泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "20444",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "涙を飛ばして号泣"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "号泣",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が胸を張り、力こぶを見せるように堂々とポーズを取っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "20445",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "胸を張って力自慢"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "力こぶ",
+        "胸を張る",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "縞模様の服の青い精霊が楽器のそばで腰を振り、音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20446",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "リズムに乗って踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "縞模様",
+        "楽器",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が泡に囲まれ、王冠をかぶって楽しそうに身支度している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20447",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "泡まみれの王様"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泡",
+        "王冠",
+        "身支度"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が木の間に体を渡して眠り、眠気の記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "20448",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "木の間でお昼寝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "木",
+        "眠気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が涙をこぼしながら両手を広げ、悲しそうに叫んでいる。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "20449",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "涙の大泣き"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "悲しみ",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が両腕を広げ、仰向けに浮かぶような姿勢で力を見せている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "20450",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "空中で力を誇示"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "力強い",
+        "浮かぶ",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が縞模様の服で楽器を抱え、浜辺で音楽を奏でている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20451",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "浜辺のひと吹き"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "浜辺",
+        "楽器",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が泡に囲まれ、王冠をかぶって楽しそうに身支度している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20452",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "泡まみれの王様"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泡",
+        "王冠",
+        "身支度"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が木の間に横たわり、眠気の記号を浮かべて休んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "20453",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "木陰でぐっすり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木陰",
+        "睡眠",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い精霊が木の間に横たわり、眠気の記号を浮かべて休んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "20454",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "木陰でぐっすり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木陰",
+        "睡眠",
+        "休憩"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1185",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

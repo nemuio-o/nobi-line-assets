@@ -1,0 +1,1140 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物が片手で口元を覆い、目を細めて照れたような表情を見せている。周囲に淡い光が散っている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "21938",
+      "name": {
+        "ja": "口元を隠して照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "照れ",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が口元に手を添え、目を大きく見開いて笑っている。周囲に震えるような線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "21939",
+      "name": {
+        "ja": "目を見開いて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きな目",
+        "笑い",
+        "手元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を左右に広げ、眉を寄せた困ったような顔で前を見ている。背後に放射状の線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "21940",
+      "name": {
+        "ja": "両手を広げて訴える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "困り顔",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が親指を立て、口を大きく開けて勢いよく笑っている。髪や服が風になびいている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21941",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てて大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "大笑い",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が身をかがめ、目を閉じて笑いながら片手を顔の横に添えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21942",
+      "name": {
+        "ja": "身をかがめて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "かがむ",
+        "笑顔",
+        "白い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服と青い短パンの人物が、拳を握って笑顔で走っている。周囲に勢いを示す線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21943",
+      "name": {
+        "ja": "笑顔で駆け出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "笑顔",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を反らせ、後ろへ倒れ込むような姿勢になっている。下側に赤い布のようなものが見える。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "21944",
+      "name": {
+        "ja": "後ろへ倒れ込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転倒",
+        "反る",
+        "赤い布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が指を立て、口を大きく開けて叫んでいる。額や頬に汗があり、周囲に縦の勢い線が走っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21945",
+      "name": {
+        "ja": "汗を飛ばして叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "汗",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の人物が深くうつむき、目を閉じて肩を落としている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21946",
+      "name": {
+        "ja": "うつむいて泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "落ち込み",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色い背景の横で口を大きく開け、前方へ大声を出しているように見える。周囲に鋭い線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21947",
+      "name": {
+        "ja": "横から大声を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大声",
+        "黄色",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が正面を向き、目を細めて口をすぼめたすました表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21948",
+      "name": {
+        "ja": "すました顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "すまし顔",
+        "正面",
+        "白い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "前の人物が大きく口を開けて前のめりに怒鳴り、背後から別の人物が顔をのぞかせている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21949",
+      "name": {
+        "ja": "前のめりに怒鳴る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒鳴る",
+        "二人",
+        "前のめり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が肩を寄せるように並び、穏やかな表情で前を見ている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "21950",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が戸口のような場所の陰で体を低くし、顔を伏せて隠れている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "21951",
+      "name": {
+        "ja": "物陰に隠れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "隠れる",
+        "物陰",
+        "身を低くする"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で頬を覆い、目から涙を流しながら泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "21952",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開けて激しく泣き、頬から大粒の涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "excitement"
+      ],
+      "id": "21953",
+      "name": {
+        "ja": "声を張って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "号泣",
+        "涙",
+        "大口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が正面を向き、目を細めて穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21954",
+      "name": {
+        "ja": "にこやかに見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "微笑み",
+        "正面",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頭の後ろで手を組んで笑い、周囲をピンク色の花が取り囲んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "21955",
+      "name": {
+        "ja": "花に囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "笑顔",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が手足をついて体を大きく反らせ、逆さまに近い姿勢になっている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "21956",
+      "name": {
+        "ja": "逆さまに身を反らす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆さま",
+        "反る",
+        "曲芸"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が腕を上げて一斉に跳び上がり、周囲にきらめきが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21957",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "みんなで跳び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "ジャンプ",
+        "祝福"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横になり、大きな茶色い塊のようなものに両腕で抱きついている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21958",
+      "name": {
+        "ja": "大きなものに抱きつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱きつく",
+        "大きなもの",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が猫耳の飾りをつけ、目を細めて口を開けた笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21959",
+      "name": {
+        "ja": "猫耳でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫耳",
+        "笑顔",
+        "変装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が並び、腕を高く上げて大きな口で笑いながら喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21960",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "仲間と大喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "大喜び",
+        "腕を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、左の人物は驚いた顔、右の人物は歯を見せた大きな笑顔をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "21961",
+      "name": {
+        "ja": "驚き顔と満面の笑み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が茶色い大きな衣装のようなものから顔を出し、両側を手でつかんで笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "21962",
+      "name": {
+        "ja": "茶色い姿で顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "茶色",
+        "衣装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が歯を食いしばり、眉をつり上げて激しくにらんでいる。頭の横に赤い怒りの記号がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21963",
+      "name": {
+        "ja": "怒りをにじませる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "歯ぎしり",
+        "怒り記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んで目をつぶり、口を大きく開けて怒鳴っている。頭上に白い息のような雲がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21964",
+      "name": {
+        "ja": "二人で怒りを爆発させる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "怒鳴る",
+        "白い息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と青の服の人物が両手を広げ、口を大きく開けて横向きに叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21965",
+      "name": {
+        "ja": "両手を振って叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "叫ぶ",
+        "赤と青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が走りながら片腕を前へ伸ばし、遠くを指し示している。周囲に速さを示す線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21966",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "走りながら指し示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "指差し",
+        "速さ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を傾け、片手を小さく握って控えめに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21967",
+      "name": {
+        "ja": "小さく拳を握る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "控えめ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉をひそめて歯を食いしばり、背後に赤と黄色の炎を燃え上がらせている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21968",
+      "name": {
+        "ja": "炎を背負って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "怒り",
+        "歯ぎしり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が身をかがめて両腕を前に抱え、こらえるような姿勢を取っている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "21969",
+      "name": {
+        "ja": "身を縮めて耐える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "かがむ",
+        "耐える",
+        "身を縮める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、前の人物が手を上げ、後ろの人物が口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21970",
+      "name": {
+        "ja": "二人で大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "大笑い",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頭を下げ、目を閉じて口をすぼめたしょんぼりした表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21971",
+      "name": {
+        "ja": "しょんぼりうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しょんぼり",
+        "うつむく",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が肩を寄せ、腕を回し合うように抱き合っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "21972",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "肩を寄せて抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱き合う",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が前へ折れ曲がるようにしゃがみ込んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "21973",
+      "name": {
+        "ja": "前かがみでしゃがみ込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しゃがむ",
+        "前かがみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の二人が並んで座り、どちらも背中を向けている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "21974",
+      "name": {
+        "ja": "赤い服で背中を向ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "赤い服",
+        "背中"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口元に手を添え、もう一方の手も近くに置きながら、こっそり話すような表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "21975",
+      "name": {
+        "ja": "口元でこっそり話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "内緒話",
+        "手を添える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を額に当てて敬礼し、鼻から白い息のようなものを出している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "21976",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "敬礼して気合を入れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "敬礼",
+        "気合",
+        "白い息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青空と草地を背景に、二人の人物が並んで歩いている。片方がもう片方の腕に手を添えている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "21977",
+      "name": {
+        "ja": "並んで歩く二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "歩く",
+        "青空"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1245",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

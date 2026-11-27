@@ -1,0 +1,1159 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "ピンク髪と緑髪の二人が、白くふわふわしたものに寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19991",
+      "name": {
+        "ja": "雲に寄り添う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "ふわふわ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が笑顔で立ち、大小の赤やピンクのハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19992",
+      "name": {
+        "ja": "ハートに囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が座り、頭の周りを星が輪になって回っている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "19993",
+      "name": {
+        "ja": "星がくるくる目を回す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "目を回す",
+        "くらくら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪と緑髪の二人が音符に囲まれて、楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19994",
+      "name": {
+        "ja": "音符と一緒に踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "音符",
+        "ダンス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪と緑髪の二人が並んで、そろって深くおじぎをしている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "19995",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "並んでおじぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "おじぎ",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が「O」と「K」の文字を両手に持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19996",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "文字",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が頬杖をつき、頭上に甘そうな焼き菓子の絵を浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19997",
+      "name": {
+        "ja": "おやつを思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おやつ",
+        "想像",
+        "頬杖"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の丸い姿が横たわり、汗を浮かべながら頭の周りに渦が出ている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "19998",
+      "name": {
+        "ja": "くらくら横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "汗",
+        "くらくら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が両腕を広げ、色とりどりの星や線に囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19999",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星の中で元気に跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "元気",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が星形の杖を持ち、明るい線と星に囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20000",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星の杖を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "杖",
+        "きらきら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物がうつむき、背後の緑髪の人物は汗を浮かべている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "20001",
+      "name": {
+        "ja": "しょんぼり見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "汗",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が頬杖をつき、周囲に青と赤の疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "20002",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符に首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "考える",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪とピンク髪の二人がシャワーの下に並び、水滴を浴びている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "20003",
+      "name": {
+        "ja": "シャワーで汗を流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "シャワー",
+        "水滴",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪とピンク髪の二人が横になり、そばにユニコーンのぬいぐるみがいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "20004",
+      "name": {
+        "ja": "寄り添って眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "寄り添う",
+        "ユニコーン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪とピンク髪の二人が雲の上で眠り、頭上に眠気の記号が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "20005",
+      "name": {
+        "ja": "雲の上でおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "雲",
+        "おやすみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が笑顔でステップを踏み、周囲に色とりどりの音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20006",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "音符に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "音符",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が胸の前で手を合わせ、目を閉じて微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "20007",
+      "name": {
+        "ja": "手を合わせてにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を合わせる",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が両手を口元に添え、歯を食いしばった表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20008",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯",
+        "こらえる",
+        "緊張"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が角のあるユニコーンをぎゅっと抱きしめている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20009",
+      "name": {
+        "ja": "ユニコーンを抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ユニコーン",
+        "抱きしめる",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が口元を押さえ、汗のしずくを浮かべてあわてている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20010",
+      "name": {
+        "ja": "汗を浮かべてあわてる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "あわてる",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪と緑髪の二人が顔を寄せ合い、周囲に花や星が舞っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20011",
+      "name": {
+        "ja": "二人で顔を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "顔を寄せる",
+        "きらきら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "飾りをつけたユニコーンが、横向きに勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20012",
+      "name": {
+        "ja": "ユニコーンが駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ユニコーン",
+        "走る",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が目を閉じて微笑み、周囲に小さな星が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "20013",
+      "name": {
+        "ja": "星と一緒に穏やかに"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "微笑み",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が青い小さな容器を抱え、汗を浮かべて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20014",
+      "name": {
+        "ja": "汗を浮かべてびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "汗",
+        "容器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が顔を覆って泣き、背後の緑髪の人物も沈んだ様子で立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "20015",
+      "name": {
+        "ja": "涙をこらえきれない"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泣く",
+        "涙",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が両手を合わせ、周囲に星やしずくのような飾りが舞っている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "20016",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を合わせてお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お願い",
+        "手を合わせる",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が口元に手を当て、ハートと青い強調線を添えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20017",
+      "name": {
+        "ja": "照れながら投げキッス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "照れ",
+        "キス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が両手で頬を支え、赤いハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20018",
+      "name": {
+        "ja": "ハートを抱えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が指で小さなハートを作り、横に黄色い星がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20019",
+      "name": {
+        "ja": "指ハートでにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指ハート",
+        "星",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が指で小さなハートを作り、周囲に黄色い強調線が出ている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20020",
+      "name": {
+        "ja": "指ハートで応える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指ハート",
+        "肯定",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が口元に手を添え、頬を赤らめている。"
+      },
+      "emotion": [
+        "love",
+        "surprise"
+      ],
+      "id": "20021",
+      "name": {
+        "ja": "口元を隠して照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "頬",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が背を向けて立ち、頭上に考えを示す丸い吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "20022",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "背を向けて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "背中",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪と緑髪の二人が顔を寄せ、音符と紙片のような飾りに囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20023",
+      "name": {
+        "ja": "顔を寄せて盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "音符",
+        "盛り上がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が口元に手を当て、周囲に大きな黄色い強調線が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20024",
+      "name": {
+        "ja": "驚いて口を押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "口元",
+        "強調線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪と緑髪の二人がユニコーンに乗り、星を散らして進んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20025",
+      "name": {
+        "ja": "ユニコーンに乗って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ユニコーン",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪の人物が顔を出し、頭上に大きく「YES」と描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20026",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESで返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "返事",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪の人物が「N」と「O」の文字を持ち、周囲にオレンジ色の拒否線が出ている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "20027",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク髪と緑髪の二人が向かい合って抱き合い、星や花に囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20028",
+      "name": {
+        "ja": "仲良く抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱き合う",
+        "仲良し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪とピンク髪の二人が黄色い星形のものを抱え、肩を寄せている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20029",
+      "name": {
+        "ja": "星を抱えて寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "星",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑髪とピンク髪の二人が並んで座り、周囲に星や花の飾りが舞っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20030",
+      "name": {
+        "ja": "星を散らして仲良く座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "星",
+        "仲良し"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1166",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

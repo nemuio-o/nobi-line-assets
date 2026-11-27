@@ -1,0 +1,1151 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服の黒髪の人物が腕を固く組み、眉を寄せて不満そうに立っている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "21658",
+      "name": {
+        "ja": "腕を組んでむすっとする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "不満",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の髪の人物がうつむき、目を伏せて肩を落としている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21659",
+      "name": {
+        "ja": "うつむいて沈む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "落ち込み",
+        "灰色の髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服の人物が腕を抱え、身を縮めて小刻みに走っている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "21660",
+      "name": {
+        "ja": "寒さに震えて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寒い",
+        "震える",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の黒髪の人物が袖で口元を覆い、目を閉じてしょんぼりしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21661",
+      "name": {
+        "ja": "袖で顔を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "袖",
+        "顔を隠す",
+        "しょんぼり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "耳のある帽子をかぶった人物が花に囲まれ、頬を赤らめて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "21662",
+      "name": {
+        "ja": "花に囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "笑顔",
+        "うれしい"
+      ]
+    },
+    {
+      "description": {
+        "ja": "前の黒い服の人物が拳を振り上げて叫び、背後の人物も険しい顔で怒っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21663",
+      "name": {
+        "ja": "怒りを爆発させる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "叫ぶ",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑と黒の服の二人が並んで座り、どちらも頭を垂れて落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21664",
+      "name": {
+        "ja": "並んで落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "座る",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い服の女性がクッションのある椅子に横たわり、足を伸ばしてくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "21665",
+      "name": {
+        "ja": "ソファでくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "くつろぐ",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の髪の女性が正面を向いて笑い、両脇に小さな花が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "21666",
+      "name": {
+        "ja": "花を添えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が手のひらを前に出し、険しい顔で大きく拒んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21667",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "NOと拒む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "手のひら",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が立って微笑み、周囲に淡いピンクの花びらが舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21668",
+      "name": {
+        "ja": "花びらの中で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "花びら",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が両手を上げ、別の人物を勢いよく宙へ持ち上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "21669",
+      "name": {
+        "ja": "宙に放り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "持ち上げる",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が赤い座布団の上に正座し、手をそろえて静かに座っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "21670",
+      "name": {
+        "ja": "正座して待つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正座",
+        "座布団",
+        "待つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が汗を飛ばし、口を開けて焦りながら両手を動かしている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "21671",
+      "name": {
+        "ja": "汗をかいて焦る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "焦る",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性がスマートフォンを見つめ、頭上に硬貨のような丸い記号を浮かべて悩んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "21672",
+      "name": {
+        "ja": "スマホを見て悩む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スマートフォン",
+        "悩む",
+        "疑問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服の女性が笑顔で人差し指を立て、元気よく合図している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21673",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "指を立てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "指差し",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が机に両手をつき、頬を赤らめて強く訴えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21674",
+      "name": {
+        "ja": "机に手をついて訴える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "机",
+        "訴える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の髪の女性が目を閉じて満面の笑みを浮かべ、親指を立てている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21675",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指で太鼓判"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "太鼓判",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の女性が指を口元に当て、汗を浮かべながら考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "21676",
+      "name": {
+        "ja": "指を口元に当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "考える",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の年配男性が両手を頭に当て、目を閉じて驚きの声を上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21677",
+      "name": {
+        "ja": "勢いよく頭を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "頭を抱える",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "背広姿の年配男性が口を開けて歌い、そばに黒い音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21678",
+      "name": {
+        "ja": "音符とともに歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "歌う",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の女性が目を見開いて身をすくめ、そばに赤い驚きの記号が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21679",
+      "name": {
+        "ja": "びっくりして固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "驚き",
+        "びっくり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のエプロンの女性が笑顔で手を上げ、吹き出しで了解を示している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21680",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "OKを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "了解",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の女性が泡の浮かぶ湯船につかり、タイル張りの浴室でくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "21681",
+      "name": {
+        "ja": "湯船でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "風呂",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男女二人が顔を寄せて笑い、頭上に丼やおにぎりなどの食べ物を思い浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "21682",
+      "name": {
+        "ja": "食事を思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "食べ物",
+        "想像"
+      ]
+    },
+    {
+      "description": {
+        "ja": "エプロン姿の二人の女性が手を高く合わせ、星を散らして喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21683",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ハイタッチで喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハイタッチ",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が拳を握って前に突き出し、赤い光線を背に力強く応援している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21684",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "Fightで励ます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "拳",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が草むらから顔を出し、中央の人物を囲んでにぎやかに笑っている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "21685",
+      "name": {
+        "ja": "草むらから顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "草むら",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い顔の男性が頬に手を当て、目を閉じて深いため息をついている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21686",
+      "name": {
+        "ja": "肩を落としてため息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "ため息",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の男性が片手を前に差し出し、赤い放射線を背に鋭い目つきで見つめている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21687",
+      "name": {
+        "ja": "鋭く見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "鋭い視線",
+        "手を差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の男性が椅子に座った女性の肩越しに顔を寄せ、放射線の中で驚いたように見つめている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21688",
+      "name": {
+        "ja": "椅子で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "椅子",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物と赤い服の人物が向かい合い、険しい表情で言い争っている。"
+      },
+      "emotion": [
+        "anger",
+        "confusion"
+      ],
+      "id": "21689",
+      "name": {
+        "ja": "二人で言い合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "言い争い",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の女性の背後に黒服の男性が立ち、二人が並んでこちらを見ている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "21690",
+      "name": {
+        "ja": "背後から見守る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "背後",
+        "見守る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマのぬいぐるみが赤い帽子をかぶり、座布団の上にちょこんと座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "21691",
+      "name": {
+        "ja": "帽子をかぶったぬいぐるみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "ぬいぐるみ",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の男性が青いスーツ姿でネクタイを整え、きらめきを添えて堂々と立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21692",
+      "name": {
+        "ja": "ネクタイを整える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "スーツ",
+        "ネクタイ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の髪の男性が振り返り、赤い炎のような背景の中で不敵に笑っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21693",
+      "name": {
+        "ja": "振り返ってにやり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "振り返る",
+        "不敵な笑み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物がピンクの布団に横たわり、眠りの記号を浮かべて熟睡している。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21694",
+      "name": {
+        "ja": "布団でぐっすり眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の男性が向かい合い、一人が花束を差し出して穏やかに贈り物をしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21695",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花束を贈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "花束",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の猫が音符や星に囲まれ、口を開けて楽しそうに歌っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21696",
+      "name": {
+        "ja": "猫たちの大合唱"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "歌う",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が正面を向いて無表情に見つめ、頭上に黒い点が並んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "21697",
+      "name": {
+        "ja": "無言で見つめる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "無言",
+        "見つめる"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1230",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

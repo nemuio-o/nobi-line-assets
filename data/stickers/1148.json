@@ -1,0 +1,1193 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い列車が正面を向き、目を見開いて口を少し開け、上部に赤い文字が添えられている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "19551",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "様子をたずねる列車"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "問いかけ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い列車が斜めに傾き、眉を下げた困り顔を見せ、周囲に揺れを示す小さな線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "19552",
+      "name": {
+        "ja": "困り顔で揺れる列車"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "困惑",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い背景の中央で列車が正面を向き、両目が渦巻き状になり、周囲に複数の疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "19553",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "目を回して混乱する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "目を回す",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い列車が目を見開いて口を開け、頭の横に黄色い衝撃の光と赤い強調線が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19554",
+      "name": {
+        "ja": "突然の異変に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "驚き",
+        "火花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い列車が横向きに倒れ、目を見開いた表情で、周囲に大きな動き線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19555",
+      "name": {
+        "ja": "横倒しで慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "横倒し",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い列車が目を閉じて眠り、周囲に黄色い星と眠りを示す記号が散っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "19556",
+      "name": {
+        "ja": "星空で眠る列車"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "睡眠",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い列車が目を閉じ、眉を下げてうつむいたような表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19557",
+      "name": {
+        "ja": "しょんぼりうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "落ち込み",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い列車が正面を向いて穏やかに笑い、頭上に黄色い電球の記号が浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "19558",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "ひらめきを得る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "ひらめき",
+        "電球"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い列車が正面を向いて大きく口を開け、頭上にカラフルな強調文字と線が添えられている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19559",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "元気に声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "笑顔",
+        "声援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の列車が眉を下げて不安そうに見つめ、額に汗を浮かべ、上に赤い強調文字がある。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "19560",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "汗をかいて問いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "汗",
+        "問いかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の列車が横を向き、目を細めた困り顔を見せ、脇に縦書きの黒い文字が添えられている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "19561",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "困ったように首を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "困惑",
+        "否定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い背景の中で緑色の列車が正面を向き、汗を浮かべながら歯を見せている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "19562",
+      "name": {
+        "ja": "強がって身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "強がり",
+        "身構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い列車が目を固く閉じ、口を大きく開けて叫び、周囲に緑色の声の表現がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19563",
+      "name": {
+        "ja": "声を張り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "叫ぶ",
+        "音量"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い列車が目を閉じて笑うような顔をし、中央に大きな赤い丸い鼻が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "19564",
+      "name": {
+        "ja": "鼻を赤くして痛がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "赤い鼻",
+        "痛み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い列車が眉を下げて涙をこらえるような顔をし、青い雨粒が周囲に降っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "19565",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "雨の中で謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "雨",
+        "謝罪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青空と雲を背景に、小さな白いキャラクターが両手を広げて走り出し、周囲に動き線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "19566",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "勢いよく出発する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "出発",
+        "勢い",
+        "青空"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い二台の列車が並び、どちらも穏やかな笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19567",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "仲良く並ぶ列車"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "二人",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の丸い顔が画面いっぱいに描かれ、細い目で正面を静かに見つめている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "19568",
+      "name": {
+        "ja": "無言で見つめる丸顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "丸顔",
+        "無表情",
+        "視線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つの顔が近くに並び、頬を赤らめた表情の周囲にピンクのハートが散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19569",
+      "name": {
+        "ja": "頬を染めて寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "照れ",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と白の列車が正面を向き、口を結んで力強く構え、頭上に青い強調文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "19570",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "負けずに踏ん張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "闘志",
+        "踏ん張る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒っぽい列車が正面を向いて歯を見せて笑い、頭上に赤い大きな文字と動き線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19571",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "怒って道をあけさせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "怒り",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色や白の四角い顔が重なって描かれ、その中に笑顔の顔も見える。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19572",
+      "name": {
+        "ja": "顔を寄せて盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "仲間",
+        "盛り上がり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い二人の四角い顔が並び、どちらも目を伏せた疲れた表情をしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "19573",
+      "name": {
+        "ja": "並んでため息をつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ため息",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の四角い顔が正面を向き、眉を強く寄せた険しい表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19574",
+      "name": {
+        "ja": "険しい顔でにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四角い顔",
+        "険しい表情",
+        "警戒"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の四角い顔が体を傾け、片目を細めた笑顔で正面を見ている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "19575",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "笑顔で礼を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "笑顔",
+        "四角い顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "さまざまな表情の顔が赤や灰色の枠の中に密集し、画面全体を埋めている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19576",
+      "name": {
+        "ja": "顔が集まってにぎわう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "集合",
+        "にぎやか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が緑の旗を掲げ、前方へ勢いよく走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19577",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "賛成旗を掲げて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "旗",
+        "賛成"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が赤い旗を片手で掲げ、まっすぐ立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19578",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "反対旗を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "旗",
+        "反対"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が背を向け、片足を上げて歩き去るような姿勢をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "19579",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "背を向けて立ち去る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "背中",
+        "立ち去る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の二人の男性が並び、前の人物が右方向を指し示している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19580",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "二人で方向を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "二人",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いエプロンの料理人がフライパンと調理器具を両手に持ち、白い湯気を頭上に立てている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19581",
+      "name": {
+        "ja": "料理の腕をふるう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理人",
+        "フライパン",
+        "調理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子とベストの男性が両手を前に広げ、眉を上げて急ぐような表情をしている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "19582",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "両手を広げて急かす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "帽子",
+        "急ぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子とベストの男性が笑顔で片手の親指を立て、もう一方の手を腰に当てている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "19583",
+      "intent": [
+        "agree",
+        "encourage"
+      ],
+      "name": {
+        "ja": "親指を立てて認める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "親指",
+        "承認"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の列車が正面を向いて笑い、上部に青い文字と小さなピンクのハートがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "19584",
+      "intent": [
+        "agree",
+        "answer"
+      ],
+      "name": {
+        "ja": "任せてと胸を張る列車"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "列車",
+        "任せる",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子とベストの男性が片手を口元に添え、もう一方の手で前方を指し示している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19585",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "指名して仕事を頼む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "指差し",
+        "依頼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子とスーツの男性が背を向けて立ち、脇に小さな点が縦に並んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "19586",
+      "name": {
+        "ja": "背中を向けて黙る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "背中",
+        "沈黙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子とベストの男性が帽子を持ち上げ、笑顔で相手をたたえるような仕草をしている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "19587",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "帽子を掲げてほめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "帽子",
+        "称賛"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の男性が険しい顔で前を指し、背後に赤橙色の大きな炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19588",
+      "name": {
+        "ja": "怒りを燃え上がらせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "炎",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子とベストの男性が湯気の立つカップを持ち、青い背景で穏やかに笑っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "19589",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "お茶でひと息つく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "お茶",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子とベストの男性が片手を差し出し、もう一方に白い花のようなものを持って穏やかに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19590",
+      "intent": [
+        "comfort",
+        "encourage"
+      ],
+      "name": {
+        "ja": "ゆっくり休むよう勧める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "休息",
+        "いたわり"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1148",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

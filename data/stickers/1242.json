@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色のくまが黄色い荷物のそばで体を伸ばし、白いおなかを見せて横になっている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "21818",
+      "name": {
+        "ja": "くつろいで横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "荷物",
+        "くま"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまと白いくまが寄り添い、黄色い小鳥もそばにいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21819",
+      "name": {
+        "ja": "仲よく寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寄り添う",
+        "仲間",
+        "小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまの上で白いくまが両手を上げ、勢いよく動いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21820",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "元気に飛びはねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛びはねる",
+        "元気",
+        "くま"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが黄色い小鳥と並び、周囲に星のきらめきが広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21821",
+      "name": {
+        "ja": "きらめきに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "小鳥",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが音符を浮かべながら、ピンクの小物を手に楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21822",
+      "name": {
+        "ja": "音符とごきげん"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "ごきげん",
+        "小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまがクッキーを口にし、足元のお菓子を前にうれしそうにしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21823",
+      "name": {
+        "ja": "おやつをほおばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クッキー",
+        "お菓子",
+        "食べる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまと白いくま、黄色い小鳥が集まり、仲よく並んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21824",
+      "name": {
+        "ja": "みんなでひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "小鳥",
+        "集合"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが茶色のくまと黄色い小鳥をまとめて抱きしめている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21825",
+      "name": {
+        "ja": "ぎゅっと抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱きしめる",
+        "小鳥",
+        "仲よし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが背中を向け、ゆっくり歩き出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21826",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "背中を向けて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "歩く",
+        "別れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが床に伏せ、耳を立ててのんびりしている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "21827",
+      "name": {
+        "ja": "のんびり伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "伏せる",
+        "のんびり",
+        "くま"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが黄色い小鳥を頭に乗せ、音符とともに楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21828",
+      "name": {
+        "ja": "小鳥を頭に乗せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "音符",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが茶色のくまの背中に乗り、茶色のくまは仰向けになっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21829",
+      "name": {
+        "ja": "背中に乗って遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "遊ぶ",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが横向きにごろんと寝そべり、目を閉じている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "21830",
+      "name": {
+        "ja": "ごろんと休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寝そべる",
+        "休む",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまがうつぶせになり、力を抜いて横たわっている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "21831",
+      "name": {
+        "ja": "うつぶせで休憩"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつぶせ",
+        "休憩",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが正面を向いて立ち、落ち着いた表情を見せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21832",
+      "name": {
+        "ja": "静かに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立つ",
+        "正面",
+        "落ち着き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまがちょこんと座り、こちらを見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21833",
+      "name": {
+        "ja": "ちょこんと座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "正面",
+        "くま"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが黄色い小鳥を連れて、楽しそうに歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21834",
+      "name": {
+        "ja": "小鳥と歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "小鳥",
+        "仲よし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三匹のくまが黄色い幕の上から顔を出し、にぎやかに並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21835",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "みんなで顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三匹",
+        "幕",
+        "集合"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまと茶色のくまが重なり、遊びながら転がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21836",
+      "name": {
+        "ja": "じゃれ合って転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "じゃれ合う",
+        "転ぶ",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが横向きに寝そべり、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21837",
+      "name": {
+        "ja": "ころんと横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "休む",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまと白いくまが小さな食卓を囲み、食べ物を前にしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21838",
+      "name": {
+        "ja": "並んで食卓を囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "食べる",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥のそばに白い小さなポットが置かれ、飲み物をすすめているように見える。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "21839",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "お茶をどうぞ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポット",
+        "小鳥",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが白いくまに皿を差し出し、仲よく食べ物を分けている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21840",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "おやつを分け合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べ物",
+        "分け合う",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまと黄色い小鳥が色とりどりの飲み物を手に、楽しそうに並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21841",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "飲み物で乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "乾杯",
+        "小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が羽を広げ、元気よく手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21842",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "小鳥が手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "手を振る",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが青い飲み物を手に座り、周囲に白い湯気が立っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "21843",
+      "name": {
+        "ja": "湯気の中でひと息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯気",
+        "飲み物",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが黄色い小鳥を胸に抱き、親しげに寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21844",
+      "name": {
+        "ja": "小鳥を抱いて甘える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱く",
+        "小鳥",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが横棒の向こうから顔だけを出し、こちらを見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "21845",
+      "name": {
+        "ja": "ひょこっと顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "のぞく",
+        "くま"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が横棒の向こうから顔を出し、こちらを見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "21846",
+      "name": {
+        "ja": "小鳥がひょこっと登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "顔を出す",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが腕を組み、口をへの字にして怒った顔をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21847",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "ぷんぷん怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒る",
+        "腕組み",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまと黄色い小鳥が寄り添い、周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21848",
+      "name": {
+        "ja": "ハートで仲よし"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "寄り添う",
+        "小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが床にぺたんと伏せ、目を閉じて休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "21849",
+      "name": {
+        "ja": "ぺたんと寝そべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "伏せる",
+        "休む",
+        "くま"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが背中を向けて歩き去り、足元に小さな動きのしるしがある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21850",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "遠ざかる足音"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "歩き去る",
+        "別れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが振り返り、頭の上に大きな感嘆符を浮かべている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "21851",
+      "name": {
+        "ja": "びっくりして振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り返る",
+        "感嘆符",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが黄色い小鳥を大切そうに抱え、うれしそうにしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21852",
+      "name": {
+        "ja": "小鳥を抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱える",
+        "小鳥",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が小さな足で元気よく走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21853",
+      "name": {
+        "ja": "小鳥が駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "走る",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが腹ばいで伸び、しっぽを上げたまま眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21854",
+      "name": {
+        "ja": "お昼寝モード"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "昼寝",
+        "眠る",
+        "しっぽ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いくまが花をたくさん抱え、花束を差し出している。"
+      },
+      "emotion": [
+        "love",
+        "gratitude"
+      ],
+      "id": "21855",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花束を贈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "贈る",
+        "ありがとう"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまと白いくまが緑のひもにつかまり、楽しそうに揺れている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21856",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ぶらんこで遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぶらんこ",
+        "揺れる",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまと白いくまが緑のひもにつかまり、楽しそうに揺れている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21857",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ぶらんこで遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぶらんこ",
+        "揺れる",
+        "二人"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1242",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

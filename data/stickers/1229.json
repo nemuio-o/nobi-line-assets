@@ -1,0 +1,1164 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤い髪の人物が歯を見せて笑い、片手の人差し指を前へ突き出している。頭上には赤い放射線が広がる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21618",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "指を立てて気合い十分"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "気合い",
+        "赤髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物と青い猫が並び、二人とも目を見開いて口を結んだ驚きの表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21619",
+      "name": {
+        "ja": "並んでびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "青い猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が振り向いて微笑み、赤いハートが周囲に浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21620",
+      "name": {
+        "ja": "ハートに囲まれて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "女性",
+        "振り向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い猫が舌を出して片足を上げ、色とりどりの紙片と記号に囲まれて跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21621",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "猫が元気に跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い猫",
+        "ジャンプ",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が顎に手を当てて考え込み、頭上の吹き出しには点が並んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "21622",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "黙って考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "沈黙",
+        "考える",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の上半身の人物が笑顔で親指を立て、周囲に淡い光がきらめいている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21623",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指で太鼓判"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い赤茶色の髪の女性が肩当てを身につけ、険しい目つきで横を見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21624",
+      "name": {
+        "ja": "鋭く見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "鎧",
+        "険しい目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が腕を伸ばして前方を指し、周囲に鮮やかな放射形の飾りが出ている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21625",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "勢いよく指し示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "勢い",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青紫色の髪の女性が目を閉じ、胸の前で手を合わせて静かに願っている。背後に星が散っている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "21626",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を合わせて願う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祈り",
+        "女性",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い猫と白い猫が寄り添い、ピンクの大きなハートの中で手を取り合っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21627",
+      "name": {
+        "ja": "ハートの中で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二匹",
+        "ハート",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の顔のお面をかぶった小さな猫が座り、目を見開いて青い汗を飛ばしている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "21628",
+      "name": {
+        "ja": "お面の猫が汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "お面",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が首を傾け、頭上の吹き出しに大きな疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "21629",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげて疑問"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "男性",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いひげの男性が口を大きく開けて叫び、周囲に青紫色の縦線が集中している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21630",
+      "name": {
+        "ja": "声を張り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "男性",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の女性が目を閉じて微笑み、片手を軽く差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21631",
+      "name": {
+        "ja": "微笑んで手を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "微笑み",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が目を閉じて頬を寄せ、淡い光と星に包まれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "21632",
+      "name": {
+        "ja": "光の中でうっとり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "金髪",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い髪色の女性が白い衣装で、灰色の大きな箱をいくつも抱えて運んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "21633",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "重たい荷物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "運ぶ",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤髪の人物が目を細めて歯を食いしばり、顔の周囲に大きな効果音の文字が配置されている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21634",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤髪",
+        "歯ぎしり",
+        "効果音"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が険しい目つきで前を見つめ、黒い集中線が顔の周囲に伸びている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21635",
+      "name": {
+        "ja": "鋭い眼差しで迫る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "眼差し",
+        "集中線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の女性が笑顔で指を丸めた手の合図を示し、横に大きなオレンジ色の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21636",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "笑顔でオーケー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "女性",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤髪の人物が険しい顔で正面を指差し、紫色の強調文字と星が添えられている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21637",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "指差して念を押す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "念押し",
+        "赤髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の髪の女性が目を細めて笑い、緑と黄色の小さな花が周囲に浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21638",
+      "name": {
+        "ja": "花に囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑髪",
+        "花",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤髪と金髪の二人の男性が顔を近づけ、険しい表情でにらみ合っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21639",
+      "name": {
+        "ja": "顔を寄せて対峙する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "対峙",
+        "にらみ合い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が腕を組み、目元を髪で隠しながら静かに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21640",
+      "name": {
+        "ja": "腕を組んで静かに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が両腕を上げて笑い、背後の青髪の女性も腕を上げて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21641",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "二人で大はしゃぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "両手",
+        "歓喜"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤髪の人物が拳を握って前へ乗り出し、背後に炎と縦書きの強調文字が描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "21642",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "燃える意気込み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "赤髪",
+        "意気込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の女性が缶を口に当て、体を反らして勢いよく飲んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21643",
+      "name": {
+        "ja": "勢いよく飲み干す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "女性",
+        "一気飲み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の小さな人物が目を細めて震え、頭上と周囲に青い汗が流れている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "21644",
+      "name": {
+        "ja": "汗だくでおびえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "黒い服",
+        "おびえ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青紫色の髪の女性が涙を浮かべた目で見上げ、頬に涙が伝っている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "21645",
+      "name": {
+        "ja": "涙目で見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "涙",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色のスカートの女性が背を向けて杖を前へ伸ばし、先端に黄色い光が輝いている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21646",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "杖を掲げて魔法を放つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "杖",
+        "魔法",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の髪の女性が目を見開き、口を開けて横たわるように驚いている。赤い感嘆符が浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21647",
+      "name": {
+        "ja": "突然の大慌て"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "驚き",
+        "びっくりマーク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スカーフ姿の赤髪の人物が青い猫と並んで歩き、二人の横に動きの線が出ている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21648",
+      "name": {
+        "ja": "猫と一緒に歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "青い猫",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の大柄な人物と別の人物が体をつかみ合い、激しくもみ合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21649",
+      "name": {
+        "ja": "組み合って大乱闘"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "格闘",
+        "二人",
+        "もみ合い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤髪の人物が炎に囲まれながら前へ身を乗り出し、拳を振り上げている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21650",
+      "name": {
+        "ja": "炎の中で突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "突進",
+        "赤髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が頭を抱えて目を見開き、口を大きく開けている。そばに黒と赤の文字がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "21651",
+      "name": {
+        "ja": "頭を抱えて大慌て"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "慌てる",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子をかぶった女性が目を閉じて微笑み、指先を口元に添える。水色のハートが舞っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21652",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "帽子の女性が投げキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "投げキス",
+        "ハート",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い猫が両手で小さな網を持ち、横を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21653",
+      "name": {
+        "ja": "猫が網を手にする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い猫",
+        "網",
+        "持つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤髪の人物が顔を大きく寄せ、歯を見せて険しい表情で叫んでいる。横に縦書きの強調文字がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21654",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "顔を寄せて怒鳴る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒鳴る",
+        "赤髪",
+        "強調文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い丸いキャラクターが体を揺らし、目が渦巻きになったまま舌を出している。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "21655",
+      "name": {
+        "ja": "目が回ってふらふら"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いキャラクター",
+        "目が回る",
+        "ふらつき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の猫が口を大きく開けて叫び、両手を広げて黄色い効果線を飛ばしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21656",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "猫が声を張り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い猫",
+        "叫ぶ",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が目を見開いて立ち、頭の横にピンク色の絡まった線が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "21657",
+      "name": {
+        "ja": "困って固まる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い猫",
+        "困惑",
+        "ぐるぐる"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1229",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
