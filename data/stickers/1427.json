@@ -1,0 +1,1128 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服の人物が大きく歯を見せ、片手を上げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27002",
+      "name": {
+        "ja": "歯を見せて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "歯",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の親指を立て、口を開けて勢いよく喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27003",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "喜び",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が前後に重なるような姿勢で、勢いよくぶつかったように見える。周囲に動きの線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "27004",
+      "name": {
+        "ja": "勢いよくぶつかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "衝突",
+        "勢い",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が正面を向き、目を横に向けて慎重そうな表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "27005",
+      "name": {
+        "ja": "横目で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横目",
+        "紫の服",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を細めて笑い、背後に大きなピンク色の「LOVE」とハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27006",
+      "name": {
+        "ja": "LOVEを背に笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "LOVE",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽい服と帽子の人物が片手を上げ、横に大きなピンク色のハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27007",
+      "name": {
+        "ja": "ハートを添えて照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "帽子",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子の人物が目を大きく見開き、両手を広げて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "27008",
+      "name": {
+        "ja": "手を広げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "赤い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "肌の濃い人物が目を閉じ、穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "27009",
+      "name": {
+        "ja": "目を閉じて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "微笑み",
+        "目を閉じる",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が細長い台の前に横たわるような姿勢で、片手を前に伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "27010",
+      "name": {
+        "ja": "机の前で横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "台",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、口を開けて前方を指している。上に黄色い「カッ、カッ…」の文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "27011",
+      "name": {
+        "ja": "カッと目を見開く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カッカッ",
+        "指差し",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が床に正座し、両手を前に出して困ったような表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "27012",
+      "name": {
+        "ja": "正座で困り果てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正座",
+        "困り顔",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を細め、口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27013",
+      "name": {
+        "ja": "口を開けて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "大口",
+        "目を細める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた人物が顔を傾け、口元を上げてにやりと笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27014",
+      "name": {
+        "ja": "にやりと笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "にやり",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子をかぶった白い鳥のような姿が、片方の翼を親指のように立てている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27015",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てる鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "赤い帽子",
+        "親指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに寝転び、枕のようなものに顔を伏せている。上に「Zzz」の文字がある。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "27016",
+      "name": {
+        "ja": "眠り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "横向き",
+        "Zzz"
+      ]
+    },
+    {
+      "description": {
+        "ja": "制服風の青い服の人物が前方を指し、横に赤い「OUT!」の文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "27017",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "OUTと指し示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OUT",
+        "指差し",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の人物が前へ走り、腕を振っている。周囲に速さを示す線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "27018",
+      "name": {
+        "ja": "走って突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "突進",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の人物が棒状のものを持って走り、先端から黄色い光が出ている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "27019",
+      "name": {
+        "ja": "光を放って進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い光",
+        "走る",
+        "棒"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の人物の顔が、オレンジ色の衝撃のような形にのけぞっている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "27020",
+      "name": {
+        "ja": "衝撃にのけぞる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "衝撃",
+        "紫色",
+        "のけぞる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青色の人物が体を縮め、歯を食いしばって震えている。横に「寒!」の文字がある。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "27021",
+      "name": {
+        "ja": "寒さに震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寒い",
+        "震え",
+        "青色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった二人の人物が横一列に並び、前を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "27022",
+      "name": {
+        "ja": "二人で並んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "帽子",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が大粒の涙を流し、両手を口元に添えて泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "27023",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "青い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の人物が壁際に座り、頭を伏せて落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "27024",
+      "name": {
+        "ja": "座り込んで落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座り込む",
+        "うつむく",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い円の中に、太い赤い漢字のような印が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "27025",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "罰の印"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い印",
+        "円",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が二つの太鼓のようなものを抱え、上に赤い「おはよ!」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27026",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "おはようと声をかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おはよ",
+        "挨拶",
+        "太鼓"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった三人の人物が肩を寄せるように並んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "27027",
+      "name": {
+        "ja": "三人で身を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "帽子",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて口を開け、片手を上げながら味わうような表情をしている。横に「うま」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27028",
+      "name": {
+        "ja": "うまそうに味わう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うま",
+        "味わう",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りのある髪型の人物が、目を細めて歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27029",
+      "name": {
+        "ja": "満面の笑み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "満面の笑み",
+        "花飾り",
+        "歯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒白の人物が前へ飛び出すように動き、左右に高速の線が描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "27030",
+      "name": {
+        "ja": "勢いよく飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛び出す",
+        "高速線",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、歯を食いしばって険しい表情をしている。首元に赤い布が見える。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "27031",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "険しい顔",
+        "歯を食いしばる",
+        "赤い布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を縮め、歯を食いしばって震えている。周囲に水しぶきのような線がある。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "27032",
+      "name": {
+        "ja": "水しぶきの中で震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震え",
+        "水しぶき",
+        "歯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな白い姿が地面すれすれを高速で移動し、後ろに長い動きの線が伸びている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "27033",
+      "name": {
+        "ja": "小さな姿が駆け抜ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小さな姿",
+        "高速移動",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が、白い模様のある小さな物を口元へ運んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27034",
+      "name": {
+        "ja": "赤い服で味わう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "食べる",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、前にある青い画面のようなものを見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "27035",
+      "name": {
+        "ja": "画面を二人で見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "画面",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、片方が腕を上げ、もう片方が両手を広げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27036",
+      "name": {
+        "ja": "二人で身振りする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕を上げる",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が赤い花を持って微笑み、横にピンク色のハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27037",
+      "name": {
+        "ja": "花とハートで微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "ハート",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が深く頭を下げ、両手を前に垂らしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "27038",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "頭を下げて謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お辞儀",
+        "謝る",
+        "頭を下げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い吹き出しの方を向き、白い日本語の文章が表示されている。吹き出しには「普通に読まれて、しゃべってくれて読んでくれるからぁ」と読める部分がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "27039",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "読んでくれるよう頼む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "日本語",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子と眼鏡の人物が口を開け、頭の周囲にピンク色のギザギザした表現が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "27040",
+      "name": {
+        "ja": "驚いて声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "帽子",
+        "ギザギザ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黄色の爆発のような形が地面にあり、周囲へ放射状の線が伸びている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "27041",
+      "name": {
+        "ja": "爆発して終わる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "爆発",
+        "放射線",
+        "終幕"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1427",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1166 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が並び、手を上げて笑顔であいさつしている。上にHELLO!!の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27322",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "元気にあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あいさつ",
+        "笑顔",
+        "HELLO"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の動物が箱から身を出し、手を合わせるようにしている。上にTHANK YOUの文字がある。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "27323",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "箱からありがとう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "贈り物",
+        "THANK YOU"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物が青い文字のYOUを両手で持ち上げ、片手に小さな旗を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27324",
+      "name": {
+        "ja": "青いYOUを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YOU",
+        "旗",
+        "青色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の動物が片手を上げ、赤いハート形のOKAYの文字とともに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27325",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "笑顔でOK"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "笑顔",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物が赤い服で頭を下げ、青い涙のようなものを浮かべている。上にSORRYの文字がある。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "27326",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "雪の中でごめんなさい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "雪",
+        "SORRY"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が並び、白い耳の動物が親指を立てている。上にGOOD!の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27327",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "二人でグッド"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "GOOD",
+        "笑顔",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の動物が胸元に手を当てて立ち、隣に小さな黄色い姿がいる。上にYES!!の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27328",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "胸を張ってYES"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "肯定",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が寄り添い、星の見える夜空を見上げている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "27329",
+      "name": {
+        "ja": "夜空を見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜空",
+        "星",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物が白い耳の動物の頬に顔を寄せ、二人の周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27330",
+      "name": {
+        "ja": "頬を寄せる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬寄せ",
+        "ハート",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の動物が赤い布のようなものをまとい、片手を上げて笑っている。周囲に赤いハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "27331",
+      "name": {
+        "ja": "赤い布でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い布",
+        "笑顔",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が並び、白い耳の動物がHAPPY NEW YEARと書かれた白い円を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27332",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "新年を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "新年",
+        "祝い",
+        "HAPPY NEW YEAR"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が腕を回すように並び、白い耳の動物が片手を上げて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "27333",
+      "name": {
+        "ja": "仲良くハイタッチ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハイタッチ",
+        "二人",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の動物が大きな青いハートを間にして並び、ハートを支えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27334",
+      "name": {
+        "ja": "青いハートを届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いハート",
+        "プレゼント",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が赤い焚き火のそばに座り、火を囲んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "27335",
+      "name": {
+        "ja": "焚き火でほっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "焚き火",
+        "冬",
+        "温まる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が夜空を背景に横になり、寄り添っている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "27336",
+      "name": {
+        "ja": "夜に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "星",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が床に座り、それぞれ本を手にして読んでいる。周囲にも本が置かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "27337",
+      "name": {
+        "ja": "本を読んでひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "読書",
+        "休憩",
+        "本"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が雪の上を並んで滑り、後ろに雪の勢いが描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "27338",
+      "name": {
+        "ja": "スキーで滑る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スキー",
+        "雪",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の動物が茶色の動物に寄り添って座り、手前に茶器と飲み物がある。背後に夜空が見える。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "27339",
+      "name": {
+        "ja": "お茶でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お茶",
+        "くつろぎ",
+        "星空"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物がテーブルを囲み、ケーキや飲み物を一緒に楽しんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "27340",
+      "name": {
+        "ja": "一緒におやつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おやつ",
+        "ケーキ",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が暖炉の前に座り、飲み物の入ったカップを手にしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "27341",
+      "name": {
+        "ja": "暖炉の前で乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "暖炉",
+        "乾杯",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が星空を背景に並び、白い耳の動物が口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "27342",
+      "name": {
+        "ja": "星空でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星空",
+        "笑顔",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物がベンチのような場所に座り、肩を寄せている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "27343",
+      "name": {
+        "ja": "肩を並べて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩寄せ",
+        "ベンチ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が料理の並んだ食卓を囲み、互いに寄り添っている。上にハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "27344",
+      "name": {
+        "ja": "食卓で仲良く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "料理",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物が白い耳の動物を抱きしめ、白い耳の動物が目を閉じて口をすぼめている。二人の間にハートと白い雲のようなものがある。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "27345",
+      "name": {
+        "ja": "あたたかい抱擁"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "ハート",
+        "白い息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物が青い板の上に乗って雪の上を進み、板にGO GO!!の文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "27346",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "雪上をGO"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "GO",
+        "雪",
+        "スピード"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が大きな白い雪玉のようなものに乗り、雪玉を囲んで遊んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27347",
+      "name": {
+        "ja": "雪玉で遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪玉",
+        "雪遊び",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物が青い服の白い耳の動物の肩に手を置き、白い耳の動物は涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "27348",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "肩をたたいて元気づける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "励ます",
+        "肩",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の茶色の動物と白い耳の動物が肩を寄せ、周囲にきらめきとハートが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "27349",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "二人でお祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祝い",
+        "二人",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物が赤い編み物を手にし、白い耳の動物がそばで寄り添って見ている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "27350",
+      "name": {
+        "ja": "編み物を見守る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "編み物",
+        "毛糸",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が青と赤の冬服で並び、手をつないでいるように見える。足元に小さな姿がある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "27351",
+      "name": {
+        "ja": "仲良く並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハート",
+        "冬服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物が大きな白い雪だるまのそばに立ち、雪だるまは赤い帽子と赤いマフラーを身につけている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "27352",
+      "name": {
+        "ja": "雪だるまのそばで"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪だるま",
+        "冬",
+        "赤い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の動物が二体の白い雪だるまのような姿と並び、足元に小さな黄色い姿がいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "27353",
+      "name": {
+        "ja": "雪だるまと並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪だるま",
+        "冬",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青く透明感のある姿の茶色の動物と白い耳の動物が、肩を寄せて並んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "27354",
+      "name": {
+        "ja": "氷の姿で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "氷",
+        "青色",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が冬の飾りに囲まれて並び、中央にI LOVE WINTERの文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27355",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "冬を大好き"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "冬",
+        "I LOVE WINTER",
+        "祝い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の動物が雪の上に横たわり、茶色の動物がそばに立っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "27356",
+      "name": {
+        "ja": "雪上でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪",
+        "休憩",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物が青いマフラーをなびかせて走り、背後に速さを示す線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "27357",
+      "name": {
+        "ja": "勢いよく駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "勢い",
+        "冬服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の動物と茶色の動物が雪の上で両手を上げて跳ね、周囲にハートと雪のような飾りがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27358",
+      "name": {
+        "ja": "雪の上で大喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪",
+        "ジャンプ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が夜の雪景色の中で寄り添い、並んで歩いている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "27359",
+      "name": {
+        "ja": "夜の雪道を歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪道",
+        "夜",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が並んで眠そうに目を閉じ、上にGOOD NIGHTの文字と星がある。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "27360",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "おやすみなさい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おやすみ",
+        "GOOD NIGHT",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の動物と白い耳の動物が、雪の付いた窓の内側から夜空を眺めている。窓の外に黄色い明かりが見える。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "27361",
+      "name": {
+        "ja": "窓辺で夜を眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "窓",
+        "夜",
+        "雪"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1474",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

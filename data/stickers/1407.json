@@ -1,0 +1,1116 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い花の冠をかぶった黄色い髪の人物が、片手を上げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26706",
+      "name": {
+        "ja": "花冠でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花冠",
+        "笑顔",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い花の冠をかぶった人物が胸の前で手を合わせ、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "26707",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "手を合わせる",
+        "花冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに寝そべり、片手を顔の近くに置いて上を見ている。頭上に小さな点が並んでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "26708",
+      "name": {
+        "ja": "横たわって考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "考える",
+        "花冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を広げて踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26709",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "音符",
+        "花冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を広げて笑い、周囲にピンク色の花が散っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26710",
+      "name": {
+        "ja": "花に囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "笑顔",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸元で手を合わせ、周囲に黄色いきらめきが広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "26711",
+      "name": {
+        "ja": "きらめきを見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "手を合わせる",
+        "花冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、片手を口元に添えてキスを送るような仕草をしている。そばに赤いハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "26712",
+      "name": {
+        "ja": "投げキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キス",
+        "ハート",
+        "手元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の人物が両腕を広げて跳ねるように踊り、周囲に色とりどりの紙片が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26713",
+      "name": {
+        "ja": "紙吹雪で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙吹雪",
+        "踊る",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い四つ足の動物が目を伏せ、両側に青い涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26714",
+      "name": {
+        "ja": "涙を流す動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "茶色",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を上げ、青い文字で『Hello』と書かれたそばで笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26715",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "笑顔でハロー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Hello",
+        "あいさつ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉を寄せて腕を下げ、両側に白い息のような雲を出している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "26716",
+      "name": {
+        "ja": "怒って足を踏み鳴らす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "白い雲",
+        "花冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い羊のような動物が横たわって眠り、背後に青緑色の丘と黄色い月が見える。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "26717",
+      "name": {
+        "ja": "月夜に眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "月",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の髪の二人が向かい合い、どちらも首をかしげている。上に大きな赤い疑問符がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "26718",
+      "name": {
+        "ja": "二人で首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "二人",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腰を深く曲げ、頭を下げておじぎをしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26719",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "深くおじぎする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "謝る",
+        "頭を下げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きになって体を丸め、転がるような姿勢を取っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "26720",
+      "name": {
+        "ja": "勢いよく転がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転がる",
+        "横向き",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花冠をかぶった人物が角のある黒い動物の背に乗り、速く進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26721",
+      "name": {
+        "ja": "動物に乗って駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乗る",
+        "動物",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、片手を口元に当てている。頭の横に赤い感嘆符がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26722",
+      "name": {
+        "ja": "驚いて口元を押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "感嘆符",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が水たまりの中で座り込み、赤い帽子をかぶっている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "26723",
+      "name": {
+        "ja": "水たまりで困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水たまり",
+        "座り込む",
+        "赤い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服を着た人物が前かがみになり、ひもにつないだそりを引いている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "26724",
+      "name": {
+        "ja": "そりを引く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "そり",
+        "引く",
+        "前かがみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな茶色い動物が座り込み、体の周囲に震えを示す赤い線がある。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "26725",
+      "name": {
+        "ja": "震える動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震える",
+        "茶色",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を高く上げ、口を開けて喜んでいる。周囲に赤い線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26726",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "喜ぶ",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて横たわり、白い花の束を抱えている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "26727",
+      "name": {
+        "ja": "花を抱いて眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "花",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花冠をかぶった人物が、茶色い大きな物の陰から顔だけをのぞかせている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "26728",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "物陰",
+        "花冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い頭巾の人物が花のついた枝を手に持ち、片足を上げて立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26729",
+      "name": {
+        "ja": "花を手に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い頭巾",
+        "花",
+        "片足立ち"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花冠をかぶった人物が体を低くして横たわり、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "26730",
+      "name": {
+        "ja": "力なく横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "目を閉じる",
+        "花冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花冠をかぶった人物が、角のある茶色い動物に寄り添って抱きついている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "26731",
+      "name": {
+        "ja": "動物に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "抱きつく",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて微笑み、黄色い花の束を胸に抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "26732",
+      "name": {
+        "ja": "花を抱いてうっとり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "抱える",
+        "微笑み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い服の人物が両手を広げて片足を上げ、周囲にオレンジ色の線が広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26733",
+      "name": {
+        "ja": "両手を広げて跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "跳ねる",
+        "両手",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頭上の大きな茶色い荷物を両手で支え、体を後ろに反らせて歩いている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "26734",
+      "name": {
+        "ja": "大きな荷物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "運ぶ",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服を着た人物が大きな茶色い荷物を背負い、両腕を広げて走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "26735",
+      "name": {
+        "ja": "荷物を持って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "背負う",
+        "荷物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて顔を横に向け、口元から赤い線を出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26736",
+      "name": {
+        "ja": "くしゃみをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くしゃみ",
+        "目を閉じる",
+        "赤い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向き、口を結んだ表情でじっと前を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "26737",
+      "name": {
+        "ja": "じっと見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "見つめる",
+        "無表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が緑の枝につかまり、音符を浮かべながら揺れている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26738",
+      "name": {
+        "ja": "枝につかまって歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "枝",
+        "音符",
+        "つかまる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が王冠をかぶり、杖のような物を持って正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "26739",
+      "name": {
+        "ja": "王冠をかぶって構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "赤い服",
+        "杖"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を上げ、もう片方の手を体の横に置いて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26740",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "あいさつ",
+        "花冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服を着た人物が大きな木の扉の後ろに隠れ、顔だけをのぞかせている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "26741",
+      "name": {
+        "ja": "扉の後ろに隠れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "隠れる",
+        "扉",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花冠をかぶった人物が、両手を下げて穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26742",
+      "name": {
+        "ja": "花冠で微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花冠",
+        "微笑み",
+        "黄色い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服と緑色の服の二人が向かい合い、腕を回して抱き合っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "26743",
+      "name": {
+        "ja": "二人で抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱き合う",
+        "赤と緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が茶色い大きな丸い荷物を両腕で抱えている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "26744",
+      "name": {
+        "ja": "大きな荷物を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "抱える",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな茶色い袋を背負い、前かがみになって歩いている。周囲に青い汗が飛んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "26745",
+      "name": {
+        "ja": "大きな袋を背負う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "袋",
+        "背負う",
+        "汗"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1407",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

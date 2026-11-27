@@ -1,0 +1,1121 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑色の服の人物が片手を顔の横に上げ、周囲に黄色と青のきらめきが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "28320",
+      "name": {
+        "ja": "きらめきを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の服",
+        "片手",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色い帯状の台の上に横たわり、そばの白い丸いものに手を添えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "28321",
+      "name": {
+        "ja": "黄色い台に横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "黄色",
+        "丸いもの"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頭に葉のような飾りをつけ、両手で小さな青いものを抱えて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "28322",
+      "name": {
+        "ja": "葉を抱えて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "葉",
+        "抱える",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が胸元で手を合わせ、頭上に大きな青い疑問符がある。そばに小さな黄色い姿と色付きの記号が見える。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "28323",
+      "name": {
+        "ja": "疑問符に戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "戸惑い",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手を上げ、横に赤い三角形の記号が出ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "28324",
+      "name": {
+        "ja": "手を上げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "片手",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が肩を寄せるように並び、周囲にピンクや薄紫の花とハートが散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "28325",
+      "name": {
+        "ja": "花に囲まれて寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "花",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で白い札を持ち、札にカラフルな大文字で「YES!」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "28326",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "札",
+        "同意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で白い札を持ち、札に青と赤の大文字で「NO!」と書かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "28327",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "札",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "左に丸い人物の絵、右に大きなカラフルな「K!」の文字が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "28328",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "K!と元気に返す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "K!",
+        "返事",
+        "カラフル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに寝そべり、頭の近くに三つの点が入った白い吹き出しがある。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "28329",
+      "name": {
+        "ja": "横になってぼんやりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横向き",
+        "吹き出し",
+        "ぼんやり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手でオレンジ色の丸いものを抱え、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "28330",
+      "name": {
+        "ja": "丸いものを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱える",
+        "オレンジ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が胸元で手を合わせ、周囲に淡いピンクの丸い飾りが浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "28331",
+      "name": {
+        "ja": "青い服で微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "手を合わせる",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を頭の横に上げ、その上に黄色い電球の絵があり、横に赤い三角形が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "28332",
+      "name": {
+        "ja": "ひらめきを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電球",
+        "ひらめき",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で灰色のバーベルを持ち上げ、力を込めた表情をしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "28333",
+      "name": {
+        "ja": "バーベルを持ち上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バーベル",
+        "筋力",
+        "持ち上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がオレンジ色の丸いものを抱え、頭の周りに汗のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "28334",
+      "name": {
+        "ja": "汗をかいて力む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "抱える",
+        "力む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄緑色の傘を差して立ち、周囲に水色の雨が降っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "28335",
+      "name": {
+        "ja": "傘を差して雨宿り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "雨",
+        "黄緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大小のカラフルな箱を重ねて抱え、箱の上にリボンが見える。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "28336",
+      "name": {
+        "ja": "贈り物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "箱",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い服で身を寄せ、白地に黒い斑点のある小さなものを両腕で抱いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "28337",
+      "name": {
+        "ja": "小さなものに抱きつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱きつく",
+        "斑点",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白い丸いものを抱え、そばに小さな黄色い姿があり、周囲に小さなきらめきが散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "28338",
+      "name": {
+        "ja": "黄色い姿に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寄り添う",
+        "黄色",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に伏せるように横たわり、そばに白い丸いものと小さな黄色い姿がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "28339",
+      "name": {
+        "ja": "床に伏せて休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "伏せる",
+        "横たわる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の人物が腕を組んで立ち、頭の上に白い雲のような記号がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "28340",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "オレンジ",
+        "白い雲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が小さな黄色い姿と青い棒状のものを持ち、横にピンクの音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "28341",
+      "name": {
+        "ja": "音符と一緒に運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "黄色",
+        "持つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が前へ走り、後ろに速度を示す横線が伸びている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "28342",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "速度線",
+        "前進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が水色の水たまりの上で両手を顔に当て、目から大きな水色の涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "28343",
+      "name": {
+        "ja": "水色の涙を流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "水色",
+        "顔を覆う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が腕を回して抱き合い、周囲にピンクのハートが散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "28344",
+      "name": {
+        "ja": "二人で抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱き合う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横になり、茶色のものと白地に黒い斑点のある丸いものに囲まれている。周囲にピンクのハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "28345",
+      "name": {
+        "ja": "丸いものに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "ハート",
+        "丸いもの"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がオレンジ色の飲み物の入ったグラスを片手に持ち、紫色の服を着ている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "28346",
+      "name": {
+        "ja": "飲み物を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "飲み物",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白い帽子をかぶって目を閉じ、灰色の丸い石のようなものに囲まれて横になっている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "28347",
+      "name": {
+        "ja": "石に囲まれて休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "石",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で頬を支え、隣に小さな黄色い姿がいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "28348",
+      "name": {
+        "ja": "頬杖で考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬杖",
+        "黄色",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が背中を向け、周囲に水色の水しぶきが上がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "28349",
+      "name": {
+        "ja": "水しぶきを上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "背中",
+        "水しぶき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色いメガホンを口元に当て、片手に緑色の紙を持っている。周囲に声の勢いを示す線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "28350",
+      "name": {
+        "ja": "メガホンで呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "メガホン",
+        "呼びかけ",
+        "緑の紙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が緑色の服で複数の箱を抱え、汗をかきながら走っている。足元に小さな動きの線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "28351",
+      "name": {
+        "ja": "箱を抱えて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "走る",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が小さな黄色い姿を手に持ち、もう片方の手から黄色いしずくのようなものが落ちている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "28352",
+      "name": {
+        "ja": "小さな黄色い姿を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "手に持つ",
+        "しずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で大きな白い丸いものを胸元に抱えている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "28353",
+      "name": {
+        "ja": "丸いものを大切に抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱える",
+        "白い丸",
+        "大切"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、片手を顔の横に当て、頭の周りに汗のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "28354",
+      "name": {
+        "ja": "汗をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "目を閉じる",
+        "手元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白い丸いものを抱えたまま横たわり、背後に灰色の動きの線が伸びている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "28355",
+      "name": {
+        "ja": "勢いよく横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "動き線",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が足を前に出して座り、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "28356",
+      "name": {
+        "ja": "座ってにっこりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "笑顔",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が小さな白い丸いものを胸元に抱え、周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "28357",
+      "name": {
+        "ja": "ハートに囲まれて抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱える",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で大きなハンバーガーを抱え、周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "28358",
+      "name": {
+        "ja": "ハンバーガーを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハンバーガー",
+        "食べ物",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白地に黒い斑点のある小さなものを両腕で抱き、目を閉じて寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "28359",
+      "name": {
+        "ja": "小さなものを抱いて眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱く",
+        "寄り添う",
+        "斑点"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1529",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

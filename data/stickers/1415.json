@@ -1,0 +1,1141 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "複数のカラフルなキャラクターが集まり、旗や飾り、紙吹雪、星に囲まれて楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26050",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "仲間とにぎやかに祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "紙吹雪",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の丸いキャラクターが両手を握り、目を閉じて大きく口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26051",
+      "name": {
+        "ja": "大きな笑顔で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と青の二つのキャラクターが音符に囲まれ、手を上げたり体を動かしたりしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26052",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "ダンス",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが両拳を上げ、歯を見せて力強く笑っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "26053",
+      "name": {
+        "ja": "拳を握って気合い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "気合い",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターと帽子をかぶった人物が、赤い小さな乗り物のそばで一緒に遊んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26054",
+      "name": {
+        "ja": "二人で遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "帽子",
+        "乗り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが太鼓をたたき、周囲に音符が飛び交っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26055",
+      "name": {
+        "ja": "太鼓をたたいて盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "太鼓",
+        "音符",
+        "演奏"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが茶色の大きなかばんを持ち、前を向いて歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26056",
+      "name": {
+        "ja": "荷物を持って出かける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "かばん",
+        "歩く",
+        "外出"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが目を閉じて穏やかに笑い、頭の横に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "26057",
+      "name": {
+        "ja": "目を閉じてうっとり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い服の人物が足を前に投げ出して倒れ、周囲に煙のような雲と赤い文字が見える。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "26058",
+      "name": {
+        "ja": "勢いよく転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転倒",
+        "煙",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが大きな青い乗り物に乗り、別の黄色いキャラクターと一緒に進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26059",
+      "name": {
+        "ja": "乗り物で飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乗り物",
+        "二人",
+        "出発"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手を広げて跳ね、周囲に煙のような雲と勢い線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "26060",
+      "name": {
+        "ja": "両手を上げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "驚き",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と青のマスクのような顔のキャラクターが振り返り、横に赤い感嘆符が出ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26061",
+      "name": {
+        "ja": "びっくりして振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感嘆符",
+        "振り返る",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と青の乗り物に乗ったキャラクターが、青空のような背景の中を飛んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26062",
+      "name": {
+        "ja": "乗り物で空を飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ぶ",
+        "乗り物",
+        "青空"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い耳のある衣装の人物が腕を組み、青いマントを背負って立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "26063",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "マント",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が両腕を広げ、黄色い放射状の背景の前で元気よく立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26064",
+      "name": {
+        "ja": "胸を張って元気よく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "放射線",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが大きな飾り付きの箱のそばに立ち、周囲がきらめいている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26065",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "箱を囲んでお祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "箱",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の小さなキャラクターが丸くなって眠り、頭の上に「Z」の記号がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "26066",
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "丸まる",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の小さなキャラクターが、文字「OK!」と書かれた札を片手で掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26067",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKの札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "札",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の小さなキャラクターが片手を上げ、線に囲まれながら手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26068",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振ってあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "あいさつ",
+        "紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小さなキャラクターと茶色の髪の人物が向き合い、人物が手を差し出している。"
+      },
+      "emotion": [
+        "confusion",
+        "joy"
+      ],
+      "id": "26069",
+      "name": {
+        "ja": "小さな仲間と向き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "向き合う",
+        "手を差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が後ろへよろけ、横に赤い感嘆符と煙のような雲が出ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26070",
+      "name": {
+        "ja": "驚いてよろめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "よろめく",
+        "感嘆符",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が正面を向き、目を開けて穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "26071",
+      "name": {
+        "ja": "正面でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "笑顔",
+        "赤い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い小動物のようなキャラクターが跳ね上がり、周囲に星とギザギザの線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "26072",
+      "name": {
+        "ja": "跳ねてびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "星",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が低い姿勢で前へ手を伸ばし、背後に放射状の線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26073",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "勢いよく手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を伸ばす",
+        "前のめり",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と紫の猫のようなキャラクターが机のそばで、赤い目を開けて前を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "26074",
+      "name": {
+        "ja": "机のそばで見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "見つめる",
+        "白と紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と紫の猫のようなキャラクターが大きく口を開け、両手を上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "26075",
+      "name": {
+        "ja": "口を開けて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大口",
+        "両手",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と紫の猫のようなキャラクターが座り、手足を前に出してぼんやりした様子を見せている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "26076",
+      "name": {
+        "ja": "座ってぼんやりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "ぼんやり",
+        "紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の小さなキャラクターが頭を下げ、目を伏せてしゃがみ込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "26077",
+      "name": {
+        "ja": "うつむいて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "落ち込み",
+        "しゃがむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子と緑の服の人物が胸に手を当て、もう一方の手を動かしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26078",
+      "name": {
+        "ja": "胸に手を当てて話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "胸に手",
+        "身ぶり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と黒の小さな機械が土台の上で動き、周囲に黄色い光が広がっている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26079",
+      "name": {
+        "ja": "小さな機械を動かす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機械",
+        "黄色い光",
+        "動作"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の丸いキャラクターが横になって丸まり、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "26080",
+      "name": {
+        "ja": "丸まって甘える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "丸まる",
+        "甘える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の機械のようなキャラクターが二本の脚で歩き、腕を前に出している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26081",
+      "name": {
+        "ja": "機械が歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機械",
+        "歩く",
+        "灰色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と青の服のキャラクターが空中で体を曲げて跳び、周囲に煙と星が散っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "26082",
+      "name": {
+        "ja": "空中で飛び跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "星",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが赤い服を着て、両手で器を持ちながら食べている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26083",
+      "name": {
+        "ja": "器を持って食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "器",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳の飾りをつけたキャラクターが、緑の服で前へ走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "26084",
+      "name": {
+        "ja": "耳をつけて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "長い耳",
+        "走る",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな乗り物の上で複数のキャラクターが、「NO!」と書かれた札を掲げている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "26085",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOの札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "札",
+        "乗り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "雪の夜空を背景に、赤い服の人物と青い服のキャラクターがそりに乗り、「Merry Christmas」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26086",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "冬の夜にそりで出かける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クリスマス",
+        "そり",
+        "雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の丸いキャラクターが両手を上げ、黄色い光の輪の前で大きく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26087",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "笑顔",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と赤の二つの丸い置き物が並び、周囲に赤い花のような飾りがある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "26088",
+      "name": {
+        "ja": "二つの置き物が並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二つ",
+        "置き物",
+        "赤い飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが扇子を持ち、赤い服の小さなキャラクターと並んでいる。「Happy New Year!」の文字が見える。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26089",
+      "intent": [
+        "greeting",
+        "celebrate"
+      ],
+      "name": {
+        "ja": "新年を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "新年",
+        "扇子",
+        "Happy New Year"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1415",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

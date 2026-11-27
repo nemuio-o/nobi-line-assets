@@ -1,0 +1,1132 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "イラストの人物が正面を向き、片手を上げて明るく笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26546",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "笑顔で手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が腕を大きく上げ、勢いよく手を振っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26547",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "大きく手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が体を前に傾け、丁寧におじぎをしている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "26548",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ぺこりとおじぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が深く頭を下げ、両手を前に置いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26549",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "深く頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が親指を立て、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26550",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "親指でオッケー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "了解"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が両腕を上げ、体を弾ませるように喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26551",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が目を見開き、驚いた表情で振り返っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26552",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が目を大きく開き、体をこわばらせている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "26553",
+      "name": {
+        "ja": "びっくりして固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "硬直"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が首をかしげ、考えるような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "26554",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が眉を下げ、困ったように立っている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "26555",
+      "name": {
+        "ja": "困って立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困る",
+        "立ち尽くす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が肩を落とし、うつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "26556",
+      "name": {
+        "ja": "しょんぼりうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が目から涙を流し、泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26557",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が両手で顔を覆い、悲しそうにしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26558",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "顔を覆って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を覆う",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が眉をつり上げ、前を鋭くにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "26559",
+      "name": {
+        "ja": "怒ってにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が口を大きく開け、声を張っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "26560",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "大声"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が拳を握り、力を込めた表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "26561",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "拳を握って気合い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "気合い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が腕を振り、勢いよく走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26562",
+      "name": {
+        "ja": "元気に走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が両腕を上げ、跳び上がって喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26563",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "飛び跳ねて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が頬を赤らめたような表情で、控えめに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "26564",
+      "name": {
+        "ja": "照れて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が正面を向き、目を細めて穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "26565",
+      "name": {
+        "ja": "にっこり見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が目元に手を添え、眠そうな表情をしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "26566",
+      "name": {
+        "ja": "眠そうに目をこする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠い",
+        "目をこする"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が力なく座り、肩を落としている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "26567",
+      "name": {
+        "ja": "ぐったり座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲れ",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が体を小さく縮め、身を守るような姿勢を取っている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "26568",
+      "name": {
+        "ja": "身を縮めておびえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "恐れ",
+        "身を縮める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が体を低くし、何かの陰からそっと顔を出している。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "26569",
+      "name": {
+        "ja": "そっと隠れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "隠れる",
+        "物陰"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が口元に手を添え、こっそり話すようにしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "26570",
+      "name": {
+        "ja": "こっそり話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "内緒話",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が片手を耳元に添え、聞き取ろうとしている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "26571",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "耳を澄ます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "聞く",
+        "耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が片腕を伸ばし、前方を指し示している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26572",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "指をさして知らせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "知らせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が片手を前へ差し出し、相手に向けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "26573",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を差し出す",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が両手を広げ、戸惑うような表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "26574",
+      "name": {
+        "ja": "両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が顔を横に向け、断るような仕草をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "26575",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "首を横に振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "首を振る",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が腕を組み、考え込むような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "26576",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "腕を組んで考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が胸を張り、堂々と立っている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "26577",
+      "name": {
+        "ja": "胸を張って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸を張る",
+        "堂々"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が片手を額に当て、敬礼の姿勢を取っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26578",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "敬礼する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "敬礼",
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が両手を打ち合わせ、楽しそうに盛り上がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26579",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "拍手で盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拍手",
+        "盛り上がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が胸の前で手を合わせ、願うようにしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "26580",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を合わせてお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お願い",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が両手で頭を抱え、困った様子を見せている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "26581",
+      "name": {
+        "ja": "頭を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭を抱える",
+        "困る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が横になり、力を抜いて休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "26582",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休む",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が前へ身を乗り出し、元気よく挨拶している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26583",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "飛び出して挨拶"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "挨拶",
+        "飛び出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のイラストの人物が肩を寄せ、穏やかに並んでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "26584",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "イラストの人物が両手を広げ、明るい笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26585",
+      "name": {
+        "ja": "笑顔で手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "両手"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1441",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

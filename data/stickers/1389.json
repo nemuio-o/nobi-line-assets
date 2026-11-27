@@ -1,0 +1,1107 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い頭巾の人物が片手を口元に添え、目を丸くして正面を見ている。頬に赤い丸印がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "25354",
+      "name": {
+        "ja": "口元に手を添えて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "丸い目",
+        "青い頭巾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が目を閉じ、口元から白い息のような雲を吐いている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "25355",
+      "name": {
+        "ja": "白い息を吐く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い息",
+        "目を閉じる",
+        "ひと息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が目を見開き、赤い頬を見せながら口を大きく開けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "25356",
+      "name": {
+        "ja": "口を開けてびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "大きな口",
+        "赤い頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が片手を上げ、目を細めた笑顔で手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25357",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振ってあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "あいさつ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が頭の横に手を添え、正面を見ている。頭上に短い線がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "25358",
+      "name": {
+        "ja": "頭に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭に手",
+        "短い線",
+        "正面を見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が目を細めて正面を見ている。横に縦長の吹き出しがあり、中に点が並んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "25359",
+      "name": {
+        "ja": "無言で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "無言",
+        "吹き出し",
+        "目を細める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が両手で目元を覆い、目を閉じて泣いている。頬の下に涙の線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "25360",
+      "name": {
+        "ja": "目をこすって泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "目をこする",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が両手を前に出し、口を開けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "25361",
+      "intent": [],
+      "name": {
+        "ja": "両手を前に出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "前に出す",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が目を見開き、頭上に黄色いギザギザ形がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "25362",
+      "name": {
+        "ja": "頭上に黄色い形を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "ギザギザ形",
+        "頭上"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が歯を食いしばり、眉を下げて両手を広げている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "25363",
+      "name": {
+        "ja": "歯を食いしばって怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食いしばる",
+        "怒り",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が身をかがめ、両手を前に置いている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "25364",
+      "name": {
+        "ja": "身をかがめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "身をかがめる",
+        "両手",
+        "低い姿勢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が、左右に開いたピンク色のすき間から顔だけをのぞかせている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "25365",
+      "name": {
+        "ja": "すき間からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "すき間",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が片手で前を指し、口を開けている。指先の周囲に線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "25366",
+      "name": {
+        "ja": "指をさして口を開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "口を開ける",
+        "線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が正面を向き、口を結んでいる。背後に黄色い円形がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "25367",
+      "name": {
+        "ja": "黄色い円の前で見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "黄色い円",
+        "口を結ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が腕を振って右方向へ動いている。背後に長い線と小さなほこりのような形がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "25368",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "右方向",
+        "速度線",
+        "ほこりのような形"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が円形の線の中で、足を上げた姿勢になっている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "25369",
+      "name": {
+        "ja": "回転するように倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "足を上げる",
+        "円形の線",
+        "倒れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い頭巾の人物が暗い四角形の中で頭を下げ、体を丸めている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "25370",
+      "name": {
+        "ja": "うずくまって落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "体を丸める",
+        "頭を下げる",
+        "暗い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い頭巾をかぶった人物が、身を低くして前へ動いている。頭巾の端が後ろへ出ている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "25371",
+      "name": {
+        "ja": "赤い頭巾で駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い頭巾",
+        "前へ動く",
+        "前傾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の眼鏡の人物が歯を見せて笑い、片手の親指を立てている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25372",
+      "name": {
+        "ja": "親指を立てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "親指",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服と眼鏡の人物が、口を開けて笑いながら片手で前を指している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25373",
+      "name": {
+        "ja": "笑顔で指をさす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "指差し",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が目を閉じ、顔をしかめて口を大きく開けている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "25374",
+      "name": {
+        "ja": "顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "目を閉じる",
+        "しかめ顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が両手を広げ、眉を上げて驚いたような表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "25375",
+      "name": {
+        "ja": "両手を広げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "両手",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が黒い受話器のような道具を耳元に持ち、口を開けている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25376",
+      "name": {
+        "ja": "受話器を持って話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "受話器のような道具",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が両手を広げ、目を閉じて大きく笑っている。周囲に動きを示す線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25377",
+      "name": {
+        "ja": "両手を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "両手",
+        "大笑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が体を横に倒し、口を大きく開けて笑っている。腕を前へ伸ばしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25378",
+      "name": {
+        "ja": "笑いながら転がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "横向き",
+        "大笑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が足を上げた姿勢で横向きになり、両手を広げている。周囲に動きを示す線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "25379",
+      "name": {
+        "ja": "転びかけて手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "足を上げる",
+        "両手",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の親指を立て、もう一方の手を下げている。歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25380",
+      "intent": [],
+      "name": {
+        "ja": "親指を立てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "手の合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が片目を閉じ、歯を見せてにっこり笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25381",
+      "name": {
+        "ja": "ウインクして笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "ウインク",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が口を開け、目の部分に黄色い「￥」のような印があり、口元から白い息のような形が出ている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "25382",
+      "name": {
+        "ja": "目に黄色い印を出して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "黄色い印",
+        "口元の白い形"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が横顔を見せ、顔の前で両手を合わせている。服の一部は淡いピンク色。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "25383",
+      "intent": [],
+      "name": {
+        "ja": "横顔で手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "両手を合わせる",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い動物のような姿が両手を広げ、舌を大きく出している。頭に白い模様がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25384",
+      "name": {
+        "ja": "舌を出して両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舌",
+        "両手",
+        "黒い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い動物のような姿が目を閉じ、口を大きく開けて笑っている。両腕を前で交差させている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25385",
+      "name": {
+        "ja": "目を閉じて大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大笑い",
+        "目を閉じる",
+        "黒い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い動物のような姿が赤い花を持って立ち、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "25386",
+      "name": {
+        "ja": "花を持って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "ハート",
+        "黒い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い動物のような姿が目を細め、歯を見せている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "25387",
+      "name": {
+        "ja": "歯をむき出して怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯",
+        "目を細める",
+        "黒い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い動物のような姿が全身の毛を逆立て、目を見開き、口を開けている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "25388",
+      "name": {
+        "ja": "毛を逆立てて口を開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "毛を逆立てる",
+        "目を見開く",
+        "黒い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色く毛の多い動物のような姿が片手の指を立て、口を開けている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "25389",
+      "name": {
+        "ja": "指を立てて口を開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "指を立てる",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色く毛の多い動物のような姿が座り、目を閉じて口をすぼめている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "25390",
+      "name": {
+        "ja": "座ってひと息つく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "座る",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色く毛の多い動物のような姿が横になり、舌を出している。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "25391",
+      "name": {
+        "ja": "横になって舌を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "横になる",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色く毛の多い動物のような姿が顔を出し、両手を前に添えている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "25392",
+      "name": {
+        "ja": "両手を添えて顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "顔を出す",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色く毛の多い姿が机のような線の前に座り、目の周りに黒い縁取りがあり、口を開けている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "25393",
+      "name": {
+        "ja": "机の前で口を開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "机のような線",
+        "口を開ける"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1389",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

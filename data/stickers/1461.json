@@ -1,0 +1,1157 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服の人物が両手を広げて手を振り、頭上に黄色い星と英字のあいさつが見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26962",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "星を添えて手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "星",
+        "英字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手の親指を立て、もう一方の手を添えて笑顔を見せている。背後に放射状の線がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26963",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立ててうなずく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "肯定",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が両手を広げ、片手で輪を作るようなポーズを取り、上に「OK!」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26964",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "両手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が正面で眉を寄せ、口を開けて強く訴えている。上に「NO!」の文字と白い息のような雲がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "26965",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOを突きつける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "白い息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が椅子に座り、片方が手を上げている。上に「Good Morning!」の文字がある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "26966",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "椅子で朝のあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "朝",
+        "椅子",
+        "英字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が肩を寄せるように並び、上に「Thank You!」の文字がある。"
+      },
+      "emotion": [
+        "gratitude",
+        "love"
+      ],
+      "id": "26967",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "寄り添ってありがとう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ありがとう",
+        "二人",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が正面を向いて困ったような顔をしており、頭上に三つの疑問符がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "26968",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげて疑問"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "困り顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、片方が手を振るように腕を上げている。上に「See you!」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26969",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振ってまたね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "またね",
+        "手を振る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が両手で顔の周りを覆うようなポーズを取り、周囲に黄色い星が散っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26970",
+      "name": {
+        "ja": "顔を覆ってびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "顔を覆う",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が座った姿勢で片腕を伸ばし、右方向を指し示している。周囲に動きを示す線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26971",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "座って指し示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "座る",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が上を見上げ、頭上に空白の吹き出しと黄色いきらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "26972",
+      "name": {
+        "ja": "きらめく考えごと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考えごと",
+        "吹き出し",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が両腕を上げて跳び上がり、周囲に黄色い星が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26973",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星を散らして跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "星",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が片手を前に差し出し、その近くにピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "26974",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ハートを送る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "手のひら",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔の大きなアップで、両目がピンク色のハートになっている。"
+      },
+      "emotion": [
+        "love",
+        "surprise"
+      ],
+      "id": "26975",
+      "name": {
+        "ja": "ハートの目で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハートの目",
+        "目元",
+        "ときめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が寄り添うように抱き合い、上に大小のピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "26976",
+      "name": {
+        "ja": "ハートを添えて寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "寄り添う",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物がベッドのような場所で横になり、三日月と星のある濃い背景に包まれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "26977",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "月明かりでおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "月",
+        "星空",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が両手を合わせ、目を閉じて申し訳なさそうにしている。上に「Sorry...」の文字がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26978",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "手を合わせてごめんね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ごめん",
+        "手を合わせる",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が床にうつぶせになり、頭の上にぐるぐるした線と小さな星が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "26979",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "床に伏して謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "伏せる",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑・赤・青の服を着た三人の人物が、横一列に並んで歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "26980",
+      "name": {
+        "ja": "三人で並んで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "並ぶ",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が前を向いて歩き、足元や背後に動きを示す線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26981",
+      "name": {
+        "ja": "勢いよく歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "動き線",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が灰色の壁のような場所の隅で、頭を下げてうずくまっている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "26982",
+      "name": {
+        "ja": "隅でうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うずくまる",
+        "隅",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が両腕を広げて走り、周囲に汗のような水滴と動き線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "26983",
+      "name": {
+        "ja": "汗を飛ばして駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が頬に手を当て、目を細めた表情をしている。頭の横に青い丸が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "26984",
+      "name": {
+        "ja": "頬杖でぼんやり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬杖",
+        "ぼんやり",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が座り込み、周囲に水しぶきのような線を飛ばしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26985",
+      "name": {
+        "ja": "水しぶきで驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "座る",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が両手で口元を覆い、目を大きく見開いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26986",
+      "name": {
+        "ja": "口元を隠して驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "驚き",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が小さなテーブルを囲み、中央の皿を見ながら楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "26987",
+      "name": {
+        "ja": "三人で食卓を囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "食卓",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が机の前で身をかがめ、拳を机に当てている。机の下に強い衝撃を示す線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "26988",
+      "name": {
+        "ja": "机をたたいて悔しがる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "拳",
+        "悔しさ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔の大きなアップで、目の周りに赤い線が入り、眉をつり上げて激しく怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "26989",
+      "name": {
+        "ja": "目をむいて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "目をむく",
+        "顔のアップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が両腕を広げ、目を見開いている。背後にオレンジ色の大きな放射形がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "26990",
+      "name": {
+        "ja": "勢いよく驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "放射形"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が前のめりに走り、大きな黄色い丸いものを抱えている。背後に速度線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26991",
+      "name": {
+        "ja": "大きな丸いものを運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "運ぶ",
+        "丸いもの",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が床に仰向けに倒れ、足を上げている。周囲に白い動き線がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "26992",
+      "name": {
+        "ja": "その場に倒れ込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "仰向け",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が腕を組み、眉を寄せて立っている。頭の両側に白い息のような雲がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "26993",
+      "name": {
+        "ja": "腕を組んでむっとする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "むっとする",
+        "白い息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が金色の大きな山の前に集まり、周囲に金色の粒やきらめきが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26994",
+      "name": {
+        "ja": "金色の山に囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金色",
+        "山積み",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が縦に並び、画面の端から顔と体を少しずつのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "26995",
+      "name": {
+        "ja": "横から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "三人",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が片足を上げて腕を広げ、黄色いきらめきの中で躍動している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26996",
+      "name": {
+        "ja": "きらめきの中で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "きらめき",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物がテーブルを囲み、中央のカップや皿を前にして楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "26997",
+      "name": {
+        "ja": "三人でお茶を囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "テーブル",
+        "お茶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青・赤・緑の服を着た三人の人物がテーブルの前に並び、空の皿とフォークを前にしている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "26998",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "三人で食事を待つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "食器",
+        "テーブル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が紫色のバッグを抱え、体を傾けながら歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26999",
+      "name": {
+        "ja": "バッグを抱えて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バッグ",
+        "歩く",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が前かがみになり、杖のような棒をついて歩いている。頭の周囲に動き線がある。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "27000",
+      "name": {
+        "ja": "杖をついて進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "杖",
+        "前かがみ",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が椅子に座ったまま眠り、頭の上に「Z」の文字が並んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "27001",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "椅子で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "椅子",
+        "Zzz"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1461",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
