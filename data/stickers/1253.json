@@ -1,0 +1,1157 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服の人物が赤い親指を大きく立て、黄色い光を背にしている。上部に「GOOD!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22122",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立ててグッド"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "グッド",
+        "赤と青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "翼のような飾りのある頭部の人物が、大きな灰色のハンマーを前に掲げている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "22123",
+      "name": {
+        "ja": "ハンマーを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハンマー",
+        "翼飾り",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の大柄な人物が両拳を握り、歯を食いしばって力んでいる。頭の左右に白い蒸気のような線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "22124",
+      "name": {
+        "ja": "歯を食いしばって力む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "力む",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が両手を広げて手を振っている。横に「Hello!」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "22125",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振ってハロー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "ハロー",
+        "赤い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が、灰色と紫色のカーテンのような仕切りの陰から顔を出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "22126",
+      "name": {
+        "ja": "カーテンの陰から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "カーテン",
+        "赤い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "翼のような飾りのある人物が片手を上げている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "22127",
+      "intent": [],
+      "name": {
+        "ja": "片手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "翼飾り",
+        "片手",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と金色の装備を身につけた人物が頭を下げている。頭上に「Sorry...」の文字がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "22128",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "うつむいてソーリー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "うつむく",
+        "赤い装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が片目を覆い、白い袖の腕で拳を前へ突き出している。周囲に勢い線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "22129",
+      "name": {
+        "ja": "拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "突進",
+        "黒い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "翼のような飾りのある人物が、黄色く光る親指を立てている。横に「LIKE!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22130",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立ててライク"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "ライク",
+        "ハンマー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が丸い盾を前に構え、盾の縁に黄色い光が走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "22131",
+      "name": {
+        "ja": "盾で受け止める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盾",
+        "防御",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が目を細めて笑っている。頭の横にピンク色のハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22132",
+      "name": {
+        "ja": "ハートでにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "赤い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が両手を握り、歯を食いしばって悔しそうな顔をしている。頭の左右に白い蒸気のような線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "22133",
+      "name": {
+        "ja": "悔しそうにうなる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "食いしばり",
+        "うなる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で紫色の眼鏡をかけた人物が腕を組み、横を見ながら考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "22134",
+      "name": {
+        "ja": "腕を組んで考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "考える",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物がテーブルを囲み、皿や飲み物を前に並んでいる。中央に赤い装備の人物がいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "22135",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "みんなで食卓を囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "複数人",
+        "料理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "翼のような飾りのある人物が両腕を広げて飛び出している。周囲に青い光と「HYPER」の文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "22136",
+      "name": {
+        "ja": "ハイパーに飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハイパー",
+        "飛ぶ",
+        "青い光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が赤いこぶしを突き上げて喜んでいる。横に「YES!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22137",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "こぶしでイエス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "こぶし",
+        "イエス",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "翼のような飾りのある人物が片手を口元に添え、電話のように呼びかけている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "22138",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "電話で呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "呼びかけ",
+        "ハンマー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が目を閉じ、片手を強く握って怒っている。拳の周囲に赤い衝撃線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "22139",
+      "name": {
+        "ja": "拳を握って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "拳",
+        "黒い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が口を大きく開けて叫んでいる。背後に白いギザギザの吹き出しのような形がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "22140",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "叫ぶ",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が両拳を前に出し、身構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "22141",
+      "name": {
+        "ja": "拳を握って身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "拳",
+        "身構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が両手を広げ、口をすぼめて困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "22142",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "両手を広げて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "困る",
+        "赤い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装備の人物と青い服の人物が背中合わせに立っている。赤い人物の頭上に白い蒸気のような線がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22143",
+      "name": {
+        "ja": "背中合わせで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中合わせ",
+        "二人",
+        "赤と青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と金色の装備を身につけた人物が正面を向いて立ち、頭部から黄色い光を放っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "22144",
+      "name": {
+        "ja": "光を放って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "光",
+        "赤と金",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "翼のような飾りのある人物が両手を高く上げて喜んでいる。上部に「YATTA!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22145",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を上げてヤッター"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "ヤッター",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と金色の装備を身につけた人物が片手を振りながら飛び去っている。横に「ByeBye」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "22146",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振ってバイバイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "バイバイ",
+        "飛び立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が口を大きく開け、拳を上げて声を張っている。上部に「Yeaah!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22147",
+      "name": {
+        "ja": "声を張ってイエー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "イエー",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が両手にフォークを持ち、眉を下げて座っている。上部に「HUNGRY」の文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "22148",
+      "name": {
+        "ja": "お腹を空かせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "空腹",
+        "緑色",
+        "フォーク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "翼のような飾りのある人物が腕を組み、頭上の点の吹き出しを見ながら考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "22149",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "吹き出し",
+        "ハンマー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で紫色の眼鏡をかけた人物が腕を組み、正面を見つめている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "22150",
+      "name": {
+        "ja": "腕を組んで見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "見つめる",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と金色の装備を身につけた人物が、体を水平にして勢いよく飛んでいる。後方に速度線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "22151",
+      "name": {
+        "ja": "勢いよく飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ぶ",
+        "高速",
+        "赤と金"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が横を振り返り、眉を寄せて鋭くにらんでいる。頭の横に赤い線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "22152",
+      "name": {
+        "ja": "振り返ってにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "にらむ",
+        "振り返る",
+        "赤い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手を額に当てて敬礼している。上部に「Good luck!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "22153",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "敬礼してグッドラック"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "敬礼",
+        "幸運",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "翼のような飾りのある人物が大きなハンマーを持って走っている。上部に「Hurry up!」の文字がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "22154",
+      "name": {
+        "ja": "急いで駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "急ぐ",
+        "走る",
+        "ハンマー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服や赤・灰色の装備の複数の人物が重なって描かれ、拳やハンマーを前方に出している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "22155",
+      "name": {
+        "ja": "複数の人物が重なって前に出る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "拳",
+        "ハンマー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が両拳を高く突き上げ、口を開けて叫んでいる。拳の周囲に赤い稲妻がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "22156",
+      "name": {
+        "ja": "両拳を突き上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両拳",
+        "緑色",
+        "電撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と金色の装備を身につけた人物が両手を前に出し、手のひらから青白い光を放っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "22157",
+      "name": {
+        "ja": "両手から光を放つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "光",
+        "両手",
+        "赤と金"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と金色の装備を身につけた人物が腕を広げて飛んでいる。上部に「Here I am」の文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "22158",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "飛びながら現れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ぶ",
+        "登場",
+        "赤と金"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が腕を組んで目を閉じ、うつむいて眠っている。横に「Zzzz...」の文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "22159",
+      "name": {
+        "ja": "腕を組んで眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "腕組み",
+        "黒い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と金色の装備を身につけた人物が手のひらを正面に向けている。上部に「STOP!」の文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "22160",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "手のひらでストップ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "ストップ",
+        "赤と金"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で紫色の眼鏡をかけた人物が弓を引き、右方向を指し示すように狙っている。矢先に黄色い光がある。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "22161",
+      "name": {
+        "ja": "弓を引いて狙う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "弓",
+        "狙う",
+        "金髪"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1253",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

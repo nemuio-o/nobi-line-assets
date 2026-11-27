@@ -1,0 +1,1131 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶった茶色いキャラクターが、ほうきを持って立っている。周りに小さなきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23042",
+      "name": {
+        "ja": "ほうきでおそうじ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ほうき",
+        "掃除",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターの周りに、青い小さなキャラクターと赤やピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23043",
+      "name": {
+        "ja": "ハートに囲まれて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "仲良し",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、頬をふくらませて口をとがらせている。頭の上に白い湯気のような線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "23044",
+      "name": {
+        "ja": "ぷくっと不満"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふくれ顔",
+        "不満",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、頬を赤らめて両手を前に置き、照れたように立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23045",
+      "name": {
+        "ja": "照れてもじもじ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "赤面",
+        "もじもじ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが白い寝床のようなものに横たわり、青い丸いものを額にのせている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "23046",
+      "name": {
+        "ja": "ひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休憩",
+        "横になる",
+        "青い小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、満足そうに目を閉じ、両手をおなかの前に置いている。"
+      },
+      "emotion": [
+        "joy",
+        "tired"
+      ],
+      "id": "23047",
+      "name": {
+        "ja": "おなかいっぱい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "満腹",
+        "目を閉じる",
+        "おなか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターが目を見開いて立ち、頭上に黄色いびっくりマークと疑問符が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "23048",
+      "name": {
+        "ja": "びっくりした"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "疑問符",
+        "びっくりマーク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、両腕を振って走っている。後ろに速度線と灰色の雲がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "23049",
+      "name": {
+        "ja": "急いで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "急ぐ",
+        "速度線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の水玉模様の帽子をかぶったキャラクターが、両手に白い模様のある丸いものを持っている。周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23050",
+      "name": {
+        "ja": "音符と一緒に"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "両手",
+        "灰色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い水玉の帽子をかぶったキャラクターが、ほうきで床を掃いている。後ろに青い掃き跡ときらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23051",
+      "name": {
+        "ja": "青い帽子で掃除"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ほうき",
+        "青い帽子",
+        "掃き掃除"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青空と草地の下で、黄色い丸いキャラクターが物干し台のそばに立っている。足元に青い小物がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "23052",
+      "name": {
+        "ja": "外で洗濯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青空",
+        "物干し",
+        "草地"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの帽子をかぶったキャラクターが机に向かい、鏡の前で身支度をしている。周囲に花やきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23053",
+      "name": {
+        "ja": "おめかし中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "身支度",
+        "鏡",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、笑顔で片手を上げて振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23054",
+      "name": {
+        "ja": "手を振って呼ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "笑顔",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが両手を合わせ、頭上にピンクのハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23055",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ハートを送る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "両手",
+        "好意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、横線の向こうから顔だけを出している。頭の上に渦巻き線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "23056",
+      "name": {
+        "ja": "ひょこっと登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "ひょっこり",
+        "渦巻き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、体を揺らすように立っている。頭の周りに小さな渦巻きと線がある。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "23057",
+      "name": {
+        "ja": "ふらふらする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふらふら",
+        "渦巻き",
+        "揺れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、横向きに転がるような姿勢になっている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "23058",
+      "name": {
+        "ja": "ころんと転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "横向き",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが正面を向き、半分閉じた目で静かに見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "23059",
+      "name": {
+        "ja": "じっと見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "見つめる",
+        "落ち着き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、困ったような顔で立っている。体の周りに汗のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "23060",
+      "name": {
+        "ja": "汗だくで困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困り顔",
+        "しずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターが木の椅子に腰掛け、足を前に伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "23061",
+      "name": {
+        "ja": "椅子で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "休憩",
+        "足を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの帽子をかぶったキャラクターが、ティーポットやカップの並ぶテーブルのそばにいる。青い小さなキャラクターも見える。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23062",
+      "name": {
+        "ja": "お茶の時間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お茶",
+        "ティーセット",
+        "テーブル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶった二つのキャラクターが、頬を寄せるように並んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23063",
+      "name": {
+        "ja": "ほっぺを寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "頬",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の帽子をかぶったキャラクターが、音符を浮かべながら小さなかばんを持って歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23064",
+      "name": {
+        "ja": "緑の帽子でお出かけ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の帽子",
+        "かばん",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と白の縞模様の布を頭からかぶったキャラクターが、顔を出している。首元に赤い結び目がある。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "23065",
+      "name": {
+        "ja": "赤い布で変身"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "縞模様",
+        "布",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、両足を上げて跳びはねている。横に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23066",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "元気にジャンプ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "元気",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターの顔が横から大きく見え、横に紫色の疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "23067",
+      "name": {
+        "ja": "横目で疑問"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "横顔",
+        "不思議"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、目を閉じて穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23068",
+      "name": {
+        "ja": "ふんわり笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "目を閉じる",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、目を細めてきりっとした表情を見せている。周囲に点線の輪郭がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "23069",
+      "name": {
+        "ja": "きりっと構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きりっと",
+        "真剣",
+        "赤い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の帽子をかぶったキャラクターが青い浴槽につかり、青い小さなキャラクターと一緒に入浴している。周囲に泡がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "23070",
+      "name": {
+        "ja": "お風呂でぽかぽか"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お風呂",
+        "泡",
+        "浴槽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い水玉の帽子をかぶったキャラクターが、白い台のような場所から現れている。周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "23071",
+      "name": {
+        "ja": "きらきら登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "登場",
+        "きらきら",
+        "台"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターと青い小さなキャラクターが、オレンジ色の空と地面の中を歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "23072",
+      "name": {
+        "ja": "夕暮れの散歩"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夕暮れ",
+        "散歩",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、開いたドアのそばから青い小さなキャラクターと一緒に顔を出している。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "23073",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ドアからこんにちは"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドア",
+        "顔を出す",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、遠くからこちらへ走ってくるように描かれている。足元に波状の線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "23074",
+      "name": {
+        "ja": "遠くから走ってくる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "遠く",
+        "接近"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、片手を上げて小さく手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23075",
+      "name": {
+        "ja": "そっと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "片手",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、頭を大きく下げて深くおじぎをしている。横に青い小さなキャラクターがいる。"
+      },
+      "emotion": [
+        "gratitude",
+        "sadness"
+      ],
+      "id": "23076",
+      "intent": [
+        "apology",
+        "thanks"
+      ],
+      "name": {
+        "ja": "深々とおじぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "謝意",
+        "深く下げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが横たわり、頭の周りを星や雲のような記号が回っている。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "23077",
+      "name": {
+        "ja": "星がぐるぐる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "横たわる",
+        "目が回る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが、片手を前に出して指差し、横に短い線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "23078",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "気づいて指差す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "気づき",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸いキャラクターの上に大きく「NO」と書かれている。キャラクターは口元に手を当てている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "23079",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "青いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水玉の帽子をかぶったキャラクターが目を閉じ、横から飛んできた黄色い勢い線を受けている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "23080",
+      "name": {
+        "ja": "吹き飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "勢い線",
+        "目を閉じる",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い背景の中に、赤い水玉の帽子をかぶったキャラクターの顔が大きく描かれ、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "23081",
+      "name": {
+        "ja": "大きな顔でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きな顔",
+        "笑顔",
+        "赤い背景"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1297",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

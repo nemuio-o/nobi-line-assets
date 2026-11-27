@@ -1,0 +1,1162 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "丸い白いキャラクターが黒い帽子をかぶり、口を大きく開けて正面を見ている。帽子の前に目のような模様がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "24266",
+      "name": {
+        "ja": "驚いて声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "大口",
+        "黒い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが大きく口を開けて笑い、片手を上げている。周囲に『OK』の文字と小さな記号がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24267",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "笑顔でOK"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "OK",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を上げ、目を大きく開いている。胸元に『YES』の文字が見える。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24268",
+      "intent": [
+        "agree",
+        "answer"
+      ],
+      "name": {
+        "ja": "YESと返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "返事",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子をかぶった白いキャラクターが正面を向き、胸元に大きく『NO』と表示している。周囲に×印がある。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "24269",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "×印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが片手を上げ、頭上に『OK』と書かれた札を掲げている。もう一方の手には小さな道具のようなものがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24270",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "札",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を広げ、頭上の旗に『THANK YOU』と書かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "24271",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ありがとうを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "THANK YOU",
+        "感謝",
+        "旗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子をかぶった白いキャラクターが目を閉じ、胸元にハート形の目と手を寄せたような形を見せている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24272",
+      "name": {
+        "ja": "ハートで愛を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "愛",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を閉じて深く頭を下げている。上に『SORRY』の文字があり、周囲に汗のような線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "24273",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "ごめんと頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "SORRY",
+        "謝罪",
+        "お辞儀"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い輪郭のキャラクターが頭を下げてしゃがみ、白い口を大きく開けている。頭上に小さな建物や記号がある。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "24274",
+      "name": {
+        "ja": "黒い姿で落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "黒い姿",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが横長の歯を見せ、目を細めている。頭上に黒い縦線と感嘆符がある。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "24275",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯",
+        "緊張",
+        "感嘆符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが黒い帽子をかぶり、口をすぼめて正面を見ている。周囲に複数の疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "24276",
+      "name": {
+        "ja": "疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "困惑",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長い枠の中から白いキャラクターが顔を出している。枠の上部に『NICE』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24277",
+      "name": {
+        "ja": "NICEな登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NICE",
+        "顔を出す",
+        "枠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の白いキャラクターが集まり、笑顔で並んでいる。上に『GOOD MORNING』と読める文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24278",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "みんなで喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "笑顔",
+        "GOOD MORNING"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが片手を上げ、口を開けている。帽子と背中に模様があり、周囲に動きの線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24279",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "元気よく返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "返事",
+        "手を上げる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが小さな包みのようなものを抱えている。右側に『FOR YOU』の文字がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24280",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "FOR YOUを届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "FOR YOU",
+        "贈り物",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を上げて口を開けている。下に『SO GOOD!』の文字があり、周囲に稲妻のような線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24281",
+      "name": {
+        "ja": "SO GOODと喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "SO GOOD",
+        "喜び",
+        "稲妻"
+      ]
+    },
+    {
+      "description": {
+        "ja": "模様のある衣装の白いキャラクターが横向きに寝そべっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "24282",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "休む",
+        "衣装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両腕を曲げ、拳を握っている。口を大きく開け、周囲に煙のような形と動きの線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "24283",
+      "name": {
+        "ja": "拳を握って気合を入れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "気合",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった白いキャラクターが横になり、枕の上で眠っている。そばに星と模様のある寝具がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "24284",
+      "name": {
+        "ja": "枕で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "枕",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を上げ、口を開けて立っている。頭に模様のある帽子をかぶっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24285",
+      "name": {
+        "ja": "元気に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "元気",
+        "両手",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "模様のある服を着た白いキャラクターが座り込み、顔を手で覆っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "24286",
+      "name": {
+        "ja": "落ち込んで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "座る",
+        "顔を覆う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが汗を飛ばしながら口を開け、片手を上げている。頭に模様のある帽子をかぶっている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "24287",
+      "name": {
+        "ja": "汗をかいて慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "慌てる",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが歯を見せて笑っている。四角い耳のような輪郭と、下側に尖った模様がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "24288",
+      "name": {
+        "ja": "歯を見せて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "歯",
+        "尖った模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが体を左右に揺らし、片足を上げている。周囲に揺れを示す線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24289",
+      "name": {
+        "ja": "体を揺らして踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "片足",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが縦の仕切りの後ろに隠れ、片目と顔の一部だけを出している。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "24290",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "物陰",
+        "隠れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが模様のある服を着て座り、片手に細長い道具を持っている。頭上に『LIFE』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24291",
+      "name": {
+        "ja": "LIFEを楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "LIFE",
+        "座る",
+        "道具"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターがヘッドホンのようなものを着け、片手を上げて立っている。周囲に音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24292",
+      "name": {
+        "ja": "音楽に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "音符",
+        "ヘッドホン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが手足を広げて宙に浮き、下に稲妻のような形がある。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "24293",
+      "name": {
+        "ja": "勢いよく跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "宙に浮く",
+        "稲妻"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二体の白いキャラクターが顔を寄せ、互いに向き合っている。周囲に動きの線がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24294",
+      "name": {
+        "ja": "二人で顔を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "顔を寄せる",
+        "親密"
+      ]
+    },
+    {
+      "description": {
+        "ja": "模様のある帽子をかぶった白いキャラクターが横になり、片手で布のようなものをつかんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "24295",
+      "name": {
+        "ja": "布をつかんで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "布",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが片手を顔の横に当て、横を向いている。頭上に稲妻と放射状の線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "24296",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り返る",
+        "稲妻"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが大きく笑い、周囲に音符と小さな記号が飛んでいる。胸元にハート形の模様がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24297",
+      "name": {
+        "ja": "音楽でノリノリ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "大笑い",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二体の白いキャラクターが大きなハート形の中で顔を寄せている。上に小さなハートがある。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "24298",
+      "name": {
+        "ja": "ハートの中で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "二人",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い輪郭のキャラクターが頭を下げてうずくまっている。周囲に縦の線があり、沈み込むように見える。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "24299",
+      "name": {
+        "ja": "黒い姿で沈む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うずくまる",
+        "黒い姿",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが黒いハート形の枠の中にいて、周囲に複数の矢が刺さっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "24300",
+      "name": {
+        "ja": "矢を受けて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "矢",
+        "ハート",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが二本の角のような飾りを頭につけ、両腕を広げている。胸元に小さな文字のある帯がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "24301",
+      "name": {
+        "ja": "角をつけて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "角",
+        "構える",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが音符のある装飾を身につけ、片手を上げている。下の札に『PARTY』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24302",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "PARTYを楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "PARTY",
+        "音符",
+        "祝う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが片腕を前に伸ばし、前方へ進むような姿勢を取っている。周囲に動きの線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "24303",
+      "name": {
+        "ja": "前へ進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "前進",
+        "伸ばす",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが大きなハート形のものを抱え、体をひねっている。周囲に小さなハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24304",
+      "name": {
+        "ja": "ハートを抱えて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱える",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが片手の親指を立て、もう一方の手を腰に置いている。頭上に短い線が並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24305",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "OK",
+        "肯定"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1351",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

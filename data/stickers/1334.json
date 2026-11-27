@@ -1,0 +1,1150 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "両手を胸の前で合わせた人物が笑顔を見せ、周囲に赤いハートと『Thank you』の文字が浮かんでいる。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "23930",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ハートに囲まれて感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ありがとう",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を前で合わせて眉を下げ、汗を飛ばしながら謝るような表情をしている。上に『Sorry…』の文字がある。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "23931",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "汗をかいて謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ごめん",
+        "汗",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んで手を広げ、笑顔でこちらを見ている。上に『HELLO!』の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23932",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "二人でごあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "HELLO",
+        "二人",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色い水玉模様の布団から顔を出し、枕元に小さな物を置いている。上に『GOOD NIGHT』の文字がある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "23933",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "おやすみなさい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おやすみ",
+        "ベッド",
+        "夜"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を上げて笑顔で立ち、周囲に黄色いきらめきが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23934",
+      "name": {
+        "ja": "きらきら決めポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらきら",
+        "ポーズ",
+        "青い短パン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が文字の『OK』の上に立ち、片手を上げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23935",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "文字",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな『NO』の文字の上で座り、口をへの字にして困ったような顔をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "23936",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "だめのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "文字",
+        "しょんぼり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が舌を出し、目を細めて口を大きく開けた笑顔を見せている。頬が赤く染まっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23937",
+      "name": {
+        "ja": "舌を出して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舌",
+        "笑顔",
+        "赤い頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がテーブルの料理を前に笑顔で座り、片手にグラスを持っている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "23938",
+      "name": {
+        "ja": "ごちそうを楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "ごちそう",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな赤いハートを両手で抱え、周囲に小さなハートを浮かべて笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23939",
+      "name": {
+        "ja": "ハートを抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "喜び",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の人物が片手を口元に添え、口を大きく開けて前方へ呼びかけている。横に勢い線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "23940",
+      "name": {
+        "ja": "大声で呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "呼びかけ",
+        "大声",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒で描かれた人物が正面を向き、目を細めた穏やかな表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "23941",
+      "name": {
+        "ja": "静かにたたずむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白黒",
+        "正面",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子をかぶった人物が小さなバッグを持ち、片手を上げて歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23942",
+      "name": {
+        "ja": "帽子でおでかけ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "おでかけ",
+        "バッグ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が黄色い物を片手に持って踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23943",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "音符",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い空と雲の上で人物が手足を広げ、横向きに飛んでいる。周囲に速さを示す線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23944",
+      "name": {
+        "ja": "雲の上を飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "空",
+        "雲",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が紫色の水玉模様のテーブルの上で腕を組み、目を閉じて休んでいる。横に『zzz』の文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "23945",
+      "name": {
+        "ja": "食卓でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "休憩",
+        "居眠り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を振りながら歩き、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23946",
+      "name": {
+        "ja": "腕を振って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "腕振り",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、それぞれフォークを持って、色の違う器の料理を前に笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "23947",
+      "name": {
+        "ja": "二人で食べ比べ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "食事",
+        "料理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向いて立ち、口元に小さな吹き出しを出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "23948",
+      "name": {
+        "ja": "ひとこと話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "会話",
+        "吹き出し",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い小さな車が勢いよく進み、乗っている人物が前方へ手を伸ばしている。後ろにも人物が見える。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "23949",
+      "name": {
+        "ja": "車で急いで向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車",
+        "急ぐ",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と黒の縞模様の小さな姿が飛び去り、横に『BYE BEE』の文字と点線がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "23950",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "さよならハチ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハチ",
+        "BYE BEE",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が振り返るように体を向け、口を大きく開けて驚いている。頭の横に黄色い驚きの記号がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "23951",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り返る",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が大きな花束を抱え、赤い花を添えて笑顔で立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23952",
+      "name": {
+        "ja": "花束を贈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "贈り物",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が石に囲まれた湯の中に並び、目を閉じて穏やかにしている。周囲に湯気が立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "23953",
+      "name": {
+        "ja": "温泉でほっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "温泉",
+        "三人",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色、ピンク、茶色の服を着た三人の人物が横一列に並び、それぞれ異なる表情で立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23954",
+      "name": {
+        "ja": "三人で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "並ぶ",
+        "色違い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口をへの字にして立ち、頭の横に『!?』入りの吹き出しを出している。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "23955",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "どういうこと？"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "吹き出し",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が音符に囲まれて踊り、片方の服に赤いハートが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23956",
+      "name": {
+        "ja": "二人で音楽を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "音楽",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が自転車に乗って笑顔で進み、後ろに速さを示す線と音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23957",
+      "name": {
+        "ja": "自転車で疾走"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "走行",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が運動器具の上で体を動かし、額から汗を飛ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "23958",
+      "name": {
+        "ja": "運動で汗を流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "運動",
+        "汗",
+        "器具"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔が表示されたスマートフォンがコンセントにつながれ、横に白い羽のような印がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "23959",
+      "name": {
+        "ja": "充電してひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スマートフォン",
+        "充電",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がテレビ画面の前で座り、画面には別の人物が映っている。そばに飲み物と小物があり、音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23960",
+      "name": {
+        "ja": "テレビを見てくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テレビ",
+        "音楽",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸の前で両手を合わせ、目を閉じてお願いするような表情をしている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "23961",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を合わせてお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お願い",
+        "手を合わせる",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い上着を着た人物が片手を前へ伸ばし、笑顔で右方向を指し示している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23962",
+      "name": {
+        "ja": "正装で案内する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正装",
+        "案内",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い着物と髪飾りを身につけた人物が、片手を上げて笑顔で立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23963",
+      "name": {
+        "ja": "和装でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "和装",
+        "着物",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が茶色と緑色の大きな衣装の中から顔を出し、両側をつかんで笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "23964",
+      "name": {
+        "ja": "大きな衣装で登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色",
+        "衣装",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片足で立ち、片手を腰に当てて笑顔でポーズを決めている。横に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23965",
+      "name": {
+        "ja": "軽やかにポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポーズ",
+        "片足立ち",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が緑色のスカートで踊り、両手を広げている。周囲に音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23966",
+      "name": {
+        "ja": "花飾りで踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "ダンス",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が、青と赤の小さな乗り物に乗って前方へ進んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23967",
+      "name": {
+        "ja": "乗り物で出発"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乗り物",
+        "帽子",
+        "出発"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い雪だるまの体から人物の顔と手が出ており、頭の上に緑色の物を乗せている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "23968",
+      "name": {
+        "ja": "雪だるまに変身"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪だるま",
+        "冬",
+        "変身"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いカニのような着ぐるみを着た人物が、両腕を広げて歯を見せながら笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23969",
+      "name": {
+        "ja": "カニの着ぐるみで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カニ",
+        "着ぐるみ",
+        "笑顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1334",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1154 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色い丸い頭の人物が口をまっすぐにして立ち、頭の左上に灰色のもやのような記号が浮かんでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "24306",
+      "name": {
+        "ja": "しょんぼり立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立つ",
+        "しょんぼり",
+        "もや"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の人物が両手を胸元で合わせ頬を赤らめ、周囲に赤いハートが散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24307",
+      "name": {
+        "ja": "ハートに囲まれて照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "照れ",
+        "赤ら顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の人物が手を組んで目を細めて笑い、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "24308",
+      "name": {
+        "ja": "きらきら笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄緑色の服の人物が座り込み、腕で顔を覆っている。周囲に揺れる線が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "24309",
+      "name": {
+        "ja": "うずくまって顔を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座り込み",
+        "顔を隠す",
+        "揺れる線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が目を細めて笑い、左右に黒い音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "24310",
+      "name": {
+        "ja": "音符とにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "音符",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が眉を下げて口を横に結び、頭の周囲に汗の粒ともやの記号がある。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "24311",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困り顔",
+        "汗",
+        "もや"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と茶色の人物が座り、両側から大粒の涙を流している。足元にも水滴が散っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "24312",
+      "name": {
+        "ja": "涙を流して座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が膝を抱えて座り頬を赤らめている。頭上に白い雲のような記号がある。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "24313",
+      "name": {
+        "ja": "考え込んでうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "膝を抱える",
+        "考え込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の人物が体を横に傾けて口をゆがめ、顔の右側に汗の粒がある。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "24314",
+      "name": {
+        "ja": "汗をにじませて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困り顔",
+        "ゆがんだ口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色とオレンジ色の人物が身を縮めて目を閉じ、力をこめている。手元に赤と緑の小さな物が見える。"
+      },
+      "emotion": [
+        "tired",
+        "fear"
+      ],
+      "id": "24315",
+      "name": {
+        "ja": "力をこめて耐える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "身を縮める",
+        "耐える",
+        "力む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "四角い黄色の頭の人物が目を見開いて立ち、周囲に揺れの線と灰色のもやがある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "24316",
+      "name": {
+        "ja": "四角い頭でふらつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四角い頭",
+        "ふらつき",
+        "もや"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が床に伏せるように横たわり、そばに倒れた白い容器がある。頭上に小さな点が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "24317",
+      "name": {
+        "ja": "床でへたり込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "へたり込む",
+        "容器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が目を細めて穏やかに笑っている。頭の上に茶色と赤の飾りが見える。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "24318",
+      "name": {
+        "ja": "笑顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "穏やか",
+        "飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い二つの姿が横になり、目を閉じて並んでいる。体の上に黄色い模様がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "24319",
+      "name": {
+        "ja": "寄り添って眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "横たわる",
+        "二つの姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクと黄色の二人が並んで前へ走り、足元に動きの線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24320",
+      "name": {
+        "ja": "二人で駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "走る",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が笑顔で立ち、片手を上げている。手の横に小さな動き線がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "24321",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "小さく手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を上げる",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が口をまっすぐにして立ち、頭の左上に灰色のもやがあり顔の横に汗が見える。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "24322",
+      "name": {
+        "ja": "汗をかいて立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "立ち尽くす",
+        "もや"
+      ]
+    },
+    {
+      "description": {
+        "ja": "濃い茶色の人物が目を伏せ口を下げて立ち、頭の上に灰色のもやが浮かんでいる。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "24323",
+      "name": {
+        "ja": "暗い顔でうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "暗い表情",
+        "もや"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が右へ走り、体の後ろに複数の速さの線が伸びている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "24324",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "速さ",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の人物が横向きに転がる姿勢で、周囲に紫と黄色の動きの記号がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "24325",
+      "name": {
+        "ja": "転がって慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転がる",
+        "慌てる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクと白の二人が並び、笑顔で手を合わせている。上部にピンク色で「Thanks!」と書かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "24326",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "二人で感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "感謝",
+        "Thanks"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が目を閉じ歯を見せて大きく笑い、上部にオレンジ色で「OK!」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24327",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKと笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "OK",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が片手をあごに添えて首をかしげ、右上に青い疑問符がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "24328",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "考える",
+        "あごに手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の人物が目を細めて笑い片手を上げている。上部に青色で「Sorry」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "24329",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "笑顔で謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "笑顔",
+        "Sorry"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が背中を向けて体を低くして座り込み、頭上に灰色のもやがある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "24330",
+      "name": {
+        "ja": "背を向けてうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "座り込み",
+        "もや"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が背中を向けるように座り頭を下げている。上部に灰色で「NO」と書かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "24331",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと座り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "うなだれ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が皿の前に座り、目を細めて笑っている。頭の上に黄色い小さな飾りがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "24332",
+      "name": {
+        "ja": "白い服で食卓につく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "笑顔",
+        "皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が黄色い帽子と赤いマフラー、青い手袋を身につけて座り、周囲に寒さを示す灰色のもやがある。"
+      },
+      "emotion": [
+        "tired",
+        "fear"
+      ],
+      "id": "24333",
+      "name": {
+        "ja": "冬服で寒がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "マフラー",
+        "寒さ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が机の前に座り、皿とカップを見ながら手を添えている。頭の横に灰色のもやがある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "24334",
+      "name": {
+        "ja": "机でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "皿",
+        "カップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が黄色いポンポンを両手に持ち、目を閉じて大きく笑っている。周囲に小片が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24335",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "ポンポンで応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポンポン",
+        "応援",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が青と黄色の帽子、マフラー、手袋を身につけて立っている。頭の横に灰色のもやがある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "24336",
+      "name": {
+        "ja": "帽子とマフラーで防寒する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "防寒",
+        "帽子",
+        "マフラー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が黄色い壁の端から顔だけを出し、片目でこちらを見ている。頭上に灰色のもやがある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "24337",
+      "name": {
+        "ja": "壁の陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "壁",
+        "物陰"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いヘルメットをかぶった人物が灰色の作業服で立っている。頭の横に灰色のもやがある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "24338",
+      "name": {
+        "ja": "黄色いヘルメットで作業する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ヘルメット",
+        "作業服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と黄色の三角帽子をかぶった人物が、ろうそくの立つケーキを両手で持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24339",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ケーキを持って祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三角帽子",
+        "ケーキ",
+        "ろうそく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い頭の人物が器に顔を近づけ、両手で器のそばを押さえている。周囲に揺れの線がある。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "24340",
+      "name": {
+        "ja": "器に顔を近づける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "器",
+        "顔を近づける",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が両手で棒状の重い物を持ち上げ、体を震わせている。顔の周囲に汗と白い息のような線がある。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "24341",
+      "name": {
+        "ja": "重い物を持ち上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "力む",
+        "汗",
+        "持ち上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が机に向かい、口を開けて疲れた顔をしている。背後に大きな椅子があり頭の上に灰色のもやがある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "24342",
+      "name": {
+        "ja": "机で疲れ果てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "疲労",
+        "椅子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い人物が灰色の服で立ち、片手に茶色いかばんを持っている。顔の周りに汗と灰色のもやがある。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "24343",
+      "name": {
+        "ja": "荷物を持って汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "かばん",
+        "汗",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が黒いサングラスをかけ、片手を上げて踊っている。周囲に黒い音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24344",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "踊る",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三角帽子をかぶった黄色とオレンジ色の二人が手を上げて踊り、周囲に紙吹雪と音符が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24345",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "二人で乾杯して踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "紙吹雪",
+        "パーティー"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1350",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

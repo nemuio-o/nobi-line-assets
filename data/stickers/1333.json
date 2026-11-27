@@ -1,0 +1,1148 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒いキャラクターが胸元で黄色い小物を抱え、目を細めて立っている。左上に赤いハートが二つ浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "23850",
+      "name": {
+        "ja": "ハートを抱えてうっとり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "うっとり",
+        "赤いハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが赤い丸印の札を掲げ、きらめきに囲まれて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23851",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "丸印を掲げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "丸印",
+        "札",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが青いばつ印の札を掲げ、腕を広げたように立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "23852",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "ばつ印で断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ばつ印",
+        "札",
+        "腕を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を広げ、周囲に花を散らしながら「Thank You」の文字を掲げている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "23853",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花を添えてありがとう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ありがとう",
+        "花",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが頭を下げ、周囲に青い涙を浮かべている。上に「SORRY…」の文字がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "23854",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "涙ぐんでごめんね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ごめんね",
+        "涙",
+        "SORRY"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手にピンクのポンポンを持ち、「GO! GO!」の文字とともに応援している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "23855",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "両手にポンポンで応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ポンポン",
+        "GO"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが首をかしげるように立ち、頭上に大きな赤い疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "23856",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "首をかしげる",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒のキャラクターが横向きに寝そべり、赤い服の部分を見せながら青い吹き出しを出している。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "23857",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "吹き出しで返事"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "横たわる",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが両手を腰に当て、足を開いて正面を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "23858",
+      "name": {
+        "ja": "腰に手を当てて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腰に手",
+        "正面",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが赤いスカートを広げて踊り、周囲に黄色やピンクの花がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23859",
+      "name": {
+        "ja": "花柄スカートで踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "スカート",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑色の細長い生き物が小さな魚を追うように泳いでいる。周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "23860",
+      "name": {
+        "ja": "魚を追いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泳ぐ",
+        "魚",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが黄色い紙のようなものを持ち、上に「1+1」「2+1」の赤い数字が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "23861",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "数字を見ながら考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "数字",
+        "計算",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが目を細めて正面に立ち、左右に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23862",
+      "name": {
+        "ja": "きらめいて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "正面",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが黒いキャラクターの頬に顔を寄せ、黒いキャラクターが後ろへ押されるように足を上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "love"
+      ],
+      "id": "23863",
+      "name": {
+        "ja": "白いキャラクターに押される"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬寄せ",
+        "押される",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが口を開けて両手を口元に添え、周囲に赤い勢い線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "23864",
+      "name": {
+        "ja": "声を張って呼ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "呼びかけ",
+        "大声",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが胸元に手を当て、黄色いきらめきの横で目を閉じている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "23865",
+      "name": {
+        "ja": "ひらめいて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "胸元",
+        "ひらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが黄色い足を上げて跳ねるように動き、頭上に赤い感嘆符がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "23866",
+      "name": {
+        "ja": "勢いよく飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感嘆符",
+        "ジャンプ",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑色の生き物が横たわって眠り、上に「Z Z Z」の文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "23867",
+      "name": {
+        "ja": "眠って夢を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "横たわる",
+        "Zzz"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが青い汗を流し、上から青い縦線が落ちている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "23868",
+      "name": {
+        "ja": "汗をかいて焦る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "焦り",
+        "青い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが体を斜めに傾け、片足を上げてよろめくように動いている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "23869",
+      "name": {
+        "ja": "よろめいて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "よろめく",
+        "片足",
+        "傾き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが赤い目で怒った顔をし、両脇から青い煙のようなものを出している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "23870",
+      "name": {
+        "ja": "怒って煙を吐く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "赤い目",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが目を×印にして横向きにふらつき、頭上に渦の線がある。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "23871",
+      "name": {
+        "ja": "目を回してふらつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を回す",
+        "ふらつく",
+        "渦"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが黒いキャラクターの顔へ近づき、黒いキャラクターが後ろへ吹き飛ばされるように動いている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "23872",
+      "name": {
+        "ja": "息を吹きかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き飛ぶ",
+        "息",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが両手を前に出し、周囲にオレンジ色の驚きの線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "23873",
+      "name": {
+        "ja": "驚いて身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが赤と青のギターを抱えて弾き、左右に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23874",
+      "name": {
+        "ja": "ギターを弾いて歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ギター",
+        "音符",
+        "演奏"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが大きな黒い道具で叩かれ、青緑色の生き物とともに「Pow!」の文字が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "23875",
+      "name": {
+        "ja": "叩かれて飛び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Pow",
+        "叩く",
+        "飛び上がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターと白いキャラクターが青い水の中に入り、黒い方は目を閉じている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "23876",
+      "name": {
+        "ja": "水の中で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水",
+        "休む",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが横たわり、上から青い雨の線が降っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "23877",
+      "name": {
+        "ja": "雨に打たれて横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "横たわる",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターがオレンジ色の飲み物を片手に持ち、歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23878",
+      "name": {
+        "ja": "飲み物を持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "歩く",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが小さなパーティー帽をかぶり、紙吹雪の中で両手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23879",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "帽子をかぶって祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パーティー帽",
+        "紙吹雪",
+        "祝う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターと白いキャラクターが抱き合い、上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23880",
+      "name": {
+        "ja": "抱き合って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱き合う",
+        "ハート",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが灰色の壁の端から顔をのぞかせ、下に白いキャラクターも隠れている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "23881",
+      "name": {
+        "ja": "壁の陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "壁",
+        "隠れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが頭を下げ、目を閉じて両腕を下ろしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "23882",
+      "name": {
+        "ja": "うつむいてたたずむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "目を閉じる",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが片足を後ろへ伸ばし、赤い星形の印を蹴っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "23883",
+      "name": {
+        "ja": "後ろから蹴り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蹴る",
+        "赤い星",
+        "足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが白い帽子をかぶり、フライパンと緑色の食材を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23884",
+      "name": {
+        "ja": "フライパンで料理する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "フライパン",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが青い布のようなものを広げ、片手に細長い道具を持っている。頭上に黄色い星がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "23885",
+      "name": {
+        "ja": "青い布を広げて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い布",
+        "道具",
+        "黄色い星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが青い服を着て正面に立ち、頭に白い帯を巻いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "23886",
+      "name": {
+        "ja": "青い服で身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "白い帯",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが青緑色の生き物を追うように走り、周囲に青い動きの線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "23887",
+      "name": {
+        "ja": "走って追いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "追いかける",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターがカメラを構え、横に赤い音符の吹き出しがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23888",
+      "name": {
+        "ja": "カメラで撮影する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カメラ",
+        "撮影",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクター二人と白いキャラクターが黄色い光の中に並び、右側のキャラクターが青い小物を掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23889",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ライトの中でポーズを取る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い光",
+        "三人",
+        "ポーズ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1333",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
