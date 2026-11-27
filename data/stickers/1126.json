@@ -1,0 +1,1162 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が片手を上げ、笑顔で挨拶している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18919",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "挨拶するカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "手を上げる",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い宇宙服の人物が腕を組み、落ち着いた表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18920",
+      "name": {
+        "ja": "腕を組む宇宙服の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宇宙服",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三つ目の緑色の宇宙人が親指を立て、明るい表情を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18921",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てる緑の宇宙人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三つ目",
+        "緑色",
+        "親指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸いピンク色の動物が背を向け、片手を上げて拒否するような姿勢を取っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18922",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "背を向けて拒否するピンクの動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク色",
+        "背を向ける",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウガール姿の人物が片手で帽子のつばを持ち上げ、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18923",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "帽子を持ち上げるカウガール"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウガール",
+        "帽子",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の兵隊の人形が片手を額に当てて敬礼している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18924",
+      "name": {
+        "ja": "敬礼する緑色の兵隊"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "兵隊",
+        "緑色",
+        "敬礼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の丸い動物が横たわり、周囲に複数の疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18925",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符に囲まれたピンクの動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク色",
+        "疑問符",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の恐竜が片手を上げ、親しげな表情で手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18926",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振る緑色の恐竜"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "恐竜",
+        "緑色",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "宇宙服の人物とカウボーイ姿の人物が肩を並べ、笑顔で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18927",
+      "name": {
+        "ja": "肩を並べる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "宇宙服",
+        "カウボーイ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の宇宙服の人物が腕を広げ、明るい表情で並んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18928",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "腕を広げる宇宙服の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "宇宙服",
+        "腕を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が茶色の馬にまたがり、片手を上げている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "18929",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "馬に乗って手を上げるカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "馬",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウガール姿の人物が帽子を持ち上げ、笑顔で喜んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18930",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "帽子を上げて喜ぶカウガール"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウガール",
+        "帽子",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の丸い動物が跳ねるように動き、周囲に音符が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18931",
+      "name": {
+        "ja": "音符に囲まれて跳ねるピンクの動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク色",
+        "音符",
+        "跳ねる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が帽子を持ち上げ、笑顔で片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18932",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "帽子を上げて肯定するカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "帽子",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が空中で片足を上げ、躍動的なポーズを取っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18933",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "空中でポーズを取るカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "ジャンプ",
+        "躍動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "宇宙服の人物が両腕を広げ、飛ぶような姿勢で進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18934",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "腕を広げて飛ぶ宇宙服の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宇宙服",
+        "飛ぶ",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "宇宙服の人物が腕を組んで考え込み、頭上に吹き出しが描かれている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18935",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "考え込む宇宙服の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宇宙服",
+        "腕組み",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三つ目の緑色の宇宙人が転ぶように倒れ、周囲に衝撃線が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18936",
+      "name": {
+        "ja": "転んで慌てる緑の宇宙人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三つ目",
+        "転ぶ",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が両手を広げ、口を開けて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18937",
+      "name": {
+        "ja": "両手を広げて驚くカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "両手",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の恐竜が目を見開き、頭の横に赤い驚きの線を出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18938",
+      "name": {
+        "ja": "驚いた緑色の恐竜"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "恐竜",
+        "驚き",
+        "目を見開く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が腕を組み、まっすぐ立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18939",
+      "name": {
+        "ja": "腕を組んで立つカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の恐竜が体を低くして地面に伏せ、うつむいている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18940",
+      "name": {
+        "ja": "伏せる緑色の恐竜"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "恐竜",
+        "伏せる",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウガール姿の人物が片手で前を指差し、問いかけるような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18941",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "指を差して問いかけるカウガール"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウガール",
+        "指差し",
+        "問いかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "宇宙服の人物が画面の下から身を乗り出し、驚いたように前を見ている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18942",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "身を乗り出す宇宙服の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宇宙服",
+        "身を乗り出す",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウガール姿の人物が片手を上げて手を振り、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18943",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振るカウガール"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウガール",
+        "手を振る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が親指を立て、明るい表情で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18944",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てるカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "親指",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三つ目の緑色の宇宙人が両手を広げ、親指を立てている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18945",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てる緑の宇宙人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三つ目",
+        "緑色",
+        "親指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "宇宙服の人物が両腕を伸ばし、飛行するような姿勢で進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18946",
+      "name": {
+        "ja": "空を飛ぶ宇宙服の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宇宙服",
+        "飛行",
+        "躍動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が両腕を伸ばし、足をばたつかせながら助けを求めている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18947",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "助けを求めるカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "両腕",
+        "助けを求める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウガール姿の人物が口を開けて笑い、片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18948",
+      "name": {
+        "ja": "笑いながら手を振るカウガール"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウガール",
+        "笑顔",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が宇宙服の人物を押すように動き、上部に吹き出しが描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18949",
+      "name": {
+        "ja": "宇宙服の人物を押すカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "押す",
+        "宇宙服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が片手を前に伸ばし、こちらへ来るよう手招きしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18950",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手招きするカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "手招き",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の馬が脚を大きく動かし、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18951",
+      "name": {
+        "ja": "走る茶色の馬"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "馬",
+        "走る",
+        "躍動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が両手を腰に当てて立ち、周囲に輝く星が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18952",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星に囲まれたカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "星",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウガール姿の人物が片目を閉じ、片手を前に突き出して勢いよくポーズを取っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18953",
+      "name": {
+        "ja": "片目を閉じるカウガール"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウガール",
+        "ウインク",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "宇宙服の人物が腕を振り、前へ走るような姿勢を取っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18954",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "走る宇宙服の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宇宙服",
+        "走る",
+        "腕を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "宇宙服の人物、カウボーイ、カウガール、緑色の恐竜が横一列に並んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18955",
+      "name": {
+        "ja": "四人で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四人",
+        "宇宙服",
+        "恐竜"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が茶色の馬にまたがり、縄を持って進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18956",
+      "name": {
+        "ja": "馬に乗って進むカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "馬",
+        "縄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "宇宙服の人物が腕を広げ、空中を飛ぶような姿勢を取っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18957",
+      "name": {
+        "ja": "飛ぶ宇宙服の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宇宙服",
+        "飛ぶ",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カウボーイ姿の人物が横たわり、片手を上げて手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18958",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "横たわって手を振るカウボーイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウボーイ",
+        "横たわる",
+        "手を振る"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1126",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

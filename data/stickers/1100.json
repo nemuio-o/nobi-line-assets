@@ -1,0 +1,1113 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが羽を広げ、周囲に色とりどりの星を散らして笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18623",
+      "name": {
+        "ja": "羽を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "羽ばたき",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターと白い小動物が一緒に走り、鳥が小動物を背に乗せているように見える。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18624",
+      "name": {
+        "ja": "二人で走り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが片方の翼を上げ、親指を立てるような仕草で笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18625",
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "親指",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小動物が頭に角のような飾りをつけ、舌を出して楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18626",
+      "name": {
+        "ja": "角をつけて舌を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "角",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが地面にくちばしを近づけ、白い小動物と一緒に土を掘っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18627",
+      "name": {
+        "ja": "地面を掘る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "地面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターと白い小動物が地面に寄り添い、穏やかな表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18628",
+      "name": {
+        "ja": "地面で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが羽を広げ、勢いよく走っている。周囲に動きを示す線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18629",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "走る",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが座り込み、両目から大粒の涙を流して泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18630",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "涙",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが大きなカラフルな文字の前で、翼を広げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18631",
+      "name": {
+        "ja": "大きな文字の前で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "笑顔",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小動物が両手を広げ、はっきり断るような表情をしている。背後に大きな青い文字が見える。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "18632",
+      "name": {
+        "ja": "両手を広げて断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "両手",
+        "青い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが蹴られたように前へ飛び、周囲に大きな衝撃線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "18633",
+      "name": {
+        "ja": "蹴られて飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "蹴り",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが頭を下げ、申し訳なさそうに謝っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "18634",
+      "name": {
+        "ja": "頭を下げて謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "謝る",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが炎に囲まれ、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "18635",
+      "name": {
+        "ja": "炎に囲まれて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "炎",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが翼を広げ、周囲に赤いハートを浮かべて嬉しそうにしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18636",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが汗をかき、光の下で身を縮めるようにうつむいている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "18637",
+      "name": {
+        "ja": "汗をかいてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "汗",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが体をひねり、後ろを振り返りながら走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18638",
+      "name": {
+        "ja": "走りながら振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "走る",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターと白い小動物が寄り添い、周囲に花と丸い飾りが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18639",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小動物が巻物を広げ、羽ペンのような道具を持って何かを書いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18640",
+      "name": {
+        "ja": "巻物に向かって書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "巻物",
+        "羽ペン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが翼で顔を覆うように身を隠し、周囲にカラフルな星がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "18641",
+      "name": {
+        "ja": "星の中で身を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "星",
+        "身を隠す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが半開きの木の扉の隙間から、こっそり顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18642",
+      "name": {
+        "ja": "扉の隙間からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "扉",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが翼をばたつかせ、汗をかきながら慌てている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "18643",
+      "name": {
+        "ja": "汗をかいて慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "汗",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが首をかしげ、頭のそばに赤い疑問符を浮かべている。白い小動物も横にいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "18644",
+      "name": {
+        "ja": "疑問に首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "疑問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが背を向けて座り、そばに小さな点の吹き出しがある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18645",
+      "name": {
+        "ja": "背を向けて沈黙する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "背中",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターと白い小動物が向き合い、翼や手を伸ばして駆け寄っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18646",
+      "name": {
+        "ja": "二人で駆け寄る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "駆け寄る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが驚いた顔で立ち、白い小動物が肩に手を添えている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "18647",
+      "name": {
+        "ja": "肩に手を添えて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが大きな赤いハートを抱え、周囲にも小さなハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18648",
+      "name": {
+        "ja": "ハートを抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "ハート",
+        "抱く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが翼を広げ、楽しそうに歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18649",
+      "name": {
+        "ja": "翼を広げて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "歩く",
+        "翼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが座り、翼を左右に広げて穏やかに笑っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "18650",
+      "name": {
+        "ja": "翼を広げて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "座る",
+        "翼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターと白い小動物が並んで向き合い、穏やかな表情をしている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "18651",
+      "name": {
+        "ja": "二人で向き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "向き合う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小動物が黄色い鳥のようなキャラクターの背中に手を添え、そばで支えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18652",
+      "name": {
+        "ja": "背中を押して支える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "黄色い鳥のようなキャラクター",
+        "支える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小動物が両手を広げ、頬を赤くして怒った表情をしている。頭の横に勢いの線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18653",
+      "name": {
+        "ja": "怒って両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "怒り",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターがリボンのついた箱を抱え、嬉しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "18654",
+      "name": {
+        "ja": "贈り物を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "贈り物",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが青い丸いクッションの上で丸まり、眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "18655",
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "眠る",
+        "クッション"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが翼を広げ、足を大きく動かして勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18656",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "走る",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが目を回してふらつき、頭の周囲に星が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "18657",
+      "name": {
+        "ja": "目を回してふらつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "目を回す",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小動物が黄色い鳥のようなキャラクターを洗い、鳥の周囲に泡が立っている。そばに水の入った器がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "18658",
+      "name": {
+        "ja": "お風呂で洗われる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターと白い小動物が手を取り合って踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18659",
+      "name": {
+        "ja": "二人で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "白い小動物",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが青い包みのようなものを抱え、周囲に輝きが描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18660",
+      "name": {
+        "ja": "青い包みを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "青い包み",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小動物が大きな葉を傘のように持ち、雨の中で立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "18661",
+      "name": {
+        "ja": "葉を傘にして雨宿りする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "葉",
+        "雨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のようなキャラクターが胸を張り、動き線とともに元気よく走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18662",
+      "name": {
+        "ja": "元気よく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥のようなキャラクター",
+        "走る",
+        "動き線"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1100",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

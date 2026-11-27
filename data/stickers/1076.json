@@ -1,0 +1,1161 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黄色い服のクマが、青や黄色、オレンジの風船を束ねて持ち、笑顔で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18007",
+      "name": {
+        "ja": "風船を持って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "立つ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服を着たウサギが、両手を高く上げて笑顔で喜んでいる。周囲に小さな花が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18008",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "喜び",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが両手で白い札を掲げ、穏やかな笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18009",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "札",
+        "掲げる",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが両手で白い札を掲げ、落ち着いた表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18010",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "札を掲げて拒む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "札",
+        "拒否",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "トラが片手を上げて振り、大きく笑いながら挨拶している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18011",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振って挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "挨拶",
+        "手を振る",
+        "トラ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが片手の親指を立て、赤い服で笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18012",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマ、ウサギ、トラ、ロバが肩を寄せ合い、仲良く集まっている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "18013",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "仲間と寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "寄り添う",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが首をかしげ、頭のそばに疑問を示す記号が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "18014",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "首をかしげる",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが少しうつむき、申し訳なさそうな表情をしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18015",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "申し訳なさそうにする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "うつむく",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "トラが両手で頭を抱え、口を大きく開けて叫んでいる。周囲に勢いを示す線がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "18016",
+      "name": {
+        "ja": "頭を抱えて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "頭",
+        "トラ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマがうつぶせになり、背中に大きな丸い物を載せたまま休んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18017",
+      "name": {
+        "ja": "うつぶせで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつぶせ",
+        "休む",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "トラ、ウサギ、クマの三人が並び、トラが手を上げて驚いた様子を見せている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "18018",
+      "name": {
+        "ja": "三人で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "驚き",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマ、ウサギ、トラが一緒に走り、急いで進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18019",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "急いで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "急ぐ",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマとウサギが両手を上げて踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18020",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "音符",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "トラが体をひねって振り返り、目を見開いたような表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18021",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り返る",
+        "驚き",
+        "トラ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "トラとクマが並び、二人とも片手を上げて別れの挨拶をしている。"
+      },
+      "emotion": [
+        "joy",
+        "sadness"
+      ],
+      "id": "18022",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って別れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "別れ",
+        "手を振る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが体を小さく丸め、片手を顔のそばに添えて照れている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "18023",
+      "name": {
+        "ja": "照れて身を縮める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "身を縮める",
+        "ウサギ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "トラが両腕を上げ、口を開けて驚いている。頭の上に揺れを示す線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "18024",
+      "name": {
+        "ja": "腕を上げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "腕",
+        "トラ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが両手を前に置き、顔を少し背けて恥ずかしそうに立っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "18025",
+      "name": {
+        "ja": "恥ずかしそうに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "恥ずかしい",
+        "立つ",
+        "ウサギ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが青い帽子のような物をかぶり、両手で頭を抱えて地面に伏せている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "18026",
+      "name": {
+        "ja": "頭を抱えて伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パニック",
+        "頭",
+        "伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが顔を上向きにし、口を開けて何かを見上げている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18027",
+      "name": {
+        "ja": "口を開けて見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "見上げる",
+        "口を開ける",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが長い白い布を引きながら歩き、周囲に落ち葉が舞っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18028",
+      "name": {
+        "ja": "布を引いて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布",
+        "引く",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いロバが頭を垂れて座り込み、背中を丸めて落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "18029",
+      "name": {
+        "ja": "うつむいて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込む",
+        "うつむく",
+        "ロバ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが丘の上に座り、赤い鳥が飛ぶ景色を静かに眺めている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "18030",
+      "name": {
+        "ja": "景色を眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "景色",
+        "眺める",
+        "丘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマがピンクの花束を抱え、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18031",
+      "name": {
+        "ja": "花束を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "抱える",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが両手を広げ、片足を上げて嬉しそうに笑っている。周囲にハートが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18032",
+      "name": {
+        "ja": "両手を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "両手",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが胸の前で大きなハートを抱え、笑顔で立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18033",
+      "name": {
+        "ja": "ハートを抱えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "ウサギ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが片手を上げて振り、もう一方の手を腰に置いて呼びかけている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18034",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振って呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "呼びかけ",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマとウサギが手をつなぎ、並んで歩いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18035",
+      "name": {
+        "ja": "手をつないで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手をつなぐ",
+        "歩く",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギがリボンの付いた包みを開け、花や飾りが舞う中で喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "18036",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "贈り物を開けて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "開ける",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが座り込んだ青いロバを後ろから支え、寄り添っている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "18037",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "ロバを支える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "支える",
+        "寄り添う",
+        "ロバ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが座って笑い、そばのウサギも両手を上げて楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18038",
+      "name": {
+        "ja": "楽しそうに笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "楽しむ",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが大きな木の幹の陰から顔と体をのぞかせ、周囲に花が咲いている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "18039",
+      "name": {
+        "ja": "木の陰から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木",
+        "顔を出す",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが座ってウサギと花を眺め、そばに色とりどりの草花が咲いている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "18040",
+      "name": {
+        "ja": "花を眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "眺める",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが花畑の中に座り、周囲をたくさんの花に囲まれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "18041",
+      "name": {
+        "ja": "花畑で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花畑",
+        "座る",
+        "ウサギ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマとウサギが草地に座り、湯気の立つカップを囲んでくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "18042",
+      "name": {
+        "ja": "お茶を飲んで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お茶",
+        "休む",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマとウサギが草地で寄り添って横になり、眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "18043",
+      "name": {
+        "ja": "寄り添って眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "寄り添う",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが草地に座り、片手に小さな花を持って眺めている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "18044",
+      "name": {
+        "ja": "花を持って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "座る",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが横たわるウサギのそばに座り、雲のような白い物を添えて見守っている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "18045",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "眠る仲間を見守る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "見守る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い夜空の下、クマとウサギが草地に横たわって眠っている。空に月と星が見える。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "18046",
+      "name": {
+        "ja": "夜空の下で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "眠る",
+        "二人"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1076",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

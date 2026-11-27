@@ -1,0 +1,1089 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白い服を着た人物が、帽子をかぶって横顔で後ろを振り返っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18351",
+      "name": {
+        "ja": "横顔で振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子をかぶった人物が、歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18352",
+      "name": {
+        "ja": "笑顔の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が机に向かい、手前の人物が紙に書き、後ろの人物が寄り添っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18353",
+      "name": {
+        "ja": "机に向かう二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "机",
+        "子ども"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が正面を向き、穏やかな表情で見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18354",
+      "name": {
+        "ja": "穏やかに見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が、片手を帽子のつばに添えて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18355",
+      "name": {
+        "ja": "帽子に手を添えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "笑顔",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が体を丸め、目を閉じて眠っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18356",
+      "name": {
+        "ja": "丸まって眠る猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "睡眠",
+        "丸まる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が、走っていく白い猫を追いかけている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18357",
+      "name": {
+        "ja": "猫を追いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "走る",
+        "追いかける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、片方がもう片方の頬にキスをしている。頭上に小さなハートが描かれている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18358",
+      "name": {
+        "ja": "頬にキスする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "キス",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな白い物の上に横たわるように乗り、勢いよく動いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18359",
+      "name": {
+        "ja": "大きな白い物に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "白い物",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、互いの拳を合わせている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18360",
+      "name": {
+        "ja": "拳を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "拳",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を上げて手を振り、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18361",
+      "name": {
+        "ja": "手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "笑顔",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が茶色い動物のぬいぐるみを両腕で抱きしめている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18362",
+      "name": {
+        "ja": "ぬいぐるみを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぬいぐるみ",
+        "抱く",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を前に傾け、拳をこちらへ力強く突き出している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18363",
+      "name": {
+        "ja": "拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "突き出す",
+        "力強い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横たわった姿勢で片拳を高く振り上げ、周囲に勢いを示す線が描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18364",
+      "name": {
+        "ja": "拳を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "振り上げる",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "野球のユニフォームを着た人物が、地面を転がるボールを追って走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18365",
+      "name": {
+        "ja": "ボールを追う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "野球",
+        "ボール",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手の人差し指で自分の頬を指し、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18366",
+      "name": {
+        "ja": "頬を指さす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "指さす",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が額に手を当て、目を閉じて困ったような表情をしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18367",
+      "name": {
+        "ja": "額に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "額",
+        "手",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が両手を広げ、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18368",
+      "name": {
+        "ja": "両手を広げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "両手",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が野球のユニフォーム姿で地面に集まり、激しく競り合っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18369",
+      "name": {
+        "ja": "野球で競り合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "野球",
+        "複数人",
+        "競技"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子をかぶった人物が、鋭い目つきでこちらを見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18370",
+      "name": {
+        "ja": "鋭い目つき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "目つき",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サングラスをかけた人物が、バットを手にして構えている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18371",
+      "name": {
+        "ja": "バットを構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "バット",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床にうつぶせに伏せ、周囲に小さな丸い線が描かれている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18372",
+      "name": {
+        "ja": "床に伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "床",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向き合い、片方がもう片方を抱きしめている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18373",
+      "name": {
+        "ja": "抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱擁",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で胸元の服をつかみ、力を込めた表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18374",
+      "name": {
+        "ja": "胸元をつかむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸元",
+        "手",
+        "力強い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向き、真剣な表情で見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18375",
+      "name": {
+        "ja": "真剣な表情"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "人物",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黒い服とネクタイを着け、歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18376",
+      "name": {
+        "ja": "笑顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "ネクタイ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉を寄せ、怒ったような険しい表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18377",
+      "name": {
+        "ja": "怒った顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、片方がもう片方の頬にキスをしている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18378",
+      "name": {
+        "ja": "頬にキスする二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "キス",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が指を鼻の近くに添え、考え込むような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18379",
+      "name": {
+        "ja": "鼻に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鼻",
+        "手",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が白い屋根のような場所の下に身を寄せ、急いで動いている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18380",
+      "name": {
+        "ja": "身を寄せて避難する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "身を寄せる",
+        "避難"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が戸口の隙間から顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18381",
+      "name": {
+        "ja": "戸口からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "戸口",
+        "のぞく",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が腕を組み、正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18382",
+      "name": {
+        "ja": "腕を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "腕組み",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が片手でピースサインをしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18383",
+      "name": {
+        "ja": "ピースサイン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "ピースサイン",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が頭を下げ、顔に影がかかっている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18384",
+      "name": {
+        "ja": "うつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "うつむく",
+        "影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "野球のユニフォームを着た人物が両手を高く上げ、喜んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18385",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "野球",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "野球のユニフォームを着た人物が帽子を押さえ、うつむいている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18386",
+      "name": {
+        "ja": "帽子を押さえてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "うつむく",
+        "野球"
+      ]
+    },
+    {
+      "description": {
+        "ja": "野球のユニフォームを着た人物が、道具のそばで身をかがめている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18387",
+      "name": {
+        "ja": "身をかがめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "野球",
+        "かがむ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が顎に手を添え、考え込むように目を伏せている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18388",
+      "name": {
+        "ja": "顎に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顎",
+        "手",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、互いに頭を下げている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18389",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "向かい合って頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "頭を下げる",
+        "向かい合う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "四角い枠の中に、判読を避けた筆文字が書かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18390",
+      "name": {
+        "ja": "枠内の筆文字"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "筆文字",
+        "枠",
+        "書"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1087",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

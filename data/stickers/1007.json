@@ -1,0 +1,1148 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い制服の人物が両手を高く上げ、口を大きく開けて満面の笑みを浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16263",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "万歳",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が両手を顔の横で握り、歯を食いしばった表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "16264",
+      "name": {
+        "ja": "歯を食いしばってこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯",
+        "こらえる",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が前方へ両手を伸ばし、勢いよく飛び出している。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "16265",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "勢いよく手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を伸ばす",
+        "勢い",
+        "青い制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が目を見開き、口を開けて汗をかきながら驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "16266",
+      "name": {
+        "ja": "汗をかいて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "汗",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が片腕を上げて片足で跳ね、周囲に黄色い星が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16267",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星を散らして跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "跳ぶ",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が椅子に座り、扇風機の風を受けながらくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "16268",
+      "name": {
+        "ja": "扇風機で涼む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "扇風機",
+        "涼む",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が片手のひらを前に向け、汗をかきながら制止するように手を上げている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "16269",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "手を広げて制止する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "制止",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が複数の袋を持ち、左右に揺れながら走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16270",
+      "name": {
+        "ja": "袋を持って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "袋",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が片手を高く上げ、笑顔で手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16271",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振って呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "呼びかけ",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が頬杖をつき、目を閉じてうっとりしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "16272",
+      "name": {
+        "ja": "音楽を聴いてうっとりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "音楽",
+        "頬杖"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が横になって目を閉じ、そばにハンバーガーやフライドポテトなどが置かれている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "16273",
+      "name": {
+        "ja": "食べ物を前に寝込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べ物",
+        "寝込む",
+        "床"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が拳を上げ、片足を高く上げて走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "16274",
+      "name": {
+        "ja": "走って拳を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "拳",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が両拳を握り、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "16275",
+      "name": {
+        "ja": "拳を握って叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "叫ぶ",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が笑顔で手を振り、そばに「BYE!」と描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16276",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "BYEと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "BYE",
+        "手を振る",
+        "別れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物がしゃがみ、頬に手を当てて困ったように考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "16277",
+      "name": {
+        "ja": "しゃがんで悩む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しゃがむ",
+        "悩む",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が片手を頭の後ろに回し、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16278",
+      "name": {
+        "ja": "手を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を上げる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が新聞の上に横たわって眠り、そばに黒い眠気の記号が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "16279",
+      "name": {
+        "ja": "床で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "床",
+        "新聞"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の人物が砂ぼこりを上げながら、勢いよく前へ走り出している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16280",
+      "name": {
+        "ja": "勢いよく飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛び出す",
+        "砂ぼこり",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服を着た女性が笑顔で親指を立て、周囲に水色の強調線が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16281",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服を着た女性が険しい表情で前を見つめ、そばに「NO」と大きく描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16282",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "NOと断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "断る",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服を着た女性が片手を頭の後ろに添えて笑い、そばに赤いハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16283",
+      "name": {
+        "ja": "ハートを添えて手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "手を上げる",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服を着た女性が笑顔で正面を向き、そばに「Good Morning」と描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16284",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "Good Morningと挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Good Morning",
+        "挨拶",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の男性が腕を組み、目を閉じて考え込んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "16285",
+      "name": {
+        "ja": "腕を組んで考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "考える",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の男性が振り返り、汗をかきながら不安そうな表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "16286",
+      "name": {
+        "ja": "汗をかいて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り返る",
+        "汗",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の男性が片手を腰に当て、頭の横に大きなオレンジ色の「？」が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "16287",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "クエスチョン",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が正面を向いて立ち、口を結んだ無表情で見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16288",
+      "name": {
+        "ja": "無表情で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "無表情",
+        "制服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が白い湯気の立つ湯につかり、肩から上を出してくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "16289",
+      "name": {
+        "ja": "湯につかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "湯気",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が歯を食いしばり、体を震わせるように怒っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "16290",
+      "name": {
+        "ja": "歯を食いしばって怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "歯",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が帽子を深くかぶり、うつむいて落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "16291",
+      "name": {
+        "ja": "うつむいて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "落ち込む",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が片手を額に当て、まっすぐ敬礼している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16292",
+      "name": {
+        "ja": "敬礼する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "敬礼",
+        "制服",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の青い制服の男性が向かい合い、険しい表情でにらみ合っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16293",
+      "name": {
+        "ja": "にらみ合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "にらみ合い",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "前の青い制服の男性が驚いた表情をし、背後の別の男性に肩をつかまれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "16294",
+      "name": {
+        "ja": "肩をつかまれて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の青い制服の男性が前後に並び、後ろの人物が前の人物を追いかけて走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16295",
+      "name": {
+        "ja": "走って追いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "走る",
+        "追いかける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の青い制服の男性が並び、片方が指を向けて注意しているように見える。二人の間に黒い煙のような線が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "confusion"
+      ],
+      "id": "16296",
+      "name": {
+        "ja": "煙を出して注意される"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "煙",
+        "注意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が頬杖をついて笑い、そばにピンク色のハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16297",
+      "name": {
+        "ja": "ハートを添えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "頬杖"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い制服の男性が大型のバイクにまたがり、前方へ走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16298",
+      "name": {
+        "ja": "バイクに乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バイク",
+        "乗る",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着た女性が目を閉じ、胸の前で手を合わせている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "16299",
+      "name": {
+        "ja": "祈る女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祈る",
+        "女性",
+        "紫の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着た女性に、上半身裸の男性が背後から抱きつき、女性が驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "love"
+      ],
+      "id": "16300",
+      "name": {
+        "ja": "抱きついて驚かせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱きつく",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着た女性が手を合わせて微笑み、そばに「Good Night」と描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16301",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "Good Nightと挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Good Night",
+        "挨拶",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身裸でネクタイを締めた男性が、両手を腰に当てて堂々とポーズを決めている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16302",
+      "name": {
+        "ja": "ポーズを決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポーズ",
+        "筋肉",
+        "男性"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1007",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

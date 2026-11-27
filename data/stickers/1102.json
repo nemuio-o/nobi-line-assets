@@ -1,0 +1,1020 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが、胸元で両手を合わせて祈るような姿を見せ、周囲にハートときらめきが描かれている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18703",
+      "name": {
+        "ja": "ハートに囲まれて祈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが大きなハートを両手で抱え、目をハート形にして頬を赤らめている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18704",
+      "name": {
+        "ja": "ハートを抱えてうっとりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが目を閉じて口をすぼめ、頬のそばにハートを浮かべて投げキスをしている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18705",
+      "name": {
+        "ja": "投げキスをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "投げキス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが目を閉じ、両手を胸元で合わせて頬を寄せるように甘えている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18706",
+      "name": {
+        "ja": "頬を寄せて甘える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "甘える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが笑顔で片手を高く上げ、もう片方の手も広げて元気に動いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18707",
+      "name": {
+        "ja": "元気に手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが座り込み、涙を流して泣いている。背後の大きなピンクのハートは左右に割れている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18708",
+      "name": {
+        "ja": "ハートを割って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒っぽい姿のキャラクターが横向きに転がるような姿勢になり、上方に小さな黒い形が浮かんでいる。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18709",
+      "name": {
+        "ja": "転がって驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが目を閉じ、両手を前で合わせて丁寧におじぎをしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18710",
+      "name": {
+        "ja": "目を閉じておじぎする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが片足を上げて走るように動き、前方へ伸びる細い曲線を追いかけている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18711",
+      "name": {
+        "ja": "糸を追いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "追いかける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが座り込み、目に涙を浮かべながら両手を頬に添えている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18712",
+      "name": {
+        "ja": "涙を浮かべて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが床に手をつき、目を閉じて口を大きく開け、頬を赤らめて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18713",
+      "name": {
+        "ja": "大声で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが目を閉じて口を開け、片足を上げて楽しそうに跳ねている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18714",
+      "name": {
+        "ja": "楽しそうに跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "跳ねる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが頭に手を添え、汗を浮かべながら、周囲に渦巻く線を出して困っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18715",
+      "name": {
+        "ja": "困って頭を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが背を向け、体をこわばらせて立っている。周囲に汗のしずくと縦線が描かれている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18716",
+      "name": {
+        "ja": "背を向けて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが座り、目元をぬぐうように片手を頬へ当てて涙をこらえている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18717",
+      "name": {
+        "ja": "涙をこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが両手を握りしめ、歯を食いしばって怒っている。周囲に紫色の震え線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18718",
+      "name": {
+        "ja": "怒って震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが目を鋭く細め、歯を見せて不敵に笑っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18719",
+      "name": {
+        "ja": "不敵に笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "不敵な笑み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが両手を握り、歯を食いしばった表情で怒りをあらわにしている。周囲に赤い怒り線が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18720",
+      "name": {
+        "ja": "歯を食いしばって怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯を食いしばる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが眉を吊り上げ、歯を食いしばっている。頭上と周囲に黄色い強調線が出ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18721",
+      "name": {
+        "ja": "激しく怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "激怒"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが目を閉じて歯を見せて笑い、顔の横に大きな黄色いきらめきが描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18722",
+      "name": {
+        "ja": "きらめいて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが片目を閉じてウインクし、口を開けて喜んでいる。横にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18723",
+      "name": {
+        "ja": "ウインクして喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウインク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが花飾りを付け、目を閉じて頬を赤らめながら笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18724",
+      "name": {
+        "ja": "花を添えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが両手を高く上げ、目を閉じて口を開け、周囲に青い動き線を出して喜んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18725",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが両手を合わせて笑っている。吹き出しに判読できる英字「Thank you!」が描かれている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "18726",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "手を合わせて感謝する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが片手を上げ、横に紫色の疑問符を浮かべて首をかしげている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18727",
+      "name": {
+        "ja": "疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが片方の拳を突き上げ、目を閉じて口を開け、周囲の赤い線とともに喜んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18728",
+      "name": {
+        "ja": "拳を突き上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ガッツポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが目を大きく見開き、口を開けて青ざめたような表情をしている。両側に細い縦線が並んでいる。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18729",
+      "name": {
+        "ja": "青ざめて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが目を閉じて口をすぼめ、両側に汗のしずくを浮かべて困っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18730",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが青い縁の物陰から顔だけを出し、両手を縁にかけてこちらを見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18731",
+      "name": {
+        "ja": "物陰から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが両手で顔を覆い、目を閉じて泣いている。頭の周囲に汗のようなしずくが描かれている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18732",
+      "name": {
+        "ja": "手で顔を覆って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが片方の拳を前に出し、片目を閉じて歯を見せて笑っている。横にきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18733",
+      "name": {
+        "ja": "拳を握って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが目を閉じて口をすぼめ、片手を上げている。そばにピンクの音符が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18734",
+      "name": {
+        "ja": "音符とともに口ずさむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが弓を手に持ち、目を閉じて頬を赤らめながら笑っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18735",
+      "name": {
+        "ja": "弓を持って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "弓"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが紫色の角のある大きなキャラクターに寄り添い、二人の上にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18736",
+      "name": {
+        "ja": "紫色の仲間と寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが黄色とピンクの輪の中に入り、目を閉じて頬杖をつくようにくつろいでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18737",
+      "name": {
+        "ja": "輪の中でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが天蓋付きのベッドに横たわり、ピンクの掛け布団をかけて眠っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18738",
+      "name": {
+        "ja": "ベッドで眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが口を大きく開けて叫び、頭上の吹き出しに判読できる英字「NO!!!」が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18739",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが笑顔で片手を上げ、吹き出しに判読できる英字「OK」が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18740",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKと返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが両手を合わせて笑い、背後に大きなピンクのハートが広がっている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18741",
+      "name": {
+        "ja": "ハートを背負って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い頭巾のキャラクターが両手を口元に当て、目を閉じて慌てたような表情をしている。頭の周囲に汗のしずくがある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18742",
+      "name": {
+        "ja": "手で口元を覆って慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "慌てる"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1102",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

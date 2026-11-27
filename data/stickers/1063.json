@@ -1,0 +1,1146 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤と黄色の装甲を身につけた人物が、両腕を大きく広げて前へ飛び出し、口を開けて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17759",
+      "name": {
+        "ja": "両腕を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "装甲",
+        "両腕",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い金髪の人物が顔をしかめ、両手の拳を前へ突き出しながら叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17760",
+      "name": {
+        "ja": "拳を突き出して叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "拳",
+        "叫び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が盾を手に、片拳を高く振り上げて跳び上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17761",
+      "name": {
+        "ja": "拳を振り上げて跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盾",
+        "拳",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤髪の人物が振り返り、眉を寄せて強い表情で前方へ呼びかけている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "17762",
+      "name": {
+        "ja": "振り返って呼び止める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤髪",
+        "振り返る",
+        "呼び止める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫の服を着た人物が弓を手にして立ち、口元に手を添えながら考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "17763",
+      "name": {
+        "ja": "弓を構えて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "弓",
+        "考える",
+        "紫の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黄色の装甲を身につけた人物が、両腕を上げて目を見開き、驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "17764",
+      "name": {
+        "ja": "腕を上げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "装甲",
+        "驚き",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の大きな人物が拳を握って前へ突き出し、力強い表情で励ましている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17765",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "拳を握って励ます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "拳",
+        "励ます"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で赤いマントの人物が、大きなハンマーを掲げて勢いよく飛び上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17766",
+      "name": {
+        "ja": "飛び上がって突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "ハンマー",
+        "突進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黄色の装甲の顔が正面を向き、頭の上に疑問を示す記号が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "17767",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "顔を傾けて疑問を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "装甲",
+        "疑問",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と青の服を着た人物が腰に両手を当て、目を見開いて驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "17768",
+      "name": {
+        "ja": "腰に手を当てて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "腰",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が頭上を通る大きな盾を見上げ、驚いたように顔を向けている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "17769",
+      "name": {
+        "ja": "盾を見上げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盾",
+        "金髪",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が胸を張り、片手を胸元に当てて達成したような表情をしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17770",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "胸を張って達成を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盾",
+        "胸を張る",
+        "達成"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が走りながら盾を前に構え、片手を伸ばして制止している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17771",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "盾を構えて制止する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盾",
+        "制止",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の大きな人物が身をかがめ、歯を食いしばって前方へうなっている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "17772",
+      "name": {
+        "ja": "身をかがめてうなる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "うなる",
+        "身をかがめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で赤いマントの人物がハンマーを持ち、落ち着いた顔で前方を見て尋ねている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "17773",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "前方を尋ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハンマー",
+        "質問",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黄色の装甲を身につけた人物が両腕を広げ、顔を上向きにして嘆いている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "17774",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "両腕を広げて嘆く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "装甲",
+        "両腕",
+        "嘆き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が腕を組み、目を閉じたような表情で黙って考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "17775",
+      "name": {
+        "ja": "黙って考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "沈黙",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服を着た人物が横顔を見せ、指を口元に当てて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "17776",
+      "name": {
+        "ja": "横顔で考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "赤い服",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の大きな人物が片拳を高く振り上げ、もう一方の手も握って喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17777",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "拳を振り上げて歓喜する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "拳",
+        "歓喜"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と青の服を着た人物が木箱を蹴り、破片を飛び散らせながら勢いよく動いている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17778",
+      "name": {
+        "ja": "木箱を蹴り破る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い服",
+        "木箱",
+        "蹴る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が両腕を左右に広げ、片脚を上げて勢いよく跳んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17779",
+      "name": {
+        "ja": "両腕を広げて跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い服",
+        "ジャンプ",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で赤いマントの人物が大きなハンマーの柄にまたがり、勢いよく飛んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "17780",
+      "name": {
+        "ja": "ハンマーに乗って飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "ハンマー",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黄色の装甲を身につけた人物が両手を頭に当て、困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "17781",
+      "name": {
+        "ja": "両手を頭に当てて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "装甲",
+        "頭",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の大きな人物が前方へ身を乗り出し、両腕を伸ばして大声で叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17782",
+      "name": {
+        "ja": "身を乗り出して叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "叫び",
+        "突進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が胸を張り、目を輝かせるような明るい笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17783",
+      "name": {
+        "ja": "胸を張って微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盾",
+        "笑顔",
+        "胸を張る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で兜をかぶった人物の顔が大きく描かれ、正面を静かに見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17784",
+      "name": {
+        "ja": "正面を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "横顔",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が片腕を高く伸ばし、手の周囲から強い光が放たれている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17785",
+      "name": {
+        "ja": "光を放って腕を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "光",
+        "腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黄色の装甲の人物と銀色の人物が、互いに向かい合って拳を交えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17786",
+      "name": {
+        "ja": "二人が向かい合って戦う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "対決",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の大きな人物が身を低くして前方へ走り、片腕を後ろへ引いている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17787",
+      "name": {
+        "ja": "身を低くして走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "走る",
+        "身を低くする"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黄色の装甲の人物が、体格の大きな人物をつかんで勢いよく投げ飛ばしている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17788",
+      "name": {
+        "ja": "大きな人物を投げ飛ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "投げる",
+        "装甲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫の服を着た人物が弓を引き絞り、前方の目標を狙っている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "17789",
+      "name": {
+        "ja": "弓を引いて狙う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "弓",
+        "狙う",
+        "紫の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と青の服を着た人物が高い場所に腰掛け、片手をついて余裕のある表情を見せている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "17790",
+      "name": {
+        "ja": "腰掛けて余裕を見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い服",
+        "腰掛ける",
+        "余裕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手を伸ばし、大きな盾を前方へ投げ出している。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17791",
+      "name": {
+        "ja": "盾を前に投げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盾",
+        "投げる",
+        "突進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黄色の装甲を身につけた人物が、体を水平に伸ばして空中を勢いよく飛んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17792",
+      "name": {
+        "ja": "空中を飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "装甲",
+        "飛行",
+        "突進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の大きな人物が岩のような地面から身を起こし、両手を握って立ち上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17793",
+      "name": {
+        "ja": "拳を握って立ち上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "拳",
+        "立ち上がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で赤いマントの人物が両手にハンマーを掲げ、雷を背景に叫んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17794",
+      "name": {
+        "ja": "ハンマーを掲げて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハンマー",
+        "雷",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と青の服を着た人物が空中で体をひねり、足を伸ばして相手へ蹴りを繰り出している。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17795",
+      "name": {
+        "ja": "空中で蹴りを繰り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い服",
+        "空中",
+        "蹴り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の大きな人物が片拳を高く振り上げ、眉を寄せて怒った表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17796",
+      "name": {
+        "ja": "拳を振り上げて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "拳",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が大きな盾を前方へ振り、迫る攻撃を打ち返している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17797",
+      "name": {
+        "ja": "盾で打ち返す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盾",
+        "打撃",
+        "対決"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服で盾を持つ人物と赤と黄色の装甲の人物が、並んで前方へ突進している。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17798",
+      "name": {
+        "ja": "二人で突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "装甲",
+        "突進"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1063",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

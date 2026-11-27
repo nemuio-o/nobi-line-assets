@@ -1,0 +1,1129 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "金髪の女性が両手を胸元で合わせ、周囲にハートを浮かべながら嬉しそうに笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17511",
+      "name": {
+        "ja": "手を合わせて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "手を合わせる",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が両手を口元に添え、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "17512",
+      "name": {
+        "ja": "口元を覆って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "ピンクのリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が目を見開き、口元から青い流れのようなものを吹き出している。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17513",
+      "name": {
+        "ja": "青いものを吹き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "青いしぶき",
+        "吹き出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が両腕を上げて体を弾ませ、周囲にきらめきや赤い動き線が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17514",
+      "name": {
+        "ja": "腕を上げて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ダンス",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が大きなピンク色の帽子をかぶり、片手を顔の近くに上げてポーズを取っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17515",
+      "name": {
+        "ja": "ピンクの帽子でポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ピンクの帽子",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が身をかがめて腕を広げ、背後にオレンジ色の縞模様の姿が見えている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "17516",
+      "name": {
+        "ja": "身をかがめて動く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "かがむ",
+        "オレンジ色の姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性と赤い髪の人物が寄り添い、二人の前にピンク色のハートを抱えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17517",
+      "name": {
+        "ja": "二人でハートを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハート",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が赤いハートを抱え、片足を上げて勢いよく動いている。"
+      },
+      "emotion": [
+        "love",
+        "excitement"
+      ],
+      "id": "17518",
+      "name": {
+        "ja": "ハートを持って跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤いハート",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が床に座り、ピンク色の大きなLの形に寄り添っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17519",
+      "name": {
+        "ja": "大きなLのそばに座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "大きな文字",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性がピンク色の大きなOの形に体を丸めて抱きついている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17520",
+      "name": {
+        "ja": "大きなOに抱きつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "大きな文字",
+        "抱きつく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が横たわり、ピンク色の大きなVの形に寄り添っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17521",
+      "name": {
+        "ja": "大きなVのそばで寝そべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "大きな文字",
+        "寝そべる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が横たわり、ピンク色の大きなEの形に手を添えている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17522",
+      "name": {
+        "ja": "大きなEに寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "大きな文字",
+        "寝そべる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い角張った姿のキャラクターが、青い台のようなものの上に座り込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "17523",
+      "name": {
+        "ja": "青い姿で座り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い姿",
+        "座り込む",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が先の尖った帽子をかぶり、オレンジ色の小物を持って赤い靴で跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17524",
+      "name": {
+        "ja": "帽子をかぶって跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "帽子",
+        "跳ねる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が赤と黄色の渦のような形の中で体を丸め、周囲に勢いのある線が描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "17525",
+      "name": {
+        "ja": "渦の中で回る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤い渦",
+        "回転"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔のある大きな赤いハートの形が、周囲に衝撃線を出して弾けている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "17526",
+      "name": {
+        "ja": "赤いハートが弾ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いハート",
+        "顔",
+        "衝撃線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が両手を顔の近くに置き、青い涙を流して泣いている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "17527",
+      "name": {
+        "ja": "青い涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "涙",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が両腕を広げ、たくさんのピンク色のハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17528",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ハート",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が大きな灰色の毛の姿を抱きしめ、そばに小さな紫色の姿も描かれている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "17529",
+      "name": {
+        "ja": "大きな毛の姿を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "灰色の毛",
+        "抱きしめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性と黒髪の人物が並び、女性が赤い服で笑顔を見せている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "17530",
+      "name": {
+        "ja": "二人で感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "笑顔",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性と黒髪の人物が体を寄せて抱き合い、周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17531",
+      "name": {
+        "ja": "二人で抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱き合う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性と黒髪の人物が並んで歩き、周囲に小さなハートが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "17532",
+      "name": {
+        "ja": "二人で歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "歩く",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が青い模様の毛布にくるまれて横たわり、そばに小さな紫色の姿がいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "17533",
+      "name": {
+        "ja": "毛布で横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "毛布",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性がピンク色の服を広げて走り、赤い丸いものを手にしている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "17534",
+      "name": {
+        "ja": "ピンクの服で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "走る",
+        "赤いボール"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が花のそばで身をかがめ、両手を広げて誰かを探すような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "17535",
+      "name": {
+        "ja": "花のそばで呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "花",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が黄色い浴槽に入り、泡やハートに囲まれてくつろいでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17536",
+      "name": {
+        "ja": "浴槽でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "浴槽",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が大きな傘を差し、ピンク色の服を着て雨の中に立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "17537",
+      "name": {
+        "ja": "傘を差して立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "傘",
+        "雨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性と黒髪の人物が赤い傘の下で寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "17538",
+      "name": {
+        "ja": "赤い傘で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "赤い傘",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性がピンク色の服で立ち、そばの小さな紫色の姿に向かって手を差し出している。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17539",
+      "name": {
+        "ja": "小さな姿に手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ピンクの服",
+        "紫色の姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性がピンク色の服で床に座り、体を横に向けて振り返っている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "17540",
+      "name": {
+        "ja": "座って振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "座る",
+        "ピンクの服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が黄色と黒の服で体を大きく動かし、両腕を上げて踊っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "17541",
+      "name": {
+        "ja": "勢いよく踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ダンス",
+        "黄色と黒"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が小さな紫色の姿を後ろから押すようにして、前へ急がせている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17542",
+      "name": {
+        "ja": "小さな姿を急かす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "紫色の姿",
+        "急ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな紫色の姿が横たわり、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "17543",
+      "name": {
+        "ja": "紫色の姿が横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の姿",
+        "横になる",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が小さな紫色の姿に体を向け、片手を伸ばしている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "17544",
+      "name": {
+        "ja": "小さな姿に手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "紫色の姿",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性がピンク色の服で両手を高く上げ、笑顔で喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17545",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "両手",
+        "ピンクの服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性がピンク色の服で座り、片手を膝に置いてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "17546",
+      "name": {
+        "ja": "うつむいて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "座る",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性と黒髪の人物が赤い乗り物に乗り、周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17547",
+      "name": {
+        "ja": "赤い乗り物に乗る二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "赤い乗り物",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が模様のある毛布の中から顔を出し、片手を上げている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "17548",
+      "name": {
+        "ja": "毛布の中で助けを求める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "毛布",
+        "助けを求める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が赤い服を着て頬に手を添え、周囲にピンク色のハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17549",
+      "name": {
+        "ja": "手を頬に添えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤い服",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が小さな紫色の姿を抱えるように寄せ、周囲にハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17550",
+      "name": {
+        "ja": "紫色の姿と寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "紫色の姿",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1049",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

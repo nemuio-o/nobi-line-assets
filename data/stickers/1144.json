@@ -1,0 +1,1134 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白いウサギが片手を上げて笑い、周囲に色とりどりの音符が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19447",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "音符とともに挨拶するウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "挨拶",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが片足を上げて跳ねるように立ち、周囲に星やハートが輝いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19448",
+      "name": {
+        "ja": "跳ねて喜ぶウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "ジャンプ",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のネコが前足を胸元に寄せて座り、周囲に色の違うハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19449",
+      "name": {
+        "ja": "ハートに囲まれたネコ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ネコ",
+        "ハート",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな青いリボンを頭につけた白いウサギが、花やハートに囲まれて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "19450",
+      "name": {
+        "ja": "リボンをつけて笑うウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "リボン",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギ、灰色のネコ、青い服の動物、黄色い小さな動物が寄り添って並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "19451",
+      "name": {
+        "ja": "仲間と並ぶ動物たち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "ネコ",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが目を閉じ、両手を頬に添えて頬を赤らめている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19452",
+      "name": {
+        "ja": "頬を赤らめるウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "照れ",
+        "赤面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが目を閉じて笑い、背後から黄色い光線が放射状に広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19453",
+      "name": {
+        "ja": "光を放って笑うウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "笑顔",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが耳を立て、両手を前に出して勢いよく走っているように描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19454",
+      "name": {
+        "ja": "驚いて走るウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "走る",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが胸元で赤いハートを抱えるようにして、口を開けて笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19455",
+      "name": {
+        "ja": "ハートを抱えて笑うウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギと灰色のネコが、ろうそくの立ったカラフルなケーキのそばに並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19456",
+      "name": {
+        "ja": "ケーキとネコを祝うウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "ネコ",
+        "ケーキ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが両手を広げて笑い、周囲に星形のきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19457",
+      "name": {
+        "ja": "きらめきの中で笑うウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "笑顔",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のカエルが立ち、周囲をピンクや黄色、青色の音符が取り囲んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19458",
+      "name": {
+        "ja": "音楽に乗るカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "音符",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな白いウサギが両手を上げ、背後に大きなひまわりときらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "19459",
+      "name": {
+        "ja": "ひまわりのそばで喜ぶウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "ひまわり",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが頬を赤らめて目を閉じ、口元に手を添えて笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19460",
+      "name": {
+        "ja": "照れながら笑うウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "照れ",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが片手を上げて笑い、周囲に星形の飾りと大きな色文字が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19461",
+      "name": {
+        "ja": "星と文字を掲げるウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "星",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが目を閉じ、両目から大粒の涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "19462",
+      "name": {
+        "ja": "泣くウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "涙",
+        "悲しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが眉を下げて立ち、頭の両側に小さな疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "19463",
+      "name": {
+        "ja": "困った顔のウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "困惑",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギがカラフルな輪の中を走るように描かれ、長い耳と体が動きで揺れている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "19464",
+      "name": {
+        "ja": "輪の中を走るウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "走る",
+        "輪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のネコが首をかしげて前足を上げ、頭上に疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "19465",
+      "name": {
+        "ja": "首をかしげるネコ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ネコ",
+        "疑問符",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが目を閉じて笑い、片側から黄色い光が差し込んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19466",
+      "name": {
+        "ja": "光の中で笑うウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "笑顔",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い帽子をかぶった灰色のネコが、赤い鍋を持って料理をしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19467",
+      "name": {
+        "ja": "料理をするネコ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ネコ",
+        "料理",
+        "鍋"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物が頭を下げ、両側に汗のような線を浮かべている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "19468",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "うつむいて謝る動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "うつむく",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のカエルが青い光の中に座り、周囲に小さな星のきらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "19469",
+      "name": {
+        "ja": "光の中のカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "光",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが両手を広げて笑い、背後に黄色い放射線と星が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19470",
+      "name": {
+        "ja": "両手を広げて喜ぶウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物が手足を上げて倒れ、腹部に青い丸模様が見えている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19471",
+      "name": {
+        "ja": "驚いて転ぶ動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "驚き",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のネコと白いウサギが顔を寄せて並び、周囲に黄色い花が咲いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19472",
+      "name": {
+        "ja": "花に囲まれて寄り添う二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "ネコ",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い模様のある白い動物が、体を丸めて横たわっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "19473",
+      "name": {
+        "ja": "横たわる動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "休む",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが青い物陰から顔を出し、片手を添えて様子をうかがっている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "19474",
+      "name": {
+        "ja": "物陰から顔を出すウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "覗く",
+        "物陰"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが両手を上げ、目を閉じて元気よく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19475",
+      "name": {
+        "ja": "元気に笑うウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "笑顔",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のカエルが口を開けて立ち、周囲を灰色の煙のような雲が取り囲んでいる。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "19476",
+      "name": {
+        "ja": "煙の中のカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "煙",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のウサギが目を閉じ、頭を垂れて眠そうに立っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "19477",
+      "name": {
+        "ja": "眠る茶色のウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "眠る",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが逆さまの姿勢でぶら下がり、左右に疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "19478",
+      "name": {
+        "ja": "逆さまに考えるウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "逆さま",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが雨の中で立ち、目を閉じて涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "19479",
+      "name": {
+        "ja": "雨の中で泣くウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "雨",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のネコが雨の線の下で体を丸め、両前足を抱えてうずくまっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19480",
+      "name": {
+        "ja": "雨の中でうずくまるネコ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ネコ",
+        "雨",
+        "うずくまる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔の周りを赤や黄色の水玉模様で覆った動物が、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19481",
+      "name": {
+        "ja": "水玉模様の中で笑う動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "水玉",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが床に座り、そばにブラシや容器、掃除道具が置かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "19482",
+      "name": {
+        "ja": "掃除道具と並ぶウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "掃除",
+        "道具"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小さな茶色い動物が、緑と白の縞模様の布団から顔を出して眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "19483",
+      "name": {
+        "ja": "布団で眠る二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ネコ",
+        "眠る",
+        "布団"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが茶色と黄色の帽子を頭にかぶり、笑顔で立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19484",
+      "name": {
+        "ja": "帽子をかぶるウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "帽子",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い形の一部だけが水たまりのような青と黄色の地面から見え、上に白い吹き出し状の雲がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "19485",
+      "name": {
+        "ja": "水たまりに隠れる動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水たまり",
+        "隠れる",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが緑の葉と白い花びらに囲まれ、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "19486",
+      "name": {
+        "ja": "花の中で笑うウサギ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウサギ",
+        "花",
+        "笑顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1144",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

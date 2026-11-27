@@ -1,0 +1,1113 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒い服の人物が床に座り、赤いグローブを顔の前に持っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "19039",
+      "name": {
+        "ja": "座って赤いグローブを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "グローブ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに飛ぶような姿勢で描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "19040",
+      "name": {
+        "ja": "横向きに飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ぶ",
+        "動き",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が左右に荷物を抱えて立っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "19041",
+      "name": {
+        "ja": "荷物を抱えて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を握りしめて胸の前に上げ、目を見開いて明るく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19042",
+      "name": {
+        "ja": "拳を握って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "喜び",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が膝を抱えるようにして床に座り、身を縮めてうつむいている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "19043",
+      "name": {
+        "ja": "身を縮めて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "身を縮める",
+        "不安"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が赤いヘルメットをかぶり、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19044",
+      "name": {
+        "ja": "赤いヘルメットで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ヘルメット",
+        "立つ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を強く握り、顔を下げて険しい表情を浮かべている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "19045",
+      "name": {
+        "ja": "拳を握ってうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "うつむく",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が身をかがめ、頭を下げている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "19046",
+      "name": {
+        "ja": "身をかがめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "身をかがめる",
+        "うつむく",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに横たわり、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "19047",
+      "name": {
+        "ja": "横になって目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "目を閉じる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白い服を着て、両手の拳を前に構えながら険しい顔をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19048",
+      "name": {
+        "ja": "拳を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "構える",
+        "格闘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が赤いグローブをつけ、向かい合って打ち合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19049",
+      "name": {
+        "ja": "二人でボクシングをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ボクシング",
+        "グローブ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が背を向け、片手を上げながら歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19050",
+      "name": {
+        "ja": "背を向けて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "背中",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、口を大きく開けて正面に向かって叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "19051",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "口を開く",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が集まり、互いに拳を突き出して激しく動いている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "19052",
+      "name": {
+        "ja": "大勢で拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "拳",
+        "突進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が赤い手袋をつけ、互いに激しく打ち合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19053",
+      "name": {
+        "ja": "激しく打ち合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "格闘",
+        "打ち合い",
+        "複数人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を高く突き上げ、全身で喜びを表している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19054",
+      "name": {
+        "ja": "両手を高く突き上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "喜び",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、赤い手袋の拳を前に出して構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19055",
+      "name": {
+        "ja": "二人で拳を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "拳",
+        "対峙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が椅子に座り、片手の拳を顔の横に上げて険しい表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "19056",
+      "name": {
+        "ja": "拳を握って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "拳",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が歯をむき出しにして食いしばり、力の入った表情を見せている。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "19057",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯",
+        "食いしばる",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、頬に汗を浮かべながら首元に手を添えて困ったようにしている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "19058",
+      "name": {
+        "ja": "汗をぬぐって困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困る",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が顔を近づけ、互いに険しい表情でにらみ合っている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "19059",
+      "name": {
+        "ja": "顔を近づけてにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "にらむ",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、口を大きく開けて声を上げるように笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19060",
+      "name": {
+        "ja": "大笑いする二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "大笑い",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上着を着た人物が顔を下げ、片手を強く握っている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "19061",
+      "name": {
+        "ja": "拳を握ってうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "うつむく",
+        "上着"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉をひそめて歯を食いしばり、頭の周囲に赤い炎のような表現が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19062",
+      "name": {
+        "ja": "怒りで顔を赤くする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "赤い顔",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、一方がもう一方を勢いよく突き飛ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "19063",
+      "name": {
+        "ja": "突き飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "突き飛ばす",
+        "衝突"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片足を高く振り上げ、相手に向かって蹴りを繰り出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19064",
+      "name": {
+        "ja": "足を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蹴る",
+        "足",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が拳を前に突き出し、口を大きく開けている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19065",
+      "name": {
+        "ja": "拳を突き出して叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "叫ぶ",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉を寄せた真剣な表情を見せている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19066",
+      "name": {
+        "ja": "真剣な顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "真剣",
+        "顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が汗を浮かべ、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "19067",
+      "name": {
+        "ja": "汗をかいて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "汗",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を大きく広げ、体を反らして驚いたように浮き上がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19068",
+      "name": {
+        "ja": "驚いて手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "転ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横顔を見せ、目を閉じた表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19069",
+      "name": {
+        "ja": "横顔で目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "目を閉じる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "19070",
+      "name": {
+        "ja": "二人の人物が並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が横顔を見せ、落ち着いた表情で前方を見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19071",
+      "name": {
+        "ja": "横顔で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "見つめる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頬に手を当て、目を閉じて物思いにふけるような表情をしている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "19072",
+      "name": {
+        "ja": "頬に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "手",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ひげのある人物が眉をひそめ、正面を険しい表情で見つめている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "19073",
+      "name": {
+        "ja": "険しい顔で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "険しい顔",
+        "見つめる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がうつ伏せになり、頭の上に料理の器を思い浮かべるような姿で横たわっている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "19074",
+      "name": {
+        "ja": "うつ伏せで食事を思う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつ伏せ",
+        "食事",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に座り込み、膝を抱えてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19075",
+      "name": {
+        "ja": "座り込んでうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座り込む",
+        "うつむく",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉を寄せて険しい表情を見せている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19076",
+      "name": {
+        "ja": "険しい顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "険しい顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が麺料理の器を手に持ち、カウンター越しに差し出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19077",
+      "name": {
+        "ja": "麺料理を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "麺料理",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を高く上げ、口を開けて勢いよく喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19078",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "喜び",
+        "人物"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1129",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
