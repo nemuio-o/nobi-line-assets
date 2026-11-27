@@ -1,0 +1,1119 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒い猫が座り、周囲にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14359",
+      "name": {
+        "ja": "ハートに囲まれて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "ハート",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の猫が目を閉じて笑い、頭上に大きなピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "14360",
+      "name": {
+        "ja": "ハートの下で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色猫",
+        "笑顔",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が座り、黄色い渦模様のような目を輝かせている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14361",
+      "name": {
+        "ja": "目を輝かせて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "輝く目",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と灰色の二匹の猫が寄り添って横になり、周囲に眠りを示す記号が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "14362",
+      "name": {
+        "ja": "寄り添って眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二匹",
+        "眠る",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の猫が横になり、前足を伸ばして休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "14363",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色猫",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が片足を上げ、周囲に揺れを示す線を出している。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14364",
+      "name": {
+        "ja": "驚いて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "驚き",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の猫が座り、片方の前足を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14365",
+      "name": {
+        "ja": "手を上げて挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶トラ",
+        "手を上げる",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が目を閉じ、正面を向いてたたずんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "14366",
+      "name": {
+        "ja": "目を閉じてたたずむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "目を閉じる",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が座り、周囲に黄色い光ときらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14367",
+      "name": {
+        "ja": "輝きの中で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "座る",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の猫が座り、頬を赤らめたような表情で前足を合わせている。頭上にピンク色のハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14368",
+      "name": {
+        "ja": "照れて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色猫",
+        "照れ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫がうつ伏せになり、上に縦の線が並んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "14369",
+      "name": {
+        "ja": "うつ伏せで落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "うつ伏せ",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "段ボール箱の中から黒い猫と茶色い猫が顔を出している。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "14370",
+      "name": {
+        "ja": "箱から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "段ボール箱",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が前足を伸ばし、背中を反らしている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "14371",
+      "name": {
+        "ja": "伸びをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "伸び",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が体を丸めて跳び上がり、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "14372",
+      "name": {
+        "ja": "飛び跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "ジャンプ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の猫が座り、前足をそろえている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14373",
+      "name": {
+        "ja": "静かに座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色猫",
+        "座る",
+        "静か"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が目を細めて座り、横に赤い怒りの記号が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "14374",
+      "name": {
+        "ja": "怒ってにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "怒り",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の猫がフォークとスプーンを両手に持ち、目を見開いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14375",
+      "name": {
+        "ja": "食器を持って驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶トラ",
+        "フォーク",
+        "スプーン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が食べ物の置かれた卓の前に座り、横に黄色い飲み物の入ったジョッキがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14376",
+      "name": {
+        "ja": "食卓を囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "食事",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が青い取っ手付きの容器のそばに立ち、前足をかけている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14377",
+      "name": {
+        "ja": "容器を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "青い容器",
+        "運ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "まだら模様の猫が体を低くして走り、後ろに小さな点が続いている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "14378",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "まだら猫",
+        "走る",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が正面を向き、両目がピンク色のハートになっている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14379",
+      "name": {
+        "ja": "ハートの目で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "ハートの目",
+        "好意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が仰向けに転がり、前足を上げている。周囲に花びらが舞っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14380",
+      "name": {
+        "ja": "転がってじゃれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白猫",
+        "転がる",
+        "遊ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が座り、頭の横に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14381",
+      "name": {
+        "ja": "きらめきとともに座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "座る",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "毛の長い猫が身をかがめ、頭上に電球の絵が浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "14382",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "電球",
+        "ひらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の猫がうつむいて立ち、頭の上に黒い渦状の線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "14383",
+      "name": {
+        "ja": "うつむいて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色猫",
+        "うつむく",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が頭を下げ、両前足を体の前でそろえている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14384",
+      "name": {
+        "ja": "頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "お辞儀",
+        "謝意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の猫が首をかしげ、頭の横に紫色の疑問符がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14385",
+      "name": {
+        "ja": "疑問に首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶トラ",
+        "疑問",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が青い容器の中に入り、白い紙のようなものを手にしている。横に音符が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "14386",
+      "name": {
+        "ja": "容器の中で作業する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "青い容器",
+        "紙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫と白い猫が箱入りのプレゼントを囲み、上に確実に読める英字で「Happy Birthday」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14387",
+      "name": {
+        "ja": "誕生日を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "誕生日",
+        "プレゼント",
+        "二匹"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫と白い猫が一緒にかごに入り、寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "14388",
+      "name": {
+        "ja": "かごに入って寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "白猫",
+        "かご"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が枠のようなものの上から顔を出し、周囲に青い疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "14389",
+      "name": {
+        "ja": "窓からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "窓",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が走り、周囲に白い紙のようなものが散らばっている。"
+      },
+      "emotion": [
+        "excitement",
+        "fear"
+      ],
+      "id": "14390",
+      "name": {
+        "ja": "紙を散らして走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "走る",
+        "紙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が複数の白い紙のようなものを抱え、横に確実に読める「!!」が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14391",
+      "name": {
+        "ja": "紙を抱えて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "紙",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が体を浮かせたような姿勢で横たわり、周囲に青い煙のような線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14392",
+      "name": {
+        "ja": "浮かんで驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白猫",
+        "浮く",
+        "青い煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が立ち、頭や体の周囲に汗のような滴が描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "14393",
+      "name": {
+        "ja": "汗をかいて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "汗",
+        "緊張"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が片方の前足を上げ、上に確実に読める英字で「Bye Bye」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14394",
+      "name": {
+        "ja": "手を振って別れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "手を振る",
+        "別れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が背を向け、しっぽを立てて歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14395",
+      "name": {
+        "ja": "背を向けて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "後ろ姿",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が横向きに歩き、両目が黄色い星のように輝いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14396",
+      "name": {
+        "ja": "目を輝かせて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "星の目",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が、別の猫が入っている大きなかごの縁に前足をかけている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "14397",
+      "name": {
+        "ja": "かごに入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "かご",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が大きな白い扇形のものの後ろに隠れ、顔と前足だけを見せている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "14398",
+      "name": {
+        "ja": "大きな紙の後ろに隠れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "隠れる",
+        "大きな紙"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "926",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

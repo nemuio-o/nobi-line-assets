@@ -1,0 +1,1120 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑のチェック柄の服を着た人物が、手袋をした手を胸元に上げて歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14599",
+      "name": {
+        "ja": "手を胸元に上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手袋",
+        "チェック柄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が湯船につかり、桶から湯気が立つ中でくつろいでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14600",
+      "name": {
+        "ja": "湯船でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "湯船",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に座り、膝を立てて前を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14601",
+      "name": {
+        "ja": "床に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "床",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が紙を両手で持ち、目を落として読んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14602",
+      "name": {
+        "ja": "紙を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "読む",
+        "紙",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正座し、両手を前に置いてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "14603",
+      "name": {
+        "ja": "正座してうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正座",
+        "うつむく",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のチェック柄の服を着た人物が胸に手を当て、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14604",
+      "name": {
+        "ja": "胸に手を当てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "胸",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が顎に手を当て、考え込むように横を向いている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "14605",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "顎",
+        "沈黙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のチェック柄の服を着た人物が、汗を浮かべながら歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14606",
+      "name": {
+        "ja": "汗をかいて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "汗",
+        "チェック柄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔の周囲に汗が見え、画像内に「ざわ…」の文字が複数描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "14607",
+      "name": {
+        "ja": "ざわめく顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ざわめき",
+        "汗",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、片方がもう片方の肩に手を置きながら驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14608",
+      "name": {
+        "ja": "二人で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を曲げ、両手を前で合わせながら身をよじっている。"
+      },
+      "emotion": [
+        "fear",
+        "disgust"
+      ],
+      "id": "14609",
+      "name": {
+        "ja": "身をよじる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "身をよじる",
+        "苦痛",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のチェック柄の服を着た人物が、汗を浮かべて口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "14610",
+      "name": {
+        "ja": "汗をかいて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "汗",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が柵の前で背を向けて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14611",
+      "name": {
+        "ja": "背を向けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "立つ",
+        "柵"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のチェック柄の服を着た人物が、汗をかきながら片腕を伸ばし、驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14612",
+      "name": {
+        "ja": "腕を伸ばして驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "手を伸ばす",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、汗を流しながら怯えた表情をしている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "14613",
+      "name": {
+        "ja": "汗をかいて怯える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "恐怖",
+        "汗",
+        "怯える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を高く上げ、口を開けて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14614",
+      "name": {
+        "ja": "両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "万歳",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横向きの人物の周囲に、明瞭な「ざわ…」の文字が複数描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "14615",
+      "name": {
+        "ja": "ざわめきを見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ざわめき",
+        "横顔",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がほうきで地面を掃き、そばに紫色のごみ袋が置かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14616",
+      "name": {
+        "ja": "掃除をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除",
+        "ほうき",
+        "ごみ袋"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で頭を抱え、汗を浮かべている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "14617",
+      "name": {
+        "ja": "頭を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭",
+        "両手",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が木の壁のような場所から身を乗り出し、片腕を伸ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "14618",
+      "name": {
+        "ja": "壁から身を乗り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "壁",
+        "身を乗り出す",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がグラスを口元に持ち、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14619",
+      "name": {
+        "ja": "グラスを持って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "笑顔",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向き、落ち着いた表情で見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14620",
+      "name": {
+        "ja": "正面を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "見つめる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が机の前に座り、両手を机の上に置いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "14621",
+      "name": {
+        "ja": "机に向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "座る",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い背景に「そわ…」の文字が複数並んでいる。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "14622",
+      "name": {
+        "ja": "そわめく文字"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "そわめき",
+        "文字",
+        "不安"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んで歩き、片方がもう片方を支えている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14623",
+      "name": {
+        "ja": "二人で歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "歩く",
+        "支える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を上げ、頭の横に赤い「？」が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "14624",
+      "name": {
+        "ja": "疑問を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "クエスチョン",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、汗を浮かべて大きく口を開いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14625",
+      "name": {
+        "ja": "大きく口を開く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "驚き",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がうつむき気味に目を細め、汗を浮かべて困った表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "14626",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困惑",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が額に手を当て、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "14627",
+      "name": {
+        "ja": "額に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "額",
+        "手",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が汗を浮かべ、体の周囲に黒い揺れのような線と「ざわ…」の文字が描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "14628",
+      "name": {
+        "ja": "ざわめきに震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ざわめき",
+        "震え",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のチェック柄の服を着た人物が、床に手をついて伏せている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "14629",
+      "name": {
+        "ja": "床に伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "伏せる",
+        "床",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "前の人物の背後から、別の人物が肩に手を置いている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "14630",
+      "name": {
+        "ja": "背後から肩をつかむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩",
+        "背後"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸い枠の中で、人物が汗を浮かべて不安そうな表情をしている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "14631",
+      "name": {
+        "ja": "不安そうな顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "不安",
+        "顔",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い背景に「ざわ…」の文字が複数並んでいる。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "14632",
+      "name": {
+        "ja": "ざわめく文字列"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ざわめき",
+        "文字",
+        "不安"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、片方がもう片方の肩を抱いている。周囲に赤いハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14633",
+      "name": {
+        "ja": "肩を抱かれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩を抱く",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横たわる人物のそばに、別の人物が座って見守っている。周囲に花が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "14634",
+      "name": {
+        "ja": "横たわる人物を見守る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "横たわる",
+        "見守る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が横並びになり、上部に「ざわ…」の文字が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "14635",
+      "name": {
+        "ja": "三人でざわめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "ざわめき",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が歯を見せ、不敵な表情で笑っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "14636",
+      "name": {
+        "ja": "不敵に笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "歯",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を合わせ、歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14637",
+      "name": {
+        "ja": "手を合わせて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を合わせる",
+        "笑顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が、目を細めて満面の笑みを浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14638",
+      "name": {
+        "ja": "満面の笑み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "満面",
+        "人物"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "935",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

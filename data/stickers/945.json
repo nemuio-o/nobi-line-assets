@@ -1,0 +1,1107 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物が片手を口元に添え、もう一方の手を前に伸ばして呼びかけるようにしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14783",
+      "name": {
+        "ja": "手招きする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手招き",
+        "笑顔",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手の親指を立て、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14784",
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の人差し指を横に向けて差し、口を開けている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14785",
+      "name": {
+        "ja": "指を差す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "ポーズ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が人差し指を立て、頭上の空白の吹き出しを見上げている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14786",
+      "name": {
+        "ja": "指を立てて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "考える",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を大きく上げて手を振っている。上部に青い文字の吹き出しが見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14787",
+      "name": {
+        "ja": "手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "笑顔",
+        "青い吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片足を上げ、両手を広げて歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14788",
+      "name": {
+        "ja": "両手を広げて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "両手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔が大きく描かれ、目を閉じて笑いながら片手を添えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14789",
+      "name": {
+        "ja": "挨拶する顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "挨拶",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が顔を横に向け、眉を寄せて口を結んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "14790",
+      "name": {
+        "ja": "顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "しかめ顔",
+        "不機嫌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開け、目を細めて笑っている。周囲に小さな記号がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14791",
+      "name": {
+        "ja": "声を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "顔",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を広げ、周囲に星とカラフルな文字が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14792",
+      "name": {
+        "ja": "両手を広げて祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祝福",
+        "両手",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が座った姿勢で目を閉じて眠っており、そばに月と星が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14793",
+      "name": {
+        "ja": "座って眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "座る",
+        "月"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を曲げて拳を上げ、口を開けている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14794",
+      "name": {
+        "ja": "力強く肯定する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肯定",
+        "拳",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が親指を立て、首からメダルのようなものを下げている。上部に明るい文字が見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14795",
+      "name": {
+        "ja": "親指で確認する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "確認",
+        "親指",
+        "メダル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物があごに手を当て、頭上の青い疑問符を見ている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14796",
+      "name": {
+        "ja": "あごに手を当てて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "あご",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて顔をしかめ、頭上に黒い渦状の記号がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14797",
+      "name": {
+        "ja": "困った顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困惑",
+        "顔",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開けて笑い、片側に黄色い小物をくわえている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14798",
+      "name": {
+        "ja": "大声で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "口を開ける",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を開けて驚き、周囲に青い揺れのような線が描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "14799",
+      "name": {
+        "ja": "震えて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震え",
+        "驚き",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、涙を流しながら口を開けている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14800",
+      "name": {
+        "ja": "涙を流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "悲しみ",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色いパイプをくわえ、上方に白い煙が出ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14801",
+      "name": {
+        "ja": "パイプをくわえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パイプ",
+        "煙",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を上げて飛び上がり、周囲に動きを示す線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "14802",
+      "name": {
+        "ja": "飛び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "両手",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が親指を立て、周囲に黄色い文字と小さな光の記号が見える。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "14803",
+      "name": {
+        "ja": "親指を立てて感謝する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "親指",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が緑色の飲み物が入った容器を両手で掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14804",
+      "name": {
+        "ja": "飲み物を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "両手",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で黒い重りを持ち上げ、力を込めている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14805",
+      "name": {
+        "ja": "重りを持ち上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "筋力",
+        "重り",
+        "持ち上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が拳を振り下ろし、白い物体に当てている。周囲に赤い文字と動きの線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "14806",
+      "name": {
+        "ja": "物を打つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "打つ",
+        "拳",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を前に突き出して制止するようなポーズを取っている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "14807",
+      "name": {
+        "ja": "手で制止する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "制止",
+        "手",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を曲げて力こぶを見せるように立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14808",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "立つ",
+        "力強い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔が大きく描かれ、目を閉じて口を開けて笑っている。周囲に黒い文字が見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14809",
+      "name": {
+        "ja": "笑い転げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "顔",
+        "大笑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きなボトルを口に当てて飲んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14810",
+      "name": {
+        "ja": "ボトルを飲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲む",
+        "ボトル",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が前傾姿勢で走り、後ろに白い動きの煙が出ている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14811",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "動き",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腹部を両手で抱え、口を開けて笑っている。周囲に緑色の笑いを示す文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14812",
+      "name": {
+        "ja": "お腹を抱えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "お腹",
+        "大笑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両拳を上げ、上部にオレンジ色の文字が見える。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "14813",
+      "name": {
+        "ja": "拳を突き上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "呼びかけ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を前に出して拒否するようなポーズを取っている。周囲に黒い文字が見える。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "14814",
+      "name": {
+        "ja": "両手で拒否する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "両手",
+        "制止"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性の顔が大きく描かれ、目を閉じて穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "14815",
+      "name": {
+        "ja": "目を閉じて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "微笑み",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を閉じて笑い、周囲に黄色い光と星が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14816",
+      "name": {
+        "ja": "明るく笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手を広げ、口を開けている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14817",
+      "name": {
+        "ja": "両手を広げる女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "両手",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が胸の前で両手を合わせ、周囲に色とりどりの小さな記号がある。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "14818",
+      "name": {
+        "ja": "手を合わせる女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "手を合わせる",
+        "祈り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手を胸元に添え、目を閉じて微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14819",
+      "name": {
+        "ja": "両手を添えて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "微笑み",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手を上げ、片足を曲げて跳び上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "14820",
+      "name": {
+        "ja": "飛び跳ねる女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ジャンプ",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "角のような形のある人物が、赤いハートに囲まれ、中央に大きなハートの図形がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14821",
+      "name": {
+        "ja": "ハートに囲まれる人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "愛情",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が床に座り、体を横に向けて振り返っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14822",
+      "name": {
+        "ja": "振り返って座る女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "座る",
+        "振り返る"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "945",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

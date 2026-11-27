@@ -1,0 +1,1089 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "リンゴを食べ終えたような小動物が、芯を前にして顔を出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15127",
+      "name": {
+        "ja": "リンゴの芯とHello"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "りんご",
+        "Hello",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が向かい合い、足元に花を並べている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15128",
+      "name": {
+        "ja": "向かい合う二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二匹",
+        "向かい合う",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が手を振りながら笑い、そばに「BYE BYE」と書かれている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "15129",
+      "name": {
+        "ja": "Bye Byeと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Bye Bye",
+        "手を振る",
+        "別れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が一本の花を持ち、座った姿で差し出している。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15130",
+      "name": {
+        "ja": "花を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "贈る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が片方の拳を高く突き上げ、もう片方の手を握っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15131",
+      "name": {
+        "ja": "拳を突き上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "喜び",
+        "ガッツポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が両手を広げ、上に「OK」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15132",
+      "name": {
+        "ja": "OKポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "ポーズ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が腕を組み、上に「NO!」と表示されている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15133",
+      "name": {
+        "ja": "NOと拒む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が並んで踊るように足を上げ、上に「Thank you!」と表示されている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "15134",
+      "name": {
+        "ja": "Thank youと踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Thank you",
+        "二匹",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が飛び跳ねるような姿で並び、上に「Yeah!」と表示されている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15135",
+      "name": {
+        "ja": "Yeahと跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Yeah",
+        "二匹",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が花に囲まれ、両手を前にして笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15136",
+      "name": {
+        "ja": "花に囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が並んで立ち、周囲に放射状の線が出ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15137",
+      "name": {
+        "ja": "並んで驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二匹",
+        "驚き",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が尻もちをついたように座り、周囲に星や渦のような線が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15138",
+      "name": {
+        "ja": "星と一緒に転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "星",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が座り、片手で前を指差しながら笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15139",
+      "name": {
+        "ja": "指を差して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "笑顔",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が振り返るように走り、そばに「!!」が表示されている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15140",
+      "name": {
+        "ja": "驚いて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "走る",
+        "!!"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が体を振り返らせ、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15141",
+      "name": {
+        "ja": "振り返って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り返る",
+        "笑顔",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が紙吹雪の中で両手を上げ、楽しそうにしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15142",
+      "name": {
+        "ja": "紙吹雪で祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙吹雪",
+        "二匹",
+        "祝う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が首をかしげるように立ち、頭上に「?」が表示されている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "15143",
+      "name": {
+        "ja": "疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "?",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が背を向けて立ち、頭を下げたような姿を見せている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "15144",
+      "name": {
+        "ja": "背を向けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "花",
+        "うつむき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が肩を寄せて並び、顔を近づけている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15145",
+      "name": {
+        "ja": "肩を寄せる二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二匹",
+        "寄り添う",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が体を水平に伸ばし、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15146",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "全身",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が眉を寄せて腕を振り上げ、足元に動きを示す線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15147",
+      "name": {
+        "ja": "怒って足を踏む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "足踏み",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が片手の指を立て、もう片方の腕を広げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15148",
+      "name": {
+        "ja": "指を立てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "笑顔",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が草のそばに立ち、頭上の吹き出しに点が並んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15149",
+      "name": {
+        "ja": "吹き出しで話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "話す",
+        "点"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が並んで踊り、周囲に音符が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15150",
+      "name": {
+        "ja": "音符と踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "二匹",
+        "ダンス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が向かい合って抱き合い、片方が笑っている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15151",
+      "name": {
+        "ja": "抱き合って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "二匹",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が手を口元に添え、投げキスをするような仕草をしている。そばに「XOXO」とハートがある。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15152",
+      "name": {
+        "ja": "XOXOを送る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "XOXO",
+        "投げキス",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が両手を頬のそばに上げ、目を輝かせてハートに囲まれている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15153",
+      "name": {
+        "ja": "ハートに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "うっとり",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が一つのカップを挟んで顔を寄せ、カップには「C」と「D」が見える。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15154",
+      "name": {
+        "ja": "カップを持つ二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カップ",
+        "二匹",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "中央の小動物が二匹の小動物から頬にキスをされ、上に「KISS」と表示されている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15155",
+      "name": {
+        "ja": "KISSされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "KISS",
+        "キス",
+        "二匹"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が木の幹に体を預け、目を閉じて休んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15156",
+      "name": {
+        "ja": "木の幹に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木",
+        "寄り添う",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が片足を上げてポーズを取り、周囲に星が散っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15157",
+      "name": {
+        "ja": "星の中でポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "ポーズ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が水の張られた器に浸かり、そばにパイナップルが置かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15158",
+      "name": {
+        "ja": "水に浸かる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水",
+        "入浴",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が大きなとうもろこしの粒の間から顔を出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15159",
+      "name": {
+        "ja": "とうもろこしに隠れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "とうもろこし",
+        "二匹",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が横たわり、腹の上に木の実を乗せて食べている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15160",
+      "name": {
+        "ja": "木の実を食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木の実",
+        "食べる",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物がひまわりの上に座り、背を向けて寄り添っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15161",
+      "name": {
+        "ja": "ひまわりの上で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひまわり",
+        "二匹",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が「Peanut Butter」と書かれた瓶の中に入り、頭上にふたを乗せている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15162",
+      "name": {
+        "ja": "ピーナッツバターの瓶に入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピーナッツバター",
+        "瓶",
+        "入る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が汗をかきながら走り、背後に太陽が描かれている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "15163",
+      "name": {
+        "ja": "汗をかいて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "走る",
+        "太陽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が葉の下で横になって眠り、上に「Z」が並んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "15164",
+      "name": {
+        "ja": "葉の下で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "葉",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小動物が大きな葉の下に立ち、頭上から水滴が落ちている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15165",
+      "name": {
+        "ja": "水滴の中で濡れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水滴",
+        "濡れる",
+        "雨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の小動物が並んで走り、上に「RUN!」と表示されている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15166",
+      "name": {
+        "ja": "RUNと走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "RUN",
+        "二匹",
+        "走る"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "957",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

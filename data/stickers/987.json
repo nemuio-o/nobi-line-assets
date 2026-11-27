@@ -1,0 +1,1112 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色い髪の人物が片手の拳を上げ、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15831",
+      "name": {
+        "ja": "拳を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "笑顔",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がベンチに座り、目を閉じて頭を下げている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "15832",
+      "name": {
+        "ja": "ベンチでうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ベンチ",
+        "うなだれる",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の指先を示し、その周りに黄色いきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15833",
+      "name": {
+        "ja": "指先をきらめかせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指先",
+        "きらめき",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を開けて驚いた表情をし、周囲に赤い驚きの記号が出ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15834",
+      "name": {
+        "ja": "驚いて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り向く",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤く光る目で立ち、全身の周囲に炎が上がっている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15835",
+      "name": {
+        "ja": "炎をまとって怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "赤い目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、口を開けて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15836",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "目を閉じる",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を広げ、周囲に淡いピンク色の泡が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15837",
+      "name": {
+        "ja": "泡に囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "泡",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を耳元に当て、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15838",
+      "name": {
+        "ja": "耳に手を当てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "耳",
+        "笑顔",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた人物が両手を広げ、頭の横に赤い疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "15839",
+      "name": {
+        "ja": "疑問を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "眼鏡",
+        "手を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が歯を見せて笑い、顔の横に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15840",
+      "name": {
+        "ja": "ハートを添えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "好意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を前に出し、大きく口を開けて叫んでいる。赤いしぶき状の表現が周囲にある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15841",
+      "name": {
+        "ja": "勢いよく叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "勢い",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の目が赤いハート形になり、背中に矢を背負っている。周囲にきらめきがある。"
+      },
+      "emotion": [
+        "love",
+        "excitement"
+      ],
+      "id": "15842",
+      "name": {
+        "ja": "矢を背負ってときめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハートの目",
+        "矢",
+        "ときめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片目を閉じ、舌を出して笑っている。頭の周囲にきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15843",
+      "name": {
+        "ja": "舌を出して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舌",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向き、片手の指をこちらへ向けている。周囲に放射状の線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15844",
+      "name": {
+        "ja": "指差して注意する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "注意",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が小さな器を持って驚き、赤い感嘆符と青いしずくが描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15845",
+      "name": {
+        "ja": "飲み物をこぼして驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "驚き",
+        "こぼす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉を寄せて口を開け、頭の周囲に黄色い放射状の表現がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15846",
+      "name": {
+        "ja": "怒りを爆発させる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "叫び",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を開けて叫び、目から青い涙が流れている。横に赤い記号がある。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "15847",
+      "name": {
+        "ja": "涙を浮かべて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "叫ぶ",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組んで立ち、眉を寄せた不機嫌そうな表情をしている。周囲に紫色のもやがある。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "15848",
+      "name": {
+        "ja": "不機嫌に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "不機嫌",
+        "腕組み",
+        "もや"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が前かがみになり、片足を踏み出して走り出している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15849",
+      "name": {
+        "ja": "駆け出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "動き",
+        "駆け出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた人物が、ハートの浮かぶ飲み物の入った器を差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "15850",
+      "name": {
+        "ja": "飲み物を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "差し出す",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が机に顔を伏せ、両腕を前に置いている。周囲に青灰色の影がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "15851",
+      "name": {
+        "ja": "机に伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "伏せる",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を下ろして立ち、眉を寄せている。口元から白い息のような表現が出ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15852",
+      "name": {
+        "ja": "怒って息を吐く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "息",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で白い札を掲げており、札には赤字で「OKAY」と見える。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15853",
+      "name": {
+        "ja": "OKAYの札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "札",
+        "OKAY",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を前へ伸ばして口を開け、目から青い涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "15854",
+      "name": {
+        "ja": "涙を流して訴える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "訴える",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が灰色の物陰から身を乗り出し、目を見開いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15855",
+      "name": {
+        "ja": "物陰から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "物陰",
+        "顔を出す",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を高く上げ、手元から青や黄色のきらめきが飛び出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15856",
+      "name": {
+        "ja": "きらめきを振りまく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "手を上げる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が灰色の面に寄りかかり、目を細めて疲れたような表情をしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "15857",
+      "name": {
+        "ja": "疲れて寄りかかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲れ",
+        "寄りかかる",
+        "無表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片足を大きく上げて蹴りを繰り出し、足元に赤い衝撃表現がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15858",
+      "name": {
+        "ja": "蹴りを繰り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蹴る",
+        "攻撃",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口から青い水を勢いよく吐き出し、両側に水しぶきが飛んでいる。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15859",
+      "name": {
+        "ja": "水を吐き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水",
+        "吐き出す",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が背を向けた姿勢で立ち、顔だけをこちらへ向けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15860",
+      "name": {
+        "ja": "背を向けて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "振り返る",
+        "視線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて立ち、頭の横に白い小さな幽霊のような形が浮かんでいる。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "15861",
+      "name": {
+        "ja": "幽霊に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "幽霊",
+        "驚き",
+        "背後"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が机に伏して眠り、横に本と飲み物のような容器が置かれている。頭の上に「Z」の記号がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "15862",
+      "name": {
+        "ja": "机で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "机",
+        "本"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で赤いハートを差し出し、穏やかに笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15863",
+      "name": {
+        "ja": "ハートを差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "差し出す",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サングラスをかけた人物が両手で指を立て、ポーズを取っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15864",
+      "name": {
+        "ja": "サングラスでポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "ポーズ",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組み、正面を向いて落ち着いた表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15865",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "立つ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を抱え、目を閉じて寒そうにしている。口元から白い息のような線が出ている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "15866",
+      "name": {
+        "ja": "寒そうに震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寒い",
+        "震え",
+        "息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が振り向き、背後から黒い棒状のものが迫っている。後ろに赤い衝撃表現がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15867",
+      "name": {
+        "ja": "背後から攻撃される"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "攻撃",
+        "背後",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頭を下げてしゃがみ込み、周囲を紫色の影のような表現が覆っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "15868",
+      "name": {
+        "ja": "落ち込んでしゃがむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しゃがむ",
+        "落ち込み",
+        "影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片足を上げて立ち、顔の横に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15869",
+      "name": {
+        "ja": "きらめいて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "立つ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向いて立ち、目を閉じた穏やかな表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15870",
+      "name": {
+        "ja": "目を閉じて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "立つ",
+        "穏やか"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "987",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

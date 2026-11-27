@@ -1,0 +1,1115 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "リボンをつけた白いキャラクターが、目を閉じて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16631",
+      "name": {
+        "ja": "目を閉じて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "立つ",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンをつけた白いキャラクターが、青い小物を両手で抱えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16632",
+      "name": {
+        "ja": "青い小物を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱える",
+        "青い小物",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を広げており、上に「THANK YOU」と読める文字がある。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "16633",
+      "name": {
+        "ja": "ありがとうを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "笑顔",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンをつけた白いキャラクターが目を閉じて笑い、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16634",
+      "name": {
+        "ja": "ハートに囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンをつけた白いキャラクターが口元に手を当て、周囲に青い汗のような滴がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "16635",
+      "name": {
+        "ja": "汗をかいて戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "戸惑い",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが横になり、周囲に黄色やピンクの花が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "16636",
+      "name": {
+        "ja": "花に囲まれて横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "花",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を細めて立ち、左右に青と紫の渦巻きがある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "16637",
+      "name": {
+        "ja": "目を細めてふらつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふらつき",
+        "目を細める",
+        "渦"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた白いキャラクターが笑い、周囲に花や音符が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16638",
+      "name": {
+        "ja": "花飾りで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "笑顔",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎ耳の帽子をかぶった白いキャラクターが、両手を頬に当てて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16639",
+      "name": {
+        "ja": "頬に手を当てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "笑顔",
+        "うさぎ耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎ耳の帽子をかぶったキャラクターが首をかしげ、周囲に疑問符や音符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "16640",
+      "name": {
+        "ja": "疑問符に首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "首をかしげる",
+        "うさぎ耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎ耳の帽子をかぶったキャラクターが、片手を口元に添えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16641",
+      "name": {
+        "ja": "口元に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "手",
+        "うさぎ耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "うさぎ耳の帽子をかぶったキャラクターが両手に黄色いポンポンを持ち、踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16642",
+      "name": {
+        "ja": "ポンポンを持って踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポンポン",
+        "踊る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い耳の帽子をかぶったキャラクターが、口を大きく開けて怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16643",
+      "name": {
+        "ja": "怒って叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "叫ぶ",
+        "黒い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い耳の帽子をかぶったキャラクターが、歯を見せて大きく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16644",
+      "name": {
+        "ja": "歯を見せて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大笑い",
+        "歯",
+        "黒い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い耳の帽子をかぶったキャラクターが無表情で立ち、青い点線の輪郭で囲まれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16645",
+      "name": {
+        "ja": "無表情で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "無表情",
+        "立つ",
+        "輪郭"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪のキャラクターが、はっきり「NO」と書かれた黄色い札を掲げている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16646",
+      "name": {
+        "ja": "NOの札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "札",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪のキャラクターが困ったような顔で立ち、頭上に空の吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "16647",
+      "name": {
+        "ja": "困った顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困る",
+        "吹き出し",
+        "青い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪のキャラクターが目を閉じて微笑み、周囲に星やきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "16648",
+      "name": {
+        "ja": "目を閉じて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "微笑み",
+        "目を閉じる",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪のキャラクターが、はっきり「OK」と書かれた黄色い札を掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16649",
+      "name": {
+        "ja": "OKの札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "札",
+        "同意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪のキャラクターが目を閉じて泣き、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "16650",
+      "name": {
+        "ja": "ハートの中で泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "ハート",
+        "ピンクの髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪のキャラクターが両手で顔を覆い、周囲に黄色い点や花がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "16651",
+      "name": {
+        "ja": "顔を覆って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を覆う",
+        "涙",
+        "ピンクの髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い犬が丸くなって眠り、頭上に青い「Z」が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "16652",
+      "name": {
+        "ja": "眠る犬"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬",
+        "睡眠",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い犬が体を伸ばして横になり、横方向の動きを示す線が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "16653",
+      "name": {
+        "ja": "勢いよく横になる犬"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬",
+        "横になる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い犬が座って見上げ、頭上に青い輪のような記号がある。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "16654",
+      "name": {
+        "ja": "犬が座って見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬",
+        "座る",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い犬が、黄色と茶色の重なった物を抱え、そばに小さな白いものがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16655",
+      "name": {
+        "ja": "重なった物を抱える犬"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬",
+        "抱える",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い犬が口を開けて走り、周囲に動きを示す線が描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "16656",
+      "name": {
+        "ja": "走る犬"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬",
+        "走る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いペンギンが両手を上げ、目を閉じている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16657",
+      "name": {
+        "ja": "両手を上げるペンギン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ペンギン",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いペンギンが背を向けて立ち、頭上に青い縦線が描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16658",
+      "name": {
+        "ja": "背を向けて立つペンギン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ペンギン",
+        "背中",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いペンギンが赤いサングラスをかけ、胸を張って立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16659",
+      "name": {
+        "ja": "サングラスで決めるペンギン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ペンギン",
+        "サングラス",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いペンギンがうつ伏せになり、体を伸ばして休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "16660",
+      "name": {
+        "ja": "うつ伏せで休むペンギン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ペンギン",
+        "うつ伏せ",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエルが舌を出して走り、周囲に動きを示す線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "16661",
+      "name": {
+        "ja": "舌を出して走るカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "走る",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエルが座り、頭の周囲に青と紫の渦巻きが描かれている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "16662",
+      "name": {
+        "ja": "渦に囲まれて座るカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "渦",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエルがうつむき、周囲に青い汗のような線が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "16663",
+      "name": {
+        "ja": "汗をかいてうつむくカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "汗",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いとげのあるキャラクターが目をつり上げ、両腕を振って怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16664",
+      "name": {
+        "ja": "腕を振って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "腕",
+        "黒いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いとげのあるキャラクターが困った顔で座り、周囲に青い汗のような滴がある。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "16665",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困る",
+        "黒いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いとげのあるキャラクターが怒った顔で立ち、体の周囲に震えを示す線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "16666",
+      "name": {
+        "ja": "身を震わせて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "震え",
+        "黒いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いとげのあるキャラクターが腕を組み、険しい表情で立っている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "16667",
+      "name": {
+        "ja": "腕を組んで構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "構える",
+        "黒いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の小さな人物が口を開けて泣き、目から涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "16668",
+      "name": {
+        "ja": "泣きながら立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の小さな人物が片手を上げ、口を開けている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "16669",
+      "name": {
+        "ja": "片手を上げて呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を上げる",
+        "呼びかけ",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の小さな人物が口を開けて笑い、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16670",
+      "name": {
+        "ja": "ハートを浮かべて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "オレンジの服"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1026",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

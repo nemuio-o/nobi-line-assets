@@ -1,0 +1,1108 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白い服の人物と茶色いクマが肩を寄せて立ち、上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "14863",
+      "name": {
+        "ja": "寄り添う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが花柄のトップスと赤白のチェック柄スカートで立ち、横にきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14864",
+      "name": {
+        "ja": "花柄スカートで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "花柄",
+        "スカート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが黄色い壁の上に座り、隣に黒い猫がいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14865",
+      "name": {
+        "ja": "壁に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "壁",
+        "黒猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンを付けたクマが、黄色いポンポンを両手に持っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14866",
+      "name": {
+        "ja": "ポンポンを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポンポン",
+        "応援",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花冠を付けたクマが両手を上げ、頭上に「OK」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14867",
+      "name": {
+        "ja": "花冠でOK"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花冠",
+        "OK",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服のクマが机の下に隠れ、上に「NO」と表示されている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14868",
+      "name": {
+        "ja": "机の下でNO"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "机の下",
+        "隠れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが両手を広げて横たわるようなポーズを取り、上に「GOOD」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14869",
+      "name": {
+        "ja": "GOODポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "GOOD",
+        "ポーズ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "チェック柄の服を着たクマと小さなクマが、手足を広げて踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14870",
+      "name": {
+        "ja": "二人で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ダンス",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "しま模様の服を着たクマが手を上げて踊り、周囲に音符が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14871",
+      "name": {
+        "ja": "音楽に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "ダンス",
+        "しま模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが赤い浮き輪の上で横になり、水しぶきのある水面に浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14872",
+      "name": {
+        "ja": "水上で遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水遊び",
+        "浮き輪",
+        "波"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが枕に顔をうずめて横になり、上に「Zzz」と表示されている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14873",
+      "name": {
+        "ja": "眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "枕",
+        "Zzz"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが両腕を上げて立ち、足元に小さな黒い人影がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14874",
+      "name": {
+        "ja": "腕を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "ポーズ",
+        "ミニチュア"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンを付けたクマが飾り付けられたテーブルの前に立ち、周囲に花や食器がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14875",
+      "name": {
+        "ja": "飾り付けのテーブル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テーブル",
+        "飾り付け",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の人物が花束を両手に持ち、足元に贈り物や箱が置かれている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "14876",
+      "name": {
+        "ja": "花束と贈り物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "贈り物",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と黄色の服のクマが片手を上げて歩き、上に「wait!」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14877",
+      "name": {
+        "ja": "手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "wait",
+        "手を振る",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の人物と花冠のクマが、食卓の器を前に座り、上に「yummy!」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14878",
+      "name": {
+        "ja": "食卓で食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "二人",
+        "yummy"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いエプロンのクマがフォークとスプーンを掲げ、テーブルの上に飲み物や料理が並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14879",
+      "name": {
+        "ja": "料理を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "食事",
+        "エプロン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い帽子をかぶったクマが、側面に「12」と書かれた赤い車に乗っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14880",
+      "name": {
+        "ja": "車で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車",
+        "走る",
+        "12"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが口を大きく開け、両目から青い涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14881",
+      "name": {
+        "ja": "泣き顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "顔",
+        "悲しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りを付けたクマが顔を伏せ、両目から大きな涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14882",
+      "name": {
+        "ja": "涙を流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "水玉",
+        "悲しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなピンクのリボンを背中に付けたクマが、後ろ向きに立っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14883",
+      "name": {
+        "ja": "後ろ姿で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "リボン",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "しま模様の服のクマと白い耳の人物が手をつなぎ、空の風船を持っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "14884",
+      "name": {
+        "ja": "手をつなぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手をつなぐ",
+        "風船"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い耳の人物と花飾りを付けたクマが手をつないで歩いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14885",
+      "name": {
+        "ja": "手をつないで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手をつなぐ",
+        "散歩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが体をひねって振り返り、周囲に動きを示す短い線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14886",
+      "name": {
+        "ja": "振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り返る",
+        "驚き",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "しま模様の服を着たクマが、眉を下げた困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "14887",
+      "name": {
+        "ja": "困った顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困惑",
+        "しま模様",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服のクマが前方へ走り、後ろに汗や動きを示す青い線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14888",
+      "name": {
+        "ja": "走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と黄色の服のクマが自転車に乗って走り、後ろに汗と動きの線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14889",
+      "name": {
+        "ja": "自転車に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "走る",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが顔を両手で隠し、後ろに水玉模様の服の人物がいる。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "14890",
+      "name": {
+        "ja": "顔を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を隠す",
+        "二人",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが机の前で頬杖をつき、頭上に疑問符が表示されている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14891",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "疑問符",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服と白い帽子の人物が、紙袋や荷物を持って走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14892",
+      "name": {
+        "ja": "荷物を持って急ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "走る",
+        "冬服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが片足を上げて軽やかに歩き、周囲にきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14893",
+      "name": {
+        "ja": "軽やかに歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "きらめき",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが薄いスカートを広げて踊り、周囲に蝶や花が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14894",
+      "name": {
+        "ja": "花の中で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "ダンス",
+        "スカート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが青い帽子をかぶって毛布にくるまり、横になって休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14895",
+      "name": {
+        "ja": "毛布で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "毛布",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と黒の服のクマが、サッカーボールを蹴って飛んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14896",
+      "name": {
+        "ja": "ボールを蹴る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サッカー",
+        "ボール",
+        "蹴る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった二人が手をつなぎ、スケート靴で滑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14897",
+      "name": {
+        "ja": "スケートをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スケート",
+        "二人",
+        "冬服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが横向きに寝そべり、黄色や紫の布を後ろへ広げている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14898",
+      "name": {
+        "ja": "布を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布",
+        "広げる",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服と赤いズボンのクマが振り返り、頭上に赤い「!?」が表示されている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "14899",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り返る",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "縞模様の服のクマが椅子に座り、赤い画面の前で筆を動かしている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "14900",
+      "name": {
+        "ja": "絵を描く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絵画",
+        "描く",
+        "筆"
+      ]
+    },
+    {
+      "description": {
+        "ja": "王冠をかぶったクマが両手を広げ、頭上に「Thank you」と表示されている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "14901",
+      "name": {
+        "ja": "Thank youを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Thank you",
+        "感謝",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "クマが黄色い包みを差し出し、縞模様のドレスの人物が隣に立っている。"
+      },
+      "emotion": [
+        "gratitude",
+        "love"
+      ],
+      "id": "14902",
+      "name": {
+        "ja": "贈り物を渡す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "二人",
+        "ドレス"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "947",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

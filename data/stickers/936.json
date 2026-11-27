@@ -1,0 +1,1113 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "二人のキャラクターが机の上から顔を出し、並んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14639",
+      "name": {
+        "ja": "机から顔を出す二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "机",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが花束のようなものを抱え、片足を上げて歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14640",
+      "name": {
+        "ja": "花を持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "歩く",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を広げ、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14641",
+      "name": {
+        "ja": "両手を広げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "両手",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが、手に持った料理や食べ物を並べて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14642",
+      "name": {
+        "ja": "料理を並べて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "食べ物",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが並び、目を見開いて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14643",
+      "name": {
+        "ja": "並んで驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "身振り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが並び、周囲に赤い疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "14644",
+      "name": {
+        "ja": "疑問を浮かべる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "二人",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を上げて振り、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14645",
+      "name": {
+        "ja": "手を振って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "笑顔",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなリボンをつけたキャラクターが後ろ向きに立ち、顔を横に向けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14646",
+      "name": {
+        "ja": "後ろ姿で振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "リボン",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターがベッドに座り、上部に確実に読める英字の『Good Morning!』がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14647",
+      "name": {
+        "ja": "朝のベッド"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "朝",
+        "ベッド",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターがピンク色のカップを片手に持って立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14648",
+      "name": {
+        "ja": "飲み物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "カップ",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが鏡の前に座り、鏡に映る自分を見ている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14649",
+      "name": {
+        "ja": "鏡を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "身支度",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけたキャラクターが、机でノートパソコンに向かっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14650",
+      "name": {
+        "ja": "パソコンに向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パソコン",
+        "作業",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが物干しひもに布を掛け、洗濯物を干している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14651",
+      "name": {
+        "ja": "洗濯物を干す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "洗濯",
+        "物干し",
+        "家事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが鍋を前にして料理をしており、周囲に食材や調理道具がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14652",
+      "name": {
+        "ja": "鍋で料理する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "鍋",
+        "台所"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが、料理の載ったトレーを一緒に運んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14653",
+      "name": {
+        "ja": "料理を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "運ぶ",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが泡の浮かぶ浴槽につかっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14654",
+      "name": {
+        "ja": "湯船につかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "湯船",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが頭の横に手を当て、周囲に黄色い稲妻のような線が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "14655",
+      "name": {
+        "ja": "頭を押さえて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭",
+        "困惑",
+        "雷"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手で耳をふさぎ、周囲に黄色い稲妻のような線が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14656",
+      "name": {
+        "ja": "耳をふさいで驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "耳",
+        "驚き",
+        "稲妻"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが重なるように抱きつき、片方が前を歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "14657",
+      "name": {
+        "ja": "抱きついて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱きつく",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが赤い椅子に並んで座り、テレビを見ている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14658",
+      "name": {
+        "ja": "テレビを見る二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テレビ",
+        "二人",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが夜空の月と星を見上げ、後ろ姿を見せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14659",
+      "name": {
+        "ja": "夜空を見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "月",
+        "後ろ姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターがタオルのようなものを頭に載せ、赤い容器の中から立ち上がっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14660",
+      "name": {
+        "ja": "湯上がりに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂上がり",
+        "タオル",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが座り、口から青い息のような線を出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14661",
+      "name": {
+        "ja": "座って息を吐く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "休む",
+        "息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが月と星のある夜空の下で、横になって眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14662",
+      "name": {
+        "ja": "月夜に眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "月夜",
+        "眠る",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが低い仕切りの向こうから顔を出して覗いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14663",
+      "name": {
+        "ja": "顔を出して覗く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "覗く",
+        "顔",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を高く挙げ、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14664",
+      "name": {
+        "ja": "手を挙げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を挙げる",
+        "笑顔",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターの上に、確実に読める英字の『Happy Birthday』があり、周囲に飾りがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14665",
+      "name": {
+        "ja": "誕生日を祝う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "誕生日",
+        "二人",
+        "祝う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが座ってうつむき、両手を前に置いている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "14666",
+      "name": {
+        "ja": "うつむいて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "座る",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが大きな風船のそばに並び、一人が風船を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14667",
+      "name": {
+        "ja": "風船を持つ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "二人",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが星柄の布団に入り、横になって眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14668",
+      "name": {
+        "ja": "布団で眠る二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "眠る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが大きな花束を両手で抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "14669",
+      "name": {
+        "ja": "花束を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "抱える",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが顔を寄せ、並んで笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14670",
+      "name": {
+        "ja": "顔を寄せる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "顔を寄せる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を頬に当て、頭上に赤い疑問符と感嘆符のような記号がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "14671",
+      "name": {
+        "ja": "頬に手を当てて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "困惑",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが正面を向き、頭上の三点リーダー入りの吹き出しを見つめている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14672",
+      "name": {
+        "ja": "吹き出しを見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "無言",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが腕を上げて喜び、周囲に黄色い星や飾りがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14673",
+      "name": {
+        "ja": "大きく喜ぶ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "喜び",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人のキャラクターが緑の地面に立ち、一人が赤い旗を掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14674",
+      "name": {
+        "ja": "旗を立てる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "旗",
+        "二人",
+        "屋外"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両腕を広げて笑い、周囲に複数のハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14675",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが小さな花の咲く緑の場所に座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "14676",
+      "name": {
+        "ja": "花畑で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花畑",
+        "座る",
+        "自然"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが傘を差して立ち、周囲に雨粒が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "14677",
+      "name": {
+        "ja": "雨の中で傘を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "傘",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが横を向き、口を大きく開けて声を出している。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "14678",
+      "name": {
+        "ja": "横を向いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "横向き",
+        "口を開ける"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "936",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

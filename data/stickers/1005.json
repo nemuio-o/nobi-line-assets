@@ -1,0 +1,1113 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "オレンジ色の大きな丸い物を背負うようにした猫が、白い煙の中に浮かんでいる。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "16183",
+      "name": {
+        "ja": "煙をまとった猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "煙",
+        "オレンジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い灰色の煙のような形が、白い背景に渦を巻いている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "16184",
+      "name": {
+        "ja": "煙のような輪郭"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "煙",
+        "輪郭",
+        "白黒"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のような姿が、長い毛並みをなびかせながら横向きに動いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "16185",
+      "name": {
+        "ja": "毛並みをなびかせる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "毛並み",
+        "風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "額にオレンジと灰色の模様がある猫が、片前足を上げて正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16186",
+      "name": {
+        "ja": "顔を出す招き猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "招き猫",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "水色の水面に、模様のある猫が横たわっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16187",
+      "name": {
+        "ja": "水面に横たわる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "水面",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が筆を持ち、花のような飾りとともに、横に大きく「OK」と描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16188",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKと筆を掲げる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "筆",
+        "OK"
+      ]
+    },
+    {
+      "description": {
+        "ja": "模様のある白い猫が、片足を上げたような姿勢で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16189",
+      "name": {
+        "ja": "片足を上げる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "片足",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が木の十字形の枠の後ろから、顔と片側の体をのぞかせている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "16190",
+      "name": {
+        "ja": "木枠からのぞく猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "木枠",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "模様のある猫が緑の葉の上で丸くなって眠り、そばに「Z」の記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "16191",
+      "name": {
+        "ja": "葉の上で眠る猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "睡眠",
+        "葉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が片前足を上げ、横に大きく「NO」と描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16192",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOと手を上げる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "NO",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "模様のある猫が体を横たえ、手足を伸ばして寝そべっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "16193",
+      "name": {
+        "ja": "横向きに寝そべる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "寝そべる",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が仰向けに転がり、周囲に縦線と黄色い衝撃の印が出ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "16194",
+      "name": {
+        "ja": "転んで跳ねる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "転ぶ",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を見開き、口を開けたような表情を見せ、横に大きな感嘆符がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "16195",
+      "name": {
+        "ja": "驚く猫の顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "驚き",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジと灰色の模様が額に入った猫の顔を、大きく正面から描いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16196",
+      "name": {
+        "ja": "猫の顔のアップ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "顔",
+        "模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い毛の獣のような姿が、紫色の影を背にしてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "16197",
+      "name": {
+        "ja": "白い獣がうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い獣",
+        "うつむく",
+        "紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と白の鳥が横向きになり、くちばしを開けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "16198",
+      "name": {
+        "ja": "くちばしを開ける鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "くちばし",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を閉じて笑い、横にピンク色の星が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16199",
+      "name": {
+        "ja": "星を添えた猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "笑顔",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が丸くなって眠り、周囲に動きを示す線と黄色い印がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "16200",
+      "name": {
+        "ja": "丸まって眠る猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "睡眠",
+        "丸まる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が仰向けに寝そべり、青い飲み物の入ったグラスを持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16201",
+      "name": {
+        "ja": "飲み物を持って寝そべる猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "寝そべる",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "模様のある猫が体を伸ばして飛び、後ろに黒い動きの線が描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16202",
+      "name": {
+        "ja": "勢いよく飛ぶ猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "飛ぶ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな白い姿と灰色の髪の人物が向かい合い、どちらにも赤い怒りの印が出ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16203",
+      "name": {
+        "ja": "向かい合って怒る二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "怒り",
+        "向かい合う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の髪の人物が猫を抱き、花が咲く背景の前で微笑んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16204",
+      "name": {
+        "ja": "猫を抱いて微笑む人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "猫",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の髪の人物の前に猫が描かれ、人物と猫のそばに赤い怒りの印がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16205",
+      "name": {
+        "ja": "猫を前に怒る人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "猫",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の灰色の髪の人物が、片手を上げて正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16206",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を上げる人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "手",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が手を顔の近くに置き、口元から白い息のようなものを出している。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "16207",
+      "name": {
+        "ja": "ため息をつく人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ため息",
+        "黒い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の髪の人物が、紫色の暗い影を背にして正面を見ている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "16208",
+      "name": {
+        "ja": "影の中の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "影",
+        "灰色の髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の髪の人物が正面を向き、頭の横に大きな「?」が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "16209",
+      "name": {
+        "ja": "疑問を浮かべる人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "疑問",
+        "?"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服を着た灰色の髪の人物が横向きになり、口から白い息のようなものを吐いている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "16210",
+      "name": {
+        "ja": "息を吐く人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "緑の服",
+        "息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が頬の近くに手を添え、正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16211",
+      "name": {
+        "ja": "頬に手を添える人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "頬",
+        "黒い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が、花のようなものと白い器を両手に持ち、周囲に緑の星を浮かべて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16212",
+      "name": {
+        "ja": "花と器を持つ人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "花",
+        "器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物がマイクのようなものを握り、横に黄色い勢いの印が出ている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16213",
+      "name": {
+        "ja": "マイクを握る人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "マイク",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の髪の人物が目を細め、頬を赤らめて笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16214",
+      "name": {
+        "ja": "頬を赤らめて笑う人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "笑顔",
+        "赤面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の小さな人物が両手を上げ、色とりどりの紙吹雪が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16215",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "紙吹雪の中で手を上げる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "紙吹雪",
+        "祝う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の小さな動物が草の上に並び、背後に黒い煙のような形が立ち上がっている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "16216",
+      "name": {
+        "ja": "煙の前に並ぶ小動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小動物",
+        "煙",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の亀が横向きに歩き、上に小さな点が並んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16217",
+      "name": {
+        "ja": "ゆっくり進む亀"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "亀",
+        "歩く",
+        "ゆっくり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が猫を抱き、周囲に放射状の線が広がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "love"
+      ],
+      "id": "16218",
+      "name": {
+        "ja": "猫を抱いて驚く人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "猫",
+        "抱く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の髪の人物が横顔を見せ、手に眼鏡のようなものを持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16219",
+      "name": {
+        "ja": "眼鏡を持つ人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "眼鏡",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が大きな葉と緑の茂みの下から顔を出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16220",
+      "name": {
+        "ja": "葉の下から顔を出す人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "葉",
+        "草むら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物が黒いスーツとネクタイを着て、暗い影のような背景の前に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16221",
+      "name": {
+        "ja": "影を背負う人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "黒髪",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の上着を着た黒髪の人物が口を開け、周囲に複数の音符が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16222",
+      "name": {
+        "ja": "音符に囲まれて歌う人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "音符",
+        "歌う"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1005",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

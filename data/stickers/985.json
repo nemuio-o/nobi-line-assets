@@ -1,0 +1,1116 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白いうさぎが黄色いものに寄りかかって丸まり、目を閉じて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "15751",
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "うさぎ",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪のキャラクターが頭に花飾りをつけ、座って穏やかにしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15752",
+      "name": {
+        "ja": "花飾りの青い髪"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "花",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターがハートのついた小物を手に持ち、周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15753",
+      "name": {
+        "ja": "ハートを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "ピンク",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが青とピンクの大きなリボンをつけ、小さなハートを抱えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15754",
+      "name": {
+        "ja": "大きなリボン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "リボン",
+        "ハート",
+        "雲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白とピンクのキャラクターが大きな青いリボンをつけ、周囲に星が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15755",
+      "name": {
+        "ja": "星に囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "リボン",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが座って小さな長方形の小物を手に持ち、周囲に泡のような丸が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15756",
+      "name": {
+        "ja": "小物を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いキャラクター",
+        "小物",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫のようなキャラクターが頭に花をつけ、片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15757",
+      "name": {
+        "ja": "花をつけて手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "花",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのキャラクターが赤い髪のような部分を広げ、眉を寄せて両手を下げて身構えている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15758",
+      "name": {
+        "ja": "怒って身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "赤い髪",
+        "身構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが黒い服を着て腕を組み、厳しい表情で立っている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "15759",
+      "name": {
+        "ja": "腕を組むうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "腕組み",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫のようなキャラクターが大きな黄色いものに横たわり、そばに飲み物や食べ物が置かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15760",
+      "name": {
+        "ja": "黄色いものに寄りかかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "黄色",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが小物を持ち、首をかしげたような表情をしている。そばに大きな疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "15761",
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "白いキャラクター",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪のキャラクターが目を閉じて笑い、周囲に緑色の短い線が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15762",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "笑顔",
+        "緑の線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの猫のようなキャラクターが振り返り、口元から白い雲のようなものを出している。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "15763",
+      "name": {
+        "ja": "振り返るピンクの猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "振り返る",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の髪のキャラクターが座って丸まり、目を閉じている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "15764",
+      "name": {
+        "ja": "緑の髪で丸まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の髪",
+        "座る",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけたキャラクターが横向きに寝そべり、目を閉じて休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "15765",
+      "name": {
+        "ja": "花飾りで横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪のキャラクターが片手を上げて指を立て、上方に太陽のような印が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15766",
+      "name": {
+        "ja": "上を指す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "指差し",
+        "太陽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白とピンクのキャラクターが大きなピンクのハート形の背景の中で、小さなハートを抱いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15767",
+      "name": {
+        "ja": "ハートを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "ピンク",
+        "抱く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがうつ伏せに倒れ、耳を下げて落ち込んだようにしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "15768",
+      "name": {
+        "ja": "うつ伏せで落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "うつ伏せ",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが眉を寄せて座り、頭の上に赤い怒りの印がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15769",
+      "name": {
+        "ja": "怒るうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "怒り",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青紫色の髪のキャラクターが泡の浮かぶ浴槽に入り、そばにボトルが置かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "15770",
+      "name": {
+        "ja": "泡風呂に入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "泡",
+        "青い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターがうつむき、頭の周りに青い汗のしずくが描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "15771",
+      "name": {
+        "ja": "汗をかいてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "白いキャラクター",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い虎のようなキャラクターが目を見開き、口を大きく開けて両手を上げている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15772",
+      "name": {
+        "ja": "大声で怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "虎",
+        "怒り",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけたキャラクターが、隣の小さな白いキャラクターと一緒に小物を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15773",
+      "name": {
+        "ja": "二人で小物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "花",
+        "小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪のキャラクターが赤い台のようなものの後ろから顔を出し、前に『SOS』と書かれている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "15774",
+      "name": {
+        "ja": "SOSを出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "SOS",
+        "助けを求める",
+        "青い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけたキャラクターが横向きに寝そべり、上に三つの点が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "15775",
+      "name": {
+        "ja": "横になって無言"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "花",
+        "三点リーダー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが両手に黄色いポンポンのようなものを持って跳び、周囲に色とりどりの星がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15776",
+      "name": {
+        "ja": "ポンポンを持って跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "ポンポン",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが黄色い壁のようなものの横から顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15777",
+      "name": {
+        "ja": "壁から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の髪",
+        "壁",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの猫のようなキャラクターが目を閉じて手を合わせ、そばに『Sorry』と表示されている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "15778",
+      "name": {
+        "ja": "Sorryと謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Sorry",
+        "謝罪",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが目を閉じて跳び、周囲に色とりどりの星が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15779",
+      "name": {
+        "ja": "星と一緒に跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "ジャンプ",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪のキャラクターが花飾りをつけて座り、周囲に小さな色紙のようなものが舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15780",
+      "name": {
+        "ja": "花飾りで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "花",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな足の裏がこちらに向き、ピンク色の肉球が見えている。周囲に湯気のような線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15781",
+      "name": {
+        "ja": "肉球を見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肉球",
+        "足",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが横たわり、頭の上に青緑色の長方形の小物をのせて舌を出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15782",
+      "name": {
+        "ja": "小物を頭にのせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いキャラクター",
+        "横になる",
+        "小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけたキャラクターが赤い丸の『OK』標識を持ち、片手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15783",
+      "name": {
+        "ja": "OKを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "花",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白とピンクのキャラクターが青い丸の『NO』標識を持ち、正面を向いている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15784",
+      "name": {
+        "ja": "NOを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが大きなリボンをつけ、目に涙を浮かべたような表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "15785",
+      "name": {
+        "ja": "涙ぐむ白いキャラクター"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "リボン",
+        "白いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンをつけた白とピンクのキャラクターが振り返り、頭の横に大きなピンクの感嘆符がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15786",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "リボン",
+        "驚き",
+        "しずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが小さな器と道具を持ち、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15787",
+      "name": {
+        "ja": "器を持って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いキャラクター",
+        "器",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りとサングラスをつけた大きなキャラクターの横に、小さなキャラクターが立っている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "15788",
+      "name": {
+        "ja": "二人のサングラス姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "サングラス",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが片手を上げ、そばに『Hello』と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15789",
+      "name": {
+        "ja": "Helloと挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Hello",
+        "挨拶",
+        "うさぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがハート形の目で笑い、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15790",
+      "name": {
+        "ja": "ハートの中で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "うさぎ",
+        "笑顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "985",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1120 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "複数の人物が重なり合うように組み合い、激しく動いている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17071",
+      "name": {
+        "ja": "複数人で組み合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "組み合う",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭部が大きな口を開け、周囲に「人間になりたい！」の文字が見える。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "17072",
+      "name": {
+        "ja": "人間になりたいと訴える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人間",
+        "訴え",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が指を口元に当て、横目で見ている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "17073",
+      "name": {
+        "ja": "指を口元に当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "指",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が、灰色の物陰から顔を出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "17074",
+      "name": {
+        "ja": "物陰から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "物陰",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が並び、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17075",
+      "name": {
+        "ja": "大勢で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "笑顔",
+        "赤い光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服と帽子の人物が、剣を横に構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17076",
+      "name": {
+        "ja": "剣を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒服",
+        "剣",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな怪物が腕を広げ、走るような姿勢を取っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17077",
+      "name": {
+        "ja": "小さな怪物が走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怪物",
+        "走る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "口を開けた怪物が、左右から大きな岩に挟まれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "17078",
+      "name": {
+        "ja": "岩に挟まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怪物",
+        "岩",
+        "挟まれる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が、草むらから頭だけを出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17079",
+      "name": {
+        "ja": "頭だけ出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "頭",
+        "草"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が腕で額をぬぐい、汗を流している。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "17080",
+      "name": {
+        "ja": "汗をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "腕",
+        "青髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が片手を耳の近くに添えている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "17081",
+      "name": {
+        "ja": "耳の近くに手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "耳",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い怪物が口を開け、腕を広げて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "17082",
+      "name": {
+        "ja": "青い怪物が叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怪物",
+        "叫び",
+        "青色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が拳を握り、星を背景に笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17083",
+      "name": {
+        "ja": "拳を握って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "拳",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が片腕を上げ、額に怒りを示す印を出している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "17084",
+      "name": {
+        "ja": "腕を上げて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "腕",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が笑い、周囲にカラフルな星が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17085",
+      "name": {
+        "ja": "星に囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "星",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が一つの塊になり、互いに押し合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17086",
+      "name": {
+        "ja": "複数人で押し合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "押し合い",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が抱き合い、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17087",
+      "name": {
+        "ja": "抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "二人",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が壁にもたれ、座ったまま眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17088",
+      "name": {
+        "ja": "壁際で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "壁",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が目をこすり、眠そうにしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "17089",
+      "name": {
+        "ja": "目をこする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "眠い",
+        "目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い怪物がうつむき、悲しそうな表情をしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "17090",
+      "name": {
+        "ja": "うつむく怪物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怪物",
+        "うつむく",
+        "青色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が長いむちを両手で引っ張っている。右側に「ベラのムチは痛いよ！」の文字が見える。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17091",
+      "name": {
+        "ja": "むちを引っ張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "むち",
+        "引っ張る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が長いむちを大きく振っている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17092",
+      "name": {
+        "ja": "むちを振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "むち",
+        "振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が口を大きく開け、両手を口元に添えて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17093",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "叫び",
+        "口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が左右から押され、中央で身を縮めている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "17094",
+      "name": {
+        "ja": "両側から押される"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒服",
+        "圧迫",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が、縁のある浴槽の湯につかっている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "17095",
+      "name": {
+        "ja": "湯につかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "青髪",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が口を開けて笑い、周囲に「ははは」の文字が見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17096",
+      "name": {
+        "ja": "笑い声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑い",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が水しぶきの中から顔を出し、「おいらあやしいもんじゃないよ」の文字が見える。"
+      },
+      "emotion": [
+        "confusion",
+        "anger"
+      ],
+      "id": "17097",
+      "name": {
+        "ja": "忍者ではないと訴える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "文字",
+        "否定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が、青い髪の人物の手を引いている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "17098",
+      "name": {
+        "ja": "手を引かれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒服",
+        "手",
+        "青髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が舌を出し、目を閉じて苦しそうにしている。"
+      },
+      "emotion": [
+        "disgust",
+        "tired"
+      ],
+      "id": "17099",
+      "name": {
+        "ja": "舌を出して苦しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "舌",
+        "苦しむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が正面を向き、険しい表情で見つめている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "17100",
+      "name": {
+        "ja": "険しい顔で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "険しい顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い怪物が両手を上げ、周囲を炎に包まれている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "17101",
+      "name": {
+        "ja": "炎に包まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怪物",
+        "炎",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服と帽子の人物が剣を振り上げている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17102",
+      "name": {
+        "ja": "剣を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒服",
+        "剣",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が前方へ指を突き出し、勢いのある背景に立っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17103",
+      "name": {
+        "ja": "指を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒服",
+        "指差し",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が頬に手を当て、考え込むような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "17104",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "考える",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな頭部の怪物が振り返り、口を開けて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "17105",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怪物",
+        "驚き",
+        "赤い印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が指を一本立て、合図を送っている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "17106",
+      "name": {
+        "ja": "指を一本立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒服",
+        "指",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が眉を下げ、困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "17107",
+      "name": {
+        "ja": "困った顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "困惑",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が指を差し、背後に「YES」の文字が見える。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17108",
+      "name": {
+        "ja": "YESと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "指差し",
+        "黒服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が腕を組み、背後に「NO」の文字が見える。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "17109",
+      "name": {
+        "ja": "NOと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "女性",
+        "腕組み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が目を閉じ、腕を振って走っている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "17110",
+      "name": {
+        "ja": "走り去る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪",
+        "走る",
+        "動き"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1040",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

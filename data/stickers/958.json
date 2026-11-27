@@ -1,0 +1,1113 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い髪の人物が両手を広げ、戸惑ったような表情で立っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "15167",
+      "name": {
+        "ja": "両手を広げて戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "戸惑い",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が腕を組むようにして考え込み、頭の周りに疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "15168",
+      "name": {
+        "ja": "疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "考える",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が片手を顔の近くに添え、横のきらめきを見ながら笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "15169",
+      "name": {
+        "ja": "きらめきを見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が品物の載ったカートを押し、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15170",
+      "name": {
+        "ja": "カートを押して走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "カート",
+        "買い物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が片手を上げて手を振り、もう一方の手を腰に当てている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15171",
+      "name": {
+        "ja": "手を振って合図する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "笑顔",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が両手を前に出し、頭の横に赤い記号を出して断っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "15172",
+      "name": {
+        "ja": "両手で断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "両手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が腕を振り、足元に動きの線を出しながら走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15173",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "勢い",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が拳を握って構え、周囲を黄色い炎のような形が囲んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15174",
+      "name": {
+        "ja": "炎をまとって構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "構える",
+        "力"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が赤い丸い物体に向かって拳を突き出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15175",
+      "name": {
+        "ja": "赤い物に向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "攻撃",
+        "赤い物",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が青い水面のような場所に横たわり、手足を伸ばしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15176",
+      "name": {
+        "ja": "水面で横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水面",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と白の服装の人物が、笑顔で正面を向いて立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15177",
+      "name": {
+        "ja": "笑顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "立つ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物がベッドの脇で、手鏡のようなものを見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15178",
+      "name": {
+        "ja": "ベッド脇で鏡を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "ベッド",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物が立ち、顔の横に青い汗のしずくを浮かべている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "15179",
+      "name": {
+        "ja": "汗をかいて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "緊張",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物が身を引き、顔の横に赤い記号を出して驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15180",
+      "name": {
+        "ja": "驚いて身を引く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "身を引く",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物が青い水しぶきのような形の中で、体を横にして飛んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15181",
+      "name": {
+        "ja": "水しぶきの中で飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "飛ぶ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物が両手で顔を覆い、目から涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "15182",
+      "name": {
+        "ja": "泣いて顔を覆う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泣く",
+        "涙",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物がドアの陰から顔を出し、口元に指を当てている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "15183",
+      "name": {
+        "ja": "ドアからそっと覗く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドア",
+        "覗く",
+        "静かに"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物が赤い毛布にくるまり、座り込んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "15184",
+      "name": {
+        "ja": "毛布にくるまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "毛布",
+        "休む",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物が小さな箱のような荷物を持ち、横に立つ大きな表示を見て驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15185",
+      "name": {
+        "ja": "荷物を受け取って驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "受け取る",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物が両手を広げ、周囲に色とりどりの花びらのような形が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15186",
+      "name": {
+        "ja": "花びらの中で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "花びら",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が赤い飲み物の入った容器を持ち、歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15187",
+      "name": {
+        "ja": "飲み物を持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "歩く",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が小さな赤い車輪付きの荷物を引いて歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15188",
+      "name": {
+        "ja": "赤い荷物を引く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "引く",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が片目を閉じ、笑顔で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15189",
+      "name": {
+        "ja": "ウインクする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウインク",
+        "笑顔",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が両手を前に出し、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15190",
+      "name": {
+        "ja": "ハートに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "愛情",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が目を閉じて立ち、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15191",
+      "name": {
+        "ja": "音楽を聴く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "音楽",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が赤いハートを片手で差し出している。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15192",
+      "name": {
+        "ja": "ハートを差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "差し出す",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物がテーブルの前に座り、料理や飲み物を前にしている。周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15193",
+      "name": {
+        "ja": "音符のそばで食事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "音符",
+        "テーブル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が笑顔で立ち、周囲に黄色いきらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15194",
+      "name": {
+        "ja": "きらめいて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "喜び",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が、赤い容器の置かれたカウンターの前に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15195",
+      "name": {
+        "ja": "カウンターの前に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウンター",
+        "赤い物",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物が赤と黄色のラッパのような楽器を吹いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15196",
+      "name": {
+        "ja": "ラッパを吹く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ラッパ",
+        "吹く",
+        "音"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が両手を握り、足を広げて力強く立っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15197",
+      "name": {
+        "ja": "拳を握って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "立つ",
+        "力"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物がうつむいて立ち、周囲に縦の線が出ている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "15198",
+      "name": {
+        "ja": "うつむいて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込む",
+        "うつむく",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が赤い乗り物の上に座り、両手を広げている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15199",
+      "name": {
+        "ja": "乗り物で暴れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乗り物",
+        "動き",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が体を前に傾け、両手を広げて勢いよく動いている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15200",
+      "name": {
+        "ja": "勢いよく身を乗り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "勢い",
+        "身を乗り出す",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が片足を上げ、両手を広げて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15201",
+      "name": {
+        "ja": "片足を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片足",
+        "喜び",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が、導火線の付いた黄色い円筒形の物体を両手で持っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15202",
+      "name": {
+        "ja": "爆発物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "爆発物",
+        "持つ",
+        "危険"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が腕を組んで立ち、周囲に黄色い放射状の線が出ている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "15203",
+      "name": {
+        "ja": "腕を組んで構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "構える",
+        "力"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が両手で灰色の板状の物を押し、中央の青い面を囲んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15204",
+      "name": {
+        "ja": "物を押し開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "押す",
+        "力",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が頭上の大きな黒い塊を両手で支え、力を込めている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15205",
+      "name": {
+        "ja": "大きな物を持ち上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "持ち上げる",
+        "大きな物",
+        "力"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの髪の人物と青い髪の人物が寄り添って立ち、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15206",
+      "name": {
+        "ja": "寄り添って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハート",
+        "寄り添う"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "958",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

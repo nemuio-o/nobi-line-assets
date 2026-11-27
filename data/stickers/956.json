@@ -1,0 +1,1120 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "女性が大きな器に山盛りになった食べ物を運び、驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15087",
+      "name": {
+        "ja": "大盛りを運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "大盛り",
+        "運ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が涙を浮かべ、顔をゆがめて困ったような表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "15088",
+      "name": {
+        "ja": "泣きそうな顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "涙",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった男性が机に向かい、汗を流しながら何かを書いている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "15089",
+      "name": {
+        "ja": "汗をかいて書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "帽子",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が口を大きく開けて叫び、周囲に勢いを示す線が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "15090",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "叫び",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が正面を向き、口元を上げてにっこり笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15091",
+      "name": {
+        "ja": "にっこり笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "笑顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が首元に手を当て、目を見開いて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15092",
+      "name": {
+        "ja": "首を押さえて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "首",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が炎に囲まれ、拳を握って怒った表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15093",
+      "name": {
+        "ja": "炎の中で怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "炎",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の男性が並び、目を見開いた驚きの表情を見せている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15094",
+      "name": {
+        "ja": "二人で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が穏やかに笑い、周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15095",
+      "name": {
+        "ja": "ハートを浮かべて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が指を口元に添え、吹き出しのある穏やかな表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15096",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "普通の表情で答える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子ども",
+        "普通",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が口元に指を添え、横を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15097",
+      "name": {
+        "ja": "口元に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "口元",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を閉じ、口を大きく開けて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15098",
+      "name": {
+        "ja": "声を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑い",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな金属製の容器が人物の上で傾き、中身がこぼれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15099",
+      "name": {
+        "ja": "大きな容器をひっくり返す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "容器",
+        "食べ物",
+        "こぼす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が重なり合うように転がり、周囲に雲のような表現がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15100",
+      "name": {
+        "ja": "二人で転がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "転がる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が木製の台の後ろから顔と両手を出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15101",
+      "name": {
+        "ja": "台の後ろから顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "台",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性がうつむき、汗を流しながら力なく立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "15102",
+      "name": {
+        "ja": "汗をかいてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "汗",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が両手で頬を支え、頬杖をついている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "15103",
+      "name": {
+        "ja": "頬杖をつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "頬杖",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が眉を寄せた険しい表情をし、周囲に輝きが描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15104",
+      "name": {
+        "ja": "険しい顔で光る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "険しい顔",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "一人がもう一人の頬に口づけしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15105",
+      "name": {
+        "ja": "頬にキスする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キス",
+        "二人",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向き、無表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15106",
+      "name": {
+        "ja": "無表情で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "無表情",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が狭い隙間から顔をのぞかせ、驚いた表情をしている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "15107",
+      "name": {
+        "ja": "隙間から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "隙間",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を大きく見開き、汗を流している。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "15108",
+      "name": {
+        "ja": "目を見開いて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "汗",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上の人物が下の人物を押さえ込むように重なっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15109",
+      "name": {
+        "ja": "上から押さえ込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "押さえる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が片手を前に出し、指で何かを示している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15110",
+      "name": {
+        "ja": "指で示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子ども",
+        "指差し",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "エプロン姿の人物が両手を上げ、慌てた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15111",
+      "name": {
+        "ja": "両手を上げて慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "慌てる",
+        "エプロン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が自分を指し、目を見開いて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15112",
+      "name": {
+        "ja": "自分を指して驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "自分",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が縦線で囲まれたような場所で、両手を上げて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "15113",
+      "name": {
+        "ja": "囲いの中で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "囲い",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が笑顔で走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15114",
+      "name": {
+        "ja": "元気に走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子ども",
+        "走る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が手で口元を隠し、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15115",
+      "name": {
+        "ja": "口元を隠して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "笑い",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、互いに手を上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "15116",
+      "name": {
+        "ja": "向かい合う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "向かい合う",
+        "会話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を口元に広げ、大声で叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15117",
+      "name": {
+        "ja": "手を広げて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "両手",
+        "上半身"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が歯を食いしばり、肩の周囲に稲妻のような線が出ている。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "15118",
+      "name": {
+        "ja": "痛みに耐える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "痛み",
+        "稲妻"
+      ]
+    },
+    {
+      "description": {
+        "ja": "エプロン姿の人物が別の人物をつかみ、怒った表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15119",
+      "name": {
+        "ja": "相手をつかんで怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "つかむ",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が横になって眠り、そばに眠りを示す記号がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "15120",
+      "name": {
+        "ja": "横になって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "横になる",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が口を大きく開けて叫び、周囲に激しい線が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "15121",
+      "name": {
+        "ja": "激しく叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "男性",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が涙を流し、口を大きく開けて泣き叫んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "15122",
+      "name": {
+        "ja": "泣き叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "叫び",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が首をかしげたような表情をし、頭のそばに疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "15123",
+      "name": {
+        "ja": "疑問に思う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "疑問",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が重なって倒れ、横方向に動きを示す線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15124",
+      "name": {
+        "ja": "二人で転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "転ぶ",
+        "倒れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性が目を見開き、険しい表情で正面をにらんでいる。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "15125",
+      "name": {
+        "ja": "険しい顔でにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "にらむ",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きく口を開けて笑い、片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15126",
+      "name": {
+        "ja": "手を振って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を振る",
+        "挨拶"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "956",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

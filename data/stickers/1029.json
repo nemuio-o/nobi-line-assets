@@ -1,0 +1,1120 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白黒の猫が大きな赤い吹き出しを掲げ、片手を上げて呼びかけている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16751",
+      "name": {
+        "ja": "吹き出しで呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "呼びかけ",
+        "吹き出し",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が片手を口元に添え、赤いハートを飛ばしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16752",
+      "name": {
+        "ja": "ハートを飛ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "投げキス",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が大きなピンクのハートを両手で抱えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16753",
+      "name": {
+        "ja": "ハートを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱く",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が両手を胸元に置き、きらめきに囲まれて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16754",
+      "name": {
+        "ja": "きらきら笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらきら",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が片足を上げ、紙吹雪の中を軽やかに歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16755",
+      "name": {
+        "ja": "軽やかに歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "ポーズ",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫がテーブルに肘をつき、湯気の立つカップのそばで休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "16756",
+      "name": {
+        "ja": "湯気の中で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休憩",
+        "湯気",
+        "お茶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が両手を胸元で合わせ、目を閉じている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "16757",
+      "name": {
+        "ja": "両手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "祈り",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が険しい表情で身構え、稲妻のような背景に立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16758",
+      "name": {
+        "ja": "険しい顔で構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "険しい顔",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が眉を寄せて鋭くにらみ、赤い背景の中で怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "16759",
+      "name": {
+        "ja": "怒ってにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "にらむ",
+        "赤い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が星の見える暗い夜空の下で、座って上を見上げている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "16760",
+      "name": {
+        "ja": "夜空を見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "星",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が床に座り、開いた本を読んでいる。そばに小物と飲み物がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "16761",
+      "name": {
+        "ja": "本を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "読書",
+        "本",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が両手に紫色のポンポンを持ち、応援するように跳ねている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "16762",
+      "name": {
+        "ja": "ポンポンで応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ポンポン",
+        "ダンス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫と白いウサギが並んで踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16763",
+      "name": {
+        "ja": "二人で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ダンス",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫と白いウサギが肩を寄せ、音符を浮かべながら歌っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16764",
+      "name": {
+        "ja": "一緒に歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歌う",
+        "二人",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が荷物を積んだ自転車に乗り、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16765",
+      "name": {
+        "ja": "自転車で急ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "急ぐ",
+        "荷物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫がたくさんの料理に囲まれ、両手を広げて食卓を整えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16766",
+      "name": {
+        "ja": "料理を並べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "食卓",
+        "盛り付け"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の白黒の猫が、皿の料理と別の料理を両手に持ってすすめている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16767",
+      "name": {
+        "ja": "料理をすすめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "すすめる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫と白い猫が、たくさんの料理を囲んで飲み物を手にしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16768",
+      "name": {
+        "ja": "料理を囲んで乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "乾杯",
+        "大皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギと白黒の猫がテーブルを挟んで向かい合い、料理を楽しんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "16769",
+      "name": {
+        "ja": "食卓で向かい合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "二人",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が、菓子や飲み物を前にして両手を振り、遠ざけている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "16770",
+      "name": {
+        "ja": "甘いものを我慢する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "我慢",
+        "お菓子",
+        "ダイエット"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫がモップを持って床を掃除し、そばにバケツが置かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "16771",
+      "name": {
+        "ja": "掃除をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除",
+        "モップ",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が泡のついたブラシで何かを洗い、周囲にも洗剤や小物がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "16772",
+      "name": {
+        "ja": "泡で洗う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除",
+        "泡",
+        "ブラシ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が鏡を見ながら、化粧品や道具を使って身支度をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16773",
+      "name": {
+        "ja": "身支度をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "身支度",
+        "鏡",
+        "化粧品"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が化粧品や小物に囲まれ、ハートを浮かべながら楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "16774",
+      "name": {
+        "ja": "美容を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "美容",
+        "ハート",
+        "化粧品"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫がノートパソコンの前で、バッグや買い物袋などに囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16775",
+      "name": {
+        "ja": "買い物をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物",
+        "バッグ",
+        "財布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が赤い店先の前で、買い物袋を持って走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "16776",
+      "name": {
+        "ja": "セールで買い物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物",
+        "セール",
+        "店"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が色とりどりの買い物袋を両手に持ち、うれしそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16777",
+      "name": {
+        "ja": "袋を抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物袋",
+        "喜び",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が青い傘を差し、雨の中を歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16778",
+      "name": {
+        "ja": "傘を差して歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "雨",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が財布を持ち、周囲に紙幣が舞う中でお金を数えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16779",
+      "name": {
+        "ja": "お金を数える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お金",
+        "財布",
+        "数える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が服を手に取り、そばに別の服を持つ人物が立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "16780",
+      "name": {
+        "ja": "服を選ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "服",
+        "買い物",
+        "選ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が大きな荷物を抱え、息を弾ませながら急いでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16781",
+      "name": {
+        "ja": "荷物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "運ぶ",
+        "急ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギと白黒の猫が肩を寄せ、並んで座って休んでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "16782",
+      "name": {
+        "ja": "寄り添って休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が机の上で書類や箱に囲まれ、電話をしながら忙しくしている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "16783",
+      "name": {
+        "ja": "書類に追われる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "書類",
+        "仕事",
+        "混乱"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が驚いた顔で、散らかった床の上の物を片付けようとしている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "16784",
+      "name": {
+        "ja": "慌てて片付ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "慌てる",
+        "片付け",
+        "散らかる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫と別の猫が、互いにつかみ合うようにもみ合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "16785",
+      "name": {
+        "ja": "二人でもみ合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "もみ合い",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が大きなほうきを持ち、勢いよく床を掃いている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "16786",
+      "name": {
+        "ja": "ほうきで掃く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除",
+        "ほうき",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が床にしゃがみ、雑巾で拭き掃除をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16787",
+      "name": {
+        "ja": "床を拭く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除",
+        "床拭き",
+        "雑巾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギと白黒の猫がベンチに並んで座り、肩を寄せている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "16788",
+      "name": {
+        "ja": "隣で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "並ぶ",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が大きな黒い画面の前に座り、画面を見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16789",
+      "name": {
+        "ja": "画面を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "画面",
+        "座る",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒の猫が水玉模様の布団に横たわり、リモコンを手にしてくつろいでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "16790",
+      "name": {
+        "ja": "布団でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "休む",
+        "リモコン"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1029",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
