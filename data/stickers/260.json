@@ -1,0 +1,1089 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "片手を高く上げ、口元を少し開けて立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1084",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "片手をひょい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両腕を下ろした姿が、頭の上に短い線を添えて静かに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1085",
+      "name": {
+        "ja": "ちょこんと立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立ち姿",
+        "小さな姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いアンテナ付きのテレビの横から、姿が顔を出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1086",
+      "name": {
+        "ja": "テレビのとなり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テレビ",
+        "となり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両腕を思いきり上げ、周囲の赤い線とともに喜んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "1087",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ばんざい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "歓声"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔を大きく見せ、頭の横に赤い怒りの記号を浮かべている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "1088",
+      "name": {
+        "ja": "正面の顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "怒りの記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を口元に添え、頭上の雲の中に黒いもつれた線を浮かべている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1089",
+      "name": {
+        "ja": "頭の中はぐるぐる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考え事",
+        "ぐるぐる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸い顔だけが画面いっぱいに現れ、片側に濃い影が落ちている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1090",
+      "name": {
+        "ja": "影からひょこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両腕を下げた姿が、青い靴を履いてまっすぐ立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1091",
+      "name": {
+        "ja": "青い靴で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立ち姿",
+        "青い靴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横向きに丸まった姿で倒れ、背後に紫色の大きな形が見えている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "1092",
+      "name": {
+        "ja": "横向きに丸まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横向き",
+        "丸まる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "額に白い布のようなものをのせ、両手を前で組んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1093",
+      "name": {
+        "ja": "ひんやり冷やす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "冷却",
+        "額"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を胸元に曲げ、点線状の線に囲まれて立っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1094",
+      "name": {
+        "ja": "片手を胸元に"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔の横に青と赤の音符を浮かべ、口を開けて歌っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1095",
+      "name": {
+        "ja": "音符といっしょ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "歌う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を細めた顔が、口元を大きくゆるめて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1096",
+      "name": {
+        "ja": "にっこり口元"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を高く上げ、もう片方の腕を下げてこちらに合図している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1097",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を上げて合図"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を上げる",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両腕を頭上まで上げ、周りに短い線を出している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "1098",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を高く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "高く上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を前に傾けて片腕を振り、短い線を残しながら歩いている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "1099",
+      "name": {
+        "ja": "てくてく進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横向きの姿が、両手で一枚の紙を広げて読んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1100",
+      "name": {
+        "ja": "紙を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙",
+        "読む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭の横に青い風船を浮かべ、紫の大きな線を背に立っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1101",
+      "name": {
+        "ja": "青い風船"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花柄の青い布団にくるまり、枕に頭をのせて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1102",
+      "name": {
+        "ja": "布団でおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "睡眠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身が大きく描かれ、正面から静かにこちらを見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1103",
+      "name": {
+        "ja": "顔をのぞかせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を頬のそばに添え、頭上に短い線を出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1104",
+      "name": {
+        "ja": "ほおに手"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両腕を自然に下ろし、口元を少し開けて正面に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1105",
+      "name": {
+        "ja": "まっすぐ両腕"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "舌を出し、片足を上げたような姿勢で星と動き線を添えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1106",
+      "name": {
+        "ja": "舌をぺろり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舌",
+        "星",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花柄の青い布団から上半身を起こし、枕に頭をつけている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1107",
+      "name": {
+        "ja": "布団からひょこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "寝起き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を見開き、汗を浮かべて体を震わせている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "1108",
+      "name": {
+        "ja": "びくっとする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "汗",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "胸元で小さな紙を持ち、こちらへ差し出すようにしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1109",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "紙を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙",
+        "差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横向きに倒れ、頭に短い線を出しながら床に伏せている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "1110",
+      "name": {
+        "ja": "ぐったり横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を上げ、複数の紙を空中へ放り上げながら立っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "1111",
+      "name": {
+        "ja": "紙を放り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙",
+        "投げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いメガホンを口元に当て、声を張って呼びかけている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "1112",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "メガホンで呼ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "メガホン",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ノートパソコンの前に座り、画面を見ながら手を動かしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1113",
+      "name": {
+        "ja": "ノートパソコン中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ノートパソコン",
+        "作業"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机に向かい、紙へ書き込みながら作業している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1114",
+      "name": {
+        "ja": "机で書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "筆記"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い椅子に横たわり、腕を前に伸ばして休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1115",
+      "name": {
+        "ja": "椅子でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い布を首元に巻き、片手にナイフ、もう片手にフォークを持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1116",
+      "name": {
+        "ja": "食事の準備"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ナイフ",
+        "フォーク",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い帽子をかぶり、湯気の立つ鍋を前に汗をかきながらかきまぜている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "1117",
+      "name": {
+        "ja": "鍋をかきまぜる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鍋",
+        "料理",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭上の小さな突起から黄色い稲妻が出て、片手を高く上げている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "1118",
+      "name": {
+        "ja": "電気が走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電気",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つの姿が向かい合い、赤い中央部分の両端をそれぞれ持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1119",
+      "name": {
+        "ja": "二人で持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "両端を持つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い歓迎ボードを頭上に掲げて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1120",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "歓迎ボード"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歓迎",
+        "ボード"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子をかぶり、机の紙に細い道具を当てて描いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1121",
+      "name": {
+        "ja": "机上で描く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "筆記",
+        "赤い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "マイクを口元に持ち、胸元に小さな表示のある機器を添えて話している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "1122",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "マイクで話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マイク",
+        "話す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い蝶ネクタイをつけ、片手に開いた扇を掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1123",
+      "name": {
+        "ja": "蝶ネクタイと扇"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蝶ネクタイ",
+        "扇"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "260",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

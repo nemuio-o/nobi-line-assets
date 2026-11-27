@@ -1,0 +1,1127 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤い帽子とマフラーを身につけた茶色い動物が、プレゼントのそばで木製の揺り椅子に座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "25098",
+      "name": {
+        "ja": "揺れる椅子でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "揺り椅子",
+        "赤い帽子",
+        "プレゼント"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物が赤い縁取りの帽子をかぶり、赤い小物と包みのそばに立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25099",
+      "name": {
+        "ja": "帽子をかぶって贈り物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い帽子",
+        "包み",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子をかぶった茶色い動物が横になり、上に「Merry Xmas!」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "25100",
+      "name": {
+        "ja": "メリークリスマスでごろり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Merry Xmas",
+        "横になる",
+        "赤い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服や帽子を身につけた複数の動物が、窓のある茶色い建物の上に並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25101",
+      "name": {
+        "ja": "屋根の上で冬の仲間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数",
+        "赤い服",
+        "建物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑や赤の飾りが輪になり、その中に複数の動物、星、包みなどが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "25102",
+      "name": {
+        "ja": "冬のリース飾り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "リース",
+        "飾り",
+        "プレゼント"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな動物たちが、星のついた緑色のツリーを囲んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25103",
+      "name": {
+        "ja": "みんなでツリーを飾る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ツリー",
+        "星",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物を中央に、白い動物と黄色い小さな動物が並び、みな赤い帽子をかぶっている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25104",
+      "name": {
+        "ja": "帽子をそろえて集合"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "赤い帽子",
+        "集合"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子をかぶった黄色い小さな動物が、飾りのついた大きなツリーの中にいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "25105",
+      "name": {
+        "ja": "飾りつけたツリー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ツリー",
+        "オーナメント",
+        "赤い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服と帽子の茶色い動物が、体を横にして空中を飛ぶような姿勢を取っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "25106",
+      "name": {
+        "ja": "空を飛ぶサンタ姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ぶ",
+        "赤い服",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔の動物が、赤い帽子をかぶって正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "25107",
+      "name": {
+        "ja": "赤い帽子の顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "赤い帽子",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物の顔に、白い縁取りの赤い帽子がのっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "25108",
+      "name": {
+        "ja": "帽子をかぶった顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "赤い帽子",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小さな動物が、赤と白の冬の帽子をかぶって立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25109",
+      "name": {
+        "ja": "黄色い帽子姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "冬帽子",
+        "小さな動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物と白い動物、黄色い小さな動物が、星のあるツリーの前に並んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25110",
+      "name": {
+        "ja": "ツリーの前で集合"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ツリー",
+        "三人",
+        "集合"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子の茶色い動物が、赤と黄色の大きなベルの形の中に入っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25111",
+      "name": {
+        "ja": "ベルの中からこんにちは"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ベル",
+        "赤い帽子",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服と帽子の茶色い動物が、縞模様の包みを手にして立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25112",
+      "name": {
+        "ja": "プレゼントを届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "プレゼント",
+        "赤い服",
+        "届ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が赤いリボンのついた小さな包みを抱え、文字の書かれた紙を前にしている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "25113",
+      "name": {
+        "ja": "包みを抱えてお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "包み",
+        "リボン",
+        "紙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物と白い動物が、長い赤いマフラーを一緒に巻いて並んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "25114",
+      "name": {
+        "ja": "マフラーで仲良く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "マフラー",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が赤いリボンのついた青白い包みを両手で持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25115",
+      "name": {
+        "ja": "包みを持って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "包み",
+        "リボン",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物が小さな包みを手にし、周囲にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "25116",
+      "name": {
+        "ja": "ハートを飛ばして贈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "包み",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物、白い動物、黄色い小さな動物が並び、上に「Happy Holidays!」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25117",
+      "name": {
+        "ja": "ホリデーの三人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Happy Holidays",
+        "三人",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が、星の散った紫色の背景を囲むアーチ形の中に座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "25118",
+      "name": {
+        "ja": "星空の窓辺"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "紫",
+        "窓辺"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が、両手で赤と白の縁取りのある丸い器を抱えている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "25119",
+      "name": {
+        "ja": "あたたかい器を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "器",
+        "両手",
+        "あたたかい"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が片手を口元に添え、もう一方の手を下げて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "25120",
+      "name": {
+        "ja": "手を添えてひと息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物と白い動物、黄色い小さな動物が、泡の浮かぶ木桶に入っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "25121",
+      "name": {
+        "ja": "桶であったまる仲間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木桶",
+        "泡",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が片足を上げて体をひねり、周囲に橙色の動きの印がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25122",
+      "name": {
+        "ja": "くるりと踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "片足",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小さな動物が両手に赤と黄色の扇を広げ、体を跳ね上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25123",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "扇を広げて新年"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "扇",
+        "新年",
+        "跳ねる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物を中央に白い動物と黄色い小さな動物が並び、上に「Happy New Year」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "25124",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "新年を囲んで"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Happy New Year",
+        "三人",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が青い衣装を身につけ、頭に黄色い小さな動物を乗せて雲のような白い形の上にいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25125",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "雲と小鳥でお祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い衣装",
+        "小さな動物",
+        "雲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が赤い花のそばで口を開け、周囲に小さな花が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "25126",
+      "name": {
+        "ja": "花のそばでひと息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い花",
+        "小さな花",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物が白い服を着て、黄色と茶色の小さな道具のような物を両手に持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25127",
+      "name": {
+        "ja": "道具を手に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い服",
+        "道具",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が座り、両手で細長い棒のような物を横に持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "25128",
+      "name": {
+        "ja": "長い棒を持って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "棒",
+        "座る",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が座って、目の前の紙に筆のような物で文字を書いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "25129",
+      "name": {
+        "ja": "紙に文字を書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "書く",
+        "紙",
+        "筆"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物と黄色い小さな動物が、赤い模様の入った細長い板のような物から顔を出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25130",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "赤い模様の板を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い板",
+        "二人",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物の上に赤い顔の大きな飾りがあり、背後に緑と白の模様が広がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "25131",
+      "name": {
+        "ja": "赤い顔の飾りと一緒"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い顔",
+        "緑の模様",
+        "飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が赤い太鼓のような物を前に置き、両手にばちを持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25132",
+      "name": {
+        "ja": "太鼓をたたく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "太鼓",
+        "ばち",
+        "赤"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が、植物や赤い飾り、黄色い小さな飾りを背負うようにして立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "25133",
+      "name": {
+        "ja": "新年の飾りを添えて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "新年飾り",
+        "植物",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が黄色い手袋のような物や細長い黄色の道具を抱え、周囲に小さな物が飛んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "25134",
+      "name": {
+        "ja": "道具を抱えて大忙し"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "道具",
+        "黄色",
+        "忙しい"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物が、両手で細長い黄色の笛のような物を口元に当てている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "25135",
+      "name": {
+        "ja": "笛を吹く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笛",
+        "口元",
+        "白い動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が黄色い長い物の上に腹ばいになり、体を伸ばしている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "25136",
+      "name": {
+        "ja": "長い物に乗って休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腹ばい",
+        "黄色",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が赤い服を着て、大きな赤い魚と釣り糸のついた棒を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25137",
+      "name": {
+        "ja": "大きな魚を釣り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "魚",
+        "釣り",
+        "赤い服"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1385",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

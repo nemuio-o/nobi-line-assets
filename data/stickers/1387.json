@@ -1,0 +1,1139 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "ピンク色の小さな動物が、花柄の物陰から顔だけをひょっこり出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "25178",
+      "name": {
+        "ja": "ひょっこり顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひょっこり",
+        "物陰",
+        "顔出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を閉じたピンク色の動物が、胸元で手を合わせるようにして笑い、周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "25179",
+      "name": {
+        "ja": "目を閉じてにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "ハート",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が目を大きく開き、両手を前に出して驚いている。頭上に青いしずくがある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "25180",
+      "name": {
+        "ja": "びっくりして固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "青いしずく",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が片足を上げて踊り、周囲に黄色い音符が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25181",
+      "name": {
+        "ja": "音符と一緒に踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "音符",
+        "片足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が片手を頭に当て、もう一方の手を口元に置いて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "25182",
+      "name": {
+        "ja": "頭をかいて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "頭に手",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が正面を見つめ、周囲に星形のきらめきが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "25183",
+      "name": {
+        "ja": "きらきら見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "正面",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が目を閉じて口を尖らせ、両手を握りしめて怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "25184",
+      "name": {
+        "ja": "ぷんぷん怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "口を尖らせる",
+        "握りこぶし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が正面を向き、背後に大きな赤橙色の炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "25185",
+      "name": {
+        "ja": "炎を背負う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "正面",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が小さな青い飾りのようなものを両手で抱え、穏やかに座っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "25186",
+      "name": {
+        "ja": "小さく抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱える",
+        "青い小物",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い影のような背景の前で、ピンク色の動物が顔を伏せて座り込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "25187",
+      "name": {
+        "ja": "顔を伏せて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "顔を伏せる",
+        "青い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が片足を上げて歩くように動き、周囲に複数のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "25188",
+      "name": {
+        "ja": "ハートを振りまく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "歩く",
+        "片足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が横向きに走り、背後に速さを示す線が伸びている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "25189",
+      "name": {
+        "ja": "急いで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "横向き",
+        "速さ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物の上に星ときらめきがあり、上部に「Thank you」と書かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "25190",
+      "name": {
+        "ja": "Thank youを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Thank you",
+        "感謝",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つのピンク色の動物が重なるように描かれ、上部に「Bye Bye」と書かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "25191",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "Bye Byeと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Bye Bye",
+        "別れ",
+        "二つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が正面を向き、目を閉じた穏やかな笑顔を見せている。頭の左右に白い雲のような飾りがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "25192",
+      "name": {
+        "ja": "ふんわり笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "穏やか",
+        "白い飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が正面を向いて立ち、左右に星形のきらめきがある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "25193",
+      "name": {
+        "ja": "きらりと立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立つ",
+        "星",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が両手を下げ、青い線としずくに囲まれてあわてている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "25194",
+      "name": {
+        "ja": "あわてて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あわてる",
+        "汗",
+        "青い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が目を閉じてうつむき、頬を赤らめたような表情をしている。周囲にハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "25195",
+      "name": {
+        "ja": "照れてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "うつむく",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が青い縦線の下で震えるように立ち、背後に黄色い爆発形の背景がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "25196",
+      "name": {
+        "ja": "びっくり大慌て"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "震え",
+        "黄色い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が胸元で手を合わせ、片側に小さなハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "25197",
+      "name": {
+        "ja": "そっと寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寄り添う",
+        "ハート",
+        "手元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が縦の仕切りの横から顔をのぞかせ、そばに青い小物と点線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "25198",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "仕切り",
+        "青い小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が目を閉じて笑い、周囲に星のきらめきと小さなハートが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "25199",
+      "name": {
+        "ja": "星をまとって喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "星",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が小さな青い飾りのようなものと寄り添い、周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "25200",
+      "name": {
+        "ja": "仲良く抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱き合う",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が背中を向けて立ち、頭上に青い縦線、足元に青い影がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "25201",
+      "name": {
+        "ja": "背中を向けてしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "しょんぼり",
+        "青い影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が花のような大きな飾りを頭につけ、うつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "25202",
+      "name": {
+        "ja": "花飾りでうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "花飾り",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が湯船のような器に入り、手桶を持ってくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "25203",
+      "name": {
+        "ja": "お風呂でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お風呂",
+        "湯船",
+        "ひと休み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い帽子のようなものをかぶったピンク色の動物が、青い小物を持って歌い、周囲に音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25204",
+      "name": {
+        "ja": "音符と歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歌う",
+        "音符",
+        "青い小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が白い羽のようなものを広げ、星のきらめきの中を飛んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25205",
+      "name": {
+        "ja": "羽ばたいて登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "羽",
+        "飛ぶ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つのピンク色の動物が、ケーキや飲み物のようなものを囲んで並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "25206",
+      "name": {
+        "ja": "甘いものを囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ケーキ",
+        "飲み物",
+        "二つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が台の上に立ち、青い縦線に囲まれて震えている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "25207",
+      "name": {
+        "ja": "台の上で震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震える",
+        "台",
+        "青い縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が両手を前に出して走り、背後に青いしずくと速さの線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "25208",
+      "name": {
+        "ja": "急いで駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "速さ",
+        "しずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物がピンク色の寝床に横たわり、上に「Z-Z」の文字が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "25209",
+      "name": {
+        "ja": "おやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "寝床",
+        "Z-Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が白い衣装のようなものを身につけ、手に小さな丸い物を持って立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "25210",
+      "name": {
+        "ja": "てるてる飾りで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い衣装",
+        "立つ",
+        "小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が片手を上げ、横にピンク色の吹き出しで「OK」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "25211",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "片手",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が目を閉じて困った表情をし、胸元の青い吹き出しに「NO」と表示されている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "25212",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が正面を向き、横に大きなピンク色の疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "25213",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "質問",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が目を閉じて青い小物を口元に当て、上に「CHU」とハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "25214",
+      "name": {
+        "ja": "CHUと投げキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "CHU",
+        "キス",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が正面で手を合わせるように立ち、下部に「Sorry...」と書かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "25215",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "Sorryと謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Sorry",
+        "謝罪",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が花飾りをつけ、花びらと星のきらめきの中で片足を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "25216",
+      "name": {
+        "ja": "花と一緒に舞う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "舞う",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が両手を広げ、赤い大きなハートとピンクのハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "25217",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "喜び",
+        "両手"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1387",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

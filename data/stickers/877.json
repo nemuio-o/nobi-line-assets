@@ -1,0 +1,1132 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色い猫たちが寄り添い、頭上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13263",
+      "name": {
+        "ja": "猫たちが寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ハート",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が体を丸め、縞模様のある殻のようなものに包まれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13264",
+      "name": {
+        "ja": "黄色い猫が丸まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い猫",
+        "丸まる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫の頭に小さなキャラクターが乗り、周囲に星が散っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "13265",
+      "name": {
+        "ja": "星をまとって驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "星",
+        "頭に乗る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が赤いものに囲まれ、頭上に汗のような線を浮かべている。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "13266",
+      "name": {
+        "ja": "赤いものに囲まれて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "汗",
+        "赤いもの"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い大きなキャラクターのそばに、小さな茶色い猫が並んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "13267",
+      "name": {
+        "ja": "白いキャラクターと並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いキャラクター",
+        "猫",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が笑顔で正面を向き、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13268",
+      "name": {
+        "ja": "きらめきの中で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "きらめき",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が目を閉じ、体を低くして眠そうに横たわっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "13269",
+      "name": {
+        "ja": "眠そうに横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い猫",
+        "眠い",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫のそばで青い服の人が口元を覆い、周囲に赤い驚きの線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "13270",
+      "name": {
+        "ja": "人と一緒に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "人",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の猫が小さな白い生き物を頭に乗せ、周囲に揺れの線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "13271",
+      "name": {
+        "ja": "小さな生き物を頭に乗せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫の猫",
+        "頭に乗せる",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が頬をふくらませ、左右に息のような線を出している。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "13272",
+      "name": {
+        "ja": "ほっぺをふくらませる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ふくれっ面",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が横向きになり、目元に小さな涙を浮かべている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "13273",
+      "name": {
+        "ja": "横を向いてしょんぼりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "涙",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が笑顔で座り、周囲を赤やピンクのハートが囲んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13274",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い猫",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が正面を向いて立ち、頭上に小さな点が並んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "13275",
+      "name": {
+        "ja": "ぼんやり立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ぼんやり",
+        "点"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の猫が横になり、そばに小さな杖のようなものときらめきが描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13276",
+      "name": {
+        "ja": "魔法のように横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫の猫",
+        "横になる",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が舌を出して笑い、右上に赤い動きの線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13277",
+      "name": {
+        "ja": "舌を出して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い猫",
+        "舌",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫の上に小さな猫が重なり、周囲に花が咲いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13278",
+      "name": {
+        "ja": "花に囲まれて重なる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "花",
+        "重なる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が体を平たく伸ばし、横になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "13279",
+      "name": {
+        "ja": "ぺたんこになって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ぺたんこ",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の猫が頬を赤らめ、舌を出している。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "13280",
+      "name": {
+        "ja": "舌を出して照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫の猫",
+        "赤面",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人が手を合わせ、そばで茶色い猫が座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13281",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "人と並んで祈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "人",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が赤い炎のような線を背にして、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13282",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い猫",
+        "走る",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が正面を向き、静かに座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13283",
+      "name": {
+        "ja": "落ち着いて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い猫",
+        "正面",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が汗をかき、体の周りに汗のしずくが描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "13284",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い猫",
+        "汗",
+        "困る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が茶色い猫の頭の上に乗り、上から多数の線が降りている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "13285",
+      "name": {
+        "ja": "頭を抱えて悩む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い猫",
+        "茶色い猫",
+        "悩む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫の周囲を小さな猫のようなものが飛び、星が散っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "13286",
+      "name": {
+        "ja": "小さなものが飛び回る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "飛ぶ",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色、茶色、白の猫が横一列に並び、体を伸ばしている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13287",
+      "name": {
+        "ja": "並んで伸びる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三匹の猫",
+        "並ぶ",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色、茶色、白の猫が横一列に並び、静かに寝そべっている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13288",
+      "name": {
+        "ja": "三匹で寝そべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三匹の猫",
+        "寝そべる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが黄色い本を開き、そばに茶色い猫が座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13289",
+      "name": {
+        "ja": "本を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "白いキャラクター",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が横になり、上に小さなキャラクターと音符が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "13290",
+      "name": {
+        "ja": "音楽を聴きながら休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "音符",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い大きなキャラクターが後ろ姿で立ち、片側に動きの線がある。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "13291",
+      "name": {
+        "ja": "後ろ姿で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いキャラクター",
+        "後ろ姿",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の茶色い猫が寄り添って横になり、周囲に星が浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "13292",
+      "name": {
+        "ja": "寄り添って眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二匹の猫",
+        "寄り添う",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽい猫の頭上に食べ物や飲み物の絵が浮かび、考え込んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "13293",
+      "name": {
+        "ja": "食べ物を思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "食べ物",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三日月の上に二匹の茶色い猫が座り、周囲に星が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "13294",
+      "name": {
+        "ja": "月の上でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "三日月",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターを中央に、茶色い猫たちが左右から囲んでいる。上には小さな黄色いキャラクターがいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "13295",
+      "name": {
+        "ja": "三匹で囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "白いキャラクター",
+        "囲む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三匹の茶色い猫が並び、花や音符に囲まれて楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13296",
+      "name": {
+        "ja": "音楽を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三匹の猫",
+        "音符",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫の頭にケーキが乗り、周囲に紙吹雪と音符が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13297",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ケーキで祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ケーキ",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が赤と黄色のリボンが付いたプレゼントを抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13298",
+      "name": {
+        "ja": "プレゼントを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "プレゼント",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が体を丸め、周囲に震えの線が描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "13299",
+      "name": {
+        "ja": "小刻みに震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "震える",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫の背中に白いキャラクターが乗り、茶色い猫が立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "13300",
+      "name": {
+        "ja": "上に乗られて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "白いキャラクター",
+        "乗る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が汗をかいて横になり、背中に黄色い猫が乗っている。そばに白い小物がある。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "13301",
+      "name": {
+        "ja": "暑さで汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "汗",
+        "暑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が扇風機の前で横になり、風を受けている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13302",
+      "name": {
+        "ja": "扇風機の風を浴びる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "扇風機",
+        "風"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "877",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

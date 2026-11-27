@@ -1,0 +1,1141 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "斑点のある子鹿の頭にピンク色の蝶がとまり、横にHelloの文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "22570",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "蝶をのせてあいさつする子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "蝶",
+        "Hello"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いうさぎが色とりどりの花に囲まれ、Thank youの文字が添えられている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "22571",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花に囲まれて感謝を伝えるうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "花",
+        "Thank you"
+      ]
+    },
+    {
+      "description": {
+        "ja": "斑点のある子鹿が横向きに立ち、そばにOKの文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "22572",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKと返す子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "OK",
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが腕を組んで座り、横にNoの文字がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22573",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "腕を組んで断るうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "腕組み",
+        "No"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが両手を前に出して座り、頭上に疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "22574",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげて尋ねるうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "疑問",
+        "クエスチョン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "斑点のある子鹿が横を向いて立ち、頭上に三つの点が並んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22575",
+      "name": {
+        "ja": "無言で見つめる子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "無言",
+        "三点リーダー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色と白の小さなうさぎたちが横一列に走り、上に感嘆符が並んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "22576",
+      "name": {
+        "ja": "列になって急ぐうさぎたち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "行列",
+        "感嘆符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿とうさぎが並び、上にBye Byeの文字がある。"
+      },
+      "emotion": [
+        "love",
+        "sadness"
+      ],
+      "id": "22577",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "連れ立って別れを告げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "うさぎ",
+        "Bye Bye"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿が顔を上向きにして口を開け、そばに音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22578",
+      "name": {
+        "ja": "音符と一緒に歌う子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "音符",
+        "歌う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と白の毛を持つ動物が横向きに立ち、大きなふさふさしたしっぽを後ろに広げている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22579",
+      "name": {
+        "ja": "しっぽを広げて立つ動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒白の動物",
+        "大きなしっぽ",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿が色とりどりの花に囲まれ、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "22580",
+      "name": {
+        "ja": "花束の中で笑う子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "花",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが仰向けになり、手足を上げた姿勢で口元に丸い物を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "22581",
+      "name": {
+        "ja": "仰向けで手足を上げるうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "仰向け",
+        "手足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが横向きに走り、後ろに波形の動き線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "22582",
+      "name": {
+        "ja": "勢いよく走るうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "走る",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿とうさぎが花の咲く地面に座り、体を寄せている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22583",
+      "name": {
+        "ja": "花の上で寄り添う二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "うさぎ",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが両手足を広げて踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22584",
+      "name": {
+        "ja": "音符と踊るうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "音符",
+        "ダンス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と白の動物が花の上に座り、前足を顔に添えてうつむいている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "22585",
+      "name": {
+        "ja": "花の上でうつむく動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒白の動物",
+        "花",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いうさぎが胸の前で手を組み、周囲にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22586",
+      "name": {
+        "ja": "ハートを抱えて喜ぶうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "ハート",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが体を後ろに傾けて滑り、足元に衝撃線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "22587",
+      "name": {
+        "ja": "滑って転びそうなうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "転倒",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いうさぎと子鹿が花の咲く場所に座り、大きな茶色いしっぽのようなものが背後に見える。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "22588",
+      "name": {
+        "ja": "大きなしっぽのそばで憩う二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "子鹿",
+        "大きなしっぽ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色と黄色のうさぎが鼻先を寄せ、頭上にピンク色のハートがある。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "22589",
+      "name": {
+        "ja": "鼻を寄せる二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と白の動物が前足を差し出し、周囲にハートと花びらが舞っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22590",
+      "name": {
+        "ja": "ハートを差し出す動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒白の動物",
+        "ハート",
+        "手渡す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の子鹿が花の咲く地面で向かい合い、間に小さなハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22591",
+      "name": {
+        "ja": "向かい合う子鹿たち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "二匹",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と灰色のうさぎが背中合わせに座り、上にLoveの文字とハートがある。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "22592",
+      "name": {
+        "ja": "背中合わせで愛を示す二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "背中合わせ",
+        "Love"
+      ]
+    },
+    {
+      "description": {
+        "ja": "草花のある草地に黒白の動物、うさぎ、子鹿が並び、上空を蝶が飛んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "22593",
+      "name": {
+        "ja": "草地に集まる動物たち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "草地",
+        "動物たち",
+        "蝶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが片手で顔をぬぐい、頭の横に青い汗のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "22594",
+      "name": {
+        "ja": "汗をぬぐううさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "汗",
+        "ぬぐう"
+      ]
+    },
+    {
+      "description": {
+        "ja": "斑点のある子鹿が体を横に向け、目だけをこちらへ向けている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "22595",
+      "name": {
+        "ja": "横目で振り返る子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "横目",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが体を伸ばして地面に伏せ、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "22596",
+      "name": {
+        "ja": "床に伏せるうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "横たわる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿が背中を向けて立ち、左側に細い縦線が並んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "22597",
+      "name": {
+        "ja": "背中を向けて立ち尽くす子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "後ろ姿",
+        "縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿が脚を広げて身を低くし、頭の横にギザギザした線がある。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "22598",
+      "name": {
+        "ja": "身を低くして身構える子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "身構える",
+        "波線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが足を前に投げ出して座り、頭上に雲形の吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "22599",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "考え込みながら座るうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "考える",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と白の動物が腕を組み、横を見ながら立っている。頭の横に短い曲線がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "22600",
+      "name": {
+        "ja": "腕を組んで戸惑う動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒白の動物",
+        "腕組み",
+        "戸惑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿が口元に前足を添え、頭の横に小さな曲線が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "22601",
+      "name": {
+        "ja": "口元に手を添える子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "口元",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いふくろうが枝にとまり、上に緑の葉が垂れている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22602",
+      "name": {
+        "ja": "枝にとまるふくろう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふくろう",
+        "枝",
+        "木の葉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒白の動物とうさぎが肩を寄せ、二匹とも目を細めて笑っている。周囲に淡い光がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22603",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "肩を寄せて微笑む二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒白の動物",
+        "うさぎ",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "斑点のある子鹿が横向きになり、振り返って目を細めている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "22604",
+      "name": {
+        "ja": "振り返って微笑む子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "微笑み",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いうさぎが両手で頬を押さえて笑い、頭上にYummyの文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "22605",
+      "name": {
+        "ja": "おいしくて頬を押さえるうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "おいしい",
+        "Yummy"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿とうさぎが木の幹の陰から顔を出し、こちらを見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "22606",
+      "name": {
+        "ja": "木の陰から顔を出す二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "うさぎ",
+        "木の陰"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿が草地に横たわり、頭上に小さな泡が二つ浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "22607",
+      "name": {
+        "ja": "草地で横になる子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "横たわる",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒白の動物が青い夜空の下で立ち、星と細い月を見上げている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "22608",
+      "name": {
+        "ja": "星空を見上げる動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒白の動物",
+        "夜空",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "子鹿が体を丸めて横になり、上にZの記号が並んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "22609",
+      "name": {
+        "ja": "丸まって眠る子鹿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子鹿",
+        "眠る",
+        "Z"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1271",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

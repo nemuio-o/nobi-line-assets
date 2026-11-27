@@ -1,0 +1,1159 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "花飾りの髪の人物が両手を頬に添え、目を見開いたような表情で立っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1908",
+      "name": {
+        "ja": "頬をおさえる驚き"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "頬",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕で色のついた花束を抱え、周囲に小さなハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "1909",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花束を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "ハート",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が花を手にして身を寄せるように座り、周囲をハートが囲んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "1910",
+      "name": {
+        "ja": "花とハートに囲まれて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "ハート",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りの人物が片手を頬に添え、もう一方の手を上げながら微笑んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "1911",
+      "name": {
+        "ja": "頬に指を添えて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "微笑み",
+        "頬",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を口元に寄せ、頭の横に大きな疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1912",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "困惑",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を顎に添え、目を細めた表情で周囲のきらめきに包まれている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "1913",
+      "name": {
+        "ja": "静かなうっとり顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うっとり",
+        "顎に手",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を口元に当て、横向きの顔から勢いよく声を出すような線が伸びている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "1914",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "勢いよく呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "呼びかけ",
+        "口元",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が涙を流しながら、片手で小さな骸骨模様の丸い物を差し出している。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "1915",
+      "name": {
+        "ja": "涙と小さな骸骨"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "骸骨",
+        "差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸の前で手を合わせ、ピンクのハートと英字のそばでお願いするように見つめている。"
+      },
+      "emotion": [
+        "love",
+        "gratitude"
+      ],
+      "id": "1916",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を合わせてお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お願い",
+        "手を合わせる",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなリボンの人物が片手を上げ、もう一方の手で小さく合図しながら笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "1917",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKの手振り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "手振り",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を胸元で握り、英字のそばで目を閉じて嬉しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "1918",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "グッドポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グッド",
+        "喜び",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が花の輪に囲まれて横たわり、目を閉じて眠るようにしている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "1919",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "花に囲まれたおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おやすみ",
+        "花",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を顔の近くに上げ、花と英字に囲まれて別れを告げるようにしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "1920",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振るバイバイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バイバイ",
+        "花",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が枕に顔を伏せて横になり、頭上に眠りを示す文字が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1921",
+      "name": {
+        "ja": "枕でお昼寝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "枕",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の人物が目を細め、額に汗を浮かべたまま立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "1922",
+      "name": {
+        "ja": "汗を浮かべた困り顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困り顔",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を口元に当て、驚いたように目を見開いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "1923",
+      "name": {
+        "ja": "口元を覆う驚き"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "口元",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を頬に添え、そばに浮かぶハートを見つめている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "1924",
+      "name": {
+        "ja": "頬に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "頬",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横顔を見せ、耳元の花飾りに手を添えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "1925",
+      "name": {
+        "ja": "横顔と髪飾り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "花飾り",
+        "手元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の横顔が大きな花の輪ときらめきに囲まれて描かれている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "1926",
+      "name": {
+        "ja": "花に囲まれて横顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "横顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を高く上げて手を振り、周囲に汗のしずくを飛ばしている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "1927",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "汗を飛ばして手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "汗",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横を向いて眉を寄せ、頭上に渦巻く線と口元の小さな器が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "1928",
+      "name": {
+        "ja": "湯気を立てて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "渦巻き",
+        "器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が壁際で頭を抱えるようにうつむき、周囲に重たそうな線が広がっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "1929",
+      "name": {
+        "ja": "壁際でうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "壁際",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い服の人物を後ろから濃い服の人物が包むように抱きしめ、周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "1930",
+      "name": {
+        "ja": "背中から抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "二人",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸元で両手を合わせ、頬を赤らめながらハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "gratitude"
+      ],
+      "id": "1931",
+      "name": {
+        "ja": "胸元で手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "手を合わせる",
+        "照れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い影の人物がうつむいて立ち、背後に白い稲妻のような線が走っている。"
+      },
+      "emotion": [
+        "fear",
+        "anger"
+      ],
+      "id": "1932",
+      "name": {
+        "ja": "稲妻を背負う影"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "影",
+        "稲妻",
+        "緊張"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなリボンの人物が両手で口元を覆い、目を見開いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "1933",
+      "name": {
+        "ja": "両手で口を覆う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "口元",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて立ち、頭の上にクリーム状の小さなケーキをのせている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "1934",
+      "name": {
+        "ja": "ケーキを頭にのせて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ケーキ",
+        "頭上",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンの人物が腕を組み、眉をひそめた不満そうな表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "1935",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "腕組みでむっとする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "腕組み",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で頭を抱え、周囲に波打つ線を出しながら困っている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "1936",
+      "name": {
+        "ja": "頭を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困惑",
+        "頭を抱える",
+        "波線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸の前で手を合わせ、大小のハートに囲まれて頬を赤らめている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "1937",
+      "name": {
+        "ja": "ハートに囲まれた笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を握りしめて前に出し、頭の横に花飾りをつけたまま怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "1938",
+      "name": {
+        "ja": "花を添えて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "握りこぶし",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなリボンの人物が体を折り曲げ、頭を低くして深々とおじぎしている。"
+      },
+      "emotion": [
+        "sadness",
+        "gratitude"
+      ],
+      "id": "1939",
+      "intent": [
+        "apology",
+        "thanks"
+      ],
+      "name": {
+        "ja": "深く頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "謝意",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横たわり、顔の近くに花を抱えるようにして穏やかに目を閉じている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "1940",
+      "name": {
+        "ja": "花を抱えて横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "横たわる",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きなドル記号のついた袋を抱え、頬を赤らめて嬉しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1941",
+      "name": {
+        "ja": "袋を抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "袋",
+        "ドル記号",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を潤ませ、顔の周囲に波打つ線を出しながら不安そうにしている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "1942",
+      "name": {
+        "ja": "汗と涙の困り顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "汗",
+        "不安"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を頭に添え、もう一方の手に細長い物を持ちながらきらめきの中で立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "1943",
+      "name": {
+        "ja": "きらめく身支度"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "身支度",
+        "手元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で顔を覆い、髪と手の間に表情を隠している。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "1944",
+      "name": {
+        "ja": "顔を隠して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を覆う",
+        "落ち込み",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腰を曲げて顔を伏せ、手元の瓶のそばでじっとしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "1945",
+      "name": {
+        "ja": "瓶のそばでうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "瓶",
+        "うつむく",
+        "腰を曲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が本を開いて読み、頭上に積まれた本とそばの小物に囲まれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1946",
+      "name": {
+        "ja": "本を開いて勉強中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "読書",
+        "勉強",
+        "積んだ本"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに寝そべり、片脚を上げた姿勢で小さな物を手にしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "1947",
+      "name": {
+        "ja": "横たわって手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "片脚",
+        "小物"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "442",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

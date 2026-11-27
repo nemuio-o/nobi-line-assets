@@ -1,0 +1,1146 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色い髪の人物が口を大きく開け、赤い舌を見せて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "21103",
+      "name": {
+        "ja": "口を開けて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "大きな口",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い顔の人物が目を細め、口をゆがめて苦しそうな表情をしている。"
+      },
+      "emotion": [
+        "disgust",
+        "surprise"
+      ],
+      "id": "21104",
+      "name": {
+        "ja": "むせながら苦笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "苦い顔",
+        "青い顔",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子の人物が両手を広げ、紙吹雪や花のような飾りに囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21105",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "派手にお祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お祝い",
+        "紙吹雪",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が目を見開き、手を口元に当てて慌てている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21106",
+      "name": {
+        "ja": "慌てて口を押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "口元",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が親指を立て、上にYESと描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21107",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指でイエス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "親指",
+        "賛成"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横向きの人物が険しい顔で口を結び、そばに赤いNOと描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21108",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "きっぱりノー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が両手を握り、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21109",
+      "name": {
+        "ja": "声を張って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "怒り",
+        "握りこぶし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が体を丸め、横向きに横たわっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21110",
+      "name": {
+        "ja": "丸まって横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "丸まる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が器のような食べ物を手に持ち、口を開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "21111",
+      "name": {
+        "ja": "食べ物を抱えて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べ物",
+        "器",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の顔の人物が飲み物の入ったグラスを持ち、もう片方の手を広げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21112",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ピンク顔で乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "乾杯",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い顔の人物が座り込み、目から大粒の涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "21113",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "座り込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな青い波の上で両手を上げ、口を開けて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21114",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "波に乗って大喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "波",
+        "両手",
+        "大喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が青い毛布のようなものにくるまり、顔だけを出している。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21115",
+      "name": {
+        "ja": "毛布にくるまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "毛布",
+        "くるまる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が飾りのある椅子に座り、胸の前で手を合わせている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "21116",
+      "name": {
+        "ja": "椅子で静かに祈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祈る",
+        "椅子",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がうつぶせに横たわり、腕を前に伸ばして疲れ切っている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "21117",
+      "name": {
+        "ja": "顔を伏せてへとへと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲労",
+        "うつぶせ",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が前へ走り、後ろに黒い動きの線が伸びている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "21118",
+      "name": {
+        "ja": "急いで逃げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "逃げる",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が大きな青い人物に抱えられ、驚いた表情をしている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "21119",
+      "name": {
+        "ja": "大きな人物に抱えられる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱える",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が前方へ勢いよく走り、髪や服が後ろへなびいている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21120",
+      "name": {
+        "ja": "風を切って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "疾走",
+        "風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が緑色の衣装をなびかせ、前へ走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21121",
+      "name": {
+        "ja": "緑の衣装で駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "緑の衣装",
+        "赤い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が小さなバッグを持ち、横向きに走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21122",
+      "name": {
+        "ja": "荷物を持って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "バッグ",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い顔の人物が汗をかき、歯を見せて緊張した表情をしている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "21123",
+      "name": {
+        "ja": "汗だくでこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "緊張",
+        "青い顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い顔の人物が目を大きく見開き、口を開けて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21124",
+      "name": {
+        "ja": "目を見開いて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "目を見開く",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の顔の人物が目を丸くし、口元を上げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21125",
+      "name": {
+        "ja": "緑の顔でにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "緑の顔",
+        "にっこり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い顔の人物が涙を流し、口を結んでうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "21126",
+      "name": {
+        "ja": "青ざめて泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "青ざめる",
+        "悲しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "薄い桃色の顔の人物が指先を口元に当て、満足そうにしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21127",
+      "name": {
+        "ja": "指をなめて満足"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "満足",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、口を大きく開けたまま力なくしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "21128",
+      "name": {
+        "ja": "口を開けてぐったり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲れ",
+        "目を閉じる",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤毛の人物が両手を広げ、口を開けて驚いたようにしている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "21129",
+      "name": {
+        "ja": "両手を広げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "赤毛"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が口を開け、胸元で両手を組んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "21130",
+      "name": {
+        "ja": "胸元で手を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "胸元",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が首をかしげ、頭の上に紫色の疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "21131",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげて疑問"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "首をかしげる",
+        "質問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向いて無表情に立ち、横に縦の点が描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21132",
+      "name": {
+        "ja": "無言で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "無表情",
+        "沈黙",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤毛の人物が横を向き、目を閉じて力なく立っている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "21133",
+      "name": {
+        "ja": "横を向いてため息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ため息",
+        "目を閉じる",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤毛の人物が眉をひそめ、歯を見せて怒った表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21134",
+      "name": {
+        "ja": "顔をしかめて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "しかめ顔",
+        "歯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が腕を組み、口を大きく開けて強く叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21135",
+      "name": {
+        "ja": "腕を組んで怒鳴る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "腕組み",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い顔の人物が縦の物陰から顔を出し、うかがうように見ている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "21136",
+      "name": {
+        "ja": "物陰からそっと見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "物陰",
+        "のぞく",
+        "青い顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が床に座り、頭を下げて落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21137",
+      "name": {
+        "ja": "座り込んで落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "座る",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物の隣に小さな白い生き物がいて、周囲に黄色い輝きが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "21138",
+      "name": {
+        "ja": "小さな仲間ときらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "輝き",
+        "小さな仲間",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が顔を赤らめて笑い、頭の上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21139",
+      "name": {
+        "ja": "ハートに囲まれて照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "照れる",
+        "恋心"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が両手を上げ、口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21140",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を上げて大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大笑い",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を上げ、緑色の腰みののような衣装で踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21141",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "腰みの姿で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "腰みの",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大人二人と子ども二人が並んで立ち、家族のようなまとまりを見せている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "21142",
+      "name": {
+        "ja": "みんなで並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "家族",
+        "四人",
+        "並ぶ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1211",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

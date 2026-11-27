@@ -1,0 +1,1141 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黄色い服の人物が両腕を大きく広げ、目を細めて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4641",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "両手いっぱいの笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "両手",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉を寄せて口をゆがめ、胸元で手を握りしめたような表情を見せている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "4642",
+      "name": {
+        "ja": "こらえる不満顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しかめ顔",
+        "こぶし",
+        "動揺"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた人物が眉をひそめ、片手を上げて厳しい目つきで前を見ている。"
+      },
+      "emotion": [
+        "anger",
+        "confusion"
+      ],
+      "id": "4643",
+      "name": {
+        "ja": "眼鏡でにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "険しい目",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を細めて口元をしかめ、両手を握りしめた姿の背後で炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "4644",
+      "name": {
+        "ja": "燃えるしかめ顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "握りこぶし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が顔を覆うようにして泣き、両目から青い涙が滝のように流れ落ちている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "4645",
+      "name": {
+        "ja": "涙の大洪水"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "青いしずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が布団に横たわり、頭に青い袋のようなものを載せてぐったりしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "4646",
+      "name": {
+        "ja": "冷えた布団"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寝床",
+        "氷のう",
+        "休養"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に座り込んで頭を深く下げ、背中に大きな青い汗を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "4647",
+      "name": {
+        "ja": "うつむき汗だく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむき",
+        "汗",
+        "座り込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて顔をしかめ、周囲に渦巻きが浮かぶ中でふらついている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "4648",
+      "name": {
+        "ja": "目が回る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目まい",
+        "渦巻き",
+        "ふらつき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頬を赤くして歯を食いしばり、胸元で両手を固く握っている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "4649",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食いしばり",
+        "赤い頬",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が頬を赤らめて立ち、周囲にいくつもの赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4650",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ハートをまとって"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "赤い服",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を固く閉じて大泣きし、片手を顔のそばに添えながら立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "4651",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣き顔",
+        "手元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が膝をそろえて座り、手を前に置いて穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4652",
+      "name": {
+        "ja": "にっこり正座"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "座る",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪をまとめた人物が目を閉じて立ち、足元には赤い飾りの付いた小さな丸い時計のような物がある。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "4653",
+      "name": {
+        "ja": "小さな時計と立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立ち姿",
+        "時計",
+        "小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い座席のある車内で人物がつり革につかまり、ピンク色の小さな物を口元に近づけている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4654",
+      "name": {
+        "ja": "車内でひと口"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乗り物",
+        "座席",
+        "ピンクの小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い目の人物がにっこり微笑み、淡いピンクのバラときらめきに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4655",
+      "name": {
+        "ja": "バラに囲まれて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バラ",
+        "きらめき",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開けて食べ物を頬張り、片手に白いカップのような物を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4656",
+      "name": {
+        "ja": "おいしく頬張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "頬張る",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が泡の立つジョッキを高く掲げ、もう一方の手に小さな食べ物を持って楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4657",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ジョッキで乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジョッキ",
+        "乾杯",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が手を取り合って踊り、周囲に黒い音符がいくつも浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4658",
+      "name": {
+        "ja": "音符のダンス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ダンス",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床にうつ伏せになり、腕と脚を投げ出したまま動けずにいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "4659",
+      "name": {
+        "ja": "力尽きて伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつ伏せ",
+        "疲労",
+        "床"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いリボン状のタオルを頭に巻いた人物が湯船につかり、目を閉じて気持ちよさそうにしている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4660",
+      "name": {
+        "ja": "湯船でほっと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "入浴",
+        "タオル",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が料理や小皿の並ぶ食卓の前に座り、目を閉じて満足そうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4661",
+      "name": {
+        "ja": "食卓のごちそう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "料理",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が鏡の前で目を閉じて身支度をし、鏡の端から別の人物が顔をのぞかせている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4662",
+      "name": {
+        "ja": "鏡の前の身支度"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "身支度",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が机に頬をつけるようにして座り、横に積まれた書類と小さな黄色い物を眺めている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "4663",
+      "name": {
+        "ja": "机でため息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "書類",
+        "夜"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が汗を浮かべた険しい顔で歩き、背後に大きく伸びた黒い影がついている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "4664",
+      "name": {
+        "ja": "影を連れて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "汗",
+        "影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が料理と飲み物の並ぶテーブルを囲み、片方がグラスを掲げて楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "4665",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "二人で食卓"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "食事",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が食卓に並んで座り、手前の皿を囲みながらそれぞれ食事をしている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4666",
+      "name": {
+        "ja": "食卓でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "料理",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の鍵穴の形の中に、音符と人物の黒いシルエットが描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "4667",
+      "name": {
+        "ja": "鍵穴の向こう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鍵穴",
+        "シルエット",
+        "のぞき見"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が小さなチューブを頬に押し当て、目を閉じて中身を塗っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4668",
+      "name": {
+        "ja": "頬にクリーム"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "チューブ",
+        "美容"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が便器の前に身をかがめ、顔を便座に近づけて苦しそうにしている。"
+      },
+      "emotion": [
+        "disgust",
+        "sadness"
+      ],
+      "id": "4669",
+      "name": {
+        "ja": "便器に伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "便器",
+        "うつ伏せ",
+        "体調不良"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体重計の上に立ち、片手に大きなハンバーガーを持っている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "4670",
+      "name": {
+        "ja": "食べ物と体重計"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "体重計",
+        "ハンバーガー",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪をまとめた人物が座布団に座り、目の前の皿から食べ物をつまんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4671",
+      "name": {
+        "ja": "座って食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "座る",
+        "皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が湯気の立つカップを手に持ち、眉をひそめて前を見ている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "4672",
+      "name": {
+        "ja": "湯気のカップ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カップ",
+        "湯気",
+        "不満顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が暗い枠の中から顔と両手を出し、黄色い床の上でこちらをうかがっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4673",
+      "name": {
+        "ja": "暗がりからひょこっ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "暗がり",
+        "のぞく",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つの人物が大きな目を見開いて布団から顔を出し、青い掛け布団にくるまっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4674",
+      "name": {
+        "ja": "布団から驚き顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "寝床",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いマスクを着けた人物が自転車をこぎ、前かごに物を入れて走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "calm"
+      ],
+      "id": "4675",
+      "name": {
+        "ja": "マスクで自転車"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "マスク",
+        "かご"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がピンクのクッションに横たわり、そばに小さな黒い物と音符が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4676",
+      "name": {
+        "ja": "音符とごろ寝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ごろ寝",
+        "音符",
+        "クッション"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪に青いローラーを付けた人物が横になり、そばで茶色い猫が丸まっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "4677",
+      "name": {
+        "ja": "ローラーと猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ヘアローラー",
+        "猫",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "海辺で二人の人物が水しぶきを上げながら走り、砂浜には赤いヒトデが落ちている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4678",
+      "name": {
+        "ja": "浜辺を駆ける二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "海辺",
+        "二人",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "巻き髪の人物が頬を赤らめて微笑み、周囲を星形のきらめきが囲んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "4679",
+      "name": {
+        "ja": "金髪のきらめき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "きらめき",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな黄緑色のリボンを付けた人物が足を組んで座り、両手を顔の横に添えている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4680",
+      "name": {
+        "ja": "大きなリボン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の髪",
+        "リボン",
+        "座る"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "589",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

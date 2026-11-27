@@ -1,0 +1,1127 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "猫が両手を上げ、体を伸ばして喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12695",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が画面の端から顔だけをのぞかせている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "12696",
+      "name": {
+        "ja": "顔をのぞかせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "のぞく",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が体を伸ばし、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "12697",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "走る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫がサングラスをかけ、胸を張ってポーズを取っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12698",
+      "name": {
+        "ja": "サングラスで決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "サングラス",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が黄色いマットの上で横になり、眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "12699",
+      "name": {
+        "ja": "お昼寝する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "昼寝",
+        "マット"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が黄色いバッグを持ち、歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12700",
+      "name": {
+        "ja": "バッグを持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "バッグ",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が前足を伸ばし、体を低くして走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "12701",
+      "name": {
+        "ja": "体を伸ばして走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "走る",
+        "ストレッチ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が飲み物の載ったワゴンを押している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12702",
+      "name": {
+        "ja": "ワゴンを押す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ワゴン",
+        "運ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が青いバケツを持って立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12703",
+      "name": {
+        "ja": "バケツを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "バケツ",
+        "持つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫がオレンジ色の浮き輪に乗り、くつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12704",
+      "name": {
+        "ja": "浮き輪でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "浮き輪",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が立ち、片手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12705",
+      "name": {
+        "ja": "立って手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "手を振る",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が前かがみになり、おじぎをしている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "12706",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "おじぎする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "おじぎ",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が手を上げ、小さな黄色い花を見つめている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12707",
+      "name": {
+        "ja": "小さな花を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "花",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が黄色い飲み物の入ったカップを持っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12708",
+      "name": {
+        "ja": "飲み物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "飲み物",
+        "カップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を見開き、勢いよく飛び出している。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12709",
+      "name": {
+        "ja": "驚いて飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "驚き",
+        "飛び出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が正面を向き、にっこり笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12710",
+      "name": {
+        "ja": "にっこり笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "笑顔",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が正面を向き、すました表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12711",
+      "name": {
+        "ja": "すました顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が体を丸めて横になり、眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "12712",
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "丸まる",
+        "睡眠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が眉を寄せ、怒った表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "12713",
+      "name": {
+        "ja": "怒った顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "怒り",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が眉を下げ、困ったような表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "12714",
+      "name": {
+        "ja": "困った顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "困惑",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を細め、泣きそうな表情をしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "12715",
+      "name": {
+        "ja": "泣きそうな顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "悲しみ",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が胸の前で手を合わせている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "12716",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "手を合わせる",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を閉じた笑顔で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12717",
+      "name": {
+        "ja": "笑顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "笑顔",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫の手が黄色い花を差し出している。"
+      },
+      "emotion": [
+        "gratitude",
+        "love"
+      ],
+      "id": "12718",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "黄色い花を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "花",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫の足元に四つ葉のクローバーが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "12719",
+      "name": {
+        "ja": "四つ葉を見つける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "四つ葉",
+        "幸運"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が後ろ姿で静かにたたずんでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12720",
+      "name": {
+        "ja": "後ろ姿でたたずむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "後ろ姿",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が猫を抱き、笑顔で座っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "12721",
+      "name": {
+        "ja": "子どもと猫を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "猫",
+        "抱く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫がひも付きのオレンジ色のボールで遊んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12722",
+      "name": {
+        "ja": "ひも付きボールで遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ボール",
+        "遊ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "毛の長い猫が座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12723",
+      "name": {
+        "ja": "長毛の猫が座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "長毛",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫の足先がこちらに向き、肉球を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "12724",
+      "name": {
+        "ja": "肉球を見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "肉球",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫の肉球がこちらを向き、挨拶するように上がっている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12725",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "肉球で挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "肉球",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頭に布を巻き、飲み物を持って座っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "12726",
+      "name": {
+        "ja": "飲み物を持って休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "飲み物",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が猫を抱いて座っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "12727",
+      "name": {
+        "ja": "猫を抱いて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "猫",
+        "抱く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組み、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12728",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組み、穏やかな表情で立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12729",
+      "name": {
+        "ja": "腕を組んで微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "腕組み",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が襟巻きのような衣服を身につけ、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12730",
+      "name": {
+        "ja": "襟巻きをして立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "襟巻き",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が帽子をかぶり、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12731",
+      "name": {
+        "ja": "帽子をかぶって立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "帽子",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12732",
+      "name": {
+        "ja": "人が立っている"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "正面",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が穏やかな表情でこちらを見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12733",
+      "name": {
+        "ja": "穏やかに見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "顔",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12734",
+      "name": {
+        "ja": "正面を向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "正面",
+        "顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "858",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

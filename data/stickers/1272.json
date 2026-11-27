@@ -1,0 +1,1114 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑色の姿がオレンジ色の箱の前に立ち、正面を見ている。頭の横にピンク色の花がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22450",
+      "name": {
+        "ja": "箱の前で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "箱",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "薄いピンク色の姿が頬を赤らめ、手を口元に添えている。周囲に複数のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22451",
+      "name": {
+        "ja": "ハートに囲まれて照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "照れ",
+        "赤い頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青色の顔の姿が目を見開き、口を開けている。体の周囲に細かな震えの線がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "22452",
+      "name": {
+        "ja": "青ざめて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い顔",
+        "驚き",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が両目から涙を流し、口を小さく開けて正面を向いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "22453",
+      "name": {
+        "ja": "涙を流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "緑色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が体を前へ傾け、腕を前に出して進んでいる。後方に速さを示す線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "22454",
+      "name": {
+        "ja": "前へ急ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "急ぐ",
+        "前進",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな緑色の姿が立ち止まり、頭上の吹き出しの中に白い小さな顔が描かれている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "22455",
+      "name": {
+        "ja": "小さく立ち止まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "立ち止まる",
+        "小さな姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の姿が横たわり、上方に白い小さな姿が浮かんでいる。周囲に揺れを示す線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "22456",
+      "name": {
+        "ja": "横になって見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "白い姿",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の姿が頬を赤らめて立ち、胸元にハートの矢が描かれている。周囲に小さなハートがある。"
+      },
+      "emotion": [
+        "love",
+        "surprise"
+      ],
+      "id": "22457",
+      "name": {
+        "ja": "ハートの矢を受ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "矢",
+        "赤い頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿がオレンジ色の箱の中から顔を出し、片手を箱の縁に置いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "22458",
+      "name": {
+        "ja": "箱から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "顔を出す",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭部が赤からオレンジ色に染まり、目を細めて口を結んでいる。頭の横に赤い怒りの記号がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "22459",
+      "name": {
+        "ja": "顔を赤くして怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "赤い顔",
+        "怒り記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が片目を閉じ、口元に手を添えている。オレンジ色の箱の前に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "22460",
+      "name": {
+        "ja": "箱の前でウインク"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウインク",
+        "箱",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が目を閉じ、口をすぼめている。顔の横に短い線があり、息を吐くように見える。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "22461",
+      "name": {
+        "ja": "目を閉じて息を吐く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "息",
+        "緑色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が片手の親指を立て、もう片方の手を下げて立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "22462",
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "肯定",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小さな姿が胸元で両手を合わせ、正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22463",
+      "name": {
+        "ja": "胸元で手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い姿",
+        "両手",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い光に包まれたオレンジ色の箱が大きく揺れ、上部に黄色と赤の衝撃マークがある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "22464",
+      "name": {
+        "ja": "箱ごと揺れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "揺れ",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が体を傾け、両手を前に出している。周囲に黄色いきらめきと揺れの線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "22465",
+      "name": {
+        "ja": "よろめいてきらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "よろめき",
+        "きらめき",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が正面を向き、頭上に大きな青い疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "22466",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "困惑",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が目を閉じ、胸元で両手を合わせている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22467",
+      "name": {
+        "ja": "手を合わせて目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "両手",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "耳の長い緑色の姿が花の飾りのある白い鉢から顔を出し、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "22468",
+      "name": {
+        "ja": "花飾りの鉢から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鉢",
+        "花飾り",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と青の小さな姿が目を見開き、体を跳ね上げている。左上にオレンジ色の感嘆符がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "22469",
+      "name": {
+        "ja": "驚いて跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "感嘆符",
+        "跳ねる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色と白色の二つの姿が並び、どちらも前を見ている。周囲に黄色い放射線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "22470",
+      "name": {
+        "ja": "二人で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "放射線",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が目を閉じて微笑み、頭の横に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "22471",
+      "name": {
+        "ja": "目を閉じて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "微笑み",
+        "目を閉じる",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青色の顔の姿がうつむき、体を縮めている。左下に赤いギザギザの線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "22472",
+      "name": {
+        "ja": "青ざめてうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い顔",
+        "うつむく",
+        "ギザギザ線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が横向きになり、片手を口元に添えて前方を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22473",
+      "name": {
+        "ja": "横を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横向き",
+        "口元",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青色の姿が縦に伸びたような形で流れ、周囲に大きな揺れの線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "22474",
+      "name": {
+        "ja": "青く流れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青色",
+        "流れる",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色と白色の二つの姿が並び、背後に大きな赤とオレンジ色の炎が上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "22475",
+      "name": {
+        "ja": "炎を背に並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "炎",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が白い小さな姿を両腕で抱きしめ、周囲にピンク色のハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22476",
+      "name": {
+        "ja": "白い姿を抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱きしめる",
+        "ハート",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りのある青い姿と、青い蝶ネクタイをつけた白い姿が並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "22477",
+      "name": {
+        "ja": "二つの姿が並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "花飾り",
+        "蝶ネクタイ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が目を閉じ、胸元で両手を合わせている。頭の横に大きな花がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22478",
+      "name": {
+        "ja": "目を閉じて手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "両手",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が横たわり、片手を顔の近くに置いて目を閉じている。頭上に黄色い小さな丸がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "22479",
+      "name": {
+        "ja": "横たわって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "休む",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の姿が淡い青色の器の中で横になり、周囲に赤いハートと黄色いきらめきがある。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "22480",
+      "name": {
+        "ja": "ハートの中でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "ハート",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が両手を頭の横に上げ、周囲に青い渦巻きが浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "22481",
+      "name": {
+        "ja": "頭を抱えてくらくらする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "渦巻き",
+        "頭",
+        "くらくら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色や白色の複数の姿が寄り集まり、花の飾りや青い蝶ネクタイが見える。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "22482",
+      "name": {
+        "ja": "みんなで集まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数",
+        "集まる",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿がオレンジ色の台の上に立っている。頭の横に花があり、目を細めている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "22483",
+      "name": {
+        "ja": "台の上で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "台",
+        "花",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い小さな姿が画面の右端から顔を出している。頭にピンク色の花飾りがある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "22484",
+      "name": {
+        "ja": "端から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "右端",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りのある緑色の姿が白い鉢に入り、上に英字で「Thank you」と書かれている。周囲に淡い色の飾りがある。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "22485",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ありがとうを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Thank you",
+        "感謝",
+        "鉢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のサボテンのような姿が立ち、頭と体に青い汗のしずくがある。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "22486",
+      "name": {
+        "ja": "汗をかくサボテン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サボテン",
+        "汗",
+        "緑色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小さな姿が青い蝶ネクタイをつけて走り、後ろに灰色の煙のような雲がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "22487",
+      "name": {
+        "ja": "急いで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "蝶ネクタイ",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の姿が頬を赤らめ、目を細めて微笑んでいる。頭の横に赤いハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22488",
+      "name": {
+        "ja": "頬を赤らめて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "微笑み",
+        "赤い頬",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の姿が目を閉じ、口を開けて眉を寄せている。片手を上げ、顔の横に黄色い線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "22489",
+      "name": {
+        "ja": "目を閉じて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "目を閉じる",
+        "片手"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1272",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1138 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "眼鏡をかけた人物が、満面の笑みで両手の親指を立てている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9127",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "両手で親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた人物が、口を大きく開けて声を出すように笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9128",
+      "name": {
+        "ja": "大きく笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "口を開ける",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の手のひらを前に向け、厳しい表情で制止するようにしている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "9129",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "手のひらを向ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "眼鏡",
+        "制止"
+      ]
+    },
+    {
+      "description": {
+        "ja": "色のついた眼鏡の人物が、背後の赤いバラを背景に片手で横を指している。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "9130",
+      "name": {
+        "ja": "バラを背に指さす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バラ",
+        "指さし",
+        "色眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸元で手を組み、周囲に赤いハートを浮かべながら歩いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9131",
+      "name": {
+        "ja": "胸元で手を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "手を組む",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな帽子をかぶった人物が飲み物を掲げ、音符や色紙を周囲に散らしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9132",
+      "name": {
+        "ja": "音符を散らして乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "グラス",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が文字の入った赤いマイクを持ち、もう一方の手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9133",
+      "name": {
+        "ja": "赤いマイクを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マイク",
+        "赤",
+        "拍手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眼鏡越しに前を見つめ、一本の指を口元に当てて考えているような姿をしている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "9134",
+      "name": {
+        "ja": "指を口元に当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "口元",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を突き出し、前方へ緑色の煙のようなものを勢いよく吹き出している。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "9135",
+      "name": {
+        "ja": "緑の煙を吹き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の煙",
+        "爆発表現",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が箸の立った器と飲み物の前に座り、口をへの字にしている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "9136",
+      "name": {
+        "ja": "麺を前に困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "器",
+        "箸",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が並んだ料理を前に、箸を持つ手を動かしながら食事をしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9137",
+      "name": {
+        "ja": "食事に手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "箸",
+        "皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を頬に添え、眉を下げた表情で立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "9138",
+      "name": {
+        "ja": "頬に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "手",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いマフラーを巻いた人物が、風にあおられたように腕を上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "9139",
+      "name": {
+        "ja": "風に飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風",
+        "マフラー",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤いマフラーをなびかせ、目から大きな青い涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "9140",
+      "name": {
+        "ja": "涙を流して叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "マフラー",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が青い涙を流し、片手を前へ伸ばしながら立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9141",
+      "name": {
+        "ja": "汗をかいて手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "汗",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が四つんばいになり、涙を流してうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9142",
+      "name": {
+        "ja": "四つんばいで泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四つんばい",
+        "涙",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が携帯端末のような画面を手にし、疑問符と汗を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "9143",
+      "name": {
+        "ja": "端末を見て戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "端末",
+        "疑問符",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が吹き出しを伴って立ち、片手の親指を立てている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "9144",
+      "name": {
+        "ja": "吹き出しと親指"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "親指",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が扇子のようなものを掲げ、文字入りの冊子を抱えて大量の汗をかいている。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "9145",
+      "name": {
+        "ja": "暑さに汗を流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "扇子",
+        "雑誌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が鞄を頭にかぶせ、雨の中を勢いよく走っている。"
+      },
+      "emotion": [
+        "sadness",
+        "excitement"
+      ],
+      "id": "9146",
+      "name": {
+        "ja": "雨の中を駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "走る",
+        "鞄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い色で描かれた人物が、片方の拳を前に突き出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "9147",
+      "name": {
+        "ja": "拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "黒い影",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い顔の人物が歯を食いしばり、拳を握って怒りを示している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "9148",
+      "name": {
+        "ja": "怒って拳を握る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い顔",
+        "拳",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開け、汗をかきながら大声で叫んでいるように描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "9149",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "汗",
+        "縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が座り込み、赤い布を引っぱりながら、そばに置かれた瓶を見ている。"
+      },
+      "emotion": [
+        "tired",
+        "anger"
+      ],
+      "id": "9150",
+      "name": {
+        "ja": "赤い布を引っぱる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い布",
+        "瓶",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が立ち、足元に緑色の液体のようなものと容器が見えている。"
+      },
+      "emotion": [
+        "surprise",
+        "sadness"
+      ],
+      "id": "9151",
+      "name": {
+        "ja": "飲み物をこぼす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "こぼす",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い帽子の人物が水に入り、前に浮かぶ黄色いアヒルのおもちゃを見ている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "9152",
+      "name": {
+        "ja": "水風呂でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水",
+        "アヒル",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子とリュックを身につけた人物が、屋外で片手を伸ばして方向を指している。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "9153",
+      "name": {
+        "ja": "野外で道を指す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "リュック",
+        "指さし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い鉢植えの植物の前にしゃがみ、手入れをしている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "9154",
+      "name": {
+        "ja": "鉢植えを手入れする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鉢植え",
+        "植物",
+        "手入れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "炎を背に腕を組んだ大きな人物の前で、別の小さな人物がうずくまっている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "9155",
+      "name": {
+        "ja": "怒った人物に囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "腕組み",
+        "小さな人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が、隣の人物の赤い服をつかんで引っぱっている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "9156",
+      "name": {
+        "ja": "服を引っぱられる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "服",
+        "引っぱる",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が机に肘をつき、飲み物と小皿を前にして食事をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9157",
+      "name": {
+        "ja": "机で食事をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "食事",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い背もたれの椅子に座り、飲み物を手にしてうなだれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9158",
+      "name": {
+        "ja": "椅子でうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "うつむく",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白いうさぎのような相手と並んで座り、肩を寄せている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "9159",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "隣で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "隣り合う",
+        "うさぎ",
+        "肩を寄せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んで立ち、片方がもう片方の腕に手を添えている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "9160",
+      "name": {
+        "ja": "二人で腕を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕組み",
+        "鞄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机で端末に向かう灰色の人物を、別の人物が後ろから見守っている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "9161",
+      "name": {
+        "ja": "机の相手を見守る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "端末",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が受話器を耳に当てて大きく笑い、背後の相手は険しい表情をしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9162",
+      "name": {
+        "ja": "電話で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "笑顔",
+        "椅子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が飲み物を前に並び、音符や吹き出しを浮かべて話している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9163",
+      "name": {
+        "ja": "飲み物を囲んで話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "二人",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物がクラブを振り、後ろの人物が手を口元に当てている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9164",
+      "name": {
+        "ja": "ゴルフの素振り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ゴルフ",
+        "クラブ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の大きな覆いの後ろから、複数の人物が顔だけを出している。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "9165",
+      "name": {
+        "ja": "物陰に隠れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "隠れる",
+        "灰色の覆い",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いズボンの人物が床に腹ばいになって眠り、頭上に睡眠を示す記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "9166",
+      "name": {
+        "ja": "床で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "床",
+        "Z記号"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "741",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

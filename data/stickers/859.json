@@ -1,0 +1,1138 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "サングラスの人物が札束を高く掲げ、両手を広げて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12615",
+      "name": {
+        "ja": "札束を掲げて大喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "札束",
+        "サングラス",
+        "大喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな髪の人物が顎に手を当て、考え込むように横を向いている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "12616",
+      "name": {
+        "ja": "考え込んでつぶやく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考え中",
+        "横顔",
+        "Umm"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が笑顔で親指を立てている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12617",
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が指を立て、風になびくリボンの前でポーズを取っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "12618",
+      "name": {
+        "ja": "指を立ててポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "指差し",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が寄り添い、向かい合って抱き合っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "12619",
+      "name": {
+        "ja": "抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱擁",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "布を頭に巻いた人物が口を大きく開け、マイクに向かって歌っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12620",
+      "name": {
+        "ja": "歌い上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歌う",
+        "マイク",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が壁の物陰から顔を出し、そっとのぞいている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "12621",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "壁",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が鏡を見ながら、唇に口紅を塗っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12622",
+      "name": {
+        "ja": "口紅を塗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口紅",
+        "鏡",
+        "身支度"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子とサングラスの人物が指を立て、頭上にひらめきの線を出している。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "12623",
+      "name": {
+        "ja": "指を立ててひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "サングラス",
+        "ひらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が水しぶきを上げながら、空中から水面へ飛び込んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "12624",
+      "name": {
+        "ja": "水上で飛び込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "飛び込み",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の人物が親指を立て、「GOOD JOB」と添えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12625",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "親指を立てて褒める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "GOOD JOB",
+        "称賛"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がグラスを片手に持ち、乾杯するように掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12626",
+      "name": {
+        "ja": "グラスを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "乾杯",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が手を耳に添え、「WHAT?」と聞き返している。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "12627",
+      "name": {
+        "ja": "耳を澄まして聞く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "WHAT?",
+        "聞き返す",
+        "耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった女性が手でこちらを指し、「IT’S YOU!」と示している。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "12628",
+      "name": {
+        "ja": "あなたを指す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "IT’S YOU!",
+        "指差し",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大柄な人物が湯気の立つ湯船につかり、肩までゆったり浸かっている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12629",
+      "name": {
+        "ja": "湯船でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯船",
+        "湯気",
+        "入浴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな髪の人物が目を閉じて笑い、両手を握りしめている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12630",
+      "name": {
+        "ja": "笑いながら拳を握る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "拳",
+        "大きな髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "炎を背負った人物が拳を握り、怒りの表情を見せている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "12631",
+      "name": {
+        "ja": "怒りを燃やす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "拳",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が飲み物の入ったグラスを手に、屋外でくつろいでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12632",
+      "name": {
+        "ja": "飲み物を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "飲み物",
+        "屋外"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の指を立て、説明するような表情で話している。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12633",
+      "name": {
+        "ja": "指を立てて話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "説明",
+        "会話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな髪の人物が両手を添えて髪を整え、きらめきをまとっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12634",
+      "name": {
+        "ja": "髪を整えて決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "髪型",
+        "きらめき",
+        "身支度"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤いグローブを着け、炎を背にボクシングの構えを取っている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "12635",
+      "name": {
+        "ja": "ボクシングで挑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ボクシング",
+        "グローブ",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が横になって眠り、頭上に「Zzz」が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "12636",
+      "name": {
+        "ja": "眠って休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "休憩",
+        "Zzz"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな髪の人物が口を大きく開け、声を上げて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12637",
+      "name": {
+        "ja": "声を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "大きな髪",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の髪の人物が手のひらを広げ、断るように身を引いている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "12638",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "手を広げて断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "拒否",
+        "ピンクの髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がハンバーガーを口元に運び、大きく口を開けて食べている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12639",
+      "name": {
+        "ja": "ハンバーガーを食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハンバーガー",
+        "食事",
+        "大きな口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪を大きくまとめた人物が振り向き、横からの衝撃線に驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12640",
+      "name": {
+        "ja": "驚いて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り向く",
+        "衝撃線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開いて口を開け、周囲に赤い驚きの線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12641",
+      "name": {
+        "ja": "驚いて声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "目を見開く",
+        "反応"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が振り返り、手元と周囲に黄色いきらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12642",
+      "name": {
+        "ja": "きらめきながら振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "振り返る",
+        "長い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "腕時計を確認する人物のそばに、「TIME LIMIT」と表示されている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "12643",
+      "name": {
+        "ja": "時間切れを知らせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "TIME LIMIT",
+        "腕時計",
+        "時間切れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きく体を反らし、赤と黄色の布をなびかせて踊っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "12644",
+      "name": {
+        "ja": "勢いよく踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "布",
+        "躍動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の帽子をかぶった女性が親指を立て、「DO THE BEST」と添えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12645",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "最高だと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "DO THE BEST",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪を束ねた人物が目を閉じ、手を添えて投げキッスを送っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "12646",
+      "name": {
+        "ja": "投げキッスを送る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "投げキッス",
+        "ハート",
+        "長い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物がうつむき、肩を落として座っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "12647",
+      "name": {
+        "ja": "うなだれて疲れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "疲れ",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな髪の人物が紫色の花飾りを着け、横顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "12648",
+      "name": {
+        "ja": "髪飾りを見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "横顔",
+        "紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪を結った女性が本を掲げ、「Intelligence」と添えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12649",
+      "name": {
+        "ja": "知性を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Intelligence",
+        "本",
+        "知性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が風を受け、髪を大きくなびかせている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "12650",
+      "name": {
+        "ja": "髪をなびかせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "長い髪",
+        "風",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が顎に手を添え、目を伏せて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "12651",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考え中",
+        "顎に手",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性が腕を組み、目を伏せて物思いにふけっている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "12652",
+      "name": {
+        "ja": "物思いにふける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "物思い",
+        "腕組み",
+        "長い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の女性がヘッドホンを着け、音楽を聴いている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12653",
+      "name": {
+        "ja": "音楽を聴く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ヘッドホン",
+        "音楽",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サングラスの人物が腕を組み、落ち着いた表情で立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12654",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "腕組み",
+        "立つ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "859",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

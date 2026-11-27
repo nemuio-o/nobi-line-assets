@@ -1,0 +1,1135 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒髪の人物が口を大きく開けて声を出し、横にピンク色で「OK!!」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23458",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "OKと返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "返事",
+        "ピンク文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が眉を寄せて険しい顔をし、横に赤い「NO!」の文字がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "23459",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "険しい顔",
+        "赤文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が目を開いて微笑み、下側に黄色い「YES!!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23460",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと答える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肯定",
+        "笑顔",
+        "黄色文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が口を大きく開け、眉をつり上げて横向きに怒鳴っている。そばに赤い縦書きの文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "23461",
+      "name": {
+        "ja": "勢いよく怒鳴る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒鳴る",
+        "険しい顔",
+        "赤文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が大きく口を開け、目を見開いて正面に向かって叫んでいる。右側に赤い縦書きの文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "23462",
+      "name": {
+        "ja": "口を開けて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "大口",
+        "赤文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が正面を向き、口を閉じた落ち着いた表情で見つめている。左側に黒い縦書きの文字がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "23463",
+      "name": {
+        "ja": "真顔で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "真顔",
+        "正面",
+        "黒文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が眉を寄せて鋭い目つきでにらみ、右側に黄色い効果音のような文字がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "23464",
+      "name": {
+        "ja": "鋭くにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "にらむ",
+        "険しい顔",
+        "黄色文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が歯を見せて笑い、片手を顔の横に上げている。手の近くに小さな効果線がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23465",
+      "name": {
+        "ja": "手を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を上げる",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が歯を見せて笑い、片手を耳の近くに添えている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "23466",
+      "name": {
+        "ja": "耳を澄ます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "耳に手",
+        "聞く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が片手で目元をこすり、もう片方の目を大きく開けている。目のそばに黄色い光がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "23467",
+      "name": {
+        "ja": "目をこすって驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目をこする",
+        "驚き",
+        "黄色い光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が両手を肩の近くに上げ、首をかしげるような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "23468",
+      "name": {
+        "ja": "肩をすくめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肩をすくめる",
+        "困惑",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が目を閉じ、手に持った小さな器のようなものを口元に運んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23469",
+      "name": {
+        "ja": "目を閉じて飲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "飲む",
+        "器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が横になって目を閉じ、体を伸ばしている。上側に紫色の効果文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "23470",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "休む",
+        "紫文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が眉を寄せ、口を結んで正面を厳しく見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "23471",
+      "name": {
+        "ja": "無言でにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "無言",
+        "にらむ",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が目を大きく開けて口を開き、右側に青い効果文字と線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "23472",
+      "name": {
+        "ja": "驚いて声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "大きな目",
+        "青文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の人物が体を後ろに反らせ、手足を広げて驚いている。周囲に赤い文字と動きの線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "23473",
+      "name": {
+        "ja": "驚いてのけぞる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のけぞる",
+        "驚き",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が眉を寄せ、顔を少し横に向けて警戒するように見ている。"
+      },
+      "emotion": [
+        "anger",
+        "confusion"
+      ],
+      "id": "23474",
+      "name": {
+        "ja": "横目で警戒する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横目",
+        "警戒",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が目を細めて笑い、片手の人差し指を立てている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23475",
+      "name": {
+        "ja": "指を立てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "指を立てる",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が手に持った茶色い財布のようなものを見下ろしている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "23476",
+      "name": {
+        "ja": "財布を確認する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "財布",
+        "確認",
+        "見下ろす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が茶色い器のようなものを両手で口元に運び、勢いよく飲むような姿勢をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "23477",
+      "name": {
+        "ja": "器を口元に運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "器",
+        "口元",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が片腕を前へ伸ばし、握った拳を突き出している。背景に斜めの勢い線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "23478",
+      "name": {
+        "ja": "拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "突き出す",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が眉をつり上げ、歯を見せて怒った表情をしている。顔の横に赤い怒りの記号がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "23479",
+      "name": {
+        "ja": "怒りをあらわにする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "歯を見せる",
+        "怒り記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が片手をあごに添え、目を細めて考え込むような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "23480",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あごに手",
+        "考える",
+        "真剣"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が青い上着を着て身をかがめ、棚のような場所をのぞき込んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "23481",
+      "name": {
+        "ja": "身をかがめて探す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "身をかがめる",
+        "探す",
+        "棚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が眉を寄せ、口を結んで正面を力強く見ている。背景が黄色く、周囲に勢い線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "23482",
+      "name": {
+        "ja": "気合を入れて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "気合",
+        "力強い目",
+        "黄色背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が青い背景の前で深く頭を下げ、汗を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "23483",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "頭を下げて謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お辞儀",
+        "汗",
+        "青背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が口を大きく開けて叫び、顔の周囲に赤い大きな文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "23484",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "大口",
+        "赤文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が目を細め、口を開けて楽しそうに笑っている。頭の横に小さな効果文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23485",
+      "name": {
+        "ja": "目を細めて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "白髪",
+        "効果文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が目を閉じて顔をしかめ、顔の前に水しぶきのような細かな飛沫が広がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "23486",
+      "name": {
+        "ja": "水しぶきに驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "しかめ顔",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が白い服で床に座り、足を折りたたんで前を見ている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "23487",
+      "name": {
+        "ja": "床に座って休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "休む",
+        "白い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が口を大きく開け、箸のようなものを使って食べ物を口に運んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "23488",
+      "name": {
+        "ja": "食べ物を味わう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "箸",
+        "大口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の女性が薄いピンク色の服を着て、少し首を傾けながら穏やかに前を見ている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "23489",
+      "name": {
+        "ja": "穏やかに見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ピンクの服",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い魚が横向きに大きく描かれ、周囲に動きを示す線と小さな文字がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "23490",
+      "name": {
+        "ja": "魚を見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "魚",
+        "赤色",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、片方が飲み物の入った器を掲げ、もう片方も口を開けて楽しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23491",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "二人で乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "飲み物",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物の後ろから、ピンク色の服の女性が身を乗り出して手を伸ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "23492",
+      "name": {
+        "ja": "後ろから呼び止める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手を伸ばす",
+        "ピンクの服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いスーツの人物と赤い服の女性が並んで正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "23493",
+      "name": {
+        "ja": "並んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "正面",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が横一列に並び、顔を寄せて前を見ている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "23494",
+      "name": {
+        "ja": "三人で顔を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "顔を寄せる",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が並び、腕を上げたり口を開けたりして喜んでいる。背景に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23495",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "みんなで喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "喜ぶ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が目を閉じ、口をゆがめて苦しそうな表情をしている。左側に青い効果文字がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "23496",
+      "name": {
+        "ja": "顔をしかめて耐える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "苦しい表情",
+        "目を閉じる",
+        "青文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物の肩に茶色い髪の女性が寄り添い、二人とも笑顔を見せている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23497",
+      "name": {
+        "ja": "寄り添って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "笑顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1314",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

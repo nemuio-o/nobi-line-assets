@@ -1,0 +1,1182 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "オレンジ色の縞模様の魚が正面を向き、頭上に水色の『HELLO』の文字を掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "24226",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "元気にハロー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あいさつ",
+        "オレンジ色の魚",
+        "水色の文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い魚と小さなオレンジ色の魚が並び、上に黄色と青の『THANK YOU!』の文字がある。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "24227",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "魚たちからありがとう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ありがとう",
+        "魚",
+        "黄色い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いサメが正面を向き、歯を見せた大きな笑顔で口を開けている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "24228",
+      "name": {
+        "ja": "サメのにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サメ",
+        "笑顔",
+        "ひれ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い魚が横向きに浮かび、頭の周りにオレンジ色のはてな記号が並んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "24229",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "魚が首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "青い魚",
+        "はてな"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の縞模様の魚が笑顔を見せ、頭上に緑色の『YES』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24230",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "笑顔でイエス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肯定",
+        "オレンジ色の魚",
+        "YES"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の甲羅を持つ生き物が泳ぎ、左上にピンク色のハートが三つ浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24231",
+      "name": {
+        "ja": "ハートに囲まれて泳ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "泳ぐ",
+        "海の生き物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と灰色の鳥が三羽、青い台の上に並んで立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "24232",
+      "name": {
+        "ja": "三羽そろって"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三羽",
+        "鳥",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹のオレンジ色の魚が顔を近づけて並び、そばに動きを示す短い線が描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24233",
+      "name": {
+        "ja": "魚が寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二匹",
+        "寄り添う",
+        "オレンジ色の魚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い魚が前を向いて泳ぎ、上にピンク色の『NOW!』の文字と周囲の水しぶきがある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "24234",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "今すぐ行こう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NOW",
+        "黄色い魚",
+        "水しぶき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と黄色の魚が体を細く伸ばして浮かび、左右に震えを示す波線がある。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "24235",
+      "name": {
+        "ja": "ぶるぶる震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震える",
+        "魚",
+        "水中"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒模様の魚が斜めを向いて泳ぎ、上に青い『FOLLOW ME!』の文字がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "24236",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "こっちへ来て"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "呼ぶ",
+        "魚",
+        "FOLLOW ME"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長い海の生き物が体を曲げて立ち、頭の近くに赤い丸ときらめきが描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "24237",
+      "name": {
+        "ja": "きらりと見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "海の生き物",
+        "きらめき",
+        "赤い目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と白の縞模様の魚が斜め下へ泳ぎ、周囲に小さな水泡が浮かんでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "24238",
+      "name": {
+        "ja": "青い魚が泳ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い魚",
+        "泳ぐ",
+        "水泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のヒトデが正面を向き、上に紫色の『See you』の文字がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24239",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "また会おうね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "またね",
+        "ヒトデ",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸く膨らんだ淡い色の魚が正面を向き、上に緑色の『NO!』の文字がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "24240",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "ふくらんでノー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "ふぐ",
+        "NO"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と茶色の甲羅を持つ生き物が横を向き、周囲に赤とオレンジの音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "24241",
+      "name": {
+        "ja": "音符と一緒に泳ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カメ",
+        "音符",
+        "泳ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いサメが歯を見せた笑顔で口を開け、頭上に赤い『I'm HUNGRY』の文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "24242",
+      "name": {
+        "ja": "おなかがすいたサメ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サメ",
+        "空腹",
+        "I'm hungry"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな青いサメの口元に小さな魚がいて、上に赤い感嘆符が描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "24243",
+      "name": {
+        "ja": "大きなサメにびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サメ",
+        "驚き",
+        "赤い感嘆符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の魚と青い魚が並び、口を大きく開けている。上に赤い『NOOOO!』の文字がある。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "24244",
+      "name": {
+        "ja": "魚たちが大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二匹",
+        "叫ぶ",
+        "NOOOO"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いサメが横向きに泳ぎ、背中の上に青い『HA HA HA』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24245",
+      "name": {
+        "ja": "サメが大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サメ",
+        "笑い",
+        "HA HA HA"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いサメが正面を向いて歯を見せ、上に青い『FISH ARE FRIENDS』の文字がある。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "24246",
+      "name": {
+        "ja": "魚は仲間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サメ",
+        "仲間",
+        "魚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長い魚が横向きに泳ぎ、頭の上に黒い絡まった線の吹き出しのような記号がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "24247",
+      "name": {
+        "ja": "考え込む魚"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "魚",
+        "考える",
+        "思考の線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長い青い魚が横向きに速く泳ぎ、上にオレンジ色の『GO!!!』の文字がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "24248",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "勢いよくゴー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "GO",
+        "魚",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いエイが横向きに泳ぎ、頭上に三つの点が入った白い思考の吹き出しがある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "24249",
+      "name": {
+        "ja": "考え中のエイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "エイ",
+        "考え中",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色や紫などの色鮮やかな魚が正面を向き、右上に紫色の『OK!』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "24250",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "魚がオーケー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "カラフルな魚",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色のタコのような生き物が正面を向き、周囲に黄色いきらめきが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "24251",
+      "name": {
+        "ja": "きらめくタコ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "タコ",
+        "きらめき",
+        "紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い細長い海の生き物が正面を向き、横に紫色の『Sorry...』の文字がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "24252",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "タツノオトシゴのごめんね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ごめんね",
+        "タツノオトシゴ",
+        "謝る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色と青色の魚、細長い海の生き物、紫色の生き物が並び、周囲に青い水泡が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "24253",
+      "name": {
+        "ja": "海の仲間たち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "魚",
+        "タツノオトシゴ",
+        "タコ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹のオレンジ色の魚が向かい合い、上に青い『Are you OK?』の文字がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "24254",
+      "intent": [
+        "question",
+        "comfort"
+      ],
+      "name": {
+        "ja": "大丈夫かたずねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大丈夫",
+        "二匹",
+        "問いかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と茶色の甲羅を持つ生き物が海藻のそばを進み、上に黒い『LET'S GO!』の文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "24255",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "一緒に行こう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "LET'S GO",
+        "カメ",
+        "海藻"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の縞模様の魚が目を大きくして正面を向き、上に青い『WHAT?』の文字がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "24256",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "魚がびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "オレンジ色の魚",
+        "WHAT"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い魚と小さなオレンジ色の魚が泳ぎ、周囲に青とオレンジの音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "24257",
+      "name": {
+        "ja": "音楽に合わせて泳ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "二匹",
+        "泳ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い魚が正面を向いて目を見開き、上に青い『DID I SAY THAT?』の文字がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "24258",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "今の聞いた？"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "聞き返す",
+        "青い魚",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い鳥が正面を向き、上にオレンジ色の『MINE!』の文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "24259",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "ぼくのもの"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "主張",
+        "鳥",
+        "MINE"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い魚が正面を向き、周囲をピンク色の花が囲み、上に赤い『CONGRATS!』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24260",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "花を添えておめでとう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お祝い",
+        "青い魚",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の魚や海の生き物が集まり、左下に緑色の『WELCOME』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "24261",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "海の仲間がお出迎え"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歓迎",
+        "魚たち",
+        "WELCOME"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の緑色の甲羅を持つ生き物が並んで泳ぎ、上に緑色の『GOOD LUCK!』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "24262",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "幸運を祈るカメ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "幸運",
+        "カメ",
+        "GOOD LUCK"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の縞模様の魚が正面を向き、上に紫色と赤色の『SURPRISE!』の文字がある。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "24263",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "魚がサプライズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "オレンジ色の魚",
+        "SURPRISE"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長いくちばしの鳥が台の上に立ち、上に茶色の『ROGER』の文字がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "24264",
+      "intent": [
+        "answer",
+        "agree"
+      ],
+      "name": {
+        "ja": "鳥が了解"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "了解",
+        "鳥",
+        "ROGER"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなオレンジ色の魚と小さな魚が寄り添って泳ぎ、下にピンク色の『LOVE』とハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24265",
+      "name": {
+        "ja": "魚たちのラブ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "愛情",
+        "二匹",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1348",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

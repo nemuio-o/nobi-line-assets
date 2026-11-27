@@ -1,0 +1,1107 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒い帽子の人物が片手を上げ、人差し指を立てている。そばに赤いびっくり記号が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "9367",
+      "name": {
+        "ja": "驚いて指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "指",
+        "びっくり記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物が帽子のつばに手を添え、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9368",
+      "name": {
+        "ja": "帽子を整えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "笑顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物が、色とりどりの細長い飾りのようなものを手に持って掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9369",
+      "name": {
+        "ja": "飾りを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "飾り",
+        "カラフル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物が腕を組み、目を伏せたような表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9370",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "腕組み",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物が正面を向き、人差し指を立てている。周囲に短い線が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9371",
+      "name": {
+        "ja": "指を立てて示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "人差し指",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物が両手を横に広げて立っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "9372",
+      "name": {
+        "ja": "両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "両手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物の前に、青い服の人物が座っている。二人のそばに赤と黄色のびっくり記号がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9373",
+      "name": {
+        "ja": "驚く二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "びっくり記号",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物が片手を上げ、もう一方の手でカップを持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9374",
+      "name": {
+        "ja": "手を振って飲み物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "カップ",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物が地面に手をつき、うつぶせに近い姿勢で伏せている。上に縦線が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9375",
+      "name": {
+        "ja": "うつぶせに伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "伏せる",
+        "縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物がレンガの壁の陰から、顔と片手をのぞかせている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "9376",
+      "name": {
+        "ja": "壁から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "レンガの壁",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物が正面を向き、片手の親指を立てている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9377",
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "親指",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の子どもが茶色いぬいぐるみのようなものを抱え、口元に手を添えている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9378",
+      "name": {
+        "ja": "ぬいぐるみを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子ども",
+        "ぬいぐるみ",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が片手で輪を作る合図をし、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9379",
+      "name": {
+        "ja": "OKサインを出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "指の合図",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が片手を上げ、もう一方の手を胸元に置いている。目を見開いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9380",
+      "name": {
+        "ja": "手を上げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "手を上げる",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物と女性が並び、二人とも腕を上げて跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9381",
+      "name": {
+        "ja": "二人で跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕を上げる",
+        "跳ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が正面を向いて立ち、口を結び、顔の横に小さな線がある。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "9382",
+      "name": {
+        "ja": "不安そうに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "正面",
+        "不安そうな表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が座り、頭を両手で抱えている。周囲に小さな線がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "9383",
+      "name": {
+        "ja": "座って頭を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "座る",
+        "頭を抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が両手を口元で合わせ、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "9384",
+      "name": {
+        "ja": "手を合わせて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "両手",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が片手を頭の後ろに添え、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9385",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "笑顔",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が鞄のようなものを背負い、片足を上げて走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9386",
+      "name": {
+        "ja": "走って手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "走る",
+        "鞄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が膝を抱えて座り、顔を伏せている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9387",
+      "name": {
+        "ja": "膝を抱えて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "膝を抱える",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が、ハンバーガーと飲み物のようなものを前にしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9388",
+      "name": {
+        "ja": "食べ物を前にする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い帽子",
+        "ハンバーガー",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が片手を上げて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "9389",
+      "name": {
+        "ja": "手を上げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "黄色い服",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が両手で口元を隠し、目を閉じている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "9390",
+      "name": {
+        "ja": "口元を隠して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "黄色い服",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が両手を口元に添え、顔の横に縦線と汗のような印がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "9391",
+      "name": {
+        "ja": "汗をかいて慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "黄色い服",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が片手のこぶしを前に出し、正面を見ている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "9392",
+      "name": {
+        "ja": "こぶしを前に出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "黄色い服",
+        "こぶし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物と黄色い服の女性が並び、女性が人物の肩に手を添えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9393",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が両手を高く上げ、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9394",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "黄色い服",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が腰に両手を当て、目を閉じている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9395",
+      "name": {
+        "ja": "腰に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "黄色い服",
+        "腰に手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が頭に手を当て、頭の周りに渦巻きのような線がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "9396",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "黄色い服",
+        "渦巻き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が腰に両手を当て、眉を寄せた険しい表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9397",
+      "name": {
+        "ja": "腰に手を当てて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "黄色い服",
+        "腰に手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が頭に手を当て、頭の周りに渦巻きのような線がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "9398",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "黄色い服",
+        "渦巻き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪をまとめた女性が両手を合わせ、目を閉じている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "9399",
+      "name": {
+        "ja": "手を合わせて目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "両手",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服の女性がカップのようなものを両手で持ち、周囲に赤いハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9400",
+      "name": {
+        "ja": "ハートを添えて飲み物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "カップ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が頭を下げ、両手を床につけている。"
+      },
+      "emotion": [
+        "sadness",
+        "gratitude"
+      ],
+      "id": "9401",
+      "name": {
+        "ja": "深く頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の服",
+        "お辞儀",
+        "床"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子とマスクのようなものを身につけた人物が、両手で顔の前を覆っている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "9402",
+      "name": {
+        "ja": "顔を覆う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "顔を覆う",
+        "マスク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が腕を組み、目を細めた険しい表情で立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9403",
+      "name": {
+        "ja": "腕を組んでにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "腕組み",
+        "険しい表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が前方へ走り、周囲に土ぼこりのような雲がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "9404",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "走る",
+        "土ぼこり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ひげのある人物が両手を上げ、口を大きく開けている。頭の周りに煙のような雲がある。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "9405",
+      "name": {
+        "ja": "驚いて両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひげ",
+        "両手",
+        "煙のような雲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い帽子の人物と青い帽子の人物が並び、二人とも口を開けて驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "9406",
+      "name": {
+        "ja": "二人で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "帽子",
+        "驚き"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "750",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

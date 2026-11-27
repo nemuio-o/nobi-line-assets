@@ -1,0 +1,1159 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "猫が片方の前足を上げ、そばに動きの線を添えて軽く合図している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1948",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ひょいと手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "片手",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が座り込み、目に涙を浮かべて両前足を胸元に寄せている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "1949",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "涙目でお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "涙",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫の頭上に黄色い星がいくつも浮かび、目を回したような表情になっている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "1950",
+      "name": {
+        "ja": "星がきらきら"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "星",
+        "目を回す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が両前足を広げて体を弾ませ、周囲に動きの線を出しながら踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1951",
+      "name": {
+        "ja": "くるくる踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ダンス",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "胸に赤いハートをつけた猫が、両前足を左右に広げて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "1952",
+      "name": {
+        "ja": "腕を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ハート",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が体を丸くして伏せ、尻尾を立てたまま眠っているように見える。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1953",
+      "name": {
+        "ja": "丸まっておやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "睡眠",
+        "丸まる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を細め、前足を口元に添えて大きくあくびをしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "1954",
+      "name": {
+        "ja": "眠気のあくび"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "あくび",
+        "眠い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が台の上で両前足を頬に当て、星のように輝く大きな目を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "1955",
+      "name": {
+        "ja": "目を輝かせて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "きらきら",
+        "目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が片前足を上げて手を振り、緑の吹き出しに「hello」と見える文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1956",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "helloの手振り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "手を振る",
+        "hello"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が笑顔で前足を振り、ピンクの吹き出しに「bye」と見える文字が添えられている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1957",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "byeの手振り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "手を振る",
+        "bye"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が口を大きく開けて片前足を突き上げ、青い吹き出しに「yes!!」と見える文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1958",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "Yesのガッツポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "喜び",
+        "yes"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が椅子のような台に腰掛けて片前足を上げ、黄色い吹き出しに「good!」と見える文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1959",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "Goodのひらめき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "合図",
+        "good"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を閉じて大きく笑い、片前足を上げた姿の上に黄色い吹き出しがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1960",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "笑ってYeh"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "笑顔",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が頬を赤らめて片前足を頬に当て、ピンクの吹き出しに「sorry」と見える文字がある。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "1961",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "照れながらSorry"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "照れ",
+        "sorry"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が段ボール箱の中から両前足を出し、箱の正面に「Help ME」と見える文字がある。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "1962",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "箱からHelp me"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "箱",
+        "助けを求める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が片前足をあごに添えて考え込み、頭の横に黄色い疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "1963",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげる疑問"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "疑問符",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を閉じて口を大きく開け、両前足を上げながら笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1964",
+      "name": {
+        "ja": "声を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "大笑い",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が小さな机の前に座り、片前足を顔に添えて沈んだ表情を見せている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "1965",
+      "name": {
+        "ja": "机でひと息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "机",
+        "沈む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が背中をこちらに向けて逆さまに横たわり、後ろ足を上に投げ出している。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "1966",
+      "name": {
+        "ja": "逆さまの寝姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "逆さま",
+        "寝姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が両前足を顔の近くに寄せ、目から大粒の涙を流して泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "1967",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "涙",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が画面の端へ走り去るように描かれ、体の後ろに多数の速度線が伸びている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "1968",
+      "name": {
+        "ja": "勢いよく退場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "走る",
+        "速度線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が黄色いマフラーのような布をなびかせて走り、周囲に星形のきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "1969",
+      "name": {
+        "ja": "きらめく駆け足"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "走る",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が眉を吊り上げて口を開け、片前足を握りこぶしにして突き上げている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "1970",
+      "name": {
+        "ja": "怒りの拳"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "怒り",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が頬を赤くし、目を細めて口を結びながら不機嫌そうに立っている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "1971",
+      "name": {
+        "ja": "むっとした顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "不機嫌",
+        "赤い頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を大きく見開いて口を開け、頭の後ろにオレンジ色の爆発形が広がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "1972",
+      "name": {
+        "ja": "衝撃のびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "驚き",
+        "爆発形"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が顔を覆って泣き、両目から流れた涙が足元に青い水たまりを作っている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "1973",
+      "name": {
+        "ja": "涙があふれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "号泣",
+        "水たまり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が仰向けに倒れて両前足を広げ、目を閉じたまま涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "1974",
+      "name": {
+        "ja": "倒れて泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "倒れる",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が立ったまま目を閉じ、両目から大きな青い涙をこぼしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "1975",
+      "name": {
+        "ja": "ぽろぽろ涙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "涙",
+        "悲しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を細めて笑い、片前足を上げてこちらへ手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "1976",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "にっこり手振り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "笑顔",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が背中を向けて座り、頭の横に小さな三点の吹き出しだけが浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "1977",
+      "name": {
+        "ja": "背中で無言"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "後ろ姿",
+        "無言"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が床に伏せて目を閉じ、尻尾を上に立てたまま眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "1978",
+      "name": {
+        "ja": "床でぐっすり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "睡眠",
+        "伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が青い器の中をスプーンでかき混ぜ、頭上に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "1979",
+      "name": {
+        "ja": "音符と混ぜる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "器",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が小さなカップを両前足で持ち、上の吹き出しに「coffee ok?」と見える文字がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "1980",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "コーヒーをどうぞ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "カップ",
+        "コーヒー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が両前足で大きなハート形を抱え、上に「LOVE YOU」と見える帯が添えられている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "1981",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ハートでLOVE YOU"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ハート",
+        "LOVE YOU"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた猫が机に向かい、紙を見ながらペンを持っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "1982",
+      "name": {
+        "ja": "眼鏡で書きもの"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "眼鏡",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が頭に包帯のような布を巻き、目を回した表情でふらついている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "1983",
+      "name": {
+        "ja": "包帯でくらくら"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "包帯",
+        "目を回す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫の周囲に赤とオレンジの炎が立ち上がり、頭上の怒りの印とともに睨んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "1984",
+      "name": {
+        "ja": "燃える怒り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "炎",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が椅子に座って紙面を広げ、そばに温かそうな飲み物を置いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "1985",
+      "name": {
+        "ja": "新聞と湯気"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "新聞",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が両前足を腰に当て、目を細めて厳しい表情で立っている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "1986",
+      "name": {
+        "ja": "腰に手でしかめ顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "しかめ顔",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が青い水玉模様のマットの上に横たわり、前足を伸ばしてくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "1987",
+      "name": {
+        "ja": "青いマットで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "マット",
+        "休憩"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "445",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

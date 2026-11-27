@@ -1,0 +1,1124 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "細身の人物が、体を傾けながら片足を上げて歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10759",
+      "name": {
+        "ja": "細身で歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "細身",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を頭上に上げ、口を大きく開けて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10760",
+      "name": {
+        "ja": "両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "万歳",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭に帯を巻いた人物が、歯を見せて得意げに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10761",
+      "name": {
+        "ja": "得意げに笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "得意げ",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で口元を隠し、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10762",
+      "name": {
+        "ja": "口元を隠して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "口元",
+        "照れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸に手を当て、汗を浮かべながら驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "10763",
+      "name": {
+        "ja": "胸に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸",
+        "手を当てる",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で模様のある布を頭上に掲げ、口を開けて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10764",
+      "name": {
+        "ja": "布を高く掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布",
+        "掲げる",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組み、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10765",
+      "name": {
+        "ja": "腕を組んで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "笑顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "僧衣の人物が片手を上げ、指を立てて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10766",
+      "name": {
+        "ja": "指で合図する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "僧衣",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が泡の浮かぶ湯につかり、肩まで浸かってくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "10767",
+      "name": {
+        "ja": "湯につかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "泡",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "僧衣の人物が正面を向き、穏やかな表情で笑っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "10768",
+      "name": {
+        "ja": "穏やかに笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "僧衣",
+        "笑顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が布団に横たわり、並んで眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10769",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "寝る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "僧衣の人物が座り込み、力の抜けたような表情でぼんやりしている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "10770",
+      "name": {
+        "ja": "ぼんやり座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぼんやり",
+        "座る",
+        "僧衣"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が顔を赤らめ、眉を寄せて不快そうな表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "10771",
+      "name": {
+        "ja": "顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しかめ顔",
+        "顔",
+        "不機嫌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "僧衣の人物が、横たわる人物の顔を両手で押さえている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "10772",
+      "name": {
+        "ja": "顔を押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "押さえる",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "僧衣の人物が、横たわる人物の顔へ手を伸ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "10773",
+      "name": {
+        "ja": "顔に手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "手",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を大きく見開き、口を開けて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "10774",
+      "name": {
+        "ja": "目を丸くする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "目を丸くする",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな桶を両手で抱え、勢いよく飲んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10775",
+      "name": {
+        "ja": "桶で飲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "桶",
+        "飲む",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きな桶を抱え、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10776",
+      "name": {
+        "ja": "桶を抱えて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "桶",
+        "走る",
+        "力強い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が床に横たわり、体を伸ばして休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10777",
+      "name": {
+        "ja": "床で寝そべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寝そべる",
+        "床",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸を張り、両足を広げて堂々と立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10778",
+      "name": {
+        "ja": "堂々と立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立つ",
+        "堂々",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、口を大きく開けた恐ろしい表情をしている。"
+      },
+      "emotion": [
+        "fear",
+        "anger"
+      ],
+      "id": "10779",
+      "name": {
+        "ja": "恐ろしい顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "恐怖",
+        "顔",
+        "叫び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "僧衣の人物が立ち、周囲に揺れを示す線を出しながら震えている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "10780",
+      "name": {
+        "ja": "震えて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震え",
+        "立つ",
+        "僧衣"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、目を見開いた驚きの表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "10781",
+      "name": {
+        "ja": "並んで驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を高く突き上げ、口を開けて大喜びしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10782",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "万歳",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が正面を向き、無表情で見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10783",
+      "name": {
+        "ja": "無表情で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "無表情",
+        "長髪",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体格の大きい人物と小さな人物が、並んで正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10784",
+      "name": {
+        "ja": "並んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "並ぶ",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が並び、目を見開いた驚きの表情を見せている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "10785",
+      "name": {
+        "ja": "三人で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "驚き",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が、長髪の人物に追いかけられて走っている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "10786",
+      "name": {
+        "ja": "追いかけられる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "追跡",
+        "逃げる",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が目を見開き、汗を流しながら叫んでいる。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "10787",
+      "name": {
+        "ja": "汗をかいて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "汗",
+        "恐怖"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が身をかがめ、両手を前に出して警戒している。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "10788",
+      "name": {
+        "ja": "身をかがめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "身をかがめる",
+        "緊張",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が紙を手に持ち、口を開けて楽しそうに読んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10789",
+      "name": {
+        "ja": "紙を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "読む",
+        "紙",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が重なり合い、激しくもみ合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "10790",
+      "name": {
+        "ja": "もみ合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "もみ合い",
+        "複数人",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が椅子に腰掛け、落ち着いた様子で休んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10791",
+      "name": {
+        "ja": "椅子に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "椅子",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を頭に添え、目を見開いて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "10792",
+      "name": {
+        "ja": "頭を抱えて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭",
+        "両手",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が岩場のような場所で手足を上げ、転げ落ちている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "10793",
+      "name": {
+        "ja": "転げ落ちる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "落ちる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が座り、目を閉じてうっとりした表情を浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10794",
+      "name": {
+        "ja": "うっとりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うっとり",
+        "笑顔",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年配の人物が両手で顔を押さえ、涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "10795",
+      "name": {
+        "ja": "顔を押さえて泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "顔",
+        "悲しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が丼を前にして、箸で麺を食べている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10796",
+      "name": {
+        "ja": "麺を食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "麺",
+        "食事",
+        "丼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が広げた新聞の下に横たわり、休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "10797",
+      "name": {
+        "ja": "新聞の下で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "新聞",
+        "休む",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片足を上げ、腕を曲げて楽しそうにポーズを取っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10798",
+      "name": {
+        "ja": "裸でポーズを取る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポーズ",
+        "立つ",
+        "全身"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "787",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

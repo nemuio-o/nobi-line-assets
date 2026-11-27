@@ -1,0 +1,1144 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白いキャラクターが体を低くして横たわり、目を閉じている。そばに小さな「pu」の文字が見える。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10231",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "休む",
+        "pu"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが横になり、上にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "10232",
+      "name": {
+        "ja": "ハートを添えて横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "横になる",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが顔をしかめ、頬を赤らめたような表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "10233",
+      "name": {
+        "ja": "顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "表情",
+        "赤い頬",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが水色の浴槽に入り、頭の上に黄色いアヒルが乗っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "10234",
+      "name": {
+        "ja": "お風呂でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "浴槽",
+        "アヒル",
+        "入浴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが王冠のような飾りを頭につけ、ケーキを持っている。上に「HAPPY BIRTHDAY」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10235",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "誕生日ケーキを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "誕生日",
+        "ケーキ",
+        "HAPPY BIRTHDAY"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが振り向くように体を傾け、頭の横に黄色い強調記号が出ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "10236",
+      "name": {
+        "ja": "驚いて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り向く",
+        "強調記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが横になって眠り、上に「Z」のような眠りの記号と月、星が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10237",
+      "name": {
+        "ja": "星と月を眺めて眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "月",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが壁のような縦長の仕切りの後ろから、顔だけを出している。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "10238",
+      "name": {
+        "ja": "壁の後ろから顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "壁",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターがピンク色の台座のような形の上で笑い、周囲に色とりどりのきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10239",
+      "name": {
+        "ja": "きらめきの中で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青みがかった白いキャラクターが低くうずくまり、周囲に縦の線が出ている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "10240",
+      "name": {
+        "ja": "青い姿でうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い",
+        "うずくまる",
+        "縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターがぺたんと横になり、体の周囲に細かな点線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "10241",
+      "name": {
+        "ja": "青くなって横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い",
+        "横になる",
+        "点線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが正面を向き、頭の上に赤い湯気のような線が出ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10242",
+      "name": {
+        "ja": "湯気を出して怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク",
+        "湯気",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが低く伏せ、頭上や周囲に水滴が落ちている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "10243",
+      "name": {
+        "ja": "雨に濡れてうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水滴",
+        "伏せる",
+        "濡れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが黄色い足元の形の上に伏せ、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "10244",
+      "name": {
+        "ja": "黄色い場所で伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "伏せる",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を閉じて笑い、横に小さなきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10245",
+      "name": {
+        "ja": "きらめいて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが体を低くして横になり、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10246",
+      "name": {
+        "ja": "ぺたんと横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "休む",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが黄色い器の中に入り、片手を上げている。器の中には緑色の葉のようなものが見える。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "10247",
+      "name": {
+        "ja": "器に入って手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "器",
+        "手を上げる",
+        "葉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが複数の色の風船につかまり、浮き上がるように描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10248",
+      "name": {
+        "ja": "風船につかまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "浮く",
+        "カラフル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白、ピンク、黄色の三つのキャラクターが並び、互いに寄り添っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "10249",
+      "name": {
+        "ja": "三人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "寄り添う",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンのついた色とりどりの箱が積み重なり、いちばん上から白いキャラクターが顔を出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10250",
+      "name": {
+        "ja": "プレゼントの山"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "プレゼント",
+        "箱",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターの上に、クリームがのったケーキのような絵が吹き出しで描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10251",
+      "name": {
+        "ja": "ケーキを思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ケーキ",
+        "吹き出し",
+        "想像"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが緑色のものを抱え、周囲にハートと「LOVE」の文字が浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10252",
+      "name": {
+        "ja": "緑のものを抱えて愛を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "LOVE",
+        "ハート",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターの上に、アイスクリームのような絵が吹き出しで描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10253",
+      "name": {
+        "ja": "アイスを思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "アイス",
+        "吹き出し",
+        "想像"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが口を開け、頭の周囲に汗や緊張を示すような線が出ている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "10254",
+      "name": {
+        "ja": "汗をかいて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "口を開ける",
+        "緊張"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターと紫色のキャラクターが寄り添い、上にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "10255",
+      "name": {
+        "ja": "寄り添ってハートを浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターがリボンをつけて横たわり、周囲に色とりどりの音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10256",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "リボン",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが頬を赤らめ、周囲にハートといちごが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10257",
+      "name": {
+        "ja": "ハートといちごに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "いちご",
+        "赤面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが鏡の前に座り、鏡にはピンク色の姿と小さな花が映っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10258",
+      "name": {
+        "ja": "鏡の前に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "花",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが正面を向き、頭上に黄色い「YES!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10259",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと答える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "同意",
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが正面を向き、頭上に紫色の「NO!」の文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "10260",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと答える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが正面を向き、頭上にピンク色の「OK!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10261",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKと返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "返事",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが伏せ気味の姿勢で、頭の上に二つの疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "10262",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "困惑",
+        "伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが体を傾け、上に「HELLO」と書かれた吹き出しがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10263",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "HELLOとあいさつする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "HELLO",
+        "あいさつ",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが青い浮き輪の中に入り、水面のような模様の中で浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "10264",
+      "name": {
+        "ja": "青い浮き輪で浮かぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "浮き輪",
+        "青い",
+        "水"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが縦長の姿勢で立ち、片手を口元に当てている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "10265",
+      "name": {
+        "ja": "立って口元に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立つ",
+        "口元",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが横たわり、上に雲形の吹き出しが浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "10266",
+      "name": {
+        "ja": "考えながら横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "吹き出し",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが横たわり、上にピンク色の吹き出しで「BYE」と書かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "10267",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "BYEと別れを告げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "BYE",
+        "別れ",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手に緑色の小物を持ち、周囲に動きを示す短い線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10268",
+      "name": {
+        "ja": "緑の小物を両手に持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "両手",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが青い飾りを頭につけ、左右に揺れるような線が出ている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "10269",
+      "name": {
+        "ja": "頭の飾りを揺らす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い飾り",
+        "揺れる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが緑色の小さな車に乗り、車の前後に動きの線がある。上に「pu」の文字が見える。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10270",
+      "name": {
+        "ja": "車に乗って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車",
+        "走る",
+        "pu"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "778",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

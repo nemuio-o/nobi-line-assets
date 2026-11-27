@@ -1,0 +1,1133 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物が両手を顔の近くに置き、ピンクのハートとバラに囲まれて目を閉じている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "6039",
+      "name": {
+        "ja": "花に囲まれたうっとり顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "バラ",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を頬の近くに添え、ピンクのハートと花に囲まれて微笑んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "6040",
+      "name": {
+        "ja": "頬に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "頬",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、片手を目元に当てて、周囲に放射状の線が出ている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "6041",
+      "name": {
+        "ja": "涙をこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目元",
+        "片手",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて片手を顔の近くに置き、背後に黒い放射状の線が広がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "6042",
+      "name": {
+        "ja": "黒い衝撃を背に"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "片手",
+        "黒い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で口元を覆い、頭の周りに波打つ線が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "6043",
+      "name": {
+        "ja": "口元を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "両手",
+        "波線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を頬に当て、目を見開いたような表情で立っている。周囲にきらめきがある。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "6044",
+      "name": {
+        "ja": "両頬に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "両手",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が花束を抱え、目を閉じて微笑んでいる。周囲にピンクのハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "6045",
+      "name": {
+        "ja": "花を抱えて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "微笑み",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が王冠をかぶり、両手を広げた姿で、プレゼントや紙吹雪に囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6046",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "王冠とプレゼント"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "プレゼント",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を顔の前で合わせ、目を閉じて花に囲まれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "6047",
+      "name": {
+        "ja": "花に囲まれて祈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "目を閉じる",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で口元を覆い、目を閉じて微笑んでいる。周囲にハートがあり、吹き出しに「good」とある。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "6048",
+      "name": {
+        "ja": "口元を覆って微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "両手",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で顔を覆い、背後に太い黒い放射状の線が広がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "sadness"
+      ],
+      "id": "6049",
+      "name": {
+        "ja": "顔を覆う衝撃"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を覆う",
+        "片手",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を顔の前に置いて目を閉じ、周囲に青いしずくのような線が出ている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "6050",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "両手",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が長い白い物に顔を寄せ、片手を添えている。周囲に波線や怒りを示す印がある。"
+      },
+      "emotion": [
+        "confusion",
+        "anger"
+      ],
+      "id": "6051",
+      "name": {
+        "ja": "長い物に顔を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "長い物",
+        "顔を寄せる",
+        "怒りの印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の指を口元に当て、目を閉じて笑っている。周囲に青い花と笑顔の吹き出しがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "6052",
+      "name": {
+        "ja": "指を口元に当てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "口元",
+        "青い花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が顔を寄せ合い、片方がもう片方に近づいている。周囲にバラがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "6053",
+      "name": {
+        "ja": "顔を寄せ合う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "顔を寄せる",
+        "バラ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白い布団にくるまり、そばに小さなぬいぐるみを置いて横になっている。頭上の丸い枠に人物の絵が浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "6054",
+      "name": {
+        "ja": "布団で夢を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "ぬいぐるみ",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が顔を寄せて並び、黄色い円形の背景ときらめきに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "6055",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添い",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が花に囲まれ、片手で顔を覆うようにして目を伏せている。周囲にハートがある。"
+      },
+      "emotion": [
+        "love",
+        "sadness"
+      ],
+      "id": "6056",
+      "name": {
+        "ja": "花の中で顔を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を覆う",
+        "花",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を顔の近くに上げ、目を閉じた表情で黄色い花に囲まれている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "6057",
+      "name": {
+        "ja": "花を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "黄色い花",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を口元に添え、目を閉じて花に囲まれている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "6058",
+      "name": {
+        "ja": "花に囲まれて手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "片手",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が紫色の花を片手に持ち、目を閉じて微笑んでいる。頭上に小さな白い雲の形がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "6059",
+      "name": {
+        "ja": "花を持って目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫の花",
+        "片手",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を顔の前に横たえて目を閉じ、背後に縦線が並んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "6060",
+      "name": {
+        "ja": "腕で顔を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕",
+        "顔を隠す",
+        "縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が王冠をかぶり、片手を頬の近くに添えて目を閉じている。周囲にハートときらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6061",
+      "name": {
+        "ja": "王冠で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "頬",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を頬に当て、目を閉じて花に囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "6062",
+      "name": {
+        "ja": "花に囲まれて頬に手"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "片手",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で髪を押さえ、もう一方の手を顔の近くに置いている。背後に黒い放射線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "6063",
+      "name": {
+        "ja": "髪を押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "髪",
+        "両手",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を顔の前に上げ、もう一方の手を胸元に添えて目を閉じている。周囲に花ときらめきがある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "6064",
+      "name": {
+        "ja": "手元を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "目を閉じる",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を左右に広げ、目を閉じて微笑んでいる。背後に青い花がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6065",
+      "name": {
+        "ja": "両手を広げて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "微笑み",
+        "青い花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を頬の近くに添え、目を閉じて花に囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "6066",
+      "name": {
+        "ja": "花の中で手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "頬",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が王冠をかぶり、ハートの飾りが付いたステッキを持って、もう一方の手を頬に添えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6067",
+      "name": {
+        "ja": "王冠とステッキ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "ステッキ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに横たわり、両手を顔の近くに置いて目を閉じている。周囲にハートときらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "6068",
+      "name": {
+        "ja": "横たわって微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "両手",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を胸の前で合わせ、目を閉じている。周囲に花とハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "6069",
+      "name": {
+        "ja": "両手を合わせて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "花",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で輪を作るポーズを示し、周囲に「O.K」の文字ときらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6070",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "片手",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を頬に添えて首をかしげ、頭上に大きな疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "6071",
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "頬",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が机に向かってうつ伏せになり、そばに紙を置いたまま眠っている。頭上に眠りを示す記号がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "6072",
+      "name": {
+        "ja": "机で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "居眠り",
+        "紙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で顔を覆ってうつむき、背後に黒い放射状の線が広がっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "6073",
+      "name": {
+        "ja": "顔を覆ってうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を覆う",
+        "うつむく",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を握りしめ、眉を寄せた表情で立っている。周囲に怒りを示す印がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "6074",
+      "name": {
+        "ja": "怒って拳を握る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "拳",
+        "怒りの印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で顔を覆い、目を閉じている。背後に黄色とピンクの放射状の背景がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "6075",
+      "name": {
+        "ja": "両手で顔を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "顔を覆う",
+        "放射状"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が前後に重なるように並び、後ろの人物が前の人物の肩に顔を寄せている。周囲にバラがある。"
+      },
+      "emotion": [
+        "love",
+        "sadness"
+      ],
+      "id": "6076",
+      "name": {
+        "ja": "二人で寄り添う花の中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添い",
+        "バラ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で顔を覆い、周囲に太い波打つ線が出ている。"
+      },
+      "emotion": [
+        "disgust",
+        "sadness"
+      ],
+      "id": "6077",
+      "name": {
+        "ja": "顔を覆って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を覆う",
+        "両手",
+        "波線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んで両手を頬の近くに置き、目を閉じている。周囲にたくさんのピンクのハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "6078",
+      "name": {
+        "ja": "二人でハートに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "頬",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "625",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

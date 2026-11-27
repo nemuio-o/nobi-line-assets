@@ -1,0 +1,1114 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物が笑顔で片手を大きく上げ、元気よく手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14199",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "元気に手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "手を振る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が笑顔で片手を上げ、明るくあいさつしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14200",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "笑顔であいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "あいさつ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を上げて跳び上がり、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14201",
+      "name": {
+        "ja": "音符と跳び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "音符",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いヘアバンドをした人物が星形に輝く目で笑い、両手を胸元に上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14202",
+      "name": {
+        "ja": "目を輝かせて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "輝く目",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が笑顔で親指を立て、上に「Thank you!」と表示されている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "14203",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ありがとう",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が汗を浮かべ、困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14204",
+      "name": {
+        "ja": "困って汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "汗",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が鏡を見ながら、髪を整えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14205",
+      "name": {
+        "ja": "髪を整える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "髪",
+        "身だしなみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が振り向き、きらめきを伴ってきりっとした表情を見せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14206",
+      "name": {
+        "ja": "きりっと振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "振り向く",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んで肩を寄せ、目を閉じて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14207",
+      "name": {
+        "ja": "二人で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "笑顔",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が、親指を立てて肯定の仕草をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14208",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "親指",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が指でOKサインを作り、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14209",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKサイン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "OK",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が手のひらを前に出し、赤い「NO!」とともに拒んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "14210",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと拒む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "NO",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を上げて元気よく立ち、周囲に「おはよう」の文字が見える。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14211",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "朝のあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "おはよう",
+        "朝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組んで目を閉じ、眠っているように休んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "14212",
+      "name": {
+        "ja": "眠って休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "睡眠",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、腕を組んで静かにたたずんでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14213",
+      "name": {
+        "ja": "静かにたたずむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "目を閉じる",
+        "落ち着き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のクマのようなキャラクターが、大粒の涙を流して泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14214",
+      "name": {
+        "ja": "大泣きする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "涙",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、驚いた表情で振り返っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14215",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "驚き",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が汗をかきながら頭に手を当て、困ったようにしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "14216",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "汗",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を上げてガッツポーズをし、星を散らして喜んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14217",
+      "name": {
+        "ja": "喜んでガッツポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ガッツポーズ",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、汗を浮かべて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14218",
+      "name": {
+        "ja": "驚いて身を引く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "驚き",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手を上げ、明るい笑顔で喜んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14219",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が小さな白い動物を抱きしめている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "14220",
+      "name": {
+        "ja": "小動物を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "抱っこ",
+        "小動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いぬいぐるみが体を揺らし、楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14221",
+      "name": {
+        "ja": "ぬいぐるみが踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぬいぐるみ",
+        "ダンス",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を額に当て、きらめきの中で敬礼している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14222",
+      "name": {
+        "ja": "敬礼する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "敬礼",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が拳を前に突き出し、そばに「がんばれ」の文字を添えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14223",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "応援",
+        "頑張れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が料理を味わい、頭上に食べ物のイメージを浮かべている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14224",
+      "name": {
+        "ja": "食事を味わう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "食事",
+        "料理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、汗を流しながら焦った表情をしている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "14225",
+      "name": {
+        "ja": "焦って汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "汗",
+        "焦り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がマイクを持って歌い、周囲をたくさんのハートが囲んでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "14226",
+      "name": {
+        "ja": "ハートに囲まれて歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ハート",
+        "マイク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに勢いよく走り、後ろにスピード線が伸びている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14227",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "走る",
+        "スピード"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が足を上にして、草むらのような場所でひっくり返っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14228",
+      "name": {
+        "ja": "ひっくり返って倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "転倒",
+        "逆さま"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を広げ、困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14229",
+      "name": {
+        "ja": "あきらめて両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "両手",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が手で口元を隠し、楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14230",
+      "name": {
+        "ja": "口元を隠して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "笑い",
+        "手で口を隠す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が怒った表情で拳を握り、背後に赤い怒りの表現が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "14231",
+      "name": {
+        "ja": "怒って拳を握る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "怒り",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組んで考え込み、頭上に困ったような吹き出しを浮かべている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14232",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "考える",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組み、落ち着いたクールなポーズを決めている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14233",
+      "name": {
+        "ja": "スマートに決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ポーズ",
+        "クール"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が拳を突き出し、赤い文字を添えて強い表情で主張している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "14234",
+      "name": {
+        "ja": "言い返す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "拳",
+        "強い表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きく吹き飛ばされ、背景に強い動きの表現が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14235",
+      "name": {
+        "ja": "吹き飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "吹き飛ぶ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の周囲で煙と爆発が起こり、上に「BOMB」と表示されている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14236",
+      "name": {
+        "ja": "爆発する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "爆発",
+        "BOMB"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いぬいぐるみが光の中で両手を広げ、華やかに踊っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14237",
+      "name": {
+        "ja": "華やかに踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぬいぐるみ",
+        "ダンス",
+        "ステージ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、目を見開いて驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14238",
+      "name": {
+        "ja": "二人で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "表情"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "920",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

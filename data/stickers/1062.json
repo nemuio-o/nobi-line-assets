@@ -1,0 +1,1124 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑色や白色などの小さな丸いキャラクターが横一列に並び、床に座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17719",
+      "name": {
+        "ja": "並んで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数",
+        "並ぶ",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白や黄色、緑色の丸いキャラクターが、棚の中に上下に並んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17720",
+      "name": {
+        "ja": "棚で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "棚",
+        "複数",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターと黄色いキャラクターが、食べ物の入った浅い箱を一緒にのぞき込んでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "17721",
+      "name": {
+        "ja": "箱をのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "のぞく",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の丸いキャラクターが横向きに寝そべり、そばに小さな黄色いキャラクターがいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17722",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "休む",
+        "緑色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな白っぽいキャラクターが、小さなキャラクターに青い飲み物の入ったカップを差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "17723",
+      "name": {
+        "ja": "飲み物を渡す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "渡す",
+        "白いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽいキャラクターが浅い箱の中から顔を出し、目を閉じて笑っている。上にハートの吹き出しがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17724",
+      "name": {
+        "ja": "箱から顔を出して喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "笑顔",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽい丸いキャラクターが、体を低くしてうつぶせに横たわっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17725",
+      "name": {
+        "ja": "うつぶせで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつぶせ",
+        "休む",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽいキャラクターの顔の周囲に青い汗の線が多数あり、目を細めて困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "17726",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困る",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の丸いキャラクターが正面を向いて立ち、両手を体の前に置いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17727",
+      "name": {
+        "ja": "緑のキャラクターが立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "立つ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターの顔が画面いっぱいに大きく描かれ、正面を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17728",
+      "name": {
+        "ja": "顔を大きく見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "緑色",
+        "アップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが横向きになり、口に細い枝のようなものをくわえている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17729",
+      "name": {
+        "ja": "枝をくわえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "枝",
+        "くわえる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが横たわり、体の上に細い青い線が並んでいる。そばに小さな吹き出しがある。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "17730",
+      "name": {
+        "ja": "横たわって汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "汗",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽいキャラクターが、音符のそばでピンク色の小さなキャラクターと一緒に体を動かしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17731",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "踊る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが机に向かい、黄色い道具を持って紙に絵を描いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17732",
+      "name": {
+        "ja": "絵を描く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絵を描く",
+        "机",
+        "クレヨン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽいキャラクターがピンク色の布団にくるまり、横になって眠っている。上にZの記号がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17733",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマのようなキャラクターが正面を向き、落ち着いた表情で見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17734",
+      "name": {
+        "ja": "正面を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "顔",
+        "白色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い毛の丸いキャラクターが目を閉じ、頭の上に大きな疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "17735",
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "首をかしげる",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い毛の丸いキャラクターが目を閉じて立ち、頭の上に小さな白い点が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "17736",
+      "name": {
+        "ja": "ぼんやり立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色",
+        "立つ",
+        "ぼんやり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが背を向けており、上部に縦向きの英字のような記号が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "17737",
+      "name": {
+        "ja": "背を向けて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "驚き",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い毛の丸いキャラクターが両手を高く上げ、口を開けて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17738",
+      "name": {
+        "ja": "両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "喜び",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い毛の丸いキャラクターが中央で笑い、周囲に明るい放射状の線が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17739",
+      "name": {
+        "ja": "放射線の中で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "放射線",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い色の二つのキャラクターが向かい合って寄り添い、間にピンク色のハートを抱えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17740",
+      "name": {
+        "ja": "ハートを挟んで寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハート",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の小さなキャラクターがひもで吊り下げられ、横に細かな揺れの線が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "17741",
+      "name": {
+        "ja": "吊り下げられる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吊り下げ",
+        "緑色",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色と白っぽい二つのキャラクターが並び、飲み物の入ったカップを前にして座っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17742",
+      "name": {
+        "ja": "二人でお茶を飲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "飲み物",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽい丸いキャラクターが横向きに寝そべり、目を閉じて休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17743",
+      "name": {
+        "ja": "横向きに休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横向き",
+        "休む",
+        "白色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターと白っぽい小さなキャラクターが、横方向に勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17744",
+      "name": {
+        "ja": "急いで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "緑色",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽいキャラクターが振り返り、背後の大きな白い丸いキャラクターに向かって体を反らしている。周囲に震えの線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17745",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り返る",
+        "驚き",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色、茶色、青緑色の三つのキャラクターが横一列に並び、下を向いている。上から青い縦線が降っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "17746",
+      "name": {
+        "ja": "並んでうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "うつむく",
+        "雨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが縦長の白い仕切りの陰から、顔と体の一部を出してのぞいている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "17747",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "物陰",
+        "緑色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターと緑色や茶色の小さなキャラクターが、Thank youと書かれた看板を持っている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "17748",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ありがとうを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "看板",
+        "複数"
+      ]
+    },
+    {
+      "description": {
+        "ja": "四つの丸いキャラクターが寄り集まり、上に大きくOKと書かれた看板を掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17749",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "肯定",
+        "四人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の丸いキャラクターが寄り集まり、上に大きくNGと書かれた札を掲げている。周囲に汗のような線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "17750",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NGを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NG",
+        "否定",
+        "複数"
+      ]
+    },
+    {
+      "description": {
+        "ja": "山のような緑色の形の上に黄色い太陽が昇り、周囲に輝きの線が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17751",
+      "name": {
+        "ja": "朝日を喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "太陽",
+        "朝",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽいキャラクターと茶色いキャラクターが一つの青緑色の傘の下で寄り添っている。傘の上に小さなキャラクターが乗っている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "17752",
+      "name": {
+        "ja": "傘の下で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "雨",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽいキャラクターが背を向け、地面を蹴って走り去っている。後ろに勢いを示す線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17753",
+      "name": {
+        "ja": "走り去る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "後ろ姿",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽいキャラクターと緑色、黄色の小さなキャラクターが、花柄の布団の中で寄り添っている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "17754",
+      "name": {
+        "ja": "布団で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "三人",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽいキャラクターが青緑色の大きなキャラクターに引かれ、後ろに細い線を残している。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "17755",
+      "name": {
+        "ja": "疲れて引きずられる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲れ",
+        "引きずる",
+        "青色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つの茶色い毛の丸いキャラクターが細い糸でつながり、互いに離れる向きに動いている。周囲に輝きの線がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17756",
+      "name": {
+        "ja": "糸でつながる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "糸",
+        "二人",
+        "つながる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色、青緑色、ピンク色などの小さなキャラクターが積み重なり、上部にYESと書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17757",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "肯定",
+        "積み重なる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小さなキャラクターが体を丸め、地面に伏せるようにうずくまっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "17758",
+      "name": {
+        "ja": "小さくうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うずくまる",
+        "黄色",
+        "一人"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1062",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

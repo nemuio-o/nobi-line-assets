@@ -1,0 +1,1127 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、顔を横に向けて険しい表情で見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17191",
+      "name": {
+        "ja": "横目で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横目",
+        "男性",
+        "上半身"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着た男性が、片手の親指を立てている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17192",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "男性",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い上着の女性が、両手を胸元に当てて正面を見ている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "17193",
+      "name": {
+        "ja": "胸に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸",
+        "手",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い上着の女性が、首を傾けて手を胸元に寄せ、微笑んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17194",
+      "name": {
+        "ja": "身を寄せて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "女性",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "刺青の見える男性が腕を組み、口元を上げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17195",
+      "name": {
+        "ja": "腕を組んで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "笑顔",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い上着の女性が、胸の前で両手を合わせている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "17196",
+      "name": {
+        "ja": "手を合わせて祈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祈り",
+        "両手",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、眉を寄せて口を大きく開けている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "17197",
+      "name": {
+        "ja": "険しい顔で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "険しい顔",
+        "叫び",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "刺青の見える男性が、両手を広げて口を大きく開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17198",
+      "name": {
+        "ja": "両手を広げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "驚き",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、額に手を当てて目を伏せている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "17199",
+      "name": {
+        "ja": "額に手を当てて悩む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "額",
+        "悩み",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着た男性が、椅子に深くもたれて横になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17200",
+      "name": {
+        "ja": "椅子で横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、片手をこちらへ大きく差し出している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "17201",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手",
+        "差し出す",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が車内でハンドルを握り、前方を見て運転している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17202",
+      "name": {
+        "ja": "車を運転する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "運転",
+        "車",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、険しい表情で正面を見つめている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "17203",
+      "name": {
+        "ja": "険しい顔で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "険しい顔",
+        "男性",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い上着の女性が、片手を上げて指を立て、もう片方の手を腰に当てている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17204",
+      "name": {
+        "ja": "片手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手",
+        "女性",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の顔が大きく描かれ、眉を寄せて口を大きく開けている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "17205",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "口",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼帯をした男性が、目を見開き口を大きく開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17206",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼帯",
+        "叫び",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、縦長の機器を片手で持って前に構えている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "17207",
+      "name": {
+        "ja": "機器を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機器",
+        "構える",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い上着の女性が、首を傾けて目を伏せ気味にしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "17208",
+      "name": {
+        "ja": "首を傾ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "首を傾ける",
+        "女性",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着た男性が、人差し指をこちらへ突き出している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "17209",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "指を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "男性",
+        "前方"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の男性が、大きな赤いうちわのような物を持って振り上げている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "17210",
+      "name": {
+        "ja": "大きなうちわを振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うちわ",
+        "振る",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が白い布団をかぶり、顔だけを出して横になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17211",
+      "name": {
+        "ja": "布団で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "休む",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が器を手に持ち、箸で食べ物を口元へ運んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17212",
+      "name": {
+        "ja": "器を持って食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "器",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性がグラスを手に持ち、顔を近づけて飲み物を味わっている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "17213",
+      "name": {
+        "ja": "飲み物を味わう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "グラス",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の服を着た男性が床に座り、片手を頭の近くに置いている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17214",
+      "name": {
+        "ja": "床に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "床",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い上着の女性が、うつむいて膝に手を置いている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "17215",
+      "name": {
+        "ja": "うつむいて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "座る",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が湯気の立つ湯の中に入り、顔を出してくつろいでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17216",
+      "name": {
+        "ja": "湯気の中でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯気",
+        "風呂",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "刺青の見える男性が、長い黒い棒状の物を両手で構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17217",
+      "name": {
+        "ja": "棒を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "棒",
+        "構える",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、片手を高く掲げている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17218",
+      "name": {
+        "ja": "手を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手",
+        "掲げる",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、両手で黒い球状の物を持って見ている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "17219",
+      "name": {
+        "ja": "黒い球状の物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "球状",
+        "持つ",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、マイクを口元に当てて歌い、片手を握っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17220",
+      "name": {
+        "ja": "マイクで歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マイク",
+        "歌う",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さく描かれた男性が、長く伸びた釣りざおを持っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17221",
+      "name": {
+        "ja": "釣りざおを振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "釣りざお",
+        "釣り",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が大きく見える拳を前方へ突き出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17222",
+      "name": {
+        "ja": "拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "突き出す",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い上着の女性が、台の上の球を棒で狙っている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "17223",
+      "name": {
+        "ja": "台に向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "台",
+        "棒",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が手札のカードを扇状に広げて見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17224",
+      "name": {
+        "ja": "カードを広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カード",
+        "手",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い上着の女性が、片方の拳を高く突き上げている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "17225",
+      "name": {
+        "ja": "拳を高く上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "高く上げる",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の上着を着た男性が、青い揺らめきのようなものを背にして睨んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "17226",
+      "name": {
+        "ja": "青い気配をまとって睨む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い気配",
+        "睨む",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い上着の女性が、片方の拳を前に突き出して笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17227",
+      "name": {
+        "ja": "拳を突き出して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "笑顔",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が大きく見える拳を前方へ突き出し、険しい表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17228",
+      "name": {
+        "ja": "拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "前方",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の男性が腕を絡めるようにして、組み合っている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "17229",
+      "name": {
+        "ja": "組み合って戦う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "組み合う",
+        "格闘",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "室内で複数の人物がグラスを高く掲げ、乾杯している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17230",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "グラスを掲げて乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乾杯",
+        "グラス",
+        "複数人"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1042",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

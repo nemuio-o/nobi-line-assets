@@ -1,0 +1,1174 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑色のキャラクターが赤いりんごの陰から顔を出し、手を上げて挨拶している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21183",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "りんごからこんにちは"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "りんご",
+        "挨拶",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが片手を上げ、勢いのある大きな文字とともに前向きな返事をしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21184",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "元気に賛成"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "賛成",
+        "勢い",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが片手を上げて飛び跳ね、賛成を示す吹き出しが添えられている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21185",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "飛び跳ねてイエス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "賛成",
+        "ジャンプ",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服とサングラスのキャラクターが腕を組み、拒否を示す吹き出しを掲げている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21186",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "きっぱりノー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "黒い服",
+        "サングラス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが青い涙を流し、申し訳なさそうに頭を下げている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "21187",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "涙のあやまり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "涙",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが電話機の上に立ち、こちらへ連絡するよう呼びかけている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21188",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "電話してね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "呼びかけ",
+        "ボタン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが飲み物と軽食のそばで、朝の挨拶をしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21189",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "朝のひと息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "朝",
+        "飲み物",
+        "朝食"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い星形のクッションに緑色のキャラクターが乗り、夜の挨拶を伝えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21190",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "星つきのおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "星",
+        "おやすみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが首をかしげ、疑問符の吹き出しを浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "21191",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "考える",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが目を閉じて笑い、そばに赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21192",
+      "name": {
+        "ja": "ハートでうれしい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の緑色のキャラクターが向かい合い、いくつもの吹き出しを交わしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21193",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "向かい合っておしゃべり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "会話",
+        "二人",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターがハート付きの大きな封筒を運び、音符の吹き出しを添えている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "21194",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ハート便を届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手紙",
+        "ハート",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが赤いバラの大きな花束を抱えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21195",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花束を抱えて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "バラ",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターがかじった赤いりんごのそばで、楽しそうにしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21196",
+      "name": {
+        "ja": "りんごを食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "りんご",
+        "食べる",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが横になり、ラジオから流れる音楽を聴いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21197",
+      "name": {
+        "ja": "音楽に揺れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "ラジオ",
+        "リラックス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターがポンポンを持ち、笛を吹きながら前進を応援している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21198",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "声援でゴー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "笛",
+        "チア"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターの背後で赤い炎が燃え上がり、強い気合いを見せている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21199",
+      "name": {
+        "ja": "燃えるやる気"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "気合い",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが青い氷の塊に包まれ、ひんやりと休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "21200",
+      "name": {
+        "ja": "氷の中でひんやり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "氷",
+        "涼む",
+        "冷たい"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが帽子をずらし、力なく座り込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21201",
+      "name": {
+        "ja": "帽子を落としてぼんやり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "帽子",
+        "ぼんやり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが額縁の中に描かれ、周囲に鋭い光の線が走っている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "21202",
+      "name": {
+        "ja": "額縁の中の自分"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "額縁",
+        "雷",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが暗い隅にうずくまり、うつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21203",
+      "name": {
+        "ja": "隅でしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "隅",
+        "落ち込み",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが体を丸め、帽子を横にして静かに休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21204",
+      "name": {
+        "ja": "丸まって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休憩",
+        "丸まる",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが地面から姿を現し、片手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "21205",
+      "name": {
+        "ja": "地面からひょっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひょっこり",
+        "地面",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが眉を寄せ、黒い動きの線とともに怒りをあらわにしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21206",
+      "name": {
+        "ja": "怒りのうなり声"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "うなる",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが両手にダンベルを持ち、力強くトレーニングしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21207",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "パワーをためる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "筋トレ",
+        "パワー",
+        "ダンベル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが氷のうを頭にのせ、赤い布の上で休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "21208",
+      "name": {
+        "ja": "氷のうでひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休憩",
+        "氷のう",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが本を開いたまま横になり、机のそばで眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21209",
+      "name": {
+        "ja": "読書中にうとうと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "読書",
+        "居眠り",
+        "本"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが壁の端から半分だけ顔を出し、小さな吹き出しを浮かべている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "21210",
+      "name": {
+        "ja": "壁からそっと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "壁",
+        "のぞく",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターがポップコーンを抱え、ノートパソコンの画面を見ている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21211",
+      "name": {
+        "ja": "ポップコーンで映画気分"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "映画",
+        "ポップコーン",
+        "ノートパソコン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の緑色のキャラクターが横向きに並び、転がるような動きを見せている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21212",
+      "name": {
+        "ja": "ころころ三人組"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "転がる",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターがカラフルな傘を差し、雨の中で音楽を楽しんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21213",
+      "name": {
+        "ja": "雨の日も音楽"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "傘",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが紙吹雪ときらめきに囲まれ、楽しそうに跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21214",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "紙吹雪でお祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙吹雪",
+        "お祝い",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが赤く染まる夕景の前で、静かにたたずんでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21215",
+      "name": {
+        "ja": "夕焼けを眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夕焼け",
+        "景色",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが大きなティーカップに入り、新聞を読みながらくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "21216",
+      "name": {
+        "ja": "紅茶とひと息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紅茶",
+        "休憩",
+        "新聞"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが茶色の毛布にくるまり、黄色い背景の上で眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21217",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "毛布でおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "毛布",
+        "おやすみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが祝い柄の箱から飛び出し、紙吹雪をまき散らしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21218",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "箱から飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "紙吹雪",
+        "蝶ネクタイ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが水しぶきを上げて跳ね、賛成を示す吹き出しを添えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21219",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "水しぶきでイエス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "賛成",
+        "水しぶき",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが鉛筆と消しゴムのそばで、挨拶を書いた紙を差し出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21220",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手書きでこんにちは"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手紙",
+        "鉛筆",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターがサングラスをかけ、スケートボードで滑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21221",
+      "name": {
+        "ja": "サングラスで滑走"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スケートボード",
+        "サングラス",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが果物と飲み物のそばに座り、赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21222",
+      "name": {
+        "ja": "果物を囲んで乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "果物",
+        "飲み物",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1207",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

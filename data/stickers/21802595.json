@@ -1,0 +1,1139 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "頬を赤らめたウサギが、口をすぼめて言いよどむように立っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "556658118",
+      "name": {
+        "ja": "ためらい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "照れ",
+        "ためらい"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが小さな仲間と一緒に、目を輝かせてうなずくようにしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "556658119",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "きらめく肯定"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "仲間",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが体を横たえ、手足を伸ばしながらくつろいでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "556658120",
+      "name": {
+        "ja": "ごろん"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "横になる",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "前にいるウサギの後ろから、別の仲間たちが顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "556658121",
+      "name": {
+        "ja": "ひょっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "のぞく",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三匹のウサギが並んで、そろって丁寧に頭を下げている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "556658122",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "会釈"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "お辞儀",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが両手に飾りを持ち、きらめく背景で楽しそうにポーズを取っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "556658123",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "華やかポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "飾り",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花柄の背景でウサギが横向きに丸まり、目を閉じて休んでいる。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "556658124",
+      "name": {
+        "ja": "うとうと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "眠る",
+        "休息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い敷物の上にウサギが座り、目を閉じて静かにひと息ついている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "556658125",
+      "name": {
+        "ja": "ひと息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "座る",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが後ろを向いて立ち、丸い尻尾をこちらに見せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "556658126",
+      "name": {
+        "ja": "後ろ姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "後ろ姿",
+        "しっぽ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが体を半分だけ見せ、物陰からそっとこちらをうかがっている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "556658127",
+      "name": {
+        "ja": "顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "物陰",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "壁の端からウサギが手を伸ばし、顔だけを出して様子を見ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "556658128",
+      "name": {
+        "ja": "壁からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "壁",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが頬に手を添え、目を潤ませながらうれしそうに微笑んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "556658129",
+      "name": {
+        "ja": "うっとり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "うっとり",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "背を向けたウサギが首だけを返し、横目でこちらを見ている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "556658130",
+      "name": {
+        "ja": "振り向き"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "振り向く",
+        "横目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが横向きに寝そべり、首を傾けて問いかけるような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "556658131",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "寝そべり質問"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "寝そべる",
+        "疑問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "夜空を背景に、三匹の仲間が並んで両手を合わせ、期待するように見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "556658132",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "お願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "お願い",
+        "夜空"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな仲間たちがニンジンの周りを跳ね回り、楽しげな雰囲気になっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "556658133",
+      "name": {
+        "ja": "にぎやか"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "にんじん",
+        "はしゃぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の仲間が並び、もう一匹が祝いの飾りを掲げて祝福している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "556658134",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "お祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "お祝い",
+        "祝福"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギと二匹の仲間が寄り添い、光の飾りの中で笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "556658135",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "キラキラ笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "仲間",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな装いの人物が小さなウサギを抱きしめ、親愛を伝えているように見える。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "556658136",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "ぎゅっと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱きしめる",
+        "仲間",
+        "親愛"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が飲み物のグラスを持ち、にこやかに祝う雰囲気を出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "556658137",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "乾杯気分"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "笑顔",
+        "お祝い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の小さな仲間が肩を寄せて座り、互いを気遣うように頬を寄せている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "556658138",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "寄り添い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "寄り添う",
+        "安心"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが眉を寄せ、そばの小さな道具を見つめて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "556658139",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "困惑",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが毛布にくるまり、頬を赤らめて気持ちよさそうに眠っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "556658140",
+      "name": {
+        "ja": "すやすや"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "毛布",
+        "睡眠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い仲間がピザを手にし、夢中でひと口かじっている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "556658141",
+      "name": {
+        "ja": "ひとくち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べる",
+        "ピザ",
+        "うれしい"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い飾りをつけた仲間が、頭上の果物に気づいて目を見開いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "556658142",
+      "name": {
+        "ja": "びっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "驚き",
+        "果物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仲間が寿司の皿を前に両手を広げ、わくわくした様子を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "556658143",
+      "name": {
+        "ja": "ごちそう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "寿司",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仲間が食べ物を手に、勢いよく飛び出すように体を伸ばしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "556658144",
+      "name": {
+        "ja": "飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "食べ物",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い器のそばで仲間がひっくり返り、食べ物が周囲に散らばっている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "556658145",
+      "name": {
+        "ja": "ひっくり返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "転ぶ",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い飾りをつけた仲間が正面を見て、首を傾けながら確かめるような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "556658146",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "確認"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "首を傾ける",
+        "疑問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギと二匹の仲間が身を寄せ、そろって楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "556658147",
+      "name": {
+        "ja": "みんなで笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "仲間",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな仲間が目を細め、両手の小物を見ながら静かに立ち止まっている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "556658148",
+      "name": {
+        "ja": "じっと観察"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "小物",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが大きなかばんにもたれ、力が抜けたように横たわっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "556658149",
+      "name": {
+        "ja": "がっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "かばん",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸い衣装に身を包んだウサギが飾りを添え、おめでたい雰囲気で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "556658150",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "おめでたい日"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "祝い",
+        "飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さなウサギが一匹で立ち、控えめに口元をゆるめている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "556658151",
+      "name": {
+        "ja": "小さな喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "笑顔",
+        "ひとり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ウサギが大きく口を開け、全身で喜びを表すようにしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "556658152",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "大はしゃぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "大喜び",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青や紫の仲間とウサギが集まり、顔を寄せて親しげにしている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "556658153",
+      "name": {
+        "ja": "仲間と一緒"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "集合",
+        "親しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "飾りを身につけたウサギが金色の小物を掲げ、縁起を祝うようにしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "556658154",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "福を招く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "縁起物",
+        "祝い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "首に鈴をつけたウサギが両手を合わせ、期待するような目でこちらを見ている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "556658155",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "期待のまなざし"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "鈴",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな仲間が乗り物のような小物に乗り、勢いよく進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "556658156",
+      "name": {
+        "ja": "勢いよく進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "乗り物",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸い緑色の衣装から白い顔を出し、目を見開いてこちらに呼びかけるようにしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "556658157",
+      "name": {
+        "ja": "顔出し"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "緑色",
+        "顔出し"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "21802595",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

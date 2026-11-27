@@ -1,0 +1,1127 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色いキャラクターがピンクのハートを抱え、頭上に青い汗のしずくを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "fear"
+      ],
+      "id": "9167",
+      "name": {
+        "ja": "ハートを抱えて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱える",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが胸の前で小さなハートを抱え、周囲にも赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9168",
+      "name": {
+        "ja": "ハートを贈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク",
+        "ハート",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と赤色の二体が向かい合い、赤い方が相手の顔の近くに手を添えている。足元には白黒のボールがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9169",
+      "name": {
+        "ja": "向かい合って寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "サッカーボール"
+      ]
+    },
+    {
+      "description": {
+        "ja": "模様のある複数のキャラクターが白い箱に並び、箱の左右に赤いリボンが結ばれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9170",
+      "name": {
+        "ja": "箱入りで並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "リボン",
+        "きのこ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが台の上で白い生地のようなものを扱い、横に黒い道具と白い皿が置かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "9171",
+      "name": {
+        "ja": "台所で生地を扱う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "台所",
+        "生地",
+        "皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いコック帽をかぶったキャラクターが、片手に炎のような先端の道具、もう片手に器を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9172",
+      "name": {
+        "ja": "料理道具を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "コック帽",
+        "トーチ",
+        "器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが翼と輪をつけ、弓矢を構えている。周囲にはたくさんのピンクのハートがある。"
+      },
+      "emotion": [
+        "love",
+        "excitement"
+      ],
+      "id": "9173",
+      "name": {
+        "ja": "翼でハートを放つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "翼",
+        "弓矢",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三体のキャラクターが身を寄せて抱き合い、左右の二体の頬が赤くなっている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9174",
+      "name": {
+        "ja": "三体で抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三体",
+        "抱擁",
+        "頬の赤み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなピンクの花を頭にかぶったキャラクターが立ち、周囲に花びらが舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9175",
+      "name": {
+        "ja": "花びらを散らして立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "花びら",
+        "葉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花の冠をつけたキャラクターが細い棒を持ち、周囲に黄色い点線の輪ときらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9176",
+      "name": {
+        "ja": "花飾りで輝く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "杖",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花を身につけた三体のキャラクターが青い敷物に座り、前に色のついたものが入った皿が置かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9177",
+      "name": {
+        "ja": "花の仲間と敷物に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "敷物",
+        "皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三体の黒っぽいキャラクターが青い敷物の上に集まり、中央付近に小さな皿が置かれている。何をしている場面かは判別しにくい。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "9178",
+      "name": {
+        "ja": "三体で囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三体",
+        "敷物",
+        "皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い帽子をかぶったキャラクターが白い小旗を持ち、黒い荷物を背負って歩いている。"
+      },
+      "emotion": [
+        "excitement",
+        "calm"
+      ],
+      "id": "9179",
+      "name": {
+        "ja": "帽子と荷物で歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "旗",
+        "リュック"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いキャラクターが渦巻き模様の目で立ち、青い本のようなものを持っている。周囲に花が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "confusion"
+      ],
+      "id": "9180",
+      "name": {
+        "ja": "花に囲まれて本を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "渦巻き目",
+        "本",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い卒業帽をかぶったキャラクターが、黒い筒状のものを持って立っている。周囲に花びらが舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9181",
+      "name": {
+        "ja": "卒業帽と筒を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "卒業帽",
+        "筒",
+        "花びら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い茶色のキャラクターが眉を寄せ、口を強く結んだ険しい表情で立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "9182",
+      "name": {
+        "ja": "険しい顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "険しい顔",
+        "立つ",
+        "眉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが目を閉じて立ち、頭の周囲に色とりどりの丸い泡と小さな眠気の記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "9183",
+      "name": {
+        "ja": "眠気に包まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠気",
+        "泡",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが白い皿の上で横たわっている。用途や料理名は画像から判別しにくい。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "9184",
+      "name": {
+        "ja": "皿の上で横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "皿",
+        "横たわる",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の頭をしたキャラクターが白い皿のそばで身をかがめている。皿上の物や動作の詳細は判別しにくい。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "9185",
+      "name": {
+        "ja": "皿のそばで身をかがめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色",
+        "皿",
+        "かがむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが小さな盆栽を持ち、足元に青い鋏を置いている。そばに音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9186",
+      "name": {
+        "ja": "盆栽と鋏を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盆栽",
+        "鋏",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ひまわりの花のような姿をしたキャラクターの周囲に、赤や青の音符と緑のリボンが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9187",
+      "name": {
+        "ja": "ひまわり姿で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひまわり",
+        "音符",
+        "踊り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のとんがり帽子と白いマフラーを身につけたキャラクターが、白い息を出しながら動いている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9188",
+      "name": {
+        "ja": "冬支度で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "冬帽子",
+        "マフラー",
+        "息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色のキャラクターが雨の線の中で体を垂らし、頭に青紫色の飾りをつけている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9189",
+      "name": {
+        "ja": "雨の中でうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "紫色",
+        "うなだれる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエルのような着ぐるみ姿のキャラクターが、雨と水たまりの中に座っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "9190",
+      "name": {
+        "ja": "雨の中のカエル姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル姿",
+        "雨",
+        "水滴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子をかぶったキャラクターが両手を上げ、周囲に黄色い光線が広がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "9191",
+      "name": {
+        "ja": "赤い帽子で両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い帽子",
+        "両手",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子をかぶったキャラクターが雨の線の中に立ち、舌を出している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9192",
+      "name": {
+        "ja": "雨の中で舌を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "青い帽子",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが赤白の扇を高く掲げ、もう片方の腕を動かしている。周囲に動きの線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9193",
+      "name": {
+        "ja": "扇を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "扇",
+        "振る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い三角帽をかぶったキャラクターが花束を持ち、周囲に色とりどりの紙片が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9194",
+      "name": {
+        "ja": "花束を持って祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パーティー帽",
+        "花束",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サングラスをかけたキャラクターが花飾りを首にかけ、緑の小荷物とオレンジ色のスーツケースを持っている。近くを飛行機が飛んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9195",
+      "name": {
+        "ja": "荷物を持って旅立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "スーツケース",
+        "飛行機"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の迷彩柄の体をしたキャラクターが、手で顔の前を覆うようにして立っている。頭から葉のような突起が出ている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "9196",
+      "name": {
+        "ja": "迷彩柄で身を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "迷彩柄",
+        "隠れる",
+        "草"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪を結んだキャラクターが長い刀を片手に持ち、黒い影の上に立っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "9197",
+      "name": {
+        "ja": "刀を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "刀",
+        "侍姿",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒っぽいキャラクターが立ち、頭上と周囲を赤い炎が取り囲んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "9198",
+      "name": {
+        "ja": "炎に包まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "燃える",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが白い布のようなものを身につけ、頭上で二本の器具を交差させている。横に青い線の入った器がある。用途は判別しにくい。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "9199",
+      "name": {
+        "ja": "白い布姿で器具を交差する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い布",
+        "交差した器具",
+        "器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤く細長い姿のキャラクターが立ち、上部に緑色のへたのような形がある。手元の小物と足元の白い皿の用途は判別しにくい。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "9200",
+      "name": {
+        "ja": "赤い姿で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤色",
+        "緑のへた",
+        "皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両腕を曲げて力こぶを見せ、目の周囲が黄色く光っている。背後に赤い炎のような形がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9201",
+      "name": {
+        "ja": "腕を曲げて力を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "力こぶ",
+        "両腕",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い翼と輪をつけたキャラクターが手を合わせ、周囲を黄色い光ときらめきが包んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "9202",
+      "name": {
+        "ja": "翼と光に包まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "翼",
+        "光",
+        "輪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と黄色の二体のキャラクターが横に並んで立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "9203",
+      "name": {
+        "ja": "二体で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二体",
+        "並ぶ",
+        "きのこ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の仮面と黒い角のような形をつけたキャラクターが、片手を腰に当てて立っている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "9204",
+      "name": {
+        "ja": "紫の仮面で構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色",
+        "仮面",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが床に座り、小さな容器のようなものを口元に寄せている。小物の用途は判別しにくい。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "9205",
+      "name": {
+        "ja": "座って小物を口元に寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "小物",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが目を閉じ、体を前に傾けて深く頭を下げている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "9206",
+      "name": {
+        "ja": "頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お辞儀",
+        "頭を下げる",
+        "立つ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "742",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

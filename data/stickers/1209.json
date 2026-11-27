@@ -1,0 +1,1151 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒い丸い顔が目を見開き、歯をむき出しにして強く食いしばっている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "21231",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯",
+        "緊張",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い丸い顔が口を大きく開け、頭の上に青い汗を飛ばして驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21232",
+      "name": {
+        "ja": "汗をかいて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "汗",
+        "口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い丸い顔が目を細めて笑い、頭の周りに青と赤の音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21233",
+      "name": {
+        "ja": "音符と笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "笑顔",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い丸い顔が目をつり上げ、頭上に赤い怒りの印を出している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21234",
+      "name": {
+        "ja": "怒りの顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "表情",
+        "赤い印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い丸い顔が口を開け、片目から青い涙をこぼしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "21235",
+      "name": {
+        "ja": "涙がこぼれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "悲しみ",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い顔が両手でカップを持って微笑み、周囲をピンクのハートで囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21236",
+      "name": {
+        "ja": "ハートに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "カップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つの黒い顔が向かい合い、赤いハートを挟んでくちづけしている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "21237",
+      "name": {
+        "ja": "仲良くキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "キス",
+        "仲良し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いエプロンの小さなペンギンと黒いペンギンが、鍋や道具を使って一緒に料理している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21238",
+      "name": {
+        "ja": "ふたりで料理"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "ふたり",
+        "協力"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さなペンギンが箱を両手で差し出し、背の高いペンギンへ贈り物を渡している。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "21239",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "プレゼントを渡す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "手渡す",
+        "ペンギン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが青い受話器を持ち、黄色いくちばしを大きく開けて呼びかけている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21240",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "電話で呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "呼びかけ",
+        "受話器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のペンギンが青い波の板に乗り、体を傾けて滑っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21241",
+      "name": {
+        "ja": "波に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "波乗り",
+        "動き",
+        "ペンギン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の動物が赤いハートを抱え、上に「Thank you!」と書かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "21242",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ありがとうを届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ありがとう",
+        "ハート",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い丸に囲まれたペンギンが困った顔をし、上に「NO」と描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "confusion"
+      ],
+      "id": "21243",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "NOで拒否"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "困る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服のペンギンが両手を上げて笑い、頭上に「OK」と描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21244",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "OKサイン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "両手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが体を前に伸ばし、足を大きく踏み出して勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21245",
+      "name": {
+        "ja": "全速力で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "勢い",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い顔が目を回したような表情をし、頭の上に青い渦の線が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "21246",
+      "name": {
+        "ja": "くらくらする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "めまい",
+        "渦",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ペンギンが水たまりの中に座り込み、両目から青い涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21247",
+      "name": {
+        "ja": "水たまりで泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "水たまり",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが片手を上げて前を指し、何かを思いついたようにしている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "21248",
+      "name": {
+        "ja": "ひらめいて指す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひらめき",
+        "指差し",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが立ち止まり、青い汗を飛ばしながら不安そうにしている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "21249",
+      "name": {
+        "ja": "汗だくで心配"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "心配",
+        "ペンギン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが両翼を広げ、頭の周りに黄色い疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "21250",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "わからないポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "困惑",
+        "両翼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが横向きに立ち、赤いくちばしを前へ向けて静かに見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21251",
+      "name": {
+        "ja": "横顔で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "見つめる",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さなペンギンが青い掛け布団のベッドで横になり、眠そうに目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21252",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "ベッドでおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ベッド",
+        "眠る",
+        "夜"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが頭の上に緑の葉の束をのせ、慎重に歩いている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "21253",
+      "name": {
+        "ja": "頭に葉っぱをのせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "葉っぱ",
+        "運ぶ",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いペンギンが青い買い物カートを押し、前へ進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21254",
+      "name": {
+        "ja": "カートを押す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物",
+        "カート",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが氷の上で青いトランペットを吹き、音を響かせている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21255",
+      "name": {
+        "ja": "氷上でトランペット"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "トランペット",
+        "氷",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが口を開け、両足を伸ばして勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21256",
+      "name": {
+        "ja": "走り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "動き",
+        "ペンギン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが青いキックボードに乗り、旗を立てて走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21257",
+      "name": {
+        "ja": "キックボードで進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キックボード",
+        "走る",
+        "旗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが青いひもで小さな音符の飾りを引き、音符を浮かべて歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21258",
+      "name": {
+        "ja": "音楽を連れて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "ひも",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さなペンギンがクッキーの箱を抱え、テレビの前を歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21259",
+      "name": {
+        "ja": "お菓子を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クッキー",
+        "箱",
+        "テレビ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが小さなぬいぐるみを抱え、月と「Z」のそばで眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21260",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "月夜に眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "月",
+        "ぬいぐるみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが色とりどりの箱を高く積み、横で支えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21261",
+      "name": {
+        "ja": "贈り物を積む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "箱",
+        "積む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンがナイフとフォークを持ち、皿の魚を前に食事を待っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21262",
+      "name": {
+        "ja": "魚をいただく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "魚",
+        "ナイフ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが赤いハートの印のある青い箱を抱え、届けようとしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21263",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ハートの箱を届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "箱",
+        "届ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが別のペンギンを背負い、二人で勢いよく動いている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "21264",
+      "name": {
+        "ja": "おんぶで大騒ぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おんぶ",
+        "ふたり",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな木箱の下から黒いペンギンの頭と足がのぞき、箱を運んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "21265",
+      "name": {
+        "ja": "大箱の下から"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木箱",
+        "運ぶ",
+        "ペンギン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンと白いペンギンが泡の浮かぶ黄色い浴槽につかっている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "21266",
+      "name": {
+        "ja": "泡風呂でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "泡",
+        "ふたり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いペンギンが青い十字のついた薬を、椅子に座るくまへ差し出している。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "21267",
+      "name": {
+        "ja": "くまに薬を渡す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "薬",
+        "くま",
+        "手渡す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "とんがり帽子のペンギンが星のついた杖を振り、色とりどりの光を散らしている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "21268",
+      "name": {
+        "ja": "星の魔法"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "魔法",
+        "星",
+        "杖"
+      ]
+    },
+    {
+      "description": {
+        "ja": "とんがり帽子の黒いペンギンが青いカップを掲げ、音符と紙吹雪の中で楽しんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21269",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "パーティーで乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パーティー",
+        "乾杯",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いペンギンが大きな木箱の後ろから顔を出し、箱を引っぱっている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "21270",
+      "name": {
+        "ja": "箱を引っぱる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木箱",
+        "引っぱる",
+        "運ぶ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1209",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

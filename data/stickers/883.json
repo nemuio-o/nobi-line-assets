@@ -1,0 +1,1129 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "眼鏡をかけた男性が笑顔で人差し指を立て、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13343",
+      "name": {
+        "ja": "ポイントを示して喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "指差し",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を閉じて笑顔になり、片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13344",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を上げてあいさつする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "手を上げる",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた女性が目を見開き、口を開けて手を前に出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "13345",
+      "name": {
+        "ja": "驚いて声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "眼鏡",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の女性が膝を抱えるように座り、うつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "13346",
+      "name": {
+        "ja": "うつむいて座り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "座る",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いハート型の眼鏡をかけた女性が笑い、周囲をハートで囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13347",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ハート",
+        "赤い眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が口を大きく開けて笑い、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13348",
+      "name": {
+        "ja": "大きな口で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "大笑い",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が頬を赤らめたような表情で、片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13349",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "照れながら手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "手を振る",
+        "照れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "とがった髪の男性が眉をひそめ、険しい表情で正面を見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13350",
+      "name": {
+        "ja": "険しい顔でにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "険しい表情",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の帽子をかぶった男性が、片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13351",
+      "name": {
+        "ja": "帽子をかぶって手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "帽子",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の帽子をかぶった男性が、帽子に手を添えて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13352",
+      "name": {
+        "ja": "帽子に手を添えて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "帽子",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年配の男性が目を細め、穏やかな笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13353",
+      "name": {
+        "ja": "にっこり笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "笑顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の女性が目を閉じ、口を少し開けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13354",
+      "name": {
+        "ja": "目を閉じて話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "目を閉じる",
+        "話す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の女性が横を向き、静かに立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "13355",
+      "name": {
+        "ja": "横を向いてたたずむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "横顔",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を細め、疲れたような表情で正面を向いている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "13356",
+      "name": {
+        "ja": "疲れた顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "疲れ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が大きな赤い花束を抱えて立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13357",
+      "name": {
+        "ja": "花束を抱えて現れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "花束",
+        "バラ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた女性が無表情に立ち、頭上から青い縦線が下がっている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "13358",
+      "name": {
+        "ja": "青い線に囲まれて沈む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "青い線",
+        "沈む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が座り込み、体の周囲に黄色い震えの線が描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "13359",
+      "name": {
+        "ja": "震えながら座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "座る",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった女性が、手に持った食べ物を口元に寄せている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13360",
+      "name": {
+        "ja": "お菓子を食べて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "食べる",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を閉じ、両手を下ろして静かに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13361",
+      "name": {
+        "ja": "目を閉じてお辞儀する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "目を閉じる",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた男性が両手を高く上げ、笑顔で喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13362",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を上げて祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "両手を上げる",
+        "祝う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年が口を大きく開けて笑い、両手を広げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13363",
+      "name": {
+        "ja": "口を開けて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "笑顔",
+        "両手を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手を高く上げ、もう片方の手を前に出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "13364",
+      "name": {
+        "ja": "勢いよく手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "手を上げる",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた少女が笑顔で、両手を頬の近くに添えている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "13365",
+      "name": {
+        "ja": "両手を頬に添えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "笑顔",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が後頭部に手を当て、困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "13366",
+      "name": {
+        "ja": "困って頭をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "頭をかく",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪のとがった男性が頬を赤らめ、両手を広げている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "13367",
+      "name": {
+        "ja": "頬を赤らめて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "赤面",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた男性が拳を上げ、背後に赤い炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "13368",
+      "name": {
+        "ja": "燃える気持ちで怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "炎",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性がカメラを構えながら、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "13369",
+      "name": {
+        "ja": "カメラを構えて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "カメラ",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が床に体を伸ばし、そばにピンク色の風船が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "13370",
+      "name": {
+        "ja": "風船のそばで伸びをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "風船",
+        "伸びる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった二人の女性が、互いに腕を回して抱き合っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13371",
+      "name": {
+        "ja": "二人で抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性二人",
+        "抱き合う",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の子どもが太鼓を持ち、足を上げて楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13372",
+      "name": {
+        "ja": "太鼓をたたいて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "太鼓",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の少女が手を広げて踊り、周囲に水玉ときらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13373",
+      "name": {
+        "ja": "泡の中で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女二人",
+        "踊る",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性がうちわを持ち、隣の子どもと一緒に立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13374",
+      "name": {
+        "ja": "うちわを持って祭りを楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "子ども",
+        "うちわ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がもう一人の女性の頬にキスをしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13375",
+      "name": {
+        "ja": "頬にキスをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性二人",
+        "キス",
+        "親愛"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が目を見開き、驚いた表情で顔を寄せている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13376",
+      "name": {
+        "ja": "驚いて顔を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "驚き",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の男性が向かい合い、腕を動かしながら踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13377",
+      "name": {
+        "ja": "二人で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性二人",
+        "踊る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少年の前に女性が立ち、二人の周囲に青い渦のような線が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "13378",
+      "name": {
+        "ja": "青い渦の中で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "女性",
+        "青い渦"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が女性に近づき、二人の間と周囲にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13379",
+      "name": {
+        "ja": "ハートを浮かべて近づく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男女",
+        "ハート",
+        "近づく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の女性が手を取り合い、向かい合っている。周囲にきらめきがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13380",
+      "name": {
+        "ja": "手を取り合って見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性二人",
+        "手をつなぐ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性と女性が寄り添って笑い、二人の上にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13381",
+      "name": {
+        "ja": "寄り添って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男女",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった男女が手を合わせ、笑顔で喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13382",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "手を合わせて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男女",
+        "手を合わせる",
+        "帽子"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "883",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

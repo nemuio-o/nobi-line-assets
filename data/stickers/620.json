@@ -1,0 +1,1124 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物が腕を胸の前で組み、眉を寄せた険しい表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5951",
+      "name": {
+        "ja": "腕を組む険しい顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "険しい顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を大きく開けて叫び、片腕を前方へ伸ばしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5952",
+      "name": {
+        "ja": "叫びながら手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "腕を伸ばす",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体をひねり、光の線を伴って拳を前へ突き出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5953",
+      "name": {
+        "ja": "拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "突き出す",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面のような頭部を持つ姿が、指を広げた手のひらを前へ突き出している。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "5954",
+      "name": {
+        "ja": "手のひらを突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "仮面",
+        "突き出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "装飾のある装束の人物が、両手を左右に広げて正面を向いている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5955",
+      "name": {
+        "ja": "両手を広げる装束姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "装束",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の人差し指を立て、もう一方の手を前に出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5956",
+      "name": {
+        "ja": "指を立てて示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人差し指",
+        "片手",
+        "示す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を上げ、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5957",
+      "name": {
+        "ja": "両腕を振り上げて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "叫び",
+        "振り上げ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔が大きく描かれ、目を見開いて歯を見せながらにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5958",
+      "name": {
+        "ja": "歯を見せてにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "にらみ",
+        "歯",
+        "顔アップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面をつけた人物が胸の前で腕を抱えるようにして立っている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "5959",
+      "name": {
+        "ja": "腕を抱えて立つ仮面姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仮面",
+        "腕",
+        "胸"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が、片腕を斜め上へ大きく振り上げている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5960",
+      "name": {
+        "ja": "腕を斜めに振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片腕",
+        "振り上げ",
+        "仮面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔が大きく描かれ、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5961",
+      "name": {
+        "ja": "口を大きく開けて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "口",
+        "顔アップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を前へ差し出し、周囲に赤い動きの線が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5962",
+      "name": {
+        "ja": "手を前へ差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "差し出す",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が拳を握り、腕を勢いよく振り下ろしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5963",
+      "name": {
+        "ja": "拳を振り下ろす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "振り下ろす",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い髪の人物が、大きな筒状の物を肩に担いでいる。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "5964",
+      "name": {
+        "ja": "大きな物を肩に担ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い髪",
+        "肩",
+        "筒状の物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の髪の人物が、両手を下げて立ち、背中側に長い道具のような物を携えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5965",
+      "name": {
+        "ja": "道具を持って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑色の髪",
+        "立つ",
+        "長い物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手で盆のような物を持ち、もう一方の手を添えて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5966",
+      "name": {
+        "ja": "盆を持って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "盆",
+        "立つ",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面をつけた人物が胸を張り、両腕を左右へ広げている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5967",
+      "name": {
+        "ja": "胸を張る仮面姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仮面",
+        "胸",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "装飾のある人物が、片手を前方へ差し出している。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "5968",
+      "name": {
+        "ja": "片手を前へ出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "差し出す",
+        "装飾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面をつけた人物が、片手を胸元に置いて立っている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "5969",
+      "name": {
+        "ja": "胸元を押さえる仮面姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仮面",
+        "胸元",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金色の髪の人物が顔を横に向け、横目で見ている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "5970",
+      "name": {
+        "ja": "横目で見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金色の髪",
+        "横目",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を大きく左右へ広げて立っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5971",
+      "name": {
+        "ja": "両手を広げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "広げる",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い髪の人物が腕を大きく振り、拳を手前へ突き出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5972",
+      "name": {
+        "ja": "拳を前へ突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "突き出す",
+        "白い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が地面に座り、片手を上へ掲げている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "5973",
+      "name": {
+        "ja": "片手を上げて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "片手",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面をつけた人物が両手を上げ、手のひらを見せている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "5974",
+      "name": {
+        "ja": "両手を上げる仮面姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仮面",
+        "両手",
+        "手のひら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身を露出した人物が、胸を張って正面寄りに立っている。"
+      },
+      "emotion": [
+        "calm",
+        "anger"
+      ],
+      "id": "5975",
+      "name": {
+        "ja": "胸を張って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "上半身",
+        "胸を張る",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "仮面の人物が、非常に大きく描かれた拳を手前へ突き出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5976",
+      "name": {
+        "ja": "大きな拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きな拳",
+        "仮面",
+        "突き出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔が大きく描かれ、眉を寄せて口を開けている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "5977",
+      "name": {
+        "ja": "顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔アップ",
+        "しかめ顔",
+        "口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片腕を上げ、人差し指を上へ向けている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5978",
+      "name": {
+        "ja": "指を上へ向ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人差し指",
+        "上向き",
+        "片腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸元を押さえ、体を曲げた苦しそうな表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5979",
+      "name": {
+        "ja": "胸元を押さえて苦しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸元",
+        "前かがみ",
+        "苦しそう"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、腕を伸ばして動いている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5980",
+      "name": {
+        "ja": "二人が向かい合って動く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "向かい合う",
+        "腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が背を向け、片腕を上へ振り上げている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5981",
+      "name": {
+        "ja": "背を向けて腕を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "片腕",
+        "振り上げ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体をひねり、片手の手のひらを前へ向けている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5982",
+      "name": {
+        "ja": "手のひらを前に出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "片手",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が顔の近くで片手を開き、手のひらを前へ向けている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "5983",
+      "name": {
+        "ja": "手のひらを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "片手",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が光のような背景をまとい、両腕を左右へ広げている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "5984",
+      "name": {
+        "ja": "光をまとって両腕を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "光",
+        "広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身を露出した人物が、腕を下げて力強く立っている。"
+      },
+      "emotion": [
+        "calm",
+        "anger"
+      ],
+      "id": "5985",
+      "name": {
+        "ja": "力強く立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "上半身",
+        "立つ",
+        "力強い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を反らせ、腕を伸ばしたまま倒れるような姿勢を取っている。"
+      },
+      "emotion": [
+        "surprise",
+        "sadness"
+      ],
+      "id": "5986",
+      "name": {
+        "ja": "体を反らして倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "腕",
+        "反る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手の拳を握り、体の前で力を込めている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "5987",
+      "name": {
+        "ja": "拳を握りしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両拳",
+        "力を込める",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を胸元に置き、体をやや縮めている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "5988",
+      "name": {
+        "ja": "胸元で手を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "胸元",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を大きく左右へ広げ、力強く構えている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "5989",
+      "name": {
+        "ja": "両腕を広げて構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "構える",
+        "力強い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の拳を胸元に置き、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "anger"
+      ],
+      "id": "5990",
+      "name": {
+        "ja": "拳を胸元に置く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "胸元",
+        "正面"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "620",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

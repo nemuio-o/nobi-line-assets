@@ -1,0 +1,1131 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "人物が布団の上で横になり、目を閉じてぐったりしている。そばに時計と日差しのような線が見える。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7063",
+      "name": {
+        "ja": "布団でぐったり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "布団",
+        "ぐったり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が肩を寄せ、目を閉じて困ったような表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "7064",
+      "name": {
+        "ja": "肩を寄せて困り顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩寄せ",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手に飲み物の容器、もう片手に赤い物を持ち、口元へ運んでいる。足元に複数の容器がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7065",
+      "name": {
+        "ja": "薬を飲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "薬",
+        "飲み物",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が開いた冷蔵庫の中をのぞき込んでいる。冷蔵庫のそばに音符と吹き出しが見える。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "7066",
+      "name": {
+        "ja": "冷蔵庫をのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "冷蔵庫",
+        "立つ",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がテーブルの前に背を向けて立ち、皿や料理の並んだ卓上を見ている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "7067",
+      "name": {
+        "ja": "料理を前に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "テーブル",
+        "後ろ姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が料理の並んだテーブルの前で、目を閉じて困ったような顔をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "7068",
+      "name": {
+        "ja": "料理を前に困り顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "料理",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が食卓の前で目を閉じ、口元から息のような線を出している。テーブルには丼と皿がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7069",
+      "name": {
+        "ja": "食卓でため息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "ため息",
+        "丼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に座り込み、テレビ画面を見ている。そばにリモコンのような物がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7070",
+      "name": {
+        "ja": "テレビの前で座り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テレビ",
+        "座り込む",
+        "床"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が紙に向かって座り、手にした道具で書いている。周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "7071",
+      "name": {
+        "ja": "音楽を聴いて書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "紙",
+        "書く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がベッドの上で横になり、目を閉じて眠っている。頭上に眠りを示す記号が見える。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7072",
+      "name": {
+        "ja": "ベッドで眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "ベッド",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が机に向かって座り、背を向けて黙り込んでいる。そばに吹き出しと音符がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7073",
+      "name": {
+        "ja": "机で黙り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "後ろ姿",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に座り、ピザやハンバーガーなど複数の食べ物を前にしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7074",
+      "name": {
+        "ja": "食べ物を前に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピザ",
+        "ハンバーガー",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が雨の降る窓のそばで、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7075",
+      "name": {
+        "ja": "雨の中で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "笑顔",
+        "窓"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が雨の中でしゃがみ、頭を下げている。足元に赤い容器と白い容器がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7076",
+      "name": {
+        "ja": "雨宿りで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "しゃがむ",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に横たわり、目を閉じてうずくまっている。頭の近くに黄色い衝撃の印がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7077",
+      "name": {
+        "ja": "倒れてうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "床",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が暗い隅の黄色い明かりの中で、膝を抱えて座り込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7078",
+      "name": {
+        "ja": "隅で座り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "隅",
+        "座り込む",
+        "うつむき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が風に吹かれ、服や腕をなびかせながら立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "7079",
+      "name": {
+        "ja": "風に吹かれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風",
+        "立つ",
+        "よろめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が画面に映った人物を見つめ、涙を流している。画面のそばにハートがある。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "7080",
+      "name": {
+        "ja": "画面を見つめて泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "画面",
+        "涙",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んで立ち、音符のそばでそれぞれ手に物を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7081",
+      "name": {
+        "ja": "二人で音楽を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "音符",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が荷物を持って歩き、後ろから別の人物が荷物を持ってついてきている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7082",
+      "name": {
+        "ja": "荷物を持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "歩く",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を広げて立ち、周囲を複数の鳥が飛んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "7083",
+      "name": {
+        "ja": "鳥に囲まれて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鳥",
+        "立つ",
+        "手を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を開けた表情で走り、後ろから別の人物が追うように立っている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "7084",
+      "name": {
+        "ja": "走って逃げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "逃げる",
+        "後ろ姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が肩を寄せて並び、上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7085",
+      "name": {
+        "ja": "寄り添う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添い",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が飲み物を持って立ち、片方は音符のそばで歌うように口を開けている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7086",
+      "name": {
+        "ja": "乾杯して歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乾杯",
+        "音符",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が机を挟んで向かい合い、机の上の飲み物を前にしている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "7087",
+      "name": {
+        "ja": "飲み物を前に話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "飲み物",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が車内に座り、別の人物が車のそばに立っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "7088",
+      "name": {
+        "ja": "車のそばに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車",
+        "立つ",
+        "後ろ姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黄色い明かりの中で椅子に座り、目を閉じている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "7089",
+      "name": {
+        "ja": "明かりの中で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "明かり",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が床に向かい合って座り、飲み物のような物を手にしている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "7090",
+      "name": {
+        "ja": "向かい合って話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "向かい合う",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きく口を開けて叫び、赤い背景と大きな叫び声のような文字が見える。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "7091",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "口を開ける",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が拳を握って前に突き出し、眉をつり上げて怒っている。周囲に赤い炎のような表現がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "7092",
+      "name": {
+        "ja": "拳を握って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "拳",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が机の上の書類に向かい、頭を抱えるような姿勢で悩んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "7093",
+      "name": {
+        "ja": "書類を前に悩む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "書類",
+        "机",
+        "悩む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が机の前で眉をつり上げ、口を開けて怒っている。机の上に書類がある。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "7094",
+      "name": {
+        "ja": "机で怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "怒り",
+        "書類"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に座り、目を閉じてうなだれている。そばに小さな吹き出しと物がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7095",
+      "name": {
+        "ja": "床でうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "床",
+        "座る",
+        "うなだれ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頭を抱え、目をつぶって苦しそうな表情をしている。周囲に数字や記号が飛んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "7096",
+      "name": {
+        "ja": "頭を抱えて混乱"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭を抱える",
+        "混乱",
+        "数字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が大きく笑いながら涙を流し、片手を上げている。周囲に音符ときらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "sadness"
+      ],
+      "id": "7097",
+      "name": {
+        "ja": "笑って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "涙",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の人物が目を閉じ、両腕を下げたまま立ち尽くしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7098",
+      "name": {
+        "ja": "立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立つ",
+        "スーツ",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机を挟んで座る人物が、涙を流しながら口を開けている。向かいに別の人物がいる。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "7099",
+      "name": {
+        "ja": "会議で泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "会議",
+        "涙",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "一人の人物がもう一人の肩に手を置き、二人が並んで立っている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "7100",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "肩をたたいて励ます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩",
+        "励ます"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の人物が両手を上げ、片足を跳ね上げて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7101",
+      "name": {
+        "ja": "跳び上がって喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "喜び",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が寄り添って抱き合うように並び、口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7102",
+      "name": {
+        "ja": "二人で大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "大笑い",
+        "抱き合う"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "663",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

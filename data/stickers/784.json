@@ -1,0 +1,1150 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "オレンジ色の帽子をかぶったキャラクターが、片手を上げて笑顔で手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10639",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "手を振る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが腰に手を当てて立ち、頭上の吹き出しに「Thank you.」と明記されている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "10640",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "Thank youと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "帽子",
+        "Thank you"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手で輪を作る合図をし、吹き出しに「OK!」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10641",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKの合図"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "手の合図",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を広げ、吹き出しに「Please?」と表示されている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "10642",
+      "intent": [
+        "request",
+        "question"
+      ],
+      "name": {
+        "ja": "Pleaseと尋ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お願い",
+        "質問",
+        "Please"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を握って腕を上げ、吹き出しに「YES!」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10643",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "ガッツポーズ",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが腰に手を当てて立ち、吹き出しに「No.」と表示されている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10644",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "Noと断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "No",
+        "拒否",
+        "腕組み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を上げて座り、吹き出しに「Oops...」と表示されている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "10645",
+      "name": {
+        "ja": "Oopsと困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Oops",
+        "驚き",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが腰に手を当てて足を開き、上部に「HaHaHa」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10646",
+      "name": {
+        "ja": "声を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "大笑い",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を高く上げ、周囲に星や記号が描かれ、上部に「CONGRATULATIONS」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10647",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "お祝いする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お祝い",
+        "CONGRATULATIONS",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが頬に手を当てて考えるように立ち、頭上に大きな疑問符がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "10648",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "考える",
+        "頬に手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を上げて手を振り、吹き出しに「Bye...」と表示されている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10649",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "Byeと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Bye",
+        "別れ",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を左右に広げ、笑顔で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10650",
+      "name": {
+        "ja": "両手を広げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "両手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が立ち、そばに横たわるキャラクターが描かれ、吹き出しに「AGAIN!」と表示されている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10651",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "AGAINと促す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "AGAIN",
+        "白い服",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い顔の二人の人物が腕を上げ、中央のキャラクターとともに星や水玉に囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10652",
+      "name": {
+        "ja": "星を散らして喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が片脚を高く上げ、手前に帽子のキャラクターが立っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10653",
+      "name": {
+        "ja": "蹴り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蹴り",
+        "白い服",
+        "動作"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い顔の人物が長い棒を両手で頭上に掲げ、下部に「KATSU!」と大きく表示されている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10654",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "KATSUと気合いを入れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "KATSU",
+        "棒",
+        "気合い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが枠の中で白い紙のようなものを持ち、周囲にハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10655",
+      "name": {
+        "ja": "ハートを添えて書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "紙",
+        "書く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子のキャラクターと花の顔の人物が手をつなぎ、周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10656",
+      "name": {
+        "ja": "手をつないで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手をつなぐ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子のキャラクターが花の顔の人物に、ハート形のものを差し出している。上部にもハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10657",
+      "name": {
+        "ja": "ハートの贈り物を渡す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハート",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い猫のようなキャラクターが緑色の本のようなものを持ち、帽子のキャラクターがそばに座っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10658",
+      "name": {
+        "ja": "青いキャラクターと並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "本",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子のキャラクターが体を逆さまにして、両脚を上に向けている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "10659",
+      "name": {
+        "ja": "逆さまになる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆さま",
+        "足",
+        "動作"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手を肩の高さに上げ、笑顔で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10660",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "片手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手の合図",
+        "笑顔",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが座り込み、目を回したような表情で、周囲に星や線が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "10661",
+      "name": {
+        "ja": "目を回してふらつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を回す",
+        "ふらつき",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが笑顔で片足を前に出し、歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10662",
+      "name": {
+        "ja": "笑顔で歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "笑顔",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ゴーグルをかけたキャラクターが、DJ機材の並ぶ台の後ろに立っている。台には「PJ」と「DJ」の文字が見える。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10663",
+      "name": {
+        "ja": "DJブースに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "DJ",
+        "機材",
+        "ゴーグル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマのキャラクターが箱を抱え、ドーナツのようなものを口にしている。箱には「DONUT」と表示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10664",
+      "name": {
+        "ja": "ドーナツを食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "ドーナツ",
+        "食べる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマのキャラクターが横になって眠り、上に「Z」が連なっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10665",
+      "name": {
+        "ja": "眠るクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "眠る",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマのキャラクターが、大きな袋や箱のような荷物を両腕で抱えている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "10666",
+      "name": {
+        "ja": "荷物を抱えるクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "荷物",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数のキャラクターが動きながら並び、上部に「Here’s The PARTY!」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10667",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "パーティーで踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パーティー",
+        "ダンス",
+        "Here’s The PARTY!"
+      ]
+    },
+    {
+      "description": {
+        "ja": "枠で囲まれた画面の中で、クマと帽子のキャラクターが台の後ろに並んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10668",
+      "name": {
+        "ja": "台の後ろで並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "二人",
+        "台"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが長い柄の先に炎のようなものが付いた道具を持ち、体を反らしている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "10669",
+      "name": {
+        "ja": "炎のついた道具を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "道具",
+        "動作"
+      ]
+    },
+    {
+      "description": {
+        "ja": "枠の中にキャラクターの顔が描かれ、吹き出しには三つの点「...」だけが表示されている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "10670",
+      "name": {
+        "ja": "無言で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "三点リーダー",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが両手を握って左右に突き出し、歯を見せた険しい表情で構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "10671",
+      "name": {
+        "ja": "拳を握って構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "構える",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子のキャラクターが、茶色いクマのキャラクターを頭上に持ち上げている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "10672",
+      "name": {
+        "ja": "クマを持ち上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "持ち上げる",
+        "力"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが歯を食いしばった険しい表情で、両手を広げて立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10673",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯を食いしばる",
+        "険しい顔",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが片手の人差し指を立て、もう片方の手を腰に置いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10674",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "指を一本立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "合図",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子のキャラクター、花の顔の人物、青いキャラクター、クマの四者が横一列に並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10675",
+      "name": {
+        "ja": "仲間と並んで進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "四人",
+        "行進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが歯を見せて笑い、顔の両側に小さな汗のしずくのような線がある。"
+      },
+      "emotion": [
+        "joy",
+        "tired"
+      ],
+      "id": "10676",
+      "name": {
+        "ja": "汗をかいて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "汗",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターが頭を下げ、片膝をついたような姿勢で座り込んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "10677",
+      "name": {
+        "ja": "うつむいて疲れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲れ",
+        "うつむく",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子のキャラクターが笑顔で歩き、茶色いクマのキャラクターが隣に並んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10678",
+      "name": {
+        "ja": "クマと歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "一緒に歩く",
+        "笑顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "784",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

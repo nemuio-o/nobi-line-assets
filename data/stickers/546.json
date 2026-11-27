@@ -1,0 +1,1128 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "布団の上で横になり、青い汗を浮かべながらぐったりしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "2980",
+      "name": {
+        "ja": "布団でぐったり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "汗",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭上から水を浴び、泡に包まれながら体を洗っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "2981",
+      "name": {
+        "ja": "泡まみれのシャワー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "シャワー",
+        "泡",
+        "水"
+      ]
+    },
+    {
+      "description": {
+        "ja": "鏡の前で両手を顔に添え、表情を確かめるように身支度をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "2982",
+      "name": {
+        "ja": "鏡の前で確認"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "身支度",
+        "確認"
+      ]
+    },
+    {
+      "description": {
+        "ja": "汗を飛ばしながら立ち尽くし、左右へ分かれた矢印を前に迷っている。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "2983",
+      "name": {
+        "ja": "矢印の前で迷う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "迷う",
+        "矢印",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "時計を抱えたように走り、書類を手に大急ぎで駆けている。"
+      },
+      "emotion": [
+        "excitement",
+        "fear"
+      ],
+      "id": "2984",
+      "name": {
+        "ja": "時計を気にして疾走"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "急ぐ",
+        "時計",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の仲間たちが案内板の下に集まり、同じ方向へ立っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "2985",
+      "name": {
+        "ja": "案内板の下で集合"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "案内板",
+        "集合"
+      ]
+    },
+    {
+      "description": {
+        "ja": "左右に開いた扉のすき間から、顔と手を出してこちらをのぞいている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "2986",
+      "name": {
+        "ja": "扉のすき間から"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "扉",
+        "のぞく",
+        "すき間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い顔がいくつも重なり、画面の中で険しい表情を並べている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "2987",
+      "name": {
+        "ja": "赤い顔の怒り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "赤い顔",
+        "画面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "時計を背に、書類をまき散らしながら大声で走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "fear"
+      ],
+      "id": "2988",
+      "name": {
+        "ja": "書類を抱えて大慌て"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "書類",
+        "時計",
+        "大慌て"
+      ]
+    },
+    {
+      "description": {
+        "ja": "電話を耳に当てたまま机に向かい、書類に囲まれて対応に追われている。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "2989",
+      "name": {
+        "ja": "電話と書類に追われる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "書類",
+        "仕事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "炎のような背景の中で机をたたき、紙を飛ばしながら怒鳴っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "2990",
+      "name": {
+        "ja": "紙を飛ばして激怒"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒鳴る",
+        "紙",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い顔が積み上がった書類の中央で、眉を寄せて怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "2991",
+      "name": {
+        "ja": "書類の山で怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い顔",
+        "書類の山",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "グラフの映った画面を指し、もう一方の手で資料を示して説明している。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "2992",
+      "name": {
+        "ja": "グラフを指して説明"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラフ",
+        "説明",
+        "資料"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ERROR表示の画面を前に、机に突っ伏して青ざめている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "2993",
+      "name": {
+        "ja": "エラーに青ざめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "エラー",
+        "青ざめる",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机を挟んで二人が向き合い、一人が紙を見せながら話している。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "2994",
+      "name": {
+        "ja": "机越しの相談"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "机",
+        "相談"
+      ]
+    },
+    {
+      "description": {
+        "ja": "涙を浮かべた人物が、赤い顔でうつむく相手を支えるように寄り添っている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "2995",
+      "name": {
+        "ja": "泣く相手に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "寄り添う",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "椅子に深くもたれ、目を閉じたまま机の前で眠り込んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "2996",
+      "name": {
+        "ja": "机で寝落ち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "居眠り",
+        "椅子",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ノートパソコンに向かい、汗をにじませながら険しい顔で作業している。"
+      },
+      "emotion": [
+        "tired",
+        "fear"
+      ],
+      "id": "2997",
+      "name": {
+        "ja": "汗をかいて作業"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パソコン",
+        "汗",
+        "作業"
+      ]
+    },
+    {
+      "description": {
+        "ja": "椅子の人物に向かって紙を投げるように腕を伸ばし、書類をまき散らしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "2998",
+      "name": {
+        "ja": "書類を投げて訴える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "書類",
+        "訴える",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の人物が身を縮め、茶色の人物がそばで肩を寄せている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "2999",
+      "name": {
+        "ja": "肩を寄せて慰める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "慰める",
+        "肩",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が手を取り合い、汗を飛ばしながら必死に引っ張り合っている。"
+      },
+      "emotion": [
+        "excitement",
+        "fear"
+      ],
+      "id": "3000",
+      "name": {
+        "ja": "手を取り合って奮闘"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手を取る",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな画面に映る青空を前に、人物が手を伸ばして眺めている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "3001",
+      "name": {
+        "ja": "画面の青空を眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "画面",
+        "青空",
+        "眺める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が背中を向けて並び、赤い帽子の人物をじっと見ている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "3002",
+      "name": {
+        "ja": "並んで様子を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "背中",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が床に座り込み、飲み物の缶を手にして肩を落としている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "3003",
+      "name": {
+        "ja": "缶を手に肩を落とす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "飲み物",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "時計を気にしながら、ハンバーガーや寿司などの食べ物を思い浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3004",
+      "name": {
+        "ja": "食べ物を思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べ物",
+        "時計",
+        "空想"
+      ]
+    },
+    {
+      "description": {
+        "ja": "箸を持って弁当を食べながら、大粒の涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "3005",
+      "name": {
+        "ja": "泣きながら弁当"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "弁当",
+        "涙",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "トイレットペーパーを足元に置き、新聞を広げて便座に座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "3006",
+      "name": {
+        "ja": "新聞を読む休憩"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "新聞",
+        "トイレ",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "夕焼け色の窓辺で、人物がひとり遠くの景色を眺めている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "3007",
+      "name": {
+        "ja": "夕景をひとり眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夕焼け",
+        "窓辺",
+        "ひとり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机を囲んでビールジョッキが並び、口元からよだれを垂らしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3008",
+      "name": {
+        "ja": "ビールを前に大喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ビール",
+        "ジョッキ",
+        "宴会"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が乾杯しながら串と料理を囲み、音符のそばで楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3009",
+      "name": {
+        "ja": "料理を囲んで乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "乾杯",
+        "料理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い頭の人物が腕を振り上げ、茶色の人物を連れて勢いよく進んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "3010",
+      "name": {
+        "ja": "勢いよく連れ出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕を上げる",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横長の画面に二つの顔が映り、向かい合うように会話している。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "3011",
+      "name": {
+        "ja": "画面越しの会話"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "画面",
+        "会話",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "時計のそばで人物が床を這うように進み、背後から別の人物が手を伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "3012",
+      "name": {
+        "ja": "這って進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "時計",
+        "這う",
+        "急ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "夜の窓辺で机に向かい、書類の山と缶に囲まれて作業を続けている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "3013",
+      "name": {
+        "ja": "夜更けのデスクワーク"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "机",
+        "書類"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな青い荷物のようなものを背負い、顔をゆがめて重そうに歩いている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "3014",
+      "name": {
+        "ja": "重荷を背負って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "重い",
+        "背負う",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "薄暗い個室の中で便座に座り、顔をしかめてじっとしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "3015",
+      "name": {
+        "ja": "暗い個室で沈む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "個室",
+        "暗い",
+        "沈む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "モニターの前の椅子に沈み込み、飲み物を脇に置いてぼんやりしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "3016",
+      "name": {
+        "ja": "画面前でぼんやり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "モニター",
+        "椅子",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "布団にくるまり、顔をゆがめて涙を流しながら横になっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "3017",
+      "name": {
+        "ja": "布団で泣き寝込み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "涙",
+        "寝込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "FRIDAYの文字の下で両腕を広げ、ビールや食べ物を手に弾んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3018",
+      "name": {
+        "ja": "金曜のはしゃぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金曜日",
+        "ビール",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "MONDAYの文字の下で赤い背景にうずくまり、顔を伏せている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "3019",
+      "name": {
+        "ja": "月曜の落ち込み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "月曜日",
+        "落ち込む",
+        "赤い背景"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "546",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

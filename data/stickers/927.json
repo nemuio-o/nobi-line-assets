@@ -1,0 +1,1107 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "三人の人物が黒い車の周りに集まり、車体に手を添えたり身を乗り出したりしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14399",
+      "name": {
+        "ja": "車を囲む三人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車",
+        "三人",
+        "囲む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が紫色の服を着て、振り返りながら笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14400",
+      "name": {
+        "ja": "紫の服で振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫の服",
+        "振り返る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が黒い服を着て、腕を下ろして立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14401",
+      "name": {
+        "ja": "黒い服で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "黒い服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が赤いマフラーを巻き、片腕の拳を高く突き上げている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "14402",
+      "name": {
+        "ja": "拳を突き上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "黒髪",
+        "赤いマフラー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が両手を頭上に上げ、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14403",
+      "name": {
+        "ja": "両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "笑顔",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が笑顔で、片手の親指を立てている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14404",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "金髪",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物が緑色の台の上に座り、片手を顔の近くに添えている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14405",
+      "name": {
+        "ja": "緑の台に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "緑",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が片腕を上げ、体を大きく動かして跳んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14406",
+      "name": {
+        "ja": "勢いよく跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "跳ぶ",
+        "動き",
+        "白い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が目を閉じ、口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14407",
+      "name": {
+        "ja": "大きく笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "金髪",
+        "大笑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い帽子をかぶった人物が、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "14408",
+      "name": {
+        "ja": "帽子をかぶって叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "叫ぶ",
+        "赤い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔が大きく描かれ、口を開けて激しく叫んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "14409",
+      "name": {
+        "ja": "顔を赤くして叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "赤い顔",
+        "アップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性が両手で顔を覆い、涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14410",
+      "name": {
+        "ja": "顔を隠して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "顔を隠す",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、互いに腕を回して抱き合っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14411",
+      "name": {
+        "ja": "抱き合う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱擁",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が逆さまにぶら下がり、周囲に色とりどりの紙吹雪が舞っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "14412",
+      "name": {
+        "ja": "逆さにぶら下がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆さ",
+        "ぶら下がる",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が重なり合うように、逆さまの状態でひっくり返っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14413",
+      "name": {
+        "ja": "ひっくり返る二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "逆さ",
+        "転倒"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上から見た室内で、人物が床に横たわっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "14414",
+      "name": {
+        "ja": "部屋で倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "部屋",
+        "床",
+        "倒れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が頬に片手を当て、考え込むような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14415",
+      "name": {
+        "ja": "頬に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪",
+        "頬",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "四人の女性が並んで顔を寄せ、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14416",
+      "name": {
+        "ja": "四人で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四人",
+        "女性",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が横一列に並び、身を寄せながら不安そうな表情をしている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "14417",
+      "name": {
+        "ja": "並んでおびえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "恐怖",
+        "身を寄せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青紫色で描かれた二人の人物が、腕を絡めるようにもつれ合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "14418",
+      "name": {
+        "ja": "青い二人がもつれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "もつれる",
+        "青紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "背の高い人物と小さな人物が、後ろ姿で並んで歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14419",
+      "name": {
+        "ja": "後ろ姿で歩く二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "後ろ姿",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着た女性が、片足を上げて体を傾けたポーズを取っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14420",
+      "name": {
+        "ja": "片足を上げる女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "片足",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が箸を使い、皿の料理を食べている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14421",
+      "name": {
+        "ja": "料理を食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "箸",
+        "黒髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が、黒いバイクの横に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14422",
+      "name": {
+        "ja": "バイクの横に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バイク",
+        "白い服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が片手に持った電話を耳に当て、横を向いている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14423",
+      "name": {
+        "ja": "電話をかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "黒髪",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が口を大きく開け、体を反らすようにして叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "14424",
+      "name": {
+        "ja": "口を大きく開けて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "叫ぶ",
+        "口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が立ち、体の両側に揺れを示す線を出しながら震えている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "14425",
+      "name": {
+        "ja": "震えながら立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震える",
+        "立つ",
+        "白い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "坊主頭の人物が片手を伸ばし、指をさしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14426",
+      "name": {
+        "ja": "指をさす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "坊主頭",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が座り込み、目を閉じて涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14427",
+      "name": {
+        "ja": "座って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪",
+        "座る",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手を高く広げ、周囲に光を散らして喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14428",
+      "name": {
+        "ja": "両手を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "女性",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が横たわり、顔をゆがめて苦しそうにしている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "14429",
+      "name": {
+        "ja": "横たわって苦しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪",
+        "横たわる",
+        "苦しむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が正面を向き、歯を見せて顔をゆがめている。"
+      },
+      "emotion": [
+        "disgust",
+        "anger"
+      ],
+      "id": "14430",
+      "name": {
+        "ja": "顔をゆがめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪",
+        "しかめ顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "坊主頭の男性が大きく描かれ、口を開けて顔をしかめている。"
+      },
+      "emotion": [
+        "disgust"
+      ],
+      "id": "14431",
+      "name": {
+        "ja": "顔をしかめる男性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "顔",
+        "しかめ顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンを付けた人物の顔が大きく描かれ、口を開けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14432",
+      "name": {
+        "ja": "赤いリボンの顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いリボン",
+        "顔",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が重なり合うように集まり、抱き合っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14433",
+      "name": {
+        "ja": "三人で抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "抱擁",
+        "集まる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "四人の人物が横一列に並び、身を寄せて不安そうな表情をしている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "14434",
+      "name": {
+        "ja": "四人で身を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四人",
+        "身を寄せる",
+        "不安"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物がバイクにまたがり、前方へ走らせている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "14435",
+      "name": {
+        "ja": "バイクに乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バイク",
+        "黒髪",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が水面に浮かび、顔だけを出している。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "14436",
+      "name": {
+        "ja": "水に浮かぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水",
+        "黒髪",
+        "浮かぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が水しぶきの中に立ち、全身に水を浴びている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14437",
+      "name": {
+        "ja": "水しぶきに打たれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "立つ",
+        "濡れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性が前かがみになり、口から水を勢いよく吐き出している。"
+      },
+      "emotion": [
+        "surprise",
+        "disgust"
+      ],
+      "id": "14438",
+      "name": {
+        "ja": "水を吐き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "水",
+        "吐き出す"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "927",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

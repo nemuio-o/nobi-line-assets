@@ -1,0 +1,1119 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服の女性が片手を上げて笑い、そばに「Hello」の文字が見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16223",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "笑顔であいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あいさつ",
+        "笑顔",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の女性が片手を上げ、もう一方の手で合図をしながら笑っている。そばに「OK」の文字が見える。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16224",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "にっこりOK"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "笑顔",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の女性が水中で両手を広げている。右上に「YES」の文字が見える。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16225",
+      "name": {
+        "ja": "海中でYES"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "海",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性が胸元で手を合わせ、目を閉じて笑っている。そばに「Thank you」の文字が見える。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "16226",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "笑顔で感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "笑顔",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の女性が手鏡を持ち、鏡に映る自分の顔を見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16227",
+      "name": {
+        "ja": "鏡を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "女性",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性が両手を前で組み、申し訳なさそうな表情をしている。そばに「Sorry.」の文字が見える。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "16228",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "申し訳なさそうに謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "困り顔",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いドレスの女性が、スカートを広げながら軽やかに踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "16229",
+      "name": {
+        "ja": "青いドレスで踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドレス",
+        "踊る",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の女性が赤いりんごを両手で持ち、目を見開いて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "16230",
+      "name": {
+        "ja": "りんごを手に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "りんご",
+        "驚き",
+        "手に持つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の女性が両手を頬に当て、周囲に浮かぶハートを見ながら嬉しそうにしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16231",
+      "name": {
+        "ja": "頬を寄せて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "喜び",
+        "手を頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の男性が、黄色いドレスの女性の手を取って口づけしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16232",
+      "name": {
+        "ja": "手にキスされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のキス",
+        "男女",
+        "親愛"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が白い馬にまたがり、前へ進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16233",
+      "name": {
+        "ja": "馬に乗って進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "馬",
+        "乗馬",
+        "進む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性と大きな青い服の人物が寄り添い、周囲を赤いバラに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16234",
+      "name": {
+        "ja": "花に囲まれて寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "寄り添う",
+        "男女"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と青の服の男性が、横たわって眠る黒髪の女性に顔を近づけている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "16235",
+      "name": {
+        "ja": "眠る人に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "寄り添う",
+        "男女"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い制服に金色の肩飾りをつけた男性が、胸を張って立っている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "16236",
+      "name": {
+        "ja": "胸を張って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "制服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の女性が頬杖をつき、頭上の吹き出しに男性の姿を思い浮かべている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "16237",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "吹き出し",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の男性が、青いドレスの女性の手を取って口づけしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "16238",
+      "name": {
+        "ja": "手に口づけする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のキス",
+        "男女",
+        "礼儀"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性が親指を立て、片目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16239",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の女性が片手を上げて手を振り、穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16240",
+      "name": {
+        "ja": "手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "笑顔",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "薄い青色の服の女性が床にしゃがみ、布で床を拭いている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "16241",
+      "name": {
+        "ja": "床を掃除する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除",
+        "床",
+        "しゃがむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が口元に手を当て、大きくあくびをしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "16242",
+      "name": {
+        "ja": "あくびをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あくび",
+        "眠い",
+        "手を口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の女性が集まり、口を開けて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16243",
+      "name": {
+        "ja": "みんなで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "複数人",
+        "楽しむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の女性が赤いカーテンの隙間から顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "16244",
+      "name": {
+        "ja": "カーテンからのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カーテン",
+        "のぞく",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性が指を一本立て、正面を見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16245",
+      "name": {
+        "ja": "指を立てて見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "見つめる",
+        "長い髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の女性が片手を口元に当て、もう一方の腕を伸ばして呼びかけている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16246",
+      "name": {
+        "ja": "手を口に当てて呼ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "呼ぶ",
+        "手を口",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の女性が目を見開き、両手を上げて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "16247",
+      "name": {
+        "ja": "驚いて両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二頭の白い馬が馬車を引き、城のある方へ進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16248",
+      "name": {
+        "ja": "馬車で城へ向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "馬車",
+        "城",
+        "移動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のドレスの女性が、手足を前に伸ばして転んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "16249",
+      "name": {
+        "ja": "ドレスで転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "ドレス",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の女性が横顔を見せ、遠くを見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16250",
+      "name": {
+        "ja": "横顔で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "長い髪",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の女性が鏡をのぞき、鏡の中に映る自分の顔を見ている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16251",
+      "name": {
+        "ja": "鏡の中の笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "笑顔",
+        "手袋"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が大きく広がったピンク色のドレスを着て立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16252",
+      "name": {
+        "ja": "ピンクのドレスで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク",
+        "ドレス",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の女性が赤いりんごを両手で持ち、口元に当てている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16253",
+      "name": {
+        "ja": "りんごをかじる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "りんご",
+        "食べる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤紫色の装飾されたじゅうたんが空中に浮かび、煙のような線が上へ伸びている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "16254",
+      "name": {
+        "ja": "空飛ぶじゅうたん"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "じゅうたん",
+        "空",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の女性が横たわり、目を閉じて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "16255",
+      "name": {
+        "ja": "眠り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が青い背景の中で横になり、目を閉じて休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "16256",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "休む",
+        "青い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の女性が泡の浮かぶ浴槽に入り、顔だけを出している。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "16257",
+      "name": {
+        "ja": "泡風呂に入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "泡",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の女性が食卓に座り、料理や飲み物を前に笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16258",
+      "name": {
+        "ja": "食卓で料理を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "料理",
+        "食卓"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の女性がティーポットとカップを前に座り、笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "16259",
+      "name": {
+        "ja": "お茶を用意する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お茶",
+        "ティーポット",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の女性が床に座り、そばに置かれた大きな時計を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "16260",
+      "name": {
+        "ja": "時計のそばで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "時計",
+        "座る",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の女性が、物の入った大きなかごを抱えて歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16261",
+      "name": {
+        "ja": "かごを持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "かご",
+        "歩く",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "四人の女性が色の異なるドレスを着て、横一列に並んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "16262",
+      "name": {
+        "ja": "四人で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四人",
+        "女性",
+        "並ぶ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1006",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

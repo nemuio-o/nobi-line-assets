@@ -1,0 +1,1129 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白い顔のキャラクターが大きな食べ物を両手で抱え、音符を浮かべながら笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7951",
+      "name": {
+        "ja": "食べ物を抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べ物",
+        "音符",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のキャラクターが眉を寄せ、手にした小さな道具を振っている。周囲に青い汗の線がある。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "7952",
+      "name": {
+        "ja": "怒って道具を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "道具",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔が赤くなったキャラクターが片手を突き出し、もう一方の手を握って力んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7953",
+      "name": {
+        "ja": "赤い顔でこぶしを握る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い顔",
+        "こぶし",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の服のキャラクターが四つんばいになって前へ進み、後ろに小さな人影が見える。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "7954",
+      "name": {
+        "ja": "這って逃げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "這う",
+        "逃げる",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが腕を組み、頭に白い文字の入った帯を巻いて炎を背負っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7955",
+      "name": {
+        "ja": "炎を背負ってにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "赤いリボン",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが汗をかきながら走り、腰に黄色い機器を付けている。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "7956",
+      "name": {
+        "ja": "汗をかいて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "音楽プレーヤー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の服のキャラクターが赤い椅子に座り、両腕を広げている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "7957",
+      "name": {
+        "ja": "赤い椅子でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "赤",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターがひざを抱えて座り、目を閉じている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7958",
+      "name": {
+        "ja": "ひざを抱えて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "ひざ",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の服のキャラクターが青い背景の中で身を縮め、周囲に寒さを示す線が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7959",
+      "name": {
+        "ja": "寒さに震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寒さ",
+        "震え",
+        "灰色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが鏡の前に立ち、鏡には正面の姿と吹き出しが映っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "7960",
+      "name": {
+        "ja": "鏡の前に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "後ろ姿",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが腕を広げて跳ね、足元に赤と黄色の爆発のような形がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "7961",
+      "name": {
+        "ja": "驚いて飛び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "炎",
+        "飛び上がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のキャラクターが床に座り、手に棒状の物を持っている。頭上に白い息のような形がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7962",
+      "name": {
+        "ja": "座って冷たい物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "冷たい物",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のキャラクターが青い浮き輪に体を預け、目を閉じて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7963",
+      "name": {
+        "ja": "浮き輪で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "浮き輪",
+        "眠る",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白い顔のキャラクターが並び、前に黄色い食べ物を置いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "7964",
+      "name": {
+        "ja": "食べ物を分け合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "食べ物",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三体のキャラクターが料理の並んだ低い食卓を囲み、中央のキャラクターが手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "7965",
+      "name": {
+        "ja": "食卓を囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "料理",
+        "皿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔が赤くなったキャラクターが青い服で横たわり、周囲に汗の線が出ている。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "7966",
+      "name": {
+        "ja": "赤い顔で倒れ込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い顔",
+        "横になる",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターと白いうさぎのようなキャラクターが並び、二人とも腕を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7967",
+      "name": {
+        "ja": "並んで腕を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕を上げる",
+        "うさぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の服のキャラクターが床に座り、片手に赤い数字の書かれた札を持っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7968",
+      "name": {
+        "ja": "日付を示して落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カレンダー",
+        "座る",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが料理と飲み物の前に座り、頭上に肉料理のような絵が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "7969",
+      "name": {
+        "ja": "食事を思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "皿",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが腕を上げ、腰の周りで輪を回している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7970",
+      "name": {
+        "ja": "輪の中で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "輪",
+        "踊る",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のキャラクターがベンチに座り、隣に茶色いクマが立っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7971",
+      "name": {
+        "ja": "ベンチで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ベンチ",
+        "休む",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子のキャラクターが両手で重い器具を持ち上げ、汗をかいている。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "7972",
+      "name": {
+        "ja": "重りを持ち上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "筋トレ",
+        "重り",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが大きな飲み物の容器の隣に立ち、腕を組んでいる。容器には英字が見える。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "7973",
+      "name": {
+        "ja": "飲み物の前で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "黄色",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いシャツの人物が足を広げて立ち、胸に黄色い稲妻形の印がある。隣で白い顔のキャラクターが汗をかいている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7974",
+      "name": {
+        "ja": "力強く立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "筋肉",
+        "雷マーク",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが赤いマフラーを巻き、体を縮めて震えている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7975",
+      "name": {
+        "ja": "赤いマフラーで震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いマフラー",
+        "震え",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが体を丸めて横になり、そばに黄色い小さなキャラクターがいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7976",
+      "name": {
+        "ja": "丸まって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "丸まる",
+        "青い服",
+        "黄色い小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服のキャラクターが走り、頭上に体重の変化を示すような数字と矢印が描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "7977",
+      "name": {
+        "ja": "数字を背負って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "数字",
+        "走る",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のキャラクターが両手を広げ、周囲に菓子や色とりどりの小物が散らばっている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "7978",
+      "name": {
+        "ja": "お菓子をまき散らす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お菓子",
+        "散らばる",
+        "手を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが、前を走る黄色い小鳥のような生き物を追いかけている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7979",
+      "name": {
+        "ja": "黄色い小鳥を追う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "追いかける",
+        "黄色い小鳥",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが大きな茶色い料理の前で身を乗り出し、手を動かしている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7980",
+      "name": {
+        "ja": "大きな料理を前にする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "皿",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが赤い椅子から転げ落ち、椅子が傾いている。そばに黄色い小鳥のような生き物がいる。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "7981",
+      "name": {
+        "ja": "椅子から転げ落ちる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "転ぶ",
+        "黄色い小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔が赤くなったキャラクターが青い服で立ち、周囲に青い汗の線が出ている。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "7982",
+      "name": {
+        "ja": "赤い顔で汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い顔",
+        "汗",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターがひもで束ねた箱のそばに座り、箱の上に黄色い小鳥のような生き物がいる。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "7983",
+      "name": {
+        "ja": "箱をひもで固定する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "ひも",
+        "小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが大きな透明な容器を抱え、そばに黄色い小鳥のような生き物がいる。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "7984",
+      "name": {
+        "ja": "大きな容器を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "容器",
+        "こぼれる",
+        "黄色い小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のキャラクターが背を向けて立ち、足元に黄色い小鳥のような生き物がいる。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "7985",
+      "name": {
+        "ja": "背を向けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "青い服",
+        "黄色い小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服のキャラクターが下向きの折れ線グラフを見ており、そばに音符と黄色い小鳥のような生き物がいる。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "7986",
+      "name": {
+        "ja": "下がるグラフを見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラフ",
+        "下向き",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のキャラクターが手提げを持って歩き、後ろに茶色いクマと黄色い小鳥のような生き物がいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7987",
+      "name": {
+        "ja": "小さな荷物を持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "手提げ",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のキャラクターが口を大きく開けて笑い、両手を広げている。頭上に音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7988",
+      "name": {
+        "ja": "音符と一緒に笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "音符",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のキャラクターが買い物袋を両手に持って跳び、赤い縞模様の服を着ている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7989",
+      "name": {
+        "ja": "買い物袋を持って跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物袋",
+        "跳ぶ",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のキャラクターが片方のこぶしを前に突き出し、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7990",
+      "name": {
+        "ja": "こぶしを突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "こぶし",
+        "ポーズ",
+        "きらめき"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "698",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

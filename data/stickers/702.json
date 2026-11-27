@@ -1,0 +1,1113 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "服を着た男性が、親指を立ててこちらを見ている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8111",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "上半身"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身裸の男性が両腕を上げ、青い放射状の背景の中で口を大きく開けている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "8112",
+      "name": {
+        "ja": "両腕を上げて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "叫ぶ",
+        "青い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身裸の男性が目を見開き、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "8113",
+      "name": {
+        "ja": "声を張り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "上半身",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身裸の男性が、腕を下ろして険しい表情で立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8114",
+      "name": {
+        "ja": "険しい顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "険しい表情",
+        "上半身裸",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が顔を寄せ、片手の指をこちらへ向けている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8115",
+      "name": {
+        "ja": "指を向ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "顔",
+        "視線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が白い服の胸元を両手でつかみ、力を込めた表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8116",
+      "name": {
+        "ja": "服をつかんで力む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い服",
+        "両手",
+        "力む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を大きく見開き、汗を浮かべて口を開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "8117",
+      "name": {
+        "ja": "驚いて息をのむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "汗",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の顔が大きく描かれ、頬を赤らめながら横を見ている。"
+      },
+      "emotion": [
+        "love",
+        "confusion"
+      ],
+      "id": "8118",
+      "name": {
+        "ja": "頬を赤らめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い頬",
+        "横顔",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いものを頭に巻いた男性が、湯気の立つ桶のそばで座っているように見える。細部は不明瞭。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8119",
+      "name": {
+        "ja": "湯気のそばでくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯気",
+        "桶",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い動物が水面から上半身を出している。動物の種類は画像だけでは断定しにくい。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8120",
+      "name": {
+        "ja": "水面に浮かぶ動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "水面",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が正面を見つめ、目元と頬に汗を浮かべて不安そうな表情をしている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "8121",
+      "name": {
+        "ja": "不安そうに見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "不安",
+        "正面顔",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が横向きに近い角度で、口を結んだ真剣な表情を見せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8122",
+      "name": {
+        "ja": "真剣な横顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "真剣",
+        "視線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が白い丸い物を手に持ち、眉を寄せて見ている。物の正体は不明瞭。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "8123",
+      "name": {
+        "ja": "白い物を手にする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い物",
+        "手",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "汗を浮かべた男性が、湯気のような白い線の中で口を大きく開けている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "8124",
+      "name": {
+        "ja": "湯気の中で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯気",
+        "叫ぶ",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服を着た人物が、白い便器のような設備に座っている。そばに音符が描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8125",
+      "name": {
+        "ja": "音符のそばで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "便器のような設備",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を丸め、片腕で顔を覆うようにしてうずくまっている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "8126",
+      "name": {
+        "ja": "顔を覆ってうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うずくまる",
+        "顔を覆う",
+        "灰色の背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を閉じ、口を開けて明るく笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8127",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "目を閉じる",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が胸に手を当て、頬を赤らめて穏やかに笑っている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "8128",
+      "name": {
+        "ja": "胸に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸",
+        "手",
+        "赤い頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が肩まで水面のような線の中から顔を出し、正面を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8129",
+      "name": {
+        "ja": "肩を出して見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肩",
+        "上半身",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が片手で顔を覆い、うつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8130",
+      "name": {
+        "ja": "顔を手で覆う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を覆う",
+        "手",
+        "紫色の背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が片手のひらを前に突き出し、強い放射線の背景の中で制止するようにしている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "8131",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "手をかざして制止する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "制止",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が弓を構え、矢を引き絞っている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "8132",
+      "name": {
+        "ja": "弓を引く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "弓",
+        "矢",
+        "紫の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服を着た男性が、星のついた服の小さな人形のようなものを抱えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8133",
+      "name": {
+        "ja": "人形を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人形",
+        "抱える",
+        "紫の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が汗を浮かべた顔でこちらを見ており、周囲に黒い日本語らしき文字が描かれているが、内容は判読できない。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "8134",
+      "name": {
+        "ja": "文字に囲まれて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "顔",
+        "周囲の文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が白い枕と花柄の布団のあるベッドで横になり、眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8135",
+      "name": {
+        "ja": "ベッドで眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ベッド",
+        "睡眠",
+        "花柄の布団"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた女性が、目元に手を添えて涙をぬぐっている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "8136",
+      "name": {
+        "ja": "涙をぬぐう女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "涙",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が緑色の上着と前掛けのような服を身につけて立っている。胸元の文字は小さく判読できない。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8137",
+      "name": {
+        "ja": "前掛け姿で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "前掛け",
+        "立つ",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の上着を着た人物が、頭を下げて椅子のようなものに座っている。胸元の文字は判読できない。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8138",
+      "name": {
+        "ja": "うつむいて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "座る",
+        "緑の上着"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が馬の顔の近くに立ち、手を伸ばして向き合っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8139",
+      "name": {
+        "ja": "馬と向き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "馬",
+        "男性",
+        "向き合う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の上着を着た男性が、茶色い馬にまたがっている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "8140",
+      "name": {
+        "ja": "馬に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乗馬",
+        "馬",
+        "緑の上着"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身裸の男性が腹ばいになり、腕を前に置いて休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8141",
+      "name": {
+        "ja": "腹ばいで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腹ばい",
+        "休む",
+        "上半身"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身裸の男性が片膝をつき、片手を前へ伸ばしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "8142",
+      "name": {
+        "ja": "片膝をついて手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片膝",
+        "手を伸ばす",
+        "上半身裸"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の顔が、赤やピンクの薔薇と小さなきらめきに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8143",
+      "name": {
+        "ja": "薔薇に囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "薔薇",
+        "顔",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が、緑色の服を着た人物の肩に腕を回し、手を置いている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "8144",
+      "name": {
+        "ja": "肩に手を置く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肩",
+        "手",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸い茶色の動物が白い服を着て、青いひも付きの袋のようなものを持っている。種類は断定しない。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8145",
+      "name": {
+        "ja": "袋を持つ動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "白い服",
+        "袋"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目のような黒い点がある傘状の物体に、緑色の突起が付いている。生き物かどうかは不明。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "8146",
+      "name": {
+        "ja": "傘のような形の生き物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘状",
+        "目",
+        "緑の突起"
+      ]
+    },
+    {
+      "description": {
+        "ja": "筋肉質な男性が、赤い布を片方の肩から垂らして立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8147",
+      "name": {
+        "ja": "赤い布を肩にかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い布",
+        "裸の上半身",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が片手に黒いヘアドライヤーのような器具を持ち、もう一方に黄色い布を掛けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8148",
+      "name": {
+        "ja": "髪を乾かす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ヘアドライヤー",
+        "黄色い布",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身裸の男性が、緑色の布で頭を拭いている。腰には赤い布を巻いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8149",
+      "name": {
+        "ja": "タオルで髪を拭く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のタオル",
+        "赤い布",
+        "髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "月桂樹の冠をかぶった男性の胸元までの肖像が描かれ、肩に赤い布が掛かっている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8150",
+      "name": {
+        "ja": "月桂冠をつけた肖像"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "月桂冠",
+        "肖像",
+        "赤い布"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "702",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

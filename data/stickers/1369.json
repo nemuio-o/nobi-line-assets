@@ -1,0 +1,1145 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黄色いキャラクターが目の周りにハート模様をつけ、片手を上げて笑っている。背後に淡いピンクのハートが散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24658",
+      "name": {
+        "ja": "ハートでうれしい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが座り、胸元で手を組むようなポーズをしている。周囲にピンクと水色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24659",
+      "name": {
+        "ja": "ハートを添えて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "座る",
+        "手元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが正面を向き、目を細めて穏やかに笑っている。耳の周りに小さなきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "24660",
+      "name": {
+        "ja": "きらめく笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "正面",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが眉を寄せて拳を握り、怒った表情をしている。頭上に白い拳の記号があり、周囲に鋭い線が走っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "24661",
+      "name": {
+        "ja": "怒りをこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "拳",
+        "鋭い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが片目を閉じて笑い、両手を上げている。下にカラフルな『WELCOME』の文字があり、周囲に星が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24662",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "WELCOMEで迎える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "WELCOME",
+        "歓迎",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが体を低くして前へ飛び出している。口を開け、背後に速さを示す線と水色のしずくがある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "24663",
+      "name": {
+        "ja": "勢いよく飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛び出す",
+        "速さ",
+        "しずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが横向きに寝転び、目を閉じて笑っている。背後に水色の丸い背景と青やピンクの音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "24664",
+      "name": {
+        "ja": "音符と一緒に寝転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寝転ぶ",
+        "音符",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが口を開けて笑っている。下に大きな赤い『YES!』の文字があり、背後にピンクの円がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24665",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと答える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "肯定",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが少し困ったような顔で正面を向いている。下に大きな青い『NO...』の文字がある。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "24666",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手を胸元に置き、口を大きく開けて期待するように笑っている。上に『Waku-Waku』の文字と星がある。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "24667",
+      "name": {
+        "ja": "Waku-Wakuで待つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Waku-Waku",
+        "期待",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが正面を向き、目に涙を浮かべて口を結んでいる。両側に涙のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "24668",
+      "name": {
+        "ja": "涙をこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "こらえる",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手で顔を覆い、目を閉じて泣いている。周囲に涙や動きを示す線がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "24669",
+      "name": {
+        "ja": "両手で泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泣く",
+        "両手",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが赤い模様の布のようなものを背負い、地面に伏せている。頭上に青い縦線が並び、そばに水色のしずくがある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "24670",
+      "name": {
+        "ja": "雨の下で落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "伏せる",
+        "青い縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが目を大きく見開き、口を開けて叫んでいる。両手を胸元で合わせ、背後に鋭い黄色の形と線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "24671",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "叫ぶ",
+        "大きな目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが横向きに転がり、目を閉じて笑っている。周囲に音符やカラフルな小物、別の青いキャラクターが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24672",
+      "name": {
+        "ja": "音楽に合わせて転がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "転がる",
+        "カラフル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが頭を抱え、目を見開いて困ったような表情をしている。周囲に縦の線と細い棒状のものがある。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "24673",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困る",
+        "頭を抱える",
+        "縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが片目を細め、口を結んで鋭い視線を向けている。周囲に小さなきらめきと線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "24674",
+      "name": {
+        "ja": "じっとにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "にらむ",
+        "鋭い目",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが前方を指し、上に赤い丸い果物が盛られた皿を思い浮かべている。下に『Gu』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "24675",
+      "name": {
+        "ja": "ごちそうを思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "果物",
+        "指差し",
+        "Gu"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが食卓の前で笑っている。左右に別の茶色と水色のキャラクターがいて、皿の料理とカップが並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "24676",
+      "name": {
+        "ja": "食卓で乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "料理",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手を広げ、口を大きく開けて笑っている。背後に青い放射線と星が広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24677",
+      "name": {
+        "ja": "星を背負って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "両手",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが片手を上げて笑っている。上にオレンジ色の『Thank You!』の文字があり、横に勢い線がある。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "24678",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "Thank Youを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Thank You",
+        "感謝",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが片目を閉じて笑っている。頭の周りに黄色い泡のような丸が浮かび、片側に細い線がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "24679",
+      "name": {
+        "ja": "泡と一緒に笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "泡",
+        "片目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが眉を下げ、口を結んで困ったように立っている。頭上に茶色い渦巻きがある。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "24680",
+      "name": {
+        "ja": "困って立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困惑",
+        "渦巻き",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが片手を上げて笑っている。上に緑色の『Bye Bye』の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "24681",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "Bye Byeと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Bye Bye",
+        "別れ",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが横向きに倒れ、両手で頭の側面を押さえている。目は渦巻き状で、背後に青い円がある。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "24682",
+      "name": {
+        "ja": "青いキャラクターが転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "渦巻き目",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが目を閉じて笑っている。横に大きな茶色の『OK』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "24683",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKと答える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "肯定",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが片手を上げ、目を閉じて笑いながら体を弾ませている。周囲に黄色い動き線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24684",
+      "name": {
+        "ja": "元気にポーズする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "元気",
+        "手を上げる",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが前へ走っている。背後に縦の勢い線があり、額から水色の汗が流れている。"
+      },
+      "emotion": [
+        "excitement",
+        "fear"
+      ],
+      "id": "24685",
+      "name": {
+        "ja": "急いで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "急ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが両手を上げて目を閉じ、口を開けて笑っている。上にカラフルな『Fight!!』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "24686",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "Fightで応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Fight",
+        "応援",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが紫色の敷物の上に座り、目を閉じて腕を組んでいる。左右に疑問符の吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "24687",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "疑問符",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが片手を上げ、目を閉じて大きく笑っている。周囲に黄色と白のきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "24688",
+      "name": {
+        "ja": "きらきら笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが座って頭を下げ、目を閉じている。上に茶色の『Sorry』の文字がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "24689",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "Sorryと謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Sorry",
+        "謝罪",
+        "お辞儀"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と青の小さなキャラクターが並んで立ち、目を閉じて穏やかに笑っている。背後にピンクのハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "24690",
+      "name": {
+        "ja": "仲良く並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハート",
+        "仲良し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑色の丸いキャラクターが横向きに丸まり、目を閉じて眠っている。上に『Zzzz..』の文字と小さな丸がある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "24691",
+      "name": {
+        "ja": "ぐっすり眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "Zzzz",
+        "丸まる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが黄色い長方形の物陰から半身をのぞかせ、体を小さく縮めている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "24692",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "物陰",
+        "身を縮める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが背中を向けて座っている。頭上に小さな点が並び、長い尾が横に伸びている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "24693",
+      "name": {
+        "ja": "背中を向けて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "座る",
+        "孤独"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色のキャラクターが両手で紫色の球を抱えている。球のそばに黄色いきらめきがあり、周囲に放射状の線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "24694",
+      "name": {
+        "ja": "紫色の球を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色",
+        "球",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑色の磁石のような物体が浮かび、上に『!?』の吹き出しがある。中央の丸い部分と両端の赤青の部分が見える。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "24695",
+      "name": {
+        "ja": "磁石に戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "磁石",
+        "!?",
+        "戸惑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のような姿のキャラクターが横向きに立っている。大きな薄黄色のくちばしと丸い目が目立ち、頭上に小さな丸がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "24696",
+      "name": {
+        "ja": "大きなくちばしで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きなくちばし",
+        "黄色",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いキャラクターが背を丸めてうずくまり、目を閉じている。頭や体の周囲に水色のしずくがあり、背後に黄色い部分が見える。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "24697",
+      "name": {
+        "ja": "青い姿でうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うずくまる",
+        "青",
+        "しずく"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1369",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

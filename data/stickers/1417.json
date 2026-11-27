@@ -1,0 +1,1146 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが片手を上げ、赤い「OK」の文字が添えられている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26130",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKを示す手上げ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "手上げ",
+        "OK"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターが涙を流し、青い「NG」の文字が添えられている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26131",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "泣いてNG"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "涙",
+        "NG"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが親指を立て、周囲に赤いギザギザ模様がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26132",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "親指でOK"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "親指",
+        "ギザギザ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが音符に囲まれて踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26133",
+      "name": {
+        "ja": "音符で楽しく踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "ダンス",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが手を合わせ、星の散ったきらめく目をしている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "26134",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "手を合わせて感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "合掌",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターが手を合わせ、目がハートになり、周囲にハートが飛んでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "26135",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "ハート目でお願い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "ハート目",
+        "手を合わせる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが顔を赤くして怒り、そばに怒りマークが出ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "26136",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "赤くなって怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "怒り",
+        "怒りマーク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが画面左側から覗き込み、背景に茶色の線が見える。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "26137",
+      "name": {
+        "ja": "横から覗き込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "覗く",
+        "線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが驚いた表情で飛び跳ね、周囲に赤いギザギザ模様がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26138",
+      "name": {
+        "ja": "驚いて飛び跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "驚き",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが座って微笑み、周囲をハートが囲んでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "26139",
+      "name": {
+        "ja": "ハートに囲まれて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "微笑み",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターが手を合わせ、冷や汗や涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26140",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "汗と涙で謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "涙",
+        "冷や汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが冷や汗をかきながら走り、後ろに渦巻きがある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26141",
+      "name": {
+        "ja": "汗をかいて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "走る",
+        "渦巻き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターが無表情で立ち、そばに「…」の吹き出しがある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "26142",
+      "name": {
+        "ja": "無言でたたずむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "無表情",
+        "三点リーダー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが両手を広げ、赤い感嘆符が添えられている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "26143",
+      "name": {
+        "ja": "両手を広げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "両手",
+        "感嘆符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが目を閉じ、頭の上に黒い感嘆符が二つある。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "26144",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "目を閉じてひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "目を閉じる",
+        "感嘆符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターが座り、口から魂のような形が出ている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "26145",
+      "name": {
+        "ja": "魂が抜けてぐったり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "座る",
+        "魂"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターがケーキのような帽子をかぶり、クラッカーを鳴らしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26146",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "クラッカーでお祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "ケーキ帽子",
+        "クラッカー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターがうつ伏せで泣き、涙が周囲に溜まっている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26147",
+      "name": {
+        "ja": "うつ伏せで泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "うつ伏せ",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが青い鉢巻をして走り、周囲に青い渦巻きがある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26148",
+      "name": {
+        "ja": "鉢巻で駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "青い鉢巻",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが口元に指を当て、赤い疑問符が出ている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "26149",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "指を当てて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "口元",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが汗をかきながら、緑の鉛筆で紙に書いている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26150",
+      "name": {
+        "ja": "汗をかいて書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "鉛筆",
+        "書く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターがウインクし、目の横に赤いハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "26151",
+      "name": {
+        "ja": "ウインクとハート"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "ウインク",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが両手を挙げ、顔を青ざめさせて震えている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "26152",
+      "name": {
+        "ja": "青ざめて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "青ざめる",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが頬を赤くし、涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "26153",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "赤い頬で涙ぐむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "赤い頬",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターに羽が生えて飛び、泡や星に囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26154",
+      "name": {
+        "ja": "羽でふわりと飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "羽",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが歯ブラシを持ち、周囲にきらめきマークがある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "26155",
+      "name": {
+        "ja": "歯みがきでピカピカ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "歯ブラシ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが赤い傘を持ち、眉間にしわを寄せている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "26156",
+      "name": {
+        "ja": "傘を持って険しい顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "赤い傘",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターが木の後ろから覗き、頭に小さな青い鳥がいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "26157",
+      "name": {
+        "ja": "木陰から覗く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "木",
+        "青い鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが横に伸びて倒れ、疲れた表情をしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "26158",
+      "name": {
+        "ja": "横になってぐったり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "横になる",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターがピンクの布団で眠り、そばに「z」の文字が出ている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "26159",
+      "name": {
+        "ja": "布団でおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "ピンクの布団",
+        "睡眠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターがお辞儀をし、頭の上に下向きの矢印がある。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "26160",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "お辞儀でお礼"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "お辞儀",
+        "矢印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターが舌を出してウインクし、ポーズをとっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26161",
+      "name": {
+        "ja": "舌を出してウインク"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "舌",
+        "ウインク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターがテーブルでオムライスを前に、スプーンとフォークを持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26162",
+      "name": {
+        "ja": "オムライスを食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "オムライス",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と灰色のキャラクターが、ボクシンググローブをつけて向かい合っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26163",
+      "name": {
+        "ja": "グローブでぶつかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "灰色",
+        "ボクシング"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色と灰色のキャラクターが、音符の中で一緒に踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "26164",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "二人で音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ダンス",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが袋からお菓子を取り出して食べている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26165",
+      "name": {
+        "ja": "お菓子を取り出して食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "袋",
+        "お菓子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のキャラクターがエプロンを着け、フライパンで料理をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26166",
+      "name": {
+        "ja": "エプロンで料理する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "エプロン",
+        "フライパン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色のキャラクターが手を振り、「See You」の文字と星が添えられている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "26167",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振ってまたね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "手を振る",
+        "See You"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色のキャラクターが帽子をかぶり、バッグを持って歩いている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "26168",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "帽子とバッグで出かける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "帽子",
+        "バッグ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "3匹のキャラクターが並び、「Thanks」の吹き出しとハートがある。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "26169",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "みんなでありがとう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "Thanks",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1417",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

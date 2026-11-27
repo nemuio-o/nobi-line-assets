@@ -1,0 +1,1100 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒髪の人物が赤と黒の服を着て、真剣な表情で正面を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13751",
+      "name": {
+        "ja": "黒髪の人物が正面を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "黒髪",
+        "真剣"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い球形のロボットを両手で抱えている。背景は青色。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13752",
+      "name": {
+        "ja": "白いロボットを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "白",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が少し上を見上げ、考え込むような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "13753",
+      "name": {
+        "ja": "上を見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "茶色い髪",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男女の二人が腕を上げ、並んで喜んでいる。背後に装飾的な文字が添えられている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13754",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "腕を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "喜ぶ",
+        "腕を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物がそろって上を見上げ、何かに注目している。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "13755",
+      "name": {
+        "ja": "三人で見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "見上げる",
+        "注目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い人型ロボットが暗い背景の中で、身を低くして構えている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13756",
+      "name": {
+        "ja": "赤いロボットが構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いロボット",
+        "構える",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い水中用のようなロボットが、跳びかかるような姿勢を見せている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13757",
+      "name": {
+        "ja": "赤いロボットが跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いロボット",
+        "跳ぶ",
+        "躍動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人型ロボットが空中を飛ぶ、または跳び上がるように描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13758",
+      "name": {
+        "ja": "白いロボットが飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いロボット",
+        "飛ぶ",
+        "空中"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のロボットが、黄色とオレンジ色の爆発の中に描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "13759",
+      "name": {
+        "ja": "爆発の中の緑のロボット"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のロボット",
+        "爆発",
+        "戦闘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "パイロット用ヘルメットをかぶった人物が描かれ、横に文字が添えられている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13760",
+      "name": {
+        "ja": "ヘルメット姿で話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ヘルメット",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で大きなサングラスをかけた人物が横を向いている。左側に文字が添えられている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13761",
+      "name": {
+        "ja": "サングラスの人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "金髪",
+        "サングラス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いロボットが暗い宇宙のような背景を飛び、白い光の筋が流れている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13762",
+      "name": {
+        "ja": "青いロボットが飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いロボット",
+        "宇宙",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ヘルメットのバイザー越しに、人物の目元が大きく映っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "13763",
+      "name": {
+        "ja": "ヘルメット越しの目"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "ヘルメット",
+        "目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の髪の女性が肩越しに振り返っている。横に文字が添えられている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "13764",
+      "name": {
+        "ja": "振り返る女性"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ピンクの髪",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色とオレンジ色のエネルギーのような光が、縦に大きく立ち上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "13765",
+      "name": {
+        "ja": "黄色い光が立ち上る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "光",
+        "エネルギー",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が白と赤の服を着て、横を向きながら決意した表情を見せている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13766",
+      "name": {
+        "ja": "決意した表情"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "決意",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が操縦席のような場所で、強い目つきで前を見ている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13767",
+      "name": {
+        "ja": "操縦席で集中する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "操縦席",
+        "集中"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横顔で、窓または展望口の外を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13768",
+      "name": {
+        "ja": "窓の外を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "横顔",
+        "窓"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が両手で頭を抱え、困った様子を見せている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "13769",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "青い服",
+        "頭を抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物がパイロットスーツ姿で、厳しい表情をして正面を見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13770",
+      "name": {
+        "ja": "厳しい表情で見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "黒髪",
+        "パイロットスーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と金色の装飾的な服の人物が、腕を腰に当てて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13771",
+      "name": {
+        "ja": "腕を腰に当てて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "赤い服",
+        "腕を腰に当てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "浅黒い肌と縮れた黒髪の人物が、見る人に向けて強い視線を送っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13772",
+      "name": {
+        "ja": "強い目つきで見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "黒髪",
+        "強い視線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が胸元まで並んで描かれ、一人がもう一人の方を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13773",
+      "name": {
+        "ja": "向き合う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "向き合う",
+        "会話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で赤い服の人物が、正面に向かって敬礼している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13774",
+      "name": {
+        "ja": "敬礼する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "金髪",
+        "敬礼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の髪の女性が壁や角の後ろから顔をのぞかせている。横に文字が添えられている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "13775",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "緑の髪",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の少女が頭に大きな黄色いリボンを付けている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13776",
+      "name": {
+        "ja": "黄色いリボンの少女"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "金髪",
+        "黄色いリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男の子と女の子が後ろ姿で手をつないでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "13777",
+      "name": {
+        "ja": "手をつないで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "子ども",
+        "手をつなぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "パイロットスーツ姿の人物が、遠くの明るい光に向かって歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13778",
+      "name": {
+        "ja": "光へ歩いていく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "歩く",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がオレンジ色の面にうつ伏せで横たわっている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "13779",
+      "name": {
+        "ja": "うつ伏せになる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "うつ伏せ",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いロボットの頭部が大きく描かれ、緑色の目が光っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13780",
+      "name": {
+        "ja": "白いロボットの顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いロボット",
+        "顔",
+        "緑の目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな耳と白いおなかを持つ、小さな茶色い毛の生き物が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13781",
+      "name": {
+        "ja": "小さな茶色い生き物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小さな生き物",
+        "茶色",
+        "大きな耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の金髪の人物が上を向き、少し口を開けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "13782",
+      "name": {
+        "ja": "上を向く金髪の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "金髪",
+        "白い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のヘルメットまたは帽子をかぶった人物が、真剣な目つきで正面を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13783",
+      "name": {
+        "ja": "緑のヘルメット姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "緑のヘルメット",
+        "真剣"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の少年が胸元まで描かれ、いら立ったような表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13784",
+      "name": {
+        "ja": "悔しそうな少年"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少年",
+        "茶色い髪",
+        "いら立ち"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きくて重厚な茶色いロボットが、下から見上げる構図で描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "13785",
+      "name": {
+        "ja": "大きな茶色いロボット"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いロボット",
+        "大きい",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が白い服を着て、決意した表情で前を指さしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13786",
+      "name": {
+        "ja": "前を指さす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "指さす",
+        "決意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪で赤と銀色のマスクを付けた人物が横を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13787",
+      "name": {
+        "ja": "赤いマスクの人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "金髪",
+        "マスク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "葉が添えられた緑色のメロンが一つ描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13788",
+      "name": {
+        "ja": "葉のついたメロン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "メロン",
+        "緑",
+        "果物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いロボットが、ピンク色に光る剣のような武器を振っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13789",
+      "name": {
+        "ja": "光る剣を振るう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いロボット",
+        "光る剣",
+        "戦闘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い一つ目を持つ緑色のロボットが、胸元から上の構図で描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13790",
+      "name": {
+        "ja": "一つ目の緑のロボット"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑のロボット",
+        "赤い目",
+        "一つ目"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "901",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

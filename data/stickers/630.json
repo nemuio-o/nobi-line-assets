@@ -1,0 +1,1107 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "紫色の水玉模様の帽子とサングラスを身につけた人物が、片手を顔の近くに添えて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "6279",
+      "name": {
+        "ja": "帽子をかぶって笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "サングラス",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "耳の長いうさぎが、リボンの付いた箱を両手で抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "6280",
+      "name": {
+        "ja": "贈り物を抱えるうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "贈り物",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "輪のような光を頭上に浮かべた人物が、翼を広げて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "6281",
+      "name": {
+        "ja": "羽を広げる天使"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "天使",
+        "翼",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い目の仮面を付けた紫色の姿が、腕と脚を動かして走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "6282",
+      "name": {
+        "ja": "仮面の怪人が走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仮面",
+        "走る",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い丸い顔の人物が、頬を赤らめて目を細めた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "love"
+      ],
+      "id": "6283",
+      "name": {
+        "ja": "ほっぺを赤らめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "赤い頬",
+        "丸い顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪の短い人物が、目を細めて口をすぼめた顔をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "6284",
+      "name": {
+        "ja": "目を細めた顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "短い髪",
+        "目を細める",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな王冠をかぶった黄色い人物が、片手を上げて手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "6285",
+      "name": {
+        "ja": "王冠で手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "手を振る",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が腕を振って走り、背後に複数の速度線が描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "6286",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "速度線",
+        "腕を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物がしゃがみ、口を開けて笑いながら片手を前に出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "6287",
+      "name": {
+        "ja": "しゃがんで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しゃがむ",
+        "笑顔",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が四つんばいに近い姿勢で、手足を動かして進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "6288",
+      "name": {
+        "ja": "四つんばいで駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四つんばい",
+        "進む",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が地面にうつぶせになり、腕と脚を伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "6289",
+      "name": {
+        "ja": "うつぶせに倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつぶせ",
+        "倒れる",
+        "手足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンを付けた人物が机に向かい、紙に書き物をしている。机の上にはランプがある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "6290",
+      "name": {
+        "ja": "机で書き物をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "書き物",
+        "ランプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "エプロン姿の人物が、片手にフライパン、もう片手にへらを持って立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "6291",
+      "name": {
+        "ja": "フライパンとへらを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "エプロン",
+        "フライパン",
+        "へら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "王冠をかぶった赤い顔の人物が、衣装を着て腕を振りながら踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6292",
+      "name": {
+        "ja": "王冠姿で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "踊る",
+        "衣装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "王冠をかぶった大きな顔が、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "6293",
+      "name": {
+        "ja": "王冠をかぶった顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "笑顔",
+        "大きな顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクと青の服を着た二人が並び、目を細めて口を開けた険しい顔をしている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "6294",
+      "name": {
+        "ja": "二人でしかめ顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "しかめ顔",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花びらのような飾りを頭に付けた黄色い人物が、片手を横に伸ばして指し示している。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "6295",
+      "name": {
+        "ja": "花飾りの人物が指す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "指差し",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花びらのような飾りを付けた黄色い人物が、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "6296",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "大きな口",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花びらのような飾りを付けた黄色い人物が、笑顔で片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "6297",
+      "name": {
+        "ja": "笑顔で手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を上げる",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が片目を閉じ、片手を上げて振っている。周囲にきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6298",
+      "name": {
+        "ja": "ウインクで手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウインク",
+        "手を振る",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花びらのような飾りを付けた黄色い人物が、眉を下げて困ったような顔をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "6299",
+      "name": {
+        "ja": "困った顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困り顔",
+        "眉を下げる",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の頭飾りを付けた人物が、体を前に曲げて頭を下げている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "6300",
+      "name": {
+        "ja": "頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "前かがみ",
+        "緑色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクと青の服を着た二人が、並んで走っている。上方に小さな人物が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6301",
+      "name": {
+        "ja": "二人で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "走る",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "取っ手のような形が頭上にある黄色い人物が、汗を流して目を見開いている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "6302",
+      "name": {
+        "ja": "汗をかく大きな顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "目を見開く",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "取っ手のような形が頭上にある黄色い姿から、左右に白い煙のような線が出ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "6303",
+      "name": {
+        "ja": "煙を出す姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "取っ手",
+        "煙",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短い髪の人物が、目を細めて口をすぼめた表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "6304",
+      "name": {
+        "ja": "目を細めてすぼめる口"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "短い髪",
+        "目を細める",
+        "口をすぼめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなリボンを付けた人物が、両腕を下げて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "6305",
+      "name": {
+        "ja": "リボンの人物が立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "リボン",
+        "立つ",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物がベンチに座り、向かい合っている。一人は取っ手の付いた物を持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "6306",
+      "name": {
+        "ja": "ベンチで向かい合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ベンチ",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "リボンを付けた人物が、頭上に疑問符を浮かべて立っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "6307",
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "リボン",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花びらのような飾りを付けた黄色い人物が、電話機の受話器を持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "6308",
+      "name": {
+        "ja": "電話をかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "受話器",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が汗をかきながら、片手にうちわを持っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "6309",
+      "name": {
+        "ja": "汗をかいてうちわを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "うちわ",
+        "暑さ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が、両手を顔の前に寄せて鼻を押さえるような仕草をしている。"
+      },
+      "emotion": [
+        "disgust"
+      ],
+      "id": "6310",
+      "name": {
+        "ja": "鼻を押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鼻",
+        "両手",
+        "顔の前"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が目を渦巻き状にして立ち、周囲に複数の疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "6311",
+      "name": {
+        "ja": "目を回して戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "渦巻き目",
+        "疑問符",
+        "戸惑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が目を閉じ、両手で小さな容器を持っている。そばに曲線の線がある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "6312",
+      "name": {
+        "ja": "飲み物を持って休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "容器",
+        "両手",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花びらのような飾りを付けた黄色い人物が、眉を寄せて腕を振りながら走っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "6313",
+      "name": {
+        "ja": "勢いよく走る花飾り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "眉を寄せる",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花びらのような飾りを付けた黄色い人物が、両手を上げている。周囲に紙吹雪と音符のような記号がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6314",
+      "name": {
+        "ja": "紙吹雪で祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙吹雪",
+        "両手",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物が目を閉じ、口を前に突き出している。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "6315",
+      "name": {
+        "ja": "目を閉じて口をすぼめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "口をすぼめる",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い人物が椅子に横たわり、ヤシの木のそばで飲み物の入ったグラスを置いて休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "6316",
+      "name": {
+        "ja": "ヤシの木の下で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休む",
+        "ヤシの木",
+        "グラス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた四角い顔の人物が机に座り、机上の紙と小物に向かっている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "6317",
+      "name": {
+        "ja": "机に向かう四角い人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "机",
+        "四角い顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い丸い姿が眉を寄せ、口を大きく開けている。頭の周囲に動きを示す線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "6318",
+      "name": {
+        "ja": "口を開けて叫ぶ白い姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い姿",
+        "大きな口",
+        "動き線"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "630",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

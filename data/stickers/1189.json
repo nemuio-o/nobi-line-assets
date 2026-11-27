@@ -1,0 +1,1144 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青いスーツの男性が頬に手を添え、視線を横に流して考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "20495",
+      "name": {
+        "ja": "腕を添えて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "頬杖",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が笑顔で親指を立て、肯定を示している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20496",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指で太鼓判"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "肯定",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が目を見開き、口を開けて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "20497",
+      "name": {
+        "ja": "目を丸くして驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "目を見開く",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "コート姿の男性が丼を抱え、湯気の立つ麺を勢いよくすすっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20498",
+      "name": {
+        "ja": "熱々の麺をすする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "麺",
+        "湯気",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横顔の男性が目を伏せ、口元から白い息のようなものを吐いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "20499",
+      "name": {
+        "ja": "ふっと息を吐く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "息",
+        "ひと息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いコック服と帽子の人物が、肩を落として困ったように立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20500",
+      "name": {
+        "ja": "料理人のしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理人",
+        "帽子",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の顔が大きく描かれ、眉を下げて呆然とした表情を見せている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "20501",
+      "name": {
+        "ja": "顔に落胆がにじむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落胆",
+        "顔アップ",
+        "ぼう然"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が片手を前に出して呼び止めるような仕草をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "20502",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "ちょっと待って"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "呼び止める",
+        "手を出す",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ネクタイ姿の男性が腹部に手を当て、満腹そうに上体を反らしている。"
+      },
+      "emotion": [
+        "tired",
+        "joy"
+      ],
+      "id": "20503",
+      "name": {
+        "ja": "満腹でのけぞる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "満腹",
+        "お腹",
+        "のけぞる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が布団に横たわり、顔だけをのぞかせて休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "20504",
+      "name": {
+        "ja": "布団でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "休憩",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が顎に手を添え、視線を上に向けて思案している。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "20505",
+      "name": {
+        "ja": "顎に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "思案",
+        "顎",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を閉じ、眉を下げて大きく落胆している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20506",
+      "name": {
+        "ja": "がっくりうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落胆",
+        "目を閉じる",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が両手でカメラを顔の前に構え、こちらを撮影しようとしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "20507",
+      "name": {
+        "ja": "カメラを構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カメラ",
+        "撮影",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の顔に黄色い衝撃の図形が当たり、目を見開いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20508",
+      "name": {
+        "ja": "顔に衝撃を受ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "衝撃",
+        "驚き",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の男性が新聞を高く振り上げ、別の男性に向かって勢いよく怒っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20509",
+      "name": {
+        "ja": "新聞を振り上げて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "新聞",
+        "怒る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が細いものを口元にくわえ、横目で静かに煙を吐いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "20510",
+      "name": {
+        "ja": "煙をくゆらせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "煙",
+        "横目",
+        "ひと息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が顔を横からのぞかせ、目を丸くして声をかけている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "20511",
+      "name": {
+        "ja": "顔を出して呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "呼びかけ",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の顔の横で、親指を立てた手が大きく示されている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20512",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指をぐっと立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "肯定",
+        "顔アップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が指を目元にかざし、疲れたような表情を浮かべている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "20513",
+      "name": {
+        "ja": "目元を隠してため息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目元",
+        "疲れ",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が頬杖をつき、半目で物思いに沈んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "20514",
+      "name": {
+        "ja": "頬杖で物思い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "長髪",
+        "頬杖",
+        "物思い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が机に向かって座り、周囲に黄色い光をまとわせて集中している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20515",
+      "name": {
+        "ja": "机で気合を入れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "集中",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を閉じ、顔を横にして安らかに眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "20516",
+      "name": {
+        "ja": "ぐっすり眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "目を閉じる",
+        "休息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い帽子をかぶった料理人が、眉を寄せて横を見ている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "20517",
+      "name": {
+        "ja": "料理人の険しい顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理人",
+        "帽子",
+        "険しい表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の男性が両手を握り、体を前に向けて力を込めている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20518",
+      "name": {
+        "ja": "拳を握って踏ん張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "力む",
+        "踏ん張る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性がかばんを持って歩き、周囲に黄色い音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20519",
+      "name": {
+        "ja": "音符と一緒に出勤"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "かばん",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が食卓に座り、料理の並ぶ前で紙に何かを書いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "20520",
+      "name": {
+        "ja": "食卓で書き留める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "書く",
+        "料理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が顔を少し傾け、目を細めて柔らかく微笑んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "20521",
+      "name": {
+        "ja": "にっこり振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "顔アップ",
+        "安心"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が赤い表紙のような長方形の物を胸元で持ち、正面を見ている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "20522",
+      "name": {
+        "ja": "赤い道具を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い道具",
+        "持つ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ネクタイ姿の男性が口を大きく開け、赤い強調記号を伴って叫んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "20523",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "声を張って呼ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "強調",
+        "ネクタイ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色のシャツの男性が汗をかきながら、丼を手に食事をしている。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "20524",
+      "name": {
+        "ja": "汗だくで食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "丼",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の男性が汗を浮かべ、口元をゆがめて焦った表情をしている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "20525",
+      "name": {
+        "ja": "眼鏡で焦る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "汗",
+        "焦り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性がカップを口元に運び、飲み物でひと息ついている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "20526",
+      "name": {
+        "ja": "飲み物でひと息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "カップ",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が横を向き、力の抜けた顔で立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20527",
+      "name": {
+        "ja": "空腹をこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "空腹",
+        "横顔",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が大きなどんぶりを抱え、箸で勢いよく食べている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20528",
+      "name": {
+        "ja": "夢中でかき込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "どんぶり",
+        "箸",
+        "食べる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いコック帽の料理人が目を見開き、口を開けて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20529",
+      "name": {
+        "ja": "料理人がびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理人",
+        "驚き",
+        "コック帽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が机に向かって座り、皿の料理を前に黙々と食べている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "20530",
+      "name": {
+        "ja": "机で食事に没頭"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "食事",
+        "黙々"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を細め、口元に満足そうな笑みを浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "20531",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "満足げにうなずく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "満足",
+        "笑み",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が両手でネクタイを整え、身支度をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "20532",
+      "name": {
+        "ja": "ネクタイを整える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ネクタイ",
+        "身支度",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性がどんぶりを差し出し、食事をすすめるように微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20533",
+      "intent": [
+        "request",
+        "encourage"
+      ],
+      "name": {
+        "ja": "どんぶりをすすめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "どんぶり",
+        "すすめる",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が緑色の瓶を口元に当て、飲み物を味わっている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "20534",
+      "name": {
+        "ja": "緑の瓶で乾杯気分"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の瓶",
+        "飲む",
+        "味わう"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1189",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

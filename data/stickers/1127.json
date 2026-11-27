@@ -1,0 +1,1067 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "二人の人物が肩を寄せて並び、片方がもう片方に寄り添っている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18959",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い動物が上下に重なるように立ち、上の動物が両手を上げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18960",
+      "name": {
+        "ja": "黄色い動物が重なる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い動物",
+        "重なる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪をまとめた人物が横向きになり、頭上に浮かぶ赤いハートを見上げている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18961",
+      "name": {
+        "ja": "ハートを見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸い猫が目を細め、ひげを広げて歯を見せながら大きく笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18962",
+      "name": {
+        "ja": "猫が満面の笑み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物がオレンジ色の動物の背に乗り、笑顔で手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18963",
+      "name": {
+        "ja": "オレンジ色の動物に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "オレンジ色の動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花をたくさん載せた帽子をかぶった人物が、ピンクの服で歩いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18964",
+      "name": {
+        "ja": "花飾りで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪が大きく広がった人物が両手を広げ、笑顔で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18965",
+      "name": {
+        "ja": "両手を広げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りの帽子をかぶった人物が、花を手に持って片足を上げ、楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18966",
+      "name": {
+        "ja": "花を持って踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が座り、目を閉じて穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18967",
+      "name": {
+        "ja": "座って微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が花束を持ち、青いリボンの贈り物をそばに置いている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "18968",
+      "name": {
+        "ja": "花束と贈り物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が笑顔で手を合わせ、横に見える「Thank You」の文字とともに感謝を伝えている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "18969",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "Thank Youと伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "文字",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエルが両手を上げ、上に見える「Good!」の文字とともに喜んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18970",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "Good!と喜ぶカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花冠をかぶった人物が両手を高く上げ、満面の笑みで喜んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18971",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "花冠で万歳する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花冠",
+        "万歳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花に囲まれた人物が片膝を立てて座り、笑顔で手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18972",
+      "name": {
+        "ja": "花に囲まれて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪を高くまとめた人物が花飾りをつけ、片足を上げてポーズを決めている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18973",
+      "name": {
+        "ja": "花飾りでポーズを決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "星飾りのついた赤い帽子をかぶった人物が、正面を静かに見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18974",
+      "name": {
+        "ja": "星の帽子で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が親指を立てるようなポーズを取り、横に見える「OK」の文字で肯定を示している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18975",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "文字",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が黒い猫を抱き、猫と一緒に笑顔で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18976",
+      "name": {
+        "ja": "猫を抱いて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "猫",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手に青い花を持ち、赤い服で座って笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18977",
+      "name": {
+        "ja": "花を持って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が茶色い犬と並び、手を上げて楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18978",
+      "name": {
+        "ja": "犬と一緒に踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "巻き毛の人物が小さな旗を両手に持ち、体を揺らしながら元気に動いている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18979",
+      "name": {
+        "ja": "小さな旗を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "旗",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が並んで立ち、上にある色とりどりの記号を見て驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18980",
+      "name": {
+        "ja": "驚いて立ち止まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "三人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪をまとめた人物が口を大きく開け、手に持った小さな物を示しながら驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18981",
+      "name": {
+        "ja": "口を開けて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな帽子をかぶった人物が、ろうそくの立ったケーキを皿に載せて運んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18982",
+      "name": {
+        "ja": "ケーキを運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ケーキ",
+        "料理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が紫色の帽子のような物をかぶり、逆さまの姿勢で立っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18983",
+      "name": {
+        "ja": "逆さまの猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "逆さま"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫がしっぽを高く立て、目を細めて不機嫌そうにしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18984",
+      "name": {
+        "ja": "しっぽを立てて怒る猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "しっぽ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた熊のような動物が、オレンジ色の服を着て立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18985",
+      "name": {
+        "ja": "熊のような動物が立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大人が小さな人物を抱きしめ、二人で寄り添っている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18986",
+      "name": {
+        "ja": "子どもを抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱きしめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い犬が両手を組んで座り、赤い頬でうつむいている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18987",
+      "name": {
+        "ja": "青い犬がうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い犬が座り、頭に大きな黄色いリボンを結んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18988",
+      "name": {
+        "ja": "黄色いリボンの犬"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が赤い服を着て立ち、顔に汗を浮かべて困ったようにしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18989",
+      "name": {
+        "ja": "汗をかく猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪をまとめた人物が水色の服を着て、後ろ姿で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18990",
+      "name": {
+        "ja": "後ろ姿で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服を着た人物が両手を前に出し、横の「NG」の文字とともに拒否を示している。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18991",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NGと拒否する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "文字",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな花飾りの帽子をかぶった人物が、赤い柄の服で横向きに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18992",
+      "name": {
+        "ja": "大きな帽子で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "服装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服と大きな飾り帽子の人物が、椅子に座って正面を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18993",
+      "name": {
+        "ja": "帽子をかぶって座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手で顔を覆い、赤い服で立っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18994",
+      "name": {
+        "ja": "顔を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を隠す",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が本の上に横たわり、そばに青い眠りを示す記号が描かれている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18995",
+      "name": {
+        "ja": "本の上で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が、立てかけた鏡をのぞき込んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18996",
+      "name": {
+        "ja": "鏡を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "身支度"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなリボンをつけた人物が、オレンジ色の動物を抱えて座っている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18997",
+      "name": {
+        "ja": "オレンジ色の動物を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動物",
+        "抱く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が湯船につかり、片足を伸ばしてくつろいでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18998",
+      "name": {
+        "ja": "湯船でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "湯船"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1127",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

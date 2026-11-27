@@ -1,0 +1,1133 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑色の人物が片手を額の横に当て、口を開けて笑顔で立っている。胸元に星形のバッジがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "4863",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "敬礼する笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "敬礼",
+        "笑顔",
+        "星のバッジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が頬を赤らめ、両手を胸元に添えて目を細めながら笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "4864",
+      "name": {
+        "ja": "頬を赤らめて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "赤ら顔",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が腕を組み、片目を閉じて考え込んでいる。頭上の吹き出しには渦巻き状の図がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "4865",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考え顔",
+        "腕組み",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が片腕を高く上げ、もう一方の腕を曲げて目を閉じたポーズを取っている。周囲に星形のきらめきがある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4866",
+      "name": {
+        "ja": "きらめきの中でポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポーズ",
+        "きらめき",
+        "片腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が腕を組み、口をへの字にして困ったような顔をしている。頭上に丸で囲まれたバツ印がある。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "4867",
+      "name": {
+        "ja": "バツ印に困り顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困り顔",
+        "バツ印",
+        "腕組み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が四つんばいになり、頭を下げて力なく伏せている。周囲に縦線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "4868",
+      "name": {
+        "ja": "四つんばいで落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四つんばい",
+        "うつむき",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が目を見開き、口を大きく開けて叫んでいる。頭の横に赤い衝撃線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4869",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "叫び",
+        "衝撃線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が目を閉じて体を傾け、白い布のようなものをまといながら風にあおられている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4870",
+      "name": {
+        "ja": "風に飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ばされる",
+        "風",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が腕を組み、目を細めた無表情で正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4871",
+      "name": {
+        "ja": "無表情"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "無表情",
+        "正面",
+        "腕組み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が両手を握り、口を開けて怒っている。頭の上と両側に炎が上がっている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "4872",
+      "name": {
+        "ja": "頭から炎"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が目を閉じ、片手を口元に添えて投げキスをしている。口元からピンク色のハートが飛んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4873",
+      "name": {
+        "ja": "投げキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "投げキス",
+        "ハート",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が首を少しかしげ、口を閉じて正面を見ている。頭の横に赤いクエスチョンマークがある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "4874",
+      "name": {
+        "ja": "疑問の顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "首かしげ",
+        "クエスチョン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の髪の人物が両手を頬に当て、目を見開いて震えている。周囲に細かな震え線がある。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "4875",
+      "name": {
+        "ja": "震える困り顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震え",
+        "困り顔",
+        "紫色の髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が濃い色の上着を着て、両手を前で重ねて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4876",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "正装でお辞儀"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正装",
+        "お辞儀",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が小さな掃除機のような機械を引きながら走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4877",
+      "name": {
+        "ja": "掃除機をかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除機",
+        "掃除",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が泡の立った飲み物のグラスを片手に持ち、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4878",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ビールで乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ビール",
+        "乾杯",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が椅子に座り、目を閉じて飲み物の入った容器を口元に運んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4879",
+      "name": {
+        "ja": "飲み物を味わう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "味わう",
+        "椅子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が椅子に座り、スプーンを口元に運んで目を閉じ、食事を味わっている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4880",
+      "name": {
+        "ja": "食事を味わう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "椅子",
+        "スプーン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が指を立てて目を見開いている。頭の横に光る電球がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4881",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひらめき",
+        "電球",
+        "指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が青い星柄の掛け物に包まれ、横になって目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "4882",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が三角帽子をかぶり、花束を持って笑っている。周囲に紙吹雪と星がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4883",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "パーティー帽で祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パーティー帽",
+        "花束",
+        "祝福"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が目を細め、口を閉じた穏やかな表情で正面に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4884",
+      "name": {
+        "ja": "落ち着いて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "立つ",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い人物が緑色の人物を追いかけ、二人とも横向きに走っている。背景に赤い速度線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4885",
+      "name": {
+        "ja": "追いかけっこ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "追跡",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が緑色の人物の頭をつかみ、緑色の人物が目を閉じている。赤い髪の人物の頭上に怒りを示す印がある。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "4886",
+      "name": {
+        "ja": "髪を引っ張られる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "髪",
+        "引っ張る",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い人物が大きな黒い銃のような物を両手で構えている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "4887",
+      "name": {
+        "ja": "大きな銃を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "銃",
+        "構える",
+        "赤い人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い人物が眉をひそめて拳を握り、片足を踏み出して怒っている。頭の両側に白い湯気のような線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "4888",
+      "name": {
+        "ja": "怒って踏み出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "拳",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い人物が腕を組んで目を細め、嬉しそうに笑っている。周囲にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4889",
+      "name": {
+        "ja": "ハートに囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "赤い人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い顔の人物がピンク色の大きな塊の上にうずくまり、目を細めている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "4890",
+      "name": {
+        "ja": "赤い顔でうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うずくまる",
+        "赤い顔",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手を上げ、口を開けて笑顔で手を振っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4891",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "元気に手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "笑顔",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が目に涙を浮かべ、両手を胸元で合わせてうつむいている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "4892",
+      "name": {
+        "ja": "涙目でうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙目",
+        "うつむき",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が両手で頭を抱え、歯を食いしばって震えている。頭上に赤い稲妻状の線がある。"
+      },
+      "emotion": [
+        "fear",
+        "anger"
+      ],
+      "id": "4893",
+      "name": {
+        "ja": "頭を抱えて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭を抱える",
+        "震え",
+        "雷"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな青い服の人物が、黄色い大きな突風のような形に押されて飛ばされている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4894",
+      "name": {
+        "ja": "吹き飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き飛ぶ",
+        "突風",
+        "小さな人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物がヘッドホンを着け、目を渦巻き状にして両手を下げて立っている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "4895",
+      "name": {
+        "ja": "目を回す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を回す",
+        "ヘッドホン",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物がヘッドホンを着け、渦巻き状の目で両手を左右に広げている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "4896",
+      "name": {
+        "ja": "両手を広げて困惑"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "困惑",
+        "ヘッドホン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物がヘッドホンを着け、机の前で両手を上げている。目は渦巻き状になっている。"
+      },
+      "emotion": [
+        "excitement",
+        "confusion"
+      ],
+      "id": "4897",
+      "name": {
+        "ja": "机で両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "両手",
+        "ヘッドホン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物がヘッドホンを着け、大きな鍋の中身を両手でかき混ぜている。目は渦巻き状になっている。"
+      },
+      "emotion": [
+        "excitement",
+        "confusion"
+      ],
+      "id": "4898",
+      "name": {
+        "ja": "鍋をかき混ぜる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鍋",
+        "かき混ぜる",
+        "ヘッドホン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の人物が目を青い円状にして立ち、体の両側に震えを示す縦線がある。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "4899",
+      "name": {
+        "ja": "震える灰色の姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震え",
+        "灰色",
+        "目を回す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の人物が目を閉じ、両腕を広げてふらつくように立っている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "4900",
+      "name": {
+        "ja": "ふらつく灰色の姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふらつき",
+        "灰色",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の人物が青い涙を流し、両手を下げてうつむいている。周囲に縦線がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "4901",
+      "name": {
+        "ja": "泣き崩れる灰色の姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泣く",
+        "灰色",
+        "縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の人物が目を閉じ、両手を胸元で合わせている。頭の周囲に細かな線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "4902",
+      "name": {
+        "ja": "目を閉じて祈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "手を合わせる",
+        "灰色"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "595",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

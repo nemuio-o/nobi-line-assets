@@ -1,0 +1,1134 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが、頭のそばに音符を浮かべて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10855",
+      "name": {
+        "ja": "音符を添えて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "音符",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが目を閉じて笑い、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "10856",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが口を開け、音符や色とりどりの飾りに囲まれている。手には緑色の物を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10857",
+      "name": {
+        "ja": "音楽に合わせて歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "音符",
+        "歌う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが両手を上げ、画面上部に明確に「OKAY!」と表示されている。そばに緑色の物がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10858",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKAYと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "OKAY",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが「YES!」と大きく書かれた看板を掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "10859",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "YES",
+        "看板"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが「NO!」と大きく書かれた看板を掲げている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10860",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOと掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "NO",
+        "看板"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが電話のような物を手にし、看板に明確に「CALL ME」と表示されている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10861",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "CALL MEと呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "CALL ME",
+        "電話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが白い布に包まれ、赤い物を抱えている。周囲に星があり、上部に「GOOD NIGHT」と表示されている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10862",
+      "name": {
+        "ja": "GOOD NIGHTと眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "GOOD NIGHT",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが座り、青い飲み物の入ったカップを持っている。頭のそばに赤いハートがある。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "10863",
+      "name": {
+        "ja": "飲み物を手に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "飲み物",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターと黄色い鳥の二人が並び、青い飲み物を囲んでいる。周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10864",
+      "name": {
+        "ja": "二人で飲み物を囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "飲み物",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが、さまざまな食べ物や調理器具のような物を両側に並べて持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10865",
+      "name": {
+        "ja": "食べ物を並べて持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "食べ物",
+        "料理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが両手に食べ物のような物を持ち、頭のそばに赤いハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "10866",
+      "name": {
+        "ja": "食べ物を手に喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "食べ物",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが頭を下にした逆さの向きで描かれ、周囲に明確に「DANCE」と書かれた表示と小さな物がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10867",
+      "name": {
+        "ja": "逆さで踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "逆さ",
+        "DANCE"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが青い水のような場所に立ち、白い泡のような形に囲まれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10868",
+      "name": {
+        "ja": "泡に包まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "泡",
+        "水"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが、茶色い箱と赤いリボンの箱を両手に持っている。周囲に色とりどりの点がある。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "10869",
+      "name": {
+        "ja": "贈り物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "贈り物",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターのそばに、黒い球と白いボウリングピンが描かれている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10870",
+      "name": {
+        "ja": "ボウリングをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "ボウリング",
+        "ピン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが緑色のスケートボードに乗っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10871",
+      "name": {
+        "ja": "スケートボードに乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "スケートボード",
+        "滑る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが緑色の台に乗り、紫色の花のような物を持っている。周囲に動きの線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10872",
+      "name": {
+        "ja": "花を手に滑る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "花",
+        "滑る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが赤い帽子をかぶり、青い板のような物に乗っている。手には白黒の旗がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10873",
+      "name": {
+        "ja": "帽子で滑走する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "帽子",
+        "滑走"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが青いじょうろのような物を持ち、鉢植えの植物に水をかけている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "10874",
+      "name": {
+        "ja": "植物に水をやる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "水やり",
+        "植物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが黄色いフードのような物をかぶり、青い小物を手にして立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10875",
+      "name": {
+        "ja": "フードをかぶって歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "フード",
+        "バッグ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが白い布を頭に載せ、木製の桶風呂につかっている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "10876",
+      "name": {
+        "ja": "桶風呂につかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "桶",
+        "風呂"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが首をかしげ、左右に赤い疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "10877",
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "疑問符",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな茶色いキャラクターと小さな黄色い鳥が並んで立っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "10878",
+      "name": {
+        "ja": "二人で並んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "茶色いキャラクター",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが体を傾けて動き、頭のそばに音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10879",
+      "name": {
+        "ja": "音符と踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "音符",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが赤白の格子柄の旗のような物を振り、青い帽子のような物を身につけている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10880",
+      "name": {
+        "ja": "旗を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "旗",
+        "振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが灰色の殻のような形から顔を出し、そばに小さな吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "10881",
+      "name": {
+        "ja": "殻から話しかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "殻",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが体に白い包帯のような物を巻き、両側に青い動きの線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "10882",
+      "name": {
+        "ja": "包帯を巻いて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "包帯",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが机に伏せるような姿勢で、青い飲み物の入ったカップのそばにいる。頭の上に渦巻きがある。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "10883",
+      "name": {
+        "ja": "飲み物を前に疲れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "飲み物",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが前方へ走り、周囲に青い動きの線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10884",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "走る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが長い茶色の棒を持って立っている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "10885",
+      "name": {
+        "ja": "棒を持って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "棒",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが険しい表情で正面を向き、頭のそばに赤い花のような物がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "10886",
+      "name": {
+        "ja": "険しい顔をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "険しい表情",
+        "赤い花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが地面にうつぶせになり、周囲に縦の線が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "10887",
+      "name": {
+        "ja": "うつぶせになる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "うつぶせ",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが片手を上げ、速度線を伴って勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "10888",
+      "name": {
+        "ja": "全力で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "走る",
+        "速度線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが緑色の小さな物に乗るような姿勢で、青い動きの線を伴って進んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "10889",
+      "name": {
+        "ja": "小さな物に乗って進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "緑色の物",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが体を傾け、周囲に複数の渦巻きと動きの線が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "10890",
+      "name": {
+        "ja": "目を回す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "目を回す",
+        "渦巻き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが黒い帽子と青い眼鏡のような物を身につけ、正面を向いている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "10891",
+      "name": {
+        "ja": "帽子と眼鏡で決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "帽子",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが赤い炎のような形をまとい、前方へ走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "10892",
+      "name": {
+        "ja": "炎をまとって走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "炎",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが緑色の着ぐるみのような服を着て、周囲に震えを示す線がある。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "10893",
+      "name": {
+        "ja": "緑の着ぐるみで震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "緑色の着ぐるみ",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のキャラクターが赤い毛布にくるまり、白いマスクのような物をつけている。そばに紙やカップがある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "10894",
+      "name": {
+        "ja": "毛布にくるまって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "毛布",
+        "飲み物"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "789",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1112 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白い顔のクマが目を閉じて微笑み、胸元に赤いものを持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14559",
+      "name": {
+        "ja": "赤いものを胸元に持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のクマが赤と白のものを持ち、頭の横に疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14560",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが赤と白のものを持ち、口を開けて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14561",
+      "name": {
+        "ja": "赤いものを持って驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが驚いて跳ね上がり、周囲に動きの線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14562",
+      "name": {
+        "ja": "びっくりして跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "驚き",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが笑顔で座り、頭上に赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14563",
+      "name": {
+        "ja": "ハートを浮かべて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが口をへの字にして、両目から涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14564",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "涙",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが口を大きく開けて驚き、頭の横に動きの線がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14565",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "叫ぶ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけたオレンジ色のキャラクターが、横向きで振り返っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14566",
+      "name": {
+        "ja": "眼鏡をかけて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キャラクター",
+        "眼鏡",
+        "振り向く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが口を開け、正面を向いて立っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14567",
+      "name": {
+        "ja": "口を開けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "口を開ける",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが目を閉じ、頬を赤らめて微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "14568",
+      "name": {
+        "ja": "目を閉じて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "笑顔",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いクマが眼鏡をかけて立ち、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14569",
+      "name": {
+        "ja": "きらめきながら立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色いクマ",
+        "眼鏡",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが横向きに倒れ、疲れた様子で横になっている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "14570",
+      "name": {
+        "ja": "疲れて横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "横になる",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが両手を広げて跳ね、周囲にきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14571",
+      "name": {
+        "ja": "きらめいて跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "ジャンプ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが口を開け、体を震わせて立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "14572",
+      "name": {
+        "ja": "驚いて身震いする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "身震い",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが座り、頭の上に赤い湯気のような線が立ちのぼっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14573",
+      "name": {
+        "ja": "湯気を出して座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "座る",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが目を閉じてうつむき、周囲に涙を飛ばしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14574",
+      "name": {
+        "ja": "泣きながらうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "涙",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマがウインクし、片手を上げて手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14575",
+      "name": {
+        "ja": "ウインクして手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "ウインク",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが両手を前に出して拒否するように立ち、上に「NO」と表示されている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "14576",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOと手で示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "拒否",
+        "NO"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のクマがオレンジ色の小さなキャラクターを抱き、周囲に色とりどりの輪が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "14577",
+      "name": {
+        "ja": "小さな仲間を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "仲間",
+        "抱く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが汗をかき、困った表情で立っている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "14578",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "汗",
+        "困る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが小さな白い瓶を持ち、目を閉じて口を開けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14579",
+      "name": {
+        "ja": "瓶を持って目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "瓶",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが体を縮め、青い息のような線を出して寒そうに立っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "14580",
+      "name": {
+        "ja": "寒そうに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "寒い",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが片足を上げて跳び、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14581",
+      "name": {
+        "ja": "きらめいて跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "ジャンプ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが口を開けて歌い、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "14582",
+      "name": {
+        "ja": "音符と一緒に歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "音符",
+        "歌う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いクマが眼鏡をかけ、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14583",
+      "name": {
+        "ja": "眼鏡をかけて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色いクマ",
+        "眼鏡",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いクマが眼鏡を両手で前に差し出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14584",
+      "name": {
+        "ja": "眼鏡を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色いクマ",
+        "眼鏡",
+        "差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いクマが眼鏡をかけ、目を見開いて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14585",
+      "name": {
+        "ja": "眼鏡をかけて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色いクマ",
+        "眼鏡",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが壁のような仕切りの陰から顔を出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14586",
+      "name": {
+        "ja": "隠れて顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "隠れる",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマの頭上に電球が灯り、ひらめいた様子を示している。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "14587",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "電球",
+        "ひらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが座り、首をかしげた頭の上に小さな泡が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "14588",
+      "name": {
+        "ja": "座って首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "座る",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "コック帽をかぶった白い顔のクマが赤いフライパンを持ち、隣に小さなオレンジ色のキャラクターがいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "14589",
+      "name": {
+        "ja": "フライパンを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "料理",
+        "フライパン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが両手を広げ、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "14590",
+      "name": {
+        "ja": "手を広げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "両手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが頬を赤らめ、照れたように立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14591",
+      "name": {
+        "ja": "照れて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "赤面",
+        "照れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のクマが、涙を流している小さなオレンジ色のキャラクターのそばにいる。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14592",
+      "name": {
+        "ja": "涙ぐむ仲間に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "仲間",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のクマがピンク色の布団で眠り、そばに小さなオレンジ色のキャラクターがいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "14593",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "布団",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが壁の角に向かい、後ろ姿で立っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "14594",
+      "name": {
+        "ja": "壁に向かって立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "後ろ姿",
+        "壁"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔のクマとオレンジ色の仲間が、赤い「Happy Birthday」の札を掲げている。周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "14595",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "誕生日を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Happy Birthday",
+        "誕生日",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが横向きに走り、後ろに動きの線が描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "14596",
+      "name": {
+        "ja": "走って逃げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "走る",
+        "逃げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが口を開け、隣のオレンジ色のキャラクターも両手を上げている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "14597",
+      "name": {
+        "ja": "二人で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色いクマ",
+        "仲間",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが頬を赤らめ、口元に手を当てている。頭上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "14598",
+      "name": {
+        "ja": "ハートを浮かべて照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "ハート",
+        "赤面"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "934",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1170 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "両手を口元に添え、目を細めて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3872",
+      "name": {
+        "ja": "口元で手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "両手",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片足を上げ、片手を顔の横に添えながら弾むように立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3873",
+      "name": {
+        "ja": "軽やかな片足立ち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片足立ち",
+        "手",
+        "弾む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の帽子をかぶった白い姿が、体を横たえて空中を進んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "3874",
+      "name": {
+        "ja": "空中をすいすい"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "白い姿",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を閉じた顔で、両手の指を立ててピースサインをしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "3875",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手でピース"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピース",
+        "両手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両腕を高く上げ、口を開けて笑いながら勢いよく走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3876",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "元気に駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "両手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が舌を大きく出し、両腕を広げて走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3877",
+      "name": {
+        "ja": "舌を出して走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い姿",
+        "舌",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "縞模様の服の姿が、青い背景の中で両腕を広げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3878",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "腕を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "縞模様",
+        "両腕",
+        "青い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "床に座った姿が、壁に掛かった小さな絵を指差しながら口を開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "3879",
+      "name": {
+        "ja": "壁を見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "絵",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の丸い背景の中で、口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3880",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "大笑いの顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大笑い",
+        "オレンジ",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目元がピンクのハート模様になり、両手を上げて嬉しそうにしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "3881",
+      "name": {
+        "ja": "ハートの目"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "舌を出した姿が、大きな緑色のものを抱えて顔を隠している。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "3882",
+      "name": {
+        "ja": "緑のものに顔をうずめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑",
+        "抱える",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頬を手で隠すようにしながら、片足を上げて歩いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "3883",
+      "name": {
+        "ja": "照れながら歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "歩く",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "口元に人差し指を当て、静かにこちらを見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "3884",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "口元に指を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "静かに",
+        "指",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を口元から離し、周囲に浮かぶハートへキスを送っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "3885",
+      "name": {
+        "ja": "ハートを飛ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "キス",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の姿が、隣の白い姿を腕でぎゅっと抱いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "3886",
+      "name": {
+        "ja": "白い姿を抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "白い姿",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手の親指を立て、もう片方の手を腰に置いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "3887",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "親指で合図"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "合図",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を閉じ、胸の前で両手を合わせて静かに立っている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "3888",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "手を合わせて祈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を合わせる",
+        "目を閉じる",
+        "祈り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "険しい目つきで、片方の手のひらを前に向けている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "3889",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "手のひらを向ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "険しい顔",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子のつばを片手で押さえ、もう片方の手を下げて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "3890",
+      "name": {
+        "ja": "帽子のつばを押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "スーツ",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片足で立ちながら、顔の横で片手のピースサインを見せている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3891",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "片足ピース"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピース",
+        "片足立ち",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を胸元で握り、汗を浮かべたような表情で立っている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "3892",
+      "name": {
+        "ja": "胸元でおろおろ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "不安",
+        "両手",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "髪と衣服を後ろになびかせ、前へ向かって力強く走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "3893",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "風",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな白い姿が口を開け、緑色の背景の中心で両腕を広げている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "3894",
+      "name": {
+        "ja": "緑の中で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "緑の背景",
+        "白い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が横を向いて座り、頭上に疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "3895",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符と白い姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "座る",
+        "白い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなオレンジ色のものを前に抱え、目を見開いて身を縮めている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "3896",
+      "name": {
+        "ja": "オレンジに隠れて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ",
+        "驚き",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いギザギザの背景の中で、両手を顔に当てて大きく口を開けている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "3897",
+      "name": {
+        "ja": "青い背景で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "青い背景",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頬を両手で覆い、汗を浮かべながら膝を抱えている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "3898",
+      "name": {
+        "ja": "汗をかいてうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "うずくまる",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の姿が舌を出し、片手を上げて元気よく立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3899",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "舌を出して手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舌",
+        "手を上げる",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の姿が口元を大きく覆い、汗を飛ばしながら座っている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "3900",
+      "name": {
+        "ja": "口元を覆って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "汗",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い布で顔を覆った姿が、腕を前に伸ばして走っている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "3901",
+      "name": {
+        "ja": "顔を隠して走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "黄色",
+        "顔を隠す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を口元に添え、周囲にきらめきを散らしながらキスを送っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "3902",
+      "name": {
+        "ja": "きらめく投げキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キス",
+        "きらめき",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が片足を上げ、腕を広げて楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3903",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "白い姿のダンス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "白い姿",
+        "片足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の帽子をかぶり、両手のポンポンを振って片足を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3904",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "ポンポンで応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ポンポン",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "座った姿が白い湯気の立つ器を両手で抱え、口を近づけている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "3905",
+      "name": {
+        "ja": "湯気の立つ器を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯気",
+        "器",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "編み目の帽子をかぶり、黄色い太陽のような背景の前で笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "3906",
+      "name": {
+        "ja": "太陽の下で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "太陽",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手に一本ずつスプーンを持ち、口をすぼめて正面を見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "3907",
+      "name": {
+        "ja": "スプーンを両手に持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スプーン",
+        "両手",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手で白い袋を持ち、もう片方の手で赤い小物を扱っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "3908",
+      "name": {
+        "ja": "袋を持って身支度"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "袋",
+        "小物",
+        "準備"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机の上のノートパソコンに向かい、両手を置いて作業している。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "3909",
+      "name": {
+        "ja": "ノートパソコンに向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ノートパソコン",
+        "作業",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の手が飲み物の入ったジョッキを中央で合わせている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3910",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "飲み物で乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乾杯",
+        "飲み物",
+        "ジョッキ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな傘を両手で支え、雨粒の下で静かに立っている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "3911",
+      "name": {
+        "ja": "傘の下で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "雨",
+        "立ち姿"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "565",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

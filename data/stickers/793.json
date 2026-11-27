@@ -1,0 +1,1137 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "花柄の服を着た二人の人物が向かい合い、一人がもう一人へ花を差し出している。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10951",
+      "name": {
+        "ja": "花を手渡す二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "花",
+        "手渡す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いハートの中に白い英字で「LOVE」と書かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10952",
+      "name": {
+        "ja": "LOVEのハート"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いハート",
+        "LOVE",
+        "英字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が黄色い動物のようなキャラクターを抱き、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10953",
+      "name": {
+        "ja": "抱き合う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "黄色いキャラクター",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が額縁の中で寄り添い、抱き合っている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "10954",
+      "name": {
+        "ja": "額の中で寄り添う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "額縁",
+        "抱き合う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "縞模様の猫とうさぎが並んで横になり、顔を寄せている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "10955",
+      "name": {
+        "ja": "並んで横になる猫とうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "うさぎ",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなリボンをつけた人物と帽子をかぶった人物が並び、周囲に色とりどりのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10956",
+      "name": {
+        "ja": "ハートを囲んで並ぶ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "リボン",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が小さな傘を持ち、赤い服の人物と手を取り合って踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10957",
+      "name": {
+        "ja": "傘を持って踊る二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "傘",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りに囲まれた場所で、二人の人物が並んで座っている。上方に小物と花が見える。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10958",
+      "name": {
+        "ja": "花飾りの中で過ごす二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "花飾り",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が赤いハート型の札を抱え、札には英字で「Thank you」と書かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "10959",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "Thank youのハートを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤いハート",
+        "Thank you"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花に囲まれた二人の人物が顔を寄せ、キスをしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10960",
+      "name": {
+        "ja": "花に囲まれてキスする二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "花",
+        "キス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花やケーキで飾られた人物が、両手にハートの飾りを持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10961",
+      "name": {
+        "ja": "花とケーキを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "ケーキ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹の白いうさぎが並んで立ち、頬を寄せている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10962",
+      "name": {
+        "ja": "並んで立つうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "二匹",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が花柄の傘の下で寄り添い、顔を近づけている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "10963",
+      "name": {
+        "ja": "傘の下で寄り添う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "傘",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が雪だるまに抱きついている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "10964",
+      "name": {
+        "ja": "雪だるまを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪だるま",
+        "抱擁",
+        "冬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の女性が赤い椅子に腰かけ、隣に小さな時計のような物が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10965",
+      "name": {
+        "ja": "赤い椅子に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤い椅子",
+        "時計"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな赤いリボンをつけた猫が、胸元で前足を合わせて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10966",
+      "name": {
+        "ja": "大きなリボンの猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "リボン",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが片方の耳を前足で持ち、座っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10967",
+      "name": {
+        "ja": "耳を持つうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "耳",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花を頭に飾った人物が足を上げて踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10968",
+      "name": {
+        "ja": "音符とともに踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "音符",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が、白い浴槽のような器の中で片足を高く上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10969",
+      "name": {
+        "ja": "浴槽で足を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "浴槽",
+        "片足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの衣装を着た人物が、片足で立って両腕を広げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10970",
+      "name": {
+        "ja": "バレエのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バレエ",
+        "片足",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に伏せた姿勢で手を前に置き、上部に青い英字で「OK」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10971",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "英字",
+        "伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に手をついた姿勢で顔を上げ、上部に赤い英字で「NO!」と書かれている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "10972",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO!",
+        "英字",
+        "手をつく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が片手を上げて声を出すような表情をし、周囲に動きの線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "10973",
+      "name": {
+        "ja": "手を振って呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "手を上げる",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花柄の服を着た人物が、両手を胸元に置いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "10974",
+      "name": {
+        "ja": "花柄の服で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "花柄の服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の小さな人物が木のそばで泣き、目元から涙が流れている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "10975",
+      "name": {
+        "ja": "木のそばで泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "木",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二匹のうさぎがベッドに入り、一匹が横になって眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10976",
+      "name": {
+        "ja": "ベッドで眠るうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "ベッド",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎと茶色いくまが並んで立ち、顔を寄せている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "10977",
+      "name": {
+        "ja": "うさぎとくまが並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "くま",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "おさげ髪の人物が腕を組み、眉を寄せた不満そうな表情で立っている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "10978",
+      "name": {
+        "ja": "腕を組んで不満げに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "腕組み",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が、花で飾られた装飾的な額縁の中から顔を出している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "10979",
+      "name": {
+        "ja": "花飾りの額に入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "花飾り",
+        "額縁"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い毛のキャラクターが目を閉じ、頭に手を当てて汗をかいている。首元に赤いリボンがある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "10980",
+      "name": {
+        "ja": "汗をかいて目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "頭に手",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "縞模様の猫があごに前足を添えて考えるように立ち、そばにピンク色の疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "10981",
+      "name": {
+        "ja": "猫が首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "疑問符",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が横たわり、目を見開いている。周囲に花と黒い強調記号がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "10982",
+      "name": {
+        "ja": "花のそばで驚く猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "花",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが正面を向いて立ち、両腕を下ろしている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "10983",
+      "name": {
+        "ja": "うさぎが立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "正面",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りを頭に載せた人物が、花柄の器のような物を運び、黄色いキャラクターが隣で笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10984",
+      "name": {
+        "ja": "花飾りで運ぶ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "器",
+        "黄色いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが花に囲まれた赤いカップに入り、カップには英字で「For You」と書かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "10985",
+      "name": {
+        "ja": "For Youのカップ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤いカップ",
+        "花",
+        "For You"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白っぽい毛のキャラクターが体を丸め、目を閉じて横になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "10986",
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "丸まる",
+        "横になる",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花を飾った帽子をかぶる人物が、赤い自転車に乗って走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "10987",
+      "name": {
+        "ja": "花飾りで自転車に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "花飾り",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い髪の人物が両手で花束を抱え、笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "10988",
+      "name": {
+        "ja": "花束を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "笑顔",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が顔の両脇に手を広げ、口を開けた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "10989",
+      "name": {
+        "ja": "顔を囲んで手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "両手",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が目を閉じ、色とりどりの花に囲まれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "10990",
+      "name": {
+        "ja": "花に囲まれて目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "花",
+        "目を閉じる"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "793",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

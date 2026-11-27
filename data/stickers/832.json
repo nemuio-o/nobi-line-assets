@@ -1,0 +1,1151 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "ピンクのリボンをつけたハローキティが座り、上に「Take care」と書かれている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "11903",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "気づかうポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "座る",
+        "Take care"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンをつけたハローキティが、赤いリボンの小さな人形と並んで立っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "11904",
+      "name": {
+        "ja": "小さな人形と並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "人形",
+        "赤いリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが、ピンクの服を着た小さなぬいぐるみを抱えている。周囲に赤やピンクのハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11905",
+      "name": {
+        "ja": "ぬいぐるみを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "ぬいぐるみ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服のハローキティが立ち、そばにピンク色の電話機が置かれている。右上に色付きの丸い記号が浮かんでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11906",
+      "name": {
+        "ja": "電話のそばで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "電話",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の寝間着姿のハローキティが、うさぎのぬいぐるみを抱えている。横に「GOOD NIGHT」と書かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "11907",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "おやすみのあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "パジャマ",
+        "GOOD NIGHT"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のハローキティが、ピンクの矢印形の看板を指し示している。看板に「Check it out!」と書かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "11908",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "見てと指し示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "指差し",
+        "Check it out!"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のハローキティが手を振り、横に「Bye Bye」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "sadness"
+      ],
+      "id": "11909",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って別れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "手を振る",
+        "Bye Bye"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のハローキティが立ち、左右に赤と黄色の大きな疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "11910",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "疑問符",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のハローキティがカップのような物を持ち、横に「sorry...」と書かれた吹き出しがある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "11911",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "すまなそうに伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "青い服",
+        "sorry"
+      ]
+    },
+    {
+      "description": {
+        "ja": "チアリーダー風のハローキティが、黄色いポンポンを両手に持っている。周囲に色付きの紙片が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11912",
+      "name": {
+        "ja": "ポンポンを振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "ポンポン",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが、開いた窓から顔を出している。周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "11913",
+      "name": {
+        "ja": "窓から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "窓",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが目を閉じて口を開け、頭の横に大きな赤い感嘆符がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "11914",
+      "name": {
+        "ja": "驚いて声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "赤いリボン",
+        "びっくり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ハローキティが二体の小さなクマのぬいぐるみと並び、中央に「LOVE」と書かれている。周囲にハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11915",
+      "name": {
+        "ja": "LOVEを囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "テディベア",
+        "LOVE"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのリボンのハローキティが座り、周囲に青や黄色、ピンクのきらめきが広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11916",
+      "name": {
+        "ja": "きらめきの中で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "きらめき",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティがクマのぬいぐるみを抱え、青・黄色・ピンクの風船を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11917",
+      "name": {
+        "ja": "風船とぬいぐるみを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "風船",
+        "ぬいぐるみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのリボンのハローキティが座り、胸の前で手を合わせている。周囲に淡いハートと色付きの小さな飾りがある。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "11918",
+      "name": {
+        "ja": "手を合わせて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "座る",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服のハローキティが片手を頭に当て、目を回したような表情をしている。周囲に円形の線がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "11919",
+      "name": {
+        "ja": "目を回してふらつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "目を回す",
+        "ふらつき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティがピンク色のカメラを顔の前に構え、横に動きを示す線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11920",
+      "name": {
+        "ja": "カメラで撮る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "カメラ",
+        "撮影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ハローキティの顔を囲む丸いデザインに、「GOOD JOB!」と「HELLO KITTY」の文字が見える。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "11921",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "GOOD JOBを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "GOOD JOB",
+        "HELLO KITTY"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのリボンのハローキティが目を閉じて微笑み、周囲に青や黄色、ピンクのきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11922",
+      "name": {
+        "ja": "きらめきの中で微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服のハローキティが両手を胸元で握り、目を閉じている。背後に縦の線が並んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "11923",
+      "name": {
+        "ja": "寒そうに震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "震える",
+        "寒そう"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ハローキティがテーブルの前に座り、皿やカップ、料理のような物が並んでいる。背後に緑の飾りがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11924",
+      "name": {
+        "ja": "料理を囲んで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "料理",
+        "食卓"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが黄色いギターを抱えて弾いている。横にピンクの動きの線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11925",
+      "name": {
+        "ja": "ギターを弾く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "ギター",
+        "演奏"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ハローキティが洗濯かごを持って立ち、上には青や黄色の衣類が干されている。衣類から水滴が落ちている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11926",
+      "name": {
+        "ja": "洗濯物を干す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "洗濯物",
+        "かご"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが片足を上げて走り、周囲に色とりどりのきらめきがある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11927",
+      "name": {
+        "ja": "きらめきの中で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "走る",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服のハローキティが黄色いラッパを吹いている。音を示す線と汗のような水滴が周囲にある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11928",
+      "name": {
+        "ja": "ラッパを吹く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "ラッパ",
+        "音"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服と帽子のハローキティが、ティーカップを載せたトレーを持っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "11929",
+      "name": {
+        "ja": "お茶を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "紅茶",
+        "ティーカップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのリボンのハローキティが片手を上げ、指で合図をしている。横に赤い強調線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11930",
+      "name": {
+        "ja": "指で合図する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "指の合図",
+        "赤いリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが片手を高く掲げ、指で合図をしている。周囲に青と黄色の光がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11931",
+      "name": {
+        "ja": "手を掲げて合図する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "手を上げる",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのリボンのハローキティが黄色いカップを両手で持っている。後ろに大きなピンクのリボン状の形がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11932",
+      "name": {
+        "ja": "カップを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "カップ",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服のハローキティが黄色い虫眼鏡を掲げ、虫眼鏡の周囲に強調線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "11933",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "虫眼鏡を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "虫眼鏡",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが、渦巻き状の線と速度線を伴って勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "11934",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "走る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが、カップの載った小さなトレーのような物を持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11935",
+      "name": {
+        "ja": "カップを運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "カップ",
+        "トレー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが、ろうそくの立ったケーキを両手で持っている。周囲に色付きの星がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11936",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ケーキを差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "ケーキ",
+        "お祝い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "画面上部に大きく「HELLO」と書かれ、その下にハローキティが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11937",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "HELLOとあいさつする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "HELLO",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの雲のような形の上でハローキティが横になり、周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "11938",
+      "name": {
+        "ja": "ハートの中で横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "横になる",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服のハローキティが目を閉じ、胸の前で手を合わせている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "11939",
+      "name": {
+        "ja": "手を合わせて祈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "手を合わせる",
+        "ピンクの服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服のハローキティがピンクの傘を差して立っている。周囲に水滴と水たまりがある。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "11940",
+      "name": {
+        "ja": "傘を差して立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "傘",
+        "水たまり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いリボンのハローキティが開いた本の前に座り、頭上に「Z」の記号がある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "11941",
+      "name": {
+        "ja": "本を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "本",
+        "読書"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクのリボンのハローキティが胸元で手を合わせ、周囲に大きなピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11942",
+      "name": {
+        "ja": "ハートを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハローキティ",
+        "ハート",
+        "抱える"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "832",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1103 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "筋肉質な人物が、片拳を高く突き上げて前へ進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15319",
+      "name": {
+        "ja": "拳を突き上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "力強い",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服と白い靴の人物が前かがみになり、息を切らしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "15320",
+      "name": {
+        "ja": "息を切らす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "息切れ",
+        "黒い人物",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い人物と白い人物が寄り添い、抱き合っている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15321",
+      "name": {
+        "ja": "二人で抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱擁",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "角のある兜をかぶった騎士が、剣を立てて構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15322",
+      "name": {
+        "ja": "剣を構える騎士"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "騎士",
+        "剣",
+        "戦闘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と青のロボットが両腕を上げ、前へ進むようなポーズを取っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15323",
+      "name": {
+        "ja": "ロボットが進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "歩く",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帯を巻いた人物が頭を両手で抱え、大声で叫んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15324",
+      "name": {
+        "ja": "頭を抱えて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "頭",
+        "赤い光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が片手を上げ、もう片方の手に小さな物を持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15325",
+      "name": {
+        "ja": "手を上げて呼ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を上げる",
+        "白い服",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が水玉模様の布団に横たわり、両手を前に出して休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "15326",
+      "name": {
+        "ja": "布団で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "角のある頭飾りをつけた人物が、歯を食いしばって険しい顔をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15327",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "歯",
+        "角"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い背景の中で、鎧を着た人物が黄色い布のようなものを胸元に掲げている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15328",
+      "name": {
+        "ja": "黄色い布を持つ騎士"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "騎士",
+        "黄色",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い扉のような形の前に、二つの黄色い目が見えている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "15329",
+      "name": {
+        "ja": "青い扉の前で嘆く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青",
+        "扉",
+        "嘆き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が背を向け、顔だけをこちらへ向けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15330",
+      "name": {
+        "ja": "振り返る赤い服の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "後ろ姿",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が腰に手を当て、足を開いて立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15331",
+      "name": {
+        "ja": "腰に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "腰",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が青い模様の毛布にくるまり、横になって眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "15332",
+      "name": {
+        "ja": "青い毛布で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "毛布",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が片手を上げ、もう片方の手を腰に当てて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15333",
+      "name": {
+        "ja": "OKポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "笑顔",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "角のある人物が険しい顔で腕を広げ、拒むようなポーズをしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15334",
+      "name": {
+        "ja": "NOポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "角",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服と赤い服の二人が並び、驚いたように身をすくめている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "15335",
+      "name": {
+        "ja": "二人で身をすくめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "身をすくめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の装甲のような姿の人物が、両手を広げて叫んでいる。"
+      },
+      "emotion": [
+        "fear",
+        "anger"
+      ],
+      "id": "15336",
+      "name": {
+        "ja": "灰色の人物が叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色",
+        "叫び",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装備の人物が両腕を広げ、周囲に赤い円を伴って立っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15337",
+      "name": {
+        "ja": "青い戦士が構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い戦士",
+        "構える",
+        "赤い円"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い角ばった顔の人物が、正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15338",
+      "name": {
+        "ja": "黄色い顔を見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "顔",
+        "赤い印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "水しぶきの中から、緑色の怪物のような生き物が現れている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15339",
+      "name": {
+        "ja": "水から怪物が現れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怪物",
+        "水",
+        "笑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が背を向けて立ち、顔だけを横に向けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15340",
+      "name": {
+        "ja": "背を向けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "白い服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を胸元に置いて笑い、周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15341",
+      "name": {
+        "ja": "ハートに囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い人物が片手を顔の横に上げ、手を振るような仕草をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15342",
+      "name": {
+        "ja": "手を振る黒い人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "黒い人物",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が、岩に囲まれた湯の中に並んで入っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15343",
+      "name": {
+        "ja": "湯に並んで入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "温泉",
+        "三人",
+        "湯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、腕をつかんで力比べをしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15344",
+      "name": {
+        "ja": "腕相撲をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕相撲",
+        "二人",
+        "力比べ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が、色とりどりの腕や拳を前に突き出している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15345",
+      "name": {
+        "ja": "拳を並べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "複数人",
+        "団結"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い鎧のような人物が、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15346",
+      "name": {
+        "ja": "喝を入れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喝",
+        "叫び",
+        "鎧"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の小さな人物が空中で向かい合い、激しくぶつかっているように見える。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "15347",
+      "name": {
+        "ja": "空中でぶつかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "空中",
+        "二人",
+        "衝突"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の人物が片手を大きく前へ突き出し、身構えている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15348",
+      "name": {
+        "ja": "手を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手",
+        "構える",
+        "灰色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "銀色の鎧を着た騎士が、両手を前に置いてひざまずいている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15349",
+      "name": {
+        "ja": "騎士がひざまずく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "騎士",
+        "ひざまずく",
+        "鎧"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が、下にいる複数の人物の頭上を飛んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15350",
+      "name": {
+        "ja": "人の上を飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ぶ",
+        "群衆",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い人物が床に仰向けに倒れ、両手を上げている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "15351",
+      "name": {
+        "ja": "床に倒れて助けを求める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "助け",
+        "仰向け"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片腕を振り上げ、もう片方の腕を前に出して力強く叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "15352",
+      "name": {
+        "ja": "腕を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕",
+        "叫び",
+        "赤い光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い人物と青い人物が並び、両方とも片手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15353",
+      "name": {
+        "ja": "二人で手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手を上げる",
+        "カラフル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が、両手で大きな白い円形の物を押している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15354",
+      "name": {
+        "ja": "大きな物を押す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "押す",
+        "赤い服",
+        "力"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた人物が、目を大きく見開いて振り返っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15355",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "眼鏡",
+        "振り返る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "筋肉質な人物が片拳を高く掲げ、口を開けて驚いたような表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15356",
+      "name": {
+        "ja": "拳を掲げて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "驚き",
+        "筋肉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "冠をかぶった人物が両腕を広げ、紙吹雪の中で笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15357",
+      "name": {
+        "ja": "祝福されて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祝福",
+        "笑顔",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の帽子をかぶった人物が、片手を上げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15358",
+      "name": {
+        "ja": "手を振る緑の帽子の人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の帽子",
+        "手を振る",
+        "笑顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "969",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1128 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黄色い丸い姿が横向きになり、頬をふくらませて前へ進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "5831",
+      "name": {
+        "ja": "横向きに急ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "横向き",
+        "進む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が両腕を上げ、眉を寄せて怒った表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5832",
+      "name": {
+        "ja": "怒って腕を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "両腕",
+        "眉を寄せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が花のそばで黄色いカップを持ち、目を閉じている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5833",
+      "name": {
+        "ja": "飲み物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カップ",
+        "花",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が目を閉じて唇をすぼめ、周囲に唇とハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5834",
+      "name": {
+        "ja": "投げキスとハート"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "投げキス",
+        "ハート",
+        "唇"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が頬を赤らめ、片方の目を閉じて照れた表情をしている。"
+      },
+      "emotion": [
+        "love",
+        "surprise"
+      ],
+      "id": "5835",
+      "name": {
+        "ja": "頬を赤らめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤ら顔",
+        "片目",
+        "照れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が正面を向き、頭上に青い疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "5836",
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "正面",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が目を閉じ、両目から涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "5837",
+      "name": {
+        "ja": "涙を流す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "目を閉じる",
+        "悲しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が頬を赤らめ、周囲を色とりどりのきらめきに囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5838",
+      "name": {
+        "ja": "きらめきに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "赤ら顔",
+        "色とりどり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿がマフラーを巻き、片目を閉じて舌を出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5839",
+      "name": {
+        "ja": "マフラーでウインク"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マフラー",
+        "ウインク",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が横向きになり、目元を覆う帽子の下でうつむいている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "5840",
+      "name": {
+        "ja": "帽子で身を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "横向き",
+        "うつむき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "濃い緑の姿が目を見開き、口を大きく開けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "5841",
+      "name": {
+        "ja": "驚いて口を開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "目を見開く",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が目を閉じて横になり、口元から泡を出している。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "5842",
+      "name": {
+        "ja": "泡を吹いて眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠り",
+        "泡",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が花を口元にくわえ、きらめきの中でポーズを決めている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5843",
+      "name": {
+        "ja": "花を持って決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い姿",
+        "花",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が横向きに寝そべり、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5844",
+      "name": {
+        "ja": "横になって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "横になる",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が紫色の飾りを両側につけ、青い縦線の中で困った顔をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "5845",
+      "name": {
+        "ja": "紫の飾りで困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の飾り",
+        "縦線",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い姿が拳を握り、眉を寄せて怒った表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5846",
+      "name": {
+        "ja": "怒って拳を握る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "拳",
+        "眉を寄せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿の頭上に、電球の絵が入った吹き出しが浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "5847",
+      "name": {
+        "ja": "電球を思いつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電球",
+        "吹き出し",
+        "思いつき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が赤い料理を両手で抱え、口を開けて食べている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5848",
+      "name": {
+        "ja": "料理を頬張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "料理",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い姿が緑の姿の上に腰掛け、緑の姿が目を閉じている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "5849",
+      "name": {
+        "ja": "白い姿を乗せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い姿",
+        "腰掛け",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が片手で「OK」と書かれた札を掲げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5850",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "OK札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "札",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が涙を流しながら、片手で「NG」と書かれた札を掲げている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "5851",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "NG札を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NG",
+        "札",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が白い服と帽子を身につけ、フライパンで料理を作っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5852",
+      "name": {
+        "ja": "料理を作る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "フライパン",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が眉を寄せ、頭上に湯気のような白い雲と背後の炎を出している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "5853",
+      "name": {
+        "ja": "炎を背負って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "怒り",
+        "眉を寄せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が泡の浮いた浴槽に入り、頭にタオルを巻いている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "5854",
+      "name": {
+        "ja": "泡風呂に入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泡風呂",
+        "浴槽",
+        "タオル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い姿が音符とリボンに囲まれ、青と白の買い物袋を両手に持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5855",
+      "name": {
+        "ja": "買い物袋を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物袋",
+        "音符",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿と白い小さな姿が寄り添い、緑の姿が頬を寄せている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "5856",
+      "name": {
+        "ja": "寄り添ってキスする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寄り添い",
+        "二つの姿",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が灰色の柱の後ろから顔を出し、片方の目を見せている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "5857",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "物陰",
+        "のぞく",
+        "柱"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が机の前に座り、舌を出している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5858",
+      "name": {
+        "ja": "机で舌を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "座る",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が金属製の蒸し器の中に入り、上からふたを載せている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "5859",
+      "name": {
+        "ja": "蒸し器に入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "蒸し器",
+        "ふた",
+        "中に入る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が赤い巻き寿司を抱え、頭に赤い帽子をかぶっている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "5860",
+      "name": {
+        "ja": "巻き寿司を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "巻き寿司",
+        "赤い帽子",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色と緑の二つの姿が泡の立つビールジョッキを掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5861",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ビールで乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ビール",
+        "ジョッキ",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "四つの色違いの姿が枠の中で寄り添い、中央の姿が目を閉じている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "5862",
+      "name": {
+        "ja": "四人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四人",
+        "寄り添い",
+        "枠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が三角帽子をかぶり、プレゼントと花火の紙吹雪に囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "5863",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "誕生日を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三角帽子",
+        "プレゼント",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が物干しひもに吊られ、青い水滴を落としている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "5864",
+      "name": {
+        "ja": "雨に濡れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水滴",
+        "吊られる",
+        "雨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が多数の紙に囲まれ、目を回したような渦模様を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "5865",
+      "name": {
+        "ja": "紙に埋もれて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙",
+        "目を回す",
+        "囲まれる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が小さな姿を抱え、青い水玉模様の傘の下にいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "5866",
+      "name": {
+        "ja": "傘の下で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "傘",
+        "抱える",
+        "水玉模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が両手で頭を抱え、頭上に黄色い衝撃線を出している。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "5867",
+      "name": {
+        "ja": "頭を抱えてうなる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭を抱える",
+        "衝撃線",
+        "うなる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が青い水玉模様の毛布に包まり、頭に冷却用の布を乗せている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "5868",
+      "name": {
+        "ja": "毛布にくるまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "毛布",
+        "水玉模様",
+        "冷却用の布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の姿が目を見開き、体を反らせて後ろを振り向いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "5869",
+      "name": {
+        "ja": "驚いて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り向く",
+        "体を反らす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い緑の姿が涙を流す黄色い小さな姿を胸元に抱えている。"
+      },
+      "emotion": [
+        "love",
+        "sadness"
+      ],
+      "id": "5870",
+      "name": {
+        "ja": "黄色い姿を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "涙",
+        "黄色い小さな姿"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "618",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

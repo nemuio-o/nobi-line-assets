@@ -1,0 +1,1147 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が片手を顔の横に上げ、歯を見せて笑っている。周囲に黄色い輝きが描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18471",
+      "name": {
+        "ja": "手を上げて輝く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を上げる",
+        "笑顔",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が目を閉じて笑い、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18472",
+      "name": {
+        "ja": "ハートに囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い色の服を着た人物が指を顎に当て、考え込むように横を向いている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "18473",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "顎",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が目を細め、歯を見せて力強く笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18474",
+      "name": {
+        "ja": "歯を見せて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "歯",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が両手を上げ、指を立てながら笑顔で呼びかけている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18475",
+      "name": {
+        "ja": "両手を上げて呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "呼びかけ",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が頬に手を当て、穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "18476",
+      "name": {
+        "ja": "頬杖をついて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬杖",
+        "微笑み",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開いて驚き、頭の横にオレンジ色の疑問符が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "18477",
+      "name": {
+        "ja": "疑問符を浮かべて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "疑問符",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と白の装備を身につけた人物が片手を上げ、画像上部に「Hello!」と描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18478",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "Helloと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "挨拶",
+        "手を振る",
+        "Hello"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が口を大きく開けて叫び、頭の周囲に白い汗のような描写がある。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "18479",
+      "name": {
+        "ja": "汗をかいて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "汗",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、口を開けて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18480",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "目を閉じる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を見開き、口を開けて驚いている。頭の横にオレンジ色のびっくりマークがある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "18481",
+      "name": {
+        "ja": "びっくりして叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "叫び",
+        "びっくりマーク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が片手を顔の横に上げ、指先の周囲に黄色い輝きが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18482",
+      "name": {
+        "ja": "手を上げて輝く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を上げる",
+        "輝き",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が頬に手を当て、額や頭の周囲に青い汗を浮かべている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "18483",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困惑",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物と長い髪の人物が並んで立ち、前を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18484",
+      "name": {
+        "ja": "二人で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "並ぶ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と黒のロボットが前方へ突進するような姿勢で描かれ、背後に黄色い放射線が広がっている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18485",
+      "name": {
+        "ja": "ロボットが突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "突進",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "装備を身につけた人物が両手を広げ、画像上部に「Come on!」と描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18486",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "こちらへ誘う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "誘う",
+        "手招き",
+        "Come on"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黒の装備を身につけた人物が、斜め方向へ勢いよく動くように描かれている。そばに黄色い衝撃表現がある。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "18487",
+      "name": {
+        "ja": "勢いよく斬りかかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "攻撃",
+        "斬撃",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と白のロボットが前へ飛び出すように描かれ、背景に青い放射線が広がっている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18488",
+      "name": {
+        "ja": "ロボットが飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "飛び出す",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が両手を口元に当てて驚いている。頭上に「Shock...」と描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18489",
+      "name": {
+        "ja": "驚いて口元を押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "口元",
+        "Shock"
+      ]
+    },
+    {
+      "description": {
+        "ja": "装備を身につけた人物が親指を立て、画像上部に「OK」と描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18490",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "親指",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短い髪の人物がうつむき気味に手を合わせ、画像上部に「Sorry...」と描かれている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18491",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "申し訳なさそうに謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "謝罪",
+        "うつむく",
+        "Sorry"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カラフルな衣装の人物が両腕を上げて踊り、周囲に赤や黄色の音符とハートが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18492",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "音符",
+        "カラフル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "濃い肌色の人物が片手を上げて手を振り、もう片方の手を胸元に置いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18493",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振って挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "挨拶",
+        "手を振る",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い装備を身につけた人物が立ち、全身の周囲に赤と黄色の炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "18494",
+      "name": {
+        "ja": "炎をまとって立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "装備",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が座ってうつむき、背後に別の人物が立っている。座った人物の周囲には縦の線が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "18495",
+      "name": {
+        "ja": "疲れた様子で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲れ",
+        "座る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が片手を前に出して指を鳴らすようなポーズを取り、手の周囲に黄色い輝きが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18496",
+      "name": {
+        "ja": "指を鳴らして輝く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "輝き",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "装備を身につけた人物が両手を上げ、画像上部に「Thank You」と描かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "18497",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "両手",
+        "Thank You"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が穏やかに微笑み、周囲にピンクと赤のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18498",
+      "name": {
+        "ja": "ハートに囲まれて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "微笑み",
+        "長髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "装備を身につけた人物が、両手で大きな剣を前に構えている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18499",
+      "name": {
+        "ja": "大きな剣を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "剣",
+        "構える",
+        "装備"
+      ]
+    },
+    {
+      "description": {
+        "ja": "装備を身につけた人物が両腕を広げて立ち、周囲に紙吹雪のような色とりどりの飾りが舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18500",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "装備姿で祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祝う",
+        "装備",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "上半身の人物が片腕を曲げて力こぶを見せ、もう片方の手を腰に当てている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18501",
+      "name": {
+        "ja": "力こぶを見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "力こぶ",
+        "筋肉",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の装備を身につけた人物が両腕を広げ、前へ飛び出すような姿勢で描かれている。背景に赤い放射線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18502",
+      "name": {
+        "ja": "両腕を広げて飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "飛び出す",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が肩越しに振り返り、目を見開いて驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18503",
+      "name": {
+        "ja": "驚いて振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り返る",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いフードの人物が暗い背景の中で身構え、片手を前に出している。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18504",
+      "name": {
+        "ja": "影の中で身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "影",
+        "身構える",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い形の正面に二つの青い光が強く輝き、周囲にも青い光が広がっている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "18505",
+      "name": {
+        "ja": "青い光を放つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い光",
+        "発光",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が口を開けて拒むような表情をし、頭上に「NO!」と描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18506",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "はっきり断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "女性",
+        "No"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手でピースサインを出して楽しそうに笑い、周囲に緑と黄色の音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18507",
+      "name": {
+        "ja": "音楽に合わせて楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "ピースサイン",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた人物が片手の親指を立て、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18508",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "親指を立てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と白の装備を身につけた人物が片手を上げ、画像上部に「SEE YOU!」と描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18509",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "See Youと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "別れ",
+        "手を振る",
+        "See You"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と黒の装備を身につけた人物が片手を上げ、画像上部に「BYE!」と描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18510",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "Byeと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "別れ",
+        "手を振る",
+        "Bye"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1090",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

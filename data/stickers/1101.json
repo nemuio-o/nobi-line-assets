@@ -1,0 +1,1097 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "ピンク色の髪の人物が、白い小動物を膝の前に置いて座り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18663",
+      "name": {
+        "ja": "音符と一緒に座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク髪の人物",
+        "白い小動物",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物とピンク色の髪の人物が、頬を寄せて並んでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18664",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の髪の人物が片手を上げて手を振り、周囲に動きを示す文字が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18665",
+      "name": {
+        "ja": "手を振って別れを告げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "別れ",
+        "ピンク髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の髪の人物が横向きに歩きながら振り返り、後ろに小さな雲のような表現がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18666",
+      "name": {
+        "ja": "振り返って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "振り返る",
+        "ピンク髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の髪の人物が目を閉じて口を大きく開け、頭上に青い汗のしずくが浮かんでいる。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18667",
+      "name": {
+        "ja": "驚いて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "汗",
+        "ピンク髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の髪の人物が目を閉じて笑い、周囲をハートで囲まれている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18668",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "ピンク髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の髪の人物が正面を向き、両手を広げて明るい表情をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18669",
+      "name": {
+        "ja": "正面で手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "正面",
+        "ピンク髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の髪の人物が座って前を見つめ、周囲に星形の飾りが描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18670",
+      "name": {
+        "ja": "秘密を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "秘密",
+        "座る",
+        "ピンク髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のような小動物が目を閉じて座り、周囲にきらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18671",
+      "name": {
+        "ja": "光の中で微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "光",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のような小動物が二匹並んで座り、左右に縦書きの文字が描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18672",
+      "name": {
+        "ja": "二匹で並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "二匹",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の猫のような生き物が、暗い色の背景の中で体を低くしてうずくまっている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18673",
+      "name": {
+        "ja": "暗い場所でうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "灰色の猫",
+        "うずくまる",
+        "暗い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のような小動物が体を丸め、目を閉じて眠っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18674",
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "丸まる",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のような小動物が二匹重なり、体を震わせるような線が周囲に描かれている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18675",
+      "name": {
+        "ja": "二匹で震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "二匹",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のような小動物が大きな淡い色の箱を頭上に掲げ、そばに疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18676",
+      "name": {
+        "ja": "箱を持って困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "箱",
+        "疑問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のような小動物が四角い枠の端から顔を出し、縦書きの文字が添えられている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18677",
+      "name": {
+        "ja": "隅から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い小動物",
+        "顔を出す",
+        "枠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物が四角い枠の端から顔を出し、落ち着かない表情をしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18678",
+      "name": {
+        "ja": "物陰から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪の人物",
+        "顔を出す",
+        "枠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物が胸元に手を当て、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18679",
+      "name": {
+        "ja": "胸に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪の人物",
+        "胸に手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物が両手を広げ、目を細めて慌てたような表情をしている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18680",
+      "name": {
+        "ja": "慌てて手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪の人物",
+        "三つ編み",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物が、大きな爆弾のような物のそばで目を閉じ、爆発のような演出に巻き込まれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18681",
+      "name": {
+        "ja": "爆発に巻き込まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪の人物",
+        "爆発",
+        "爆弾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物の背後で大きな爆発のような演出が起こり、本人が驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18682",
+      "name": {
+        "ja": "爆発に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪の人物",
+        "爆発",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物が横向きに走り、額の近くに汗と揺れを示す線が描かれている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18683",
+      "name": {
+        "ja": "汗をかいて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪の人物",
+        "走る",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物の顔が四角い枠の中に描かれ、無言で前を見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18684",
+      "name": {
+        "ja": "無言で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪の人物",
+        "顔",
+        "枠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が座って食べ物のような物を手に持ち、穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18685",
+      "name": {
+        "ja": "食べ物を持って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪の人物",
+        "食べ物",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が片目を閉じ、手元からハートを飛ばすような仕草をしている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18686",
+      "name": {
+        "ja": "ウインクして投げキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪の人物",
+        "ウインク",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が口を開けて怒った表情をし、頭上に赤い怒りの印が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18687",
+      "name": {
+        "ja": "怒って声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪の人物",
+        "怒り",
+        "声"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が目を閉じて大きく笑い、周囲を明るい花の飾りで囲まれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18688",
+      "name": {
+        "ja": "花に囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪の人物",
+        "花",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が目を見開いて困った表情をし、体の周囲に震えを示す線が描かれている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18689",
+      "name": {
+        "ja": "震えながら困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪の人物",
+        "震え",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が目を閉じ、片手を口元に添えるようにして考え込んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18690",
+      "name": {
+        "ja": "目を閉じて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪の人物",
+        "目を閉じる",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の髪の人物が親指を立て、上向きの矢印とともに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18691",
+      "name": {
+        "ja": "グッドサインで励ます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤髪の人物",
+        "親指",
+        "励ます"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の髪の人物が腕を組み、厳しい表情で拒むように立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18692",
+      "name": {
+        "ja": "バッドサインを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤髪の人物",
+        "拒否",
+        "腕組み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の髪の人物が両手に食べ物を持って頬張り、目を閉じて嬉しそうにしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18693",
+      "name": {
+        "ja": "食べ物を頬張って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤髪の人物",
+        "食事",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の髪の人物が両手を握って構え、周囲に勢いを示す線が描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18694",
+      "name": {
+        "ja": "気合を入れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤髪の人物",
+        "気合",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の髪の人物が目を細め、口元から白い息のような表現を出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18695",
+      "name": {
+        "ja": "息を吐いて落ち着く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤髪の人物",
+        "ため息",
+        "落ち着く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤茶色の髪の人物が眉を寄せてにらみ、両手を握りしめている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18696",
+      "name": {
+        "ja": "怒ってにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤髪の人物",
+        "怒り",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が片手で指のサインを作り、明るい表情で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18697",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "OKを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪の人物",
+        "OK",
+        "指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が片手を上げて断るように示し、額に汗のしずくが浮かんでいる。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "18698",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "断って汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪の人物",
+        "拒否",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が目を閉じて楽しそうに踊り、周囲に色とりどりの音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18699",
+      "name": {
+        "ja": "音符と踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪の人物",
+        "音符",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が正面を向き、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18700",
+      "name": {
+        "ja": "正面で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪の人物",
+        "正面",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が両腕を広げて叫び、目の周りに星形の輝きが描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18701",
+      "name": {
+        "ja": "勢いよく叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪の人物",
+        "叫ぶ",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が床に伏せ、体の周囲に青い揺れのような線が描かれている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18702",
+      "name": {
+        "ja": "伏せて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青髪の人物",
+        "伏せる",
+        "落ち込む"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1101",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1229 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白いウサギが胸の前で両手を広げ、赤いハートと小さな星に囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22082",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "胸いっぱいの愛"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "両手",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが片手の指を立て、頬を赤らめて笑いながら上を指している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22083",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "指先で呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "呼びかけ",
+        "指",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが赤い布を左右に広げ、胸元のハート柄を誇らしげに見せている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22084",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "胸元から愛を披露"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い布",
+        "ハート",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが両手で小さなハートを包み、口を開けて明るく笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22085",
+      "name": {
+        "ja": "両手でハートを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "両手",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが両手を口元に添え、頬を赤く染めて照れたように立っている。"
+      },
+      "emotion": [
+        "love",
+        "surprise"
+      ],
+      "id": "22086",
+      "name": {
+        "ja": "照れて手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "頬",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の白いウサギが寄り添い、片方が赤いハートを掲げて仲の良さを示している。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22087",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "仲良く寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハート",
+        "親密"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが両手を胸元で合わせ、目を細めて笑いながら赤いハートに囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "22088",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "喜び",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが大きな赤いハートを両手で前へ差し出し、相手に贈ろうとしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22089",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "大きなハートを贈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "贈り物",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが後ろから相手を抱き、背中に赤い文字とハートの装飾が見えている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "22090",
+      "name": {
+        "ja": "背中で愛を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "抱擁",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが赤いバラをくわえ、両手で黄色い背景の枠をつかんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22091",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "花を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "ハート",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが両手を口元に当てて叫び、周囲を赤いハートと大きな赤文字が囲んでいる。"
+      },
+      "emotion": [
+        "love",
+        "excitement"
+      ],
+      "id": "22092",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "愛を大きく叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "愛情",
+        "ハート",
+        "大声"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが青い箱を抱えて歩き、頭上に小さな赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22093",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "小さな一歩で愛を届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "歩く",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギと茶色いクマが並び、胸元を寄せて赤いハートを囲んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22094",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "二人で気持ちを寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハート",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが夜空を見上げ、黄色い月と小さな星の下で手を合わせている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "22095",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "夜空に願いを込める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜空",
+        "願い",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが両手の親指を立て、目を閉じて大きく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22096",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "両手で太鼓判"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "肯定",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが座り込み、青い涙を流してうつむいている。頭上には渦巻きが見える。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "22097",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "涙をこぼして座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "落ち込み",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが茶色いクマを抱きしめ、涙を流しながら立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "22098",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "クマを抱えて泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "ぬいぐるみ",
+        "抱擁"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが壁際でうつむき、白いウサギがそばで涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "22099",
+      "name": {
+        "ja": "壁際でしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "壁",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが涙を流しながら前へ走り、赤と黄色の大きな衝撃形が背後に描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "22100",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "涙をこらえて駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "走る",
+        "感情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いウサギが横たわり、そばに大きな赤い割れたハートが置かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "22101",
+      "name": {
+        "ja": "割れたハートに沈む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "失恋",
+        "ハート",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いウサギが寄り添い、ウサギの横に赤いハートと筆記体風の装飾がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22102",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "肩を寄せて愛を描く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "ウサギ",
+        "愛情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いウサギが体を寄せ、周囲に小さな赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22103",
+      "name": {
+        "ja": "照れながら寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "照れ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマがハート形のサングラスをかけ、ハートの飾りが付いた飲み物を飲んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22104",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "甘いひととき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "飲み物",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが花を耳元に飾り、蝶ネクタイ付きの服で胸を張って立っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "22105",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "花を飾って正装"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "花",
+        "正装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが大きな赤いハートを掲げ、黄色い小鳥と小さな赤いバケツを連れている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22106",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "大きな愛を届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "ハート",
+        "プレゼント"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが顔を両手で覆い、背後を赤い炎のような形が取り囲んでいる。"
+      },
+      "emotion": [
+        "love",
+        "anger"
+      ],
+      "id": "22107",
+      "name": {
+        "ja": "熱い気持ちを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "炎",
+        "情熱"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いハート形の大きな文字を、茶色いクマが緑の長靴の上に掲げている。"
+      },
+      "emotion": [
+        "love",
+        "excitement"
+      ],
+      "id": "22108",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "赤い気持ちを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "長靴",
+        "赤色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いハートが詰まった封筒が描かれ、封筒の前面には黄色い小鳥と小さな宛名飾りがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22109",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "ハート便を届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手紙",
+        "ハート",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が赤い大きな札を頭上に掲げ、勢いよく歓迎の気持ちを示している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22110",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "明るく歓迎する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歓迎",
+        "小鳥",
+        "赤文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が大きな赤いハート形の札を抱え、片方の手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "22111",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "大きなハートで太鼓判"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "肯定",
+        "小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が両手を広げ、頭上に大きな赤い感謝の文字を掲げている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "22112",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "感謝を大きく伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "小鳥",
+        "赤文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒のネコが片手を前に伸ばし、赤い文字と小さなハートを添えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22113",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "頬を寄せてキスを願う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キス",
+        "ネコ",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが両手の親指を立て、頭上に青い肯定の文字を掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "22114",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "緑の手で賛成"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑",
+        "親指",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒のネコが赤い飲み物を持ち、険しい顔で前を指しながら拒否を示している。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "22115",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "きっぱり断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "ネコ",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が手を振り、白黒のネコが緑の小さな札を掲げて別れを表している。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "22116",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "小鳥が別れを告げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "別れ",
+        "ネコ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が赤いハートの中で横になり、青い小物を抱えて眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "22117",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "ハートの中でおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おやすみ",
+        "ハート",
+        "小鳥"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い夜空を描いた額縁の中から、白黒のネコがこちらを見つめている。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "22118",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "窓辺で恋しく思う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "窓",
+        "夜",
+        "恋しさ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒のネコが片手を差し出し、周囲に赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22119",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "ハートを添えて誘う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ネコ",
+        "ハート",
+        "手招き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が胸元に手を当て、赤いハートの飾りを添えて微笑んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22120",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "胸に手を当てて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "胸元",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が赤い服の人物を背後から抱きしめ、そばに大きな赤いハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "22121",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "抱きしめて気持ちを伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "抱擁",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1252",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

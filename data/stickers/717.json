@@ -1,0 +1,1127 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "花飾りをつけた人物を中心に、複数の小さな人物が並び、周囲に赤い手書き風の文字と動きの記号が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8479",
+      "name": {
+        "ja": "みんなで大はしゃぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "花飾り",
+        "歓声"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い人物が目を細めて歯を見せ、両腕を下げて力を込めるように立っている。足元と周囲に動きの線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "8480",
+      "name": {
+        "ja": "青い顔で踏ん張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い人物",
+        "踏ん張る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が大きく歯を見せて笑い、片手を横へ伸ばして指さしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8481",
+      "name": {
+        "ja": "にっこり指さす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "指さし",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "葉のような飾りがついた帽子をかぶる人物が、唇を尖らせて横を見ている。頭上に渦巻きの記号がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "8482",
+      "name": {
+        "ja": "横目で考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横目",
+        "帽子",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、中央で赤い爆発のような形と黄色い光がぶつかっている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "8483",
+      "name": {
+        "ja": "ぶつかって大騒ぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "衝突",
+        "爆発",
+        "複数人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が青い柄の袋のようなものを持って立ち、そばに時計が描かれている。足元には細長い物が散らばっている。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "8484",
+      "name": {
+        "ja": "時計を気にする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "時計",
+        "青い袋",
+        "座り込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い人物が口を大きく開けて叫び、目の周りを覆うようなものをつけている。背後に色付きの放射線が広がる。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "8485",
+      "name": {
+        "ja": "青い顔で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い人物",
+        "叫ぶ",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が赤い服で笑い、手を頬の近くに添えている。周囲に星形のきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8486",
+      "name": {
+        "ja": "きらきら笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた二人の人物が向かい合い、顔を近づけている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8487",
+      "name": {
+        "ja": "顔を寄せる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "顔を寄せる",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が目を細め、両手を横に広げて立っている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "8488",
+      "name": {
+        "ja": "両手を広げて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "困り顔",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が赤い背もたれのあるベッドに横たわり、布団をかぶっている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "8489",
+      "name": {
+        "ja": "ベッドで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ベッド",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が目を見開き、口を開けて両手を広げている。周囲に青い汗のような記号がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "8490",
+      "name": {
+        "ja": "汗をかいてあわてる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "両手",
+        "あわてる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が両手を頭に添え、歯を食いしばっている。頭の周囲に渦巻きと汗の記号がある。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "8491",
+      "name": {
+        "ja": "頭を抱えてくらくら"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭を抱える",
+        "渦巻き",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた二人の人物が低い場所に並んで腰掛け、片方が手を口元に添えている。周囲に花がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8492",
+      "name": {
+        "ja": "並んでひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腰掛ける",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が横を見て立ち、そばに三つの点が入った吹き出しが浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "8493",
+      "name": {
+        "ja": "無言で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "無言",
+        "横目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が緑の場所に寝転び、目を閉じている。周囲に雲と音符が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8494",
+      "name": {
+        "ja": "草原でのんびり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "草原",
+        "寝転ぶ",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が頬に手を添え、目を閉じている。周囲にピンク色の丸い形が浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8495",
+      "name": {
+        "ja": "頬を赤らめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤面",
+        "頬",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が黄色い丸い物を両手で抱え、周囲から青い水しぶきが上がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "8496",
+      "name": {
+        "ja": "水しぶきでびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "両手",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が両手で胸元の赤い部分をつかみ、眉を寄せている。周囲に点線の輪郭がある。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "8497",
+      "name": {
+        "ja": "服をつかんで困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "服",
+        "両手",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が黄色い食べ物のようなものを口にしている。頭の周囲に疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "joy"
+      ],
+      "id": "8498",
+      "name": {
+        "ja": "食べながら疑問顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べる",
+        "疑問符",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が目を閉じて笑い、両手を上げている。周囲にきらめきがあり、上部に赤い手書き風の文字がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8499",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "応援して盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ガッツポーズ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が暗い背景の中で座り込み、顔を伏せている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8500",
+      "name": {
+        "ja": "座り込んで泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座り込む",
+        "涙",
+        "暗い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い人物が横向きに転げ、口を大きく開けている。周囲に青いしずくと激しい動きの線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "8501",
+      "name": {
+        "ja": "青い姿で転げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い人物",
+        "転ぶ",
+        "水しぶき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い人物が灰色の物のそばで低くうずくまり、上から青い縦線が降り注いでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8502",
+      "name": {
+        "ja": "雨の中で倒れ込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "倒れる",
+        "青い人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、片方がもう片方の頬に顔を寄せている。周囲に花と赤いハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8503",
+      "name": {
+        "ja": "頬を寄せる二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "頬",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を前に伸ばして走っている。全身の周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8504",
+      "name": {
+        "ja": "きらめきの中を走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "きらめき",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大きな人物が帽子をかぶり、歯を見せて大きく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8505",
+      "name": {
+        "ja": "青い大きな笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い人物",
+        "笑顔",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服と帽子のようなものを身につけた人物が座り、片手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8506",
+      "name": {
+        "ja": "赤い服で手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "座る",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を細め、口を大きく開けて笑いながら両手を広げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8507",
+      "name": {
+        "ja": "大きく笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "口を開ける",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のある白い人物がピンクの服を着て、腕を振りながら走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8508",
+      "name": {
+        "ja": "ピンクの服で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンクの服",
+        "走る",
+        "長い耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が大きな本を開いて一緒に見ている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8509",
+      "name": {
+        "ja": "本を一緒に読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "二人",
+        "読む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い横長の人物が目を細め、口を結んで正面をにらんでいる。周囲に赤い動きの線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8510",
+      "name": {
+        "ja": "黄色い顔でにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い人物",
+        "にらむ",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が眉を寄せて口を開け、青い丸い物体のそばで両手を動かしている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "8511",
+      "name": {
+        "ja": "青いものに怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒る",
+        "青い物体",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな二人の人物が向かい合い、一方の上に青い丸い形が浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "8512",
+      "name": {
+        "ja": "小さな二人が向き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小さな人物",
+        "二人",
+        "青い丸"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が目を閉じて笑い、片手でピースサインをしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8513",
+      "name": {
+        "ja": "笑顔でピース"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピースサイン",
+        "笑顔",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が雲のような形の上で眠っている。頭上に眠りを示す記号がある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8514",
+      "name": {
+        "ja": "雲の上で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "雲",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が口を開けて立ち、頭の上に茶色い丸い形が乗っている。横に赤いびっくりマークがある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "8515",
+      "name": {
+        "ja": "びっくりして固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "びっくりマーク",
+        "立ち尽くす",
+        "頭の上"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が口を開け、両足をそろえて浮かぶように立っている。周囲に細かな動きの線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8516",
+      "name": {
+        "ja": "小さく跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花飾り",
+        "跳ねる",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "花飾りをつけた人物が横を向き、目を細めて歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8517",
+      "name": {
+        "ja": "にっこり横を向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "横向き",
+        "花飾り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が頬を赤らめ、手を口元に添えている。周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8518",
+      "name": {
+        "ja": "ハートに囲まれて照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "赤面",
+        "帽子"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "717",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

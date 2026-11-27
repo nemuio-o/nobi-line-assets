@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白い装甲の人物が赤い服を着て、片方の拳を大きく前へ突き出している。背後に赤と黄色の星形の光がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "23418",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "拳を突き出して応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "応援",
+        "星形の光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が赤い服で立ち、横に大きなピンク色のハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23419",
+      "name": {
+        "ja": "ハートを添えて寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "赤い服",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が赤い服で胸を張り、笑顔で両腕を広げている。背後に黄色と赤の放射線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23420",
+      "name": {
+        "ja": "胸を張って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "胸を張る",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が両手を頭上に掲げ、指でハートの形を作っている。周囲に黄色い光線が広がっている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23421",
+      "name": {
+        "ja": "頭上でハートを作る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "両手",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装飾のある白い装甲の人物が片手を上げ、周囲に黄色いきらめきが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23422",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "きらめいて手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "きらめき",
+        "青い装飾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が青い服でうつむき、口元に手を当てている。頬の横に青い涙のような形がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "23423",
+      "name": {
+        "ja": "涙をぬぐって落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "うつむく",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の装甲の人物が両腕を上げ、口を開けて笑っている。上部に紫色で「FOFOFO」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23424",
+      "name": {
+        "ja": "腕を上げて笑い声"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕を上げる",
+        "笑い",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い顔の人物が青い服で小さなテーブルの前に座り、片手に器のようなもの、もう片手に白い食べ物のようなものを持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23425",
+      "name": {
+        "ja": "食卓でごちそうを楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "食卓",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が机の前で頭を両手で抱えている。背後に時計のような丸い絵と紫色の背景がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "23426",
+      "name": {
+        "ja": "机で頭を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭を抱える",
+        "机",
+        "時計"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と緑の人物が青い雲の上で横になり、目を閉じている。上に青い「Z」の文字が並んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "23427",
+      "name": {
+        "ja": "雲の上でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "雲",
+        "Z文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と白の装甲の人物が目を細め、口を固く結んでいる。頭の周囲に赤や黄色の鋭い線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "23428",
+      "name": {
+        "ja": "怒りで震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "赤い線",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が片手の指を立て、もう片方の手を頭の横に添えている。そばに黄色い星がある。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "23429",
+      "name": {
+        "ja": "ひらめいて指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひらめき",
+        "指",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が窓のそばで青い水玉模様の敷物に座り、片手を顔の近くに添えている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "23430",
+      "name": {
+        "ja": "窓辺で静かに座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "窓",
+        "座る",
+        "青い敷物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装飾のある人物が両腕を広げて立ち、周囲に色とりどりの四角形や星形が飛び散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23431",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "きらめきの中で大喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "きらめき",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が背中を向けて走り、後方に灰色の速さを示す線が伸びている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "23432",
+      "name": {
+        "ja": "勢いよく駆け出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "背中",
+        "速さ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が青い服で片方の拳を高く突き上げ、もう片方の手も握っている。拳の周囲に黄色い線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "23433",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "拳を握って気合"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "気合",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が赤い服で前へ進み、足元から大きなオレンジ色の炎のような形が出ている。周囲に赤い勢い線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "23434",
+      "name": {
+        "ja": "炎を蹴って突進"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "突進",
+        "炎",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が赤い服で、緑色の大きな姿の横に立っている。周囲に小さな黄色い星がある。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "23435",
+      "name": {
+        "ja": "緑の相手と並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "緑の姿",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のロボットのような姿が両腕を曲げて立ち、顔をしかめている。左右に赤いギザギザと青い縦線がある。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "23436",
+      "name": {
+        "ja": "歯を食いしばって耐える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "耐える",
+        "ロボット",
+        "赤い記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒っぽい大きな姿が地面に座り込み、頭を下げている。周囲に短い黒い線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "23437",
+      "name": {
+        "ja": "座り込んで落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座り込む",
+        "落ち込み",
+        "黒い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い装飾のある人物が床に座り、赤や緑の買い物袋を両手に持っている。周囲に音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23438",
+      "name": {
+        "ja": "買い物袋を抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物",
+        "袋",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物と灰色の装甲の人物が並んで踊り、周囲に音符やきらめきが飛んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23439",
+      "name": {
+        "ja": "二人で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ダンス",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が赤い手のひらを前に大きく広げている。下に赤い「STOP!」の文字がある。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "23440",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "手を広げてストップ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "STOP",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が背中を向けて立ち、オレンジ色の大きな背景の中にいる。背景の上部に小さな黒い模様がある。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "23441",
+      "name": {
+        "ja": "オレンジ色の景色を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "オレンジ色",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が黄色い泡のようなものが入ったジョッキのような容器を片手で掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23442",
+      "name": {
+        "ja": "飲み物を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "掲げる",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い姿が金色の硬貨の山の上に座っている。周囲に硬貨とドル記号のような記号がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23443",
+      "name": {
+        "ja": "金貨の山で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金貨",
+        "お金",
+        "山"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い姿が草地に座り、手元に赤い丸いものを置いている。頭上にコインと星の入った吹き出しのような形がある。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "23444",
+      "name": {
+        "ja": "草地でコインを思う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "草地",
+        "コイン",
+        "考えごと"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の二人が並び、それぞれが青い飲み物の入ったカップのようなものを持っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23445",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "二人で乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "乾杯",
+        "カップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の大きな姿が水色の水面の中にいて、周囲に淡い黄色の湯気のような形が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "23446",
+      "name": {
+        "ja": "温かい水辺で休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の姿",
+        "水面",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が皿のようなものに盛った赤や白の食べ物を持ち、周囲に色とりどりの紙吹雪が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "23447",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "食べ物を持って祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べ物",
+        "祝う",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が青い水の入った容器のそばに立ち、上には黄色や緑の布のようなものが干されている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "23448",
+      "name": {
+        "ja": "洗濯物を干す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "洗濯",
+        "物干し",
+        "水"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の白い装甲の人物が机を挟んで向き合い、片方が紙や道具のようなものを前にしている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "23449",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "机を囲んで相談する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "机",
+        "相談"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が赤い服で正面を向いて立ち、左右に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "23450",
+      "name": {
+        "ja": "きらめいて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "きらめき",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒っぽい大きな姿がしゃがみ込み、片手を前に出している。周囲に汗のような滴と短い線がある。"
+      },
+      "emotion": [
+        "tired",
+        "fear"
+      ],
+      "id": "23451",
+      "name": {
+        "ja": "しゃがんで汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しゃがむ",
+        "汗",
+        "黒い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物と白黒の大きな姿が青い背景の中で並び、周囲に白い雪のような点が舞っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "23452",
+      "name": {
+        "ja": "雪の中で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "雪",
+        "青い背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が赤と青の服で運動器具の上に乗り、前へ体を傾けている。周囲に白い息のような形がある。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "23453",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "運動器具でひと頑張り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "運動",
+        "器具",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と白の服の人物が緑の地面で白黒のボールを蹴っている。背景に青空と白い雲がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "23454",
+      "name": {
+        "ja": "ボールを蹴る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サッカー",
+        "ボール",
+        "青空"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の人物が赤と青の服で二本の板に乗り、雪の斜面を滑っている。周囲に水色の雪の線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "23455",
+      "name": {
+        "ja": "雪の斜面を滑る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雪",
+        "滑走",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の枠の中に三つの区画が並び、それぞれに異なる人物の顔が見えている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "23456",
+      "name": {
+        "ja": "並んだ顔をのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "並ぶ",
+        "窓"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い装甲の二人が向き合い、中央で手を握り合わせている。周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "23457",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "笑顔で握手する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "握手",
+        "二人",
+        "笑顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1313",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

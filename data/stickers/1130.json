@@ -1,0 +1,1159 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黒いスーツの男性が携帯電話を耳に当て、落ち着いた表情で話している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19079",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "電話で応答"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "応答",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いスーツの男性が正面を向き、口を閉じた穏やかな表情で見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19080",
+      "name": {
+        "ja": "静かに見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "スーツ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性が笑顔で親指を立て、肯定の仕草をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "19081",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指で太鼓判"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "肯定",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の男性がうつむく人物を両腕で抱きしめ、いたわっている。"
+      },
+      "emotion": [
+        "love",
+        "gratitude"
+      ],
+      "id": "19082",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "抱きしめて慰める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "慰め",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が胸元を両手で押さえ、顔をしかめて苦しそうにしている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "19083",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "胸を押さえて苦しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸",
+        "苦しみ",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ひげの男性が料理の並ぶ食卓でグラスを掲げ、食事を楽しんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19084",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "食卓で乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "グラス",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性が片手を上げ、手のひらを見せて呼びかけている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19085",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を上げて合図"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "合図",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の男性が目を見開き、額に汗を浮かべて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19086",
+      "name": {
+        "ja": "汗を浮かべて動揺"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "驚き",
+        "白髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の男性が眉を寄せ、険しい顔で前をにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19087",
+      "name": {
+        "ja": "険しくにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "険しい顔",
+        "にらむ",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服の女性が胸の前で手を組み、赤いハートに囲まれて喜んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19088",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ハートを抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "女性",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が片手を前に出し、もう一方の手に棒状の道具を持っている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "19089",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "手のひらで制止"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "制止",
+        "道具"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が両腕を大きく動かし、前へ勢いよく進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "19090",
+      "name": {
+        "ja": "勢いよく手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "動き",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手で耳や頭を押さえ、髪を乱しながら困った表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "19091",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭を抱える",
+        "困惑",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の女性が顔を上げ、瓶から飲み物を勢いよく飲んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "19092",
+      "name": {
+        "ja": "一気に飲み干す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "瓶",
+        "一気飲み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の年長男性が笑顔で手を打ち、拍手している。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "19093",
+      "intent": [
+        "celebrate",
+        "thanks"
+      ],
+      "name": {
+        "ja": "拍手でたたえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拍手",
+        "笑顔",
+        "称賛"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性があごに手を添え、真剣な顔で考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "19094",
+      "name": {
+        "ja": "あごに手を添えて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "あご",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が男性の頬にキスをし、二人の上にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19095",
+      "name": {
+        "ja": "頬を寄せてキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キス",
+        "ハート",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性がグラスを口元に傾け、飲み物を飲んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "19096",
+      "name": {
+        "ja": "グラスをあおる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "飲酒",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が車の後部座席で横になり、隣の小さなテーブルに瓶や料理が置かれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "19097",
+      "name": {
+        "ja": "車内でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車内",
+        "横になる",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性が体を折り曲げ、深く頭を下げている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "19098",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "深く頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お辞儀",
+        "謝罪",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が花びらの浮かぶ湯船につかり、肩まで湯に入ってくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "19099",
+      "name": {
+        "ja": "湯船でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯船",
+        "花びら",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が頬に手を当て、目を閉じて痛そうな表情を浮かべている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "19100",
+      "name": {
+        "ja": "痛みに顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "痛み",
+        "頬",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の男性が額に手を当て、うつむきながら嘆いている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19101",
+      "name": {
+        "ja": "額に手を当てて嘆く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "嘆き",
+        "額",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の男性がノートパソコンに向かい、積まれた本の前で作業している。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "19102",
+      "name": {
+        "ja": "机に向かって仕事"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仕事",
+        "パソコン",
+        "本"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性が机に伏して眠り、頭のそばに眠気の記号が描かれている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "19103",
+      "name": {
+        "ja": "机で居眠り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "居眠り",
+        "机",
+        "眠気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横向きに床へ倒れ込み、疲れ切ったように眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "19104",
+      "name": {
+        "ja": "床に倒れて休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲労",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫の服の男性が屋外で大きなボールと白いボールのそばに座り、休んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19105",
+      "name": {
+        "ja": "大きなボールのそばで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "屋外",
+        "ボール",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の男性がテーブルを挟んで争い、一人が椅子ごと倒れかかっている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "19106",
+      "name": {
+        "ja": "テーブルの上で乱闘"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乱闘",
+        "二人",
+        "テーブル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "裸の人物が床にうずくまり、頭を下げて落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19107",
+      "name": {
+        "ja": "うずくまって落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うずくまる",
+        "落ち込み",
+        "床"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった男性が正面を向き、片手を額に当てて敬礼している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19108",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "帽子で敬礼"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "敬礼",
+        "帽子",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性が目を見開き、稲妻の背景の中で驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19109",
+      "name": {
+        "ja": "稲妻に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "稲妻",
+        "驚き",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が床に顔を伏せ、赤い線を伴って激しく落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19110",
+      "name": {
+        "ja": "床に伏して嘆く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "床",
+        "嘆き",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性がオレンジ色の背景の椅子に座り、体を沈めて疲れた様子を見せている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "19111",
+      "name": {
+        "ja": "椅子で沈み込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "疲れ",
+        "オレンジ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の男性がひざまずき、深く頭を下げている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "19112",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "ひざまずいて謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひざまずく",
+        "謝罪",
+        "お辞儀"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が横になり、頭に包帯を巻いて静かに休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "19113",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "包帯",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スーツ姿の男性が拳を握り、力強い表情で前を見ている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19114",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "拳を握って奮起"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "決意",
+        "スーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が頬を赤らめ、気まずそうに横を見ている。"
+      },
+      "emotion": [
+        "love",
+        "surprise"
+      ],
+      "id": "19115",
+      "name": {
+        "ja": "照れて赤くなる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "赤面",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が両側に髪を広げたような姿で、目を見開いて前を見ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "19116",
+      "name": {
+        "ja": "驚きの表情"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "表情",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が夕日を背にグラスを掲げ、隣にワインボトルを置いている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "19117",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "夕日にグラスを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夕日",
+        "グラス",
+        "ワイン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が車の後部座席に横たわり、こちらを振り返っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "19118",
+      "name": {
+        "ja": "車内で横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "車内",
+        "横たわる",
+        "男性"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1130",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

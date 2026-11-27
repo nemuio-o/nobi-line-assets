@@ -1,0 +1,1174 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "アイスクリームを持った白いうさぎが、片足を上げて勢いよく走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2612",
+      "name": {
+        "ja": "アイスを片手に"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "アイス",
+        "走る",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが笑顔で両腕を広げ、花びらや花に囲まれて跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2613",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "花を咲かせて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "笑顔",
+        "跳ねる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが緑色の絵を掲げ、もう一方の手にケースを持って歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2614",
+      "name": {
+        "ja": "絵を掲げて出発"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絵",
+        "ケース",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サングラスをかけた白いうさぎが、音楽プレーヤーのそばで赤白の小物を振って踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2615",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "音楽に乗って"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "音楽",
+        "ダンス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "とんがり帽子をかぶった白いうさぎが、飾り付けたケーキの横で楽しそうに座っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2616",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "帽子でお祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パーティー帽",
+        "ケーキ",
+        "お祝い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが料理の載った皿を運び、そばの黄色い小さな姿が音符を添えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2617",
+      "name": {
+        "ja": "料理を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "皿",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い水しぶきの中で、目を大きくした白いうさぎが浮き輪のような赤白模様を身につけて泳いでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2618",
+      "name": {
+        "ja": "水しぶきで泳ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水泳",
+        "水しぶき",
+        "浮き輪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが花束を胸に抱え、周りに赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "2619",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花束を抱えて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがマイクを口元に当てて大きく歌い、足元に小さな台がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2620",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "マイクで熱唱"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マイク",
+        "歌う",
+        "ステージ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがトレッドミルの上を走り、額に汗を浮かべている。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "2621",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "走って応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ランニング",
+        "汗",
+        "運動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが両手に黄色い飲み物のグラスを掲げ、泡を飛ばしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2622",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "乾杯しよう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乾杯",
+        "グラス",
+        "泡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが樽の上に立ち、周囲の小物を操りながらバランスを取っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "2623",
+      "name": {
+        "ja": "樽の上で曲芸"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "樽",
+        "曲芸",
+        "バランス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎと茶色い姿が、緑の跡を残しながら横向きに滑っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "2624",
+      "name": {
+        "ja": "引っぱられて滑る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "滑る",
+        "二人",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "涙を流す白いうさぎが、両手の親指を立てて無理に明るく合図している。"
+      },
+      "emotion": [
+        "sadness",
+        "joy"
+      ],
+      "id": "2625",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "涙の親指"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "親指",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "涙を流しながら笑う白いうさぎが、紫色に包まれた箱を差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "sadness"
+      ],
+      "id": "2626",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "贈り物をどうぞ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "箱",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが横になり、音符を浮かべながら小さな機器を手にしている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "2627",
+      "name": {
+        "ja": "音楽を聴いて休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "横になる",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い衣装と大きな髪型の姿がマイクを持ち、音符の中で片腕を高く上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "2628",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "マイクで決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マイク",
+        "音符",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがA+の札を掲げ、足元では黄色い小さな姿がFの札を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "2629",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "Aプラスの評価"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "評価",
+        "Aプラス",
+        "札"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがバットを肩に担ぎ、目の前の野球ボールを見据えている。"
+      },
+      "emotion": [
+        "excitement",
+        "calm"
+      ],
+      "id": "2630",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "バットを構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "野球",
+        "バット",
+        "ボール"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが赤い枕に横たわり、青い小さな姿をそばに浮かべて眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "2631",
+      "name": {
+        "ja": "枕でお昼寝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "昼寝",
+        "枕",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い箱から茶色い顔がのぞき、隣では白黒の服の姿と黄色い小さな姿が笑っている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "2632",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "箱から登場"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "登場",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがベンチに座って泣き、周囲に落ち葉が舞っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "2633",
+      "name": {
+        "ja": "ベンチで落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ベンチ",
+        "涙",
+        "落ち葉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが台の上で腕を腰に当て、険しい顔で立っている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "2634",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "台上で怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "台",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の姿が椅子に座り、指を組んでじっと考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "2635",
+      "name": {
+        "ja": "椅子で考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "椅子",
+        "思案",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の姿が赤い雲の下で口を開け、周囲の激しい線に包まれている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "2636",
+      "name": {
+        "ja": "赤い雲に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い雲",
+        "驚き",
+        "激しい線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の姿が赤い地面の裂け目から飛び出し、怒った顔で叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "2637",
+      "name": {
+        "ja": "地面から噴き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "噴き出す",
+        "地面",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の姿が拳を握って身を震わせ、赤い差し色を添えて怒鳴っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "2638",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "拳を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "怒鳴る",
+        "赤い差し色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが赤い布をなびかせて走り、足元の岩を蹴り飛ばしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "2639",
+      "name": {
+        "ja": "岩を蹴散らす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "岩",
+        "赤い布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服の白いうさぎが、涙を飛ばしながら前へ走っている。"
+      },
+      "emotion": [
+        "sadness",
+        "excitement"
+      ],
+      "id": "2640",
+      "name": {
+        "ja": "勢いよく駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "涙",
+        "黒い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが座り込み、目から大粒の涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "2641",
+      "name": {
+        "ja": "涙をこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "座り込む",
+        "悲しみ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の姿が雨のような線の中で座り込み、濡れたように肩を落としている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "2642",
+      "name": {
+        "ja": "雨に濡れて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "濡れる",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のうさぎが角ばった石のような姿になり、動かず立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "sadness"
+      ],
+      "id": "2643",
+      "name": {
+        "ja": "石のように固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "石",
+        "固まる",
+        "灰色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが背中を向けて床にうずくまり、周囲に暗い線が走っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "2644",
+      "name": {
+        "ja": "背を向けてうずくまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "背中",
+        "うずくまる",
+        "沈む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが灰色の板の下に挟まり、横向きに顔だけを出している。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "2645",
+      "name": {
+        "ja": "板の下で身動きできない"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "板",
+        "挟まる",
+        "身動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが両手で目元を押さえ、青い涙を流しながら歩いている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "2646",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "目元",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが茶色い箱の中に入り、絵のついた札を抱えて泣いている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "2647",
+      "name": {
+        "ja": "箱の中で泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "札",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが大きな灰色の雲を抱え、体を横たえて浮かんでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "2648",
+      "name": {
+        "ja": "雲を抱えて飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雲",
+        "浮く",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが夜の窓のそばの机で作業し、手元に飲み物を置いている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "2649",
+      "name": {
+        "ja": "机で夜ふかし"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "机",
+        "作業"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが片手の指を鼻に当て、片目をつむっている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "2650",
+      "name": {
+        "ja": "鼻をいじる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鼻",
+        "指",
+        "片目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎの姿が青い氷の塊に閉じ込められ、外側に小さな姿が見えている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "2651",
+      "name": {
+        "ja": "氷の中で固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "氷",
+        "閉じ込める",
+        "青"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "538",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

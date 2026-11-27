@@ -1,0 +1,1153 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "少女が片手を上げて笑い、周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "4401",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ハートで手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を振る",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が両手を左右に広げ、首をかしげるような表情で立っている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "4402",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "両手で問いかけ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "問いかけ",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が片手を口元に添え、目を細めてにっこり笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4403",
+      "name": {
+        "ja": "口元を隠す笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "口元",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が片足を上げ、片手の指を立てながら楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4404",
+      "name": {
+        "ja": "指を立てて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "片足",
+        "指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が頬を赤らめ、目を閉じて両手を胸元で合わせている。"
+      },
+      "emotion": [
+        "love",
+        "confusion"
+      ],
+      "id": "4405",
+      "name": {
+        "ja": "照れた顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "赤い頬",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が目を閉じて口を大きく開け、声を上げて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4406",
+      "name": {
+        "ja": "大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大笑い",
+        "口を開ける",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が目を細め、口角を上げた穏やかな笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4407",
+      "name": {
+        "ja": "目を細めた笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "目を閉じる",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が胸の前で両手を合わせ、頬を染めて微笑んでいる。"
+      },
+      "emotion": [
+        "gratitude",
+        "love"
+      ],
+      "id": "4408",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "胸元で手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を合わせる",
+        "頬を染める",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が正面を向き、腕を下ろして静かに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4409",
+      "name": {
+        "ja": "まっすぐ立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "立ち姿",
+        "静けさ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が両手を上げて目を見開き、黄色い線に囲まれている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4410",
+      "name": {
+        "ja": "元気にびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "黄色い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が腕を組み、目を細めて不満そうな顔をしている。"
+      },
+      "emotion": [
+        "anger",
+        "disgust"
+      ],
+      "id": "4411",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "腕組みでむっ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "不満",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔や服が細い線だけで描かれた人物が、目を閉じて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4412",
+      "name": {
+        "ja": "線だけの顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "線画",
+        "目を閉じる",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が枕に頬をのせ、横向きに寝転んで目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "4413",
+      "name": {
+        "ja": "枕でごろり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "枕",
+        "横になる",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が透明なカップを口元に当て、顔を上向きにして飲んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4414",
+      "name": {
+        "ja": "飲み物を一口"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "カップ",
+        "一口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が横向きに倒れ、片手を伸ばした姿勢で目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "4415",
+      "name": {
+        "ja": "寝転んで手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "手を伸ばす",
+        "休息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が口を大きく開け、両腕を広げて声を張り上げている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "4416",
+      "name": {
+        "ja": "声を張り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大声",
+        "両腕",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が腕を広げ、輪のような光を頭上に浮かべて空中を舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4417",
+      "name": {
+        "ja": "ふわりと舞う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "空中",
+        "腕を広げる",
+        "白い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が大きく開いた扇子を顔の前に掲げ、目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4418",
+      "name": {
+        "ja": "扇子を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "扇子",
+        "笑顔",
+        "和装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が黒い受話器を耳に当て、笑顔で電話をしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4419",
+      "name": {
+        "ja": "電話で話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "受話器",
+        "会話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が野菜や小物の入った編みかごを抱えて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4420",
+      "name": {
+        "ja": "買い物かごを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物かご",
+        "野菜",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女が口を大きく開けて怒鳴り、全身を囲むように炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "4421",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "炎のように怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "大声"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を細め、涙を浮かべながら口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "4422",
+      "name": {
+        "ja": "涙目の大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "涙",
+        "大口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服に紫の上着を重ねた人物が、腕を振って勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4423",
+      "name": {
+        "ja": "勢いよく駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "腕を振る",
+        "紫の上着"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がコンロの鍋を前に、片手に道具を持って料理している。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4424",
+      "name": {
+        "ja": "鍋を見守る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "鍋",
+        "コンロ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の人物が目を閉じて眉を寄せ、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "4425",
+      "name": {
+        "ja": "口を開けて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "大口",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の人物が机に両手をつき、目を閉じてうつむいている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "4426",
+      "name": {
+        "ja": "机に手をつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "両手",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が両腕を広げ、ピンクの花やハートに囲まれて跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4427",
+      "name": {
+        "ja": "花に囲まれて舞う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "ハート",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が横を向き、目を細めて口元に笑みを浮かべている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4428",
+      "name": {
+        "ja": "帽子の横顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "横顔",
+        "微笑み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の人物が小さな少女の肩に手を添え、二人で並んでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "4429",
+      "name": {
+        "ja": "肩を寄せて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩に手",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女と年長の人物が並んで立ち、二人とも明るく笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "4430",
+      "name": {
+        "ja": "並んで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "笑顔",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の人物が少女のほおに手を添え、二人の周囲に淡いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "4431",
+      "name": {
+        "ja": "ほおに触れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ほお",
+        "ハート",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の人物が目を閉じて微笑み、隣の少女も穏やかに目を閉じている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "4432",
+      "name": {
+        "ja": "肩を並べて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "微笑み",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の人物と少女がベンチに腰掛け、隣り合って休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "4433",
+      "name": {
+        "ja": "ベンチでひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ベンチ",
+        "二人",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白衣の人物が、横たわる少女のそばに立って様子を見ている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "4434",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "そばで看病する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白衣",
+        "横たわる",
+        "見守り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の少女が腕を組み、目を閉じた表情で並んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "anger"
+      ],
+      "id": "4435",
+      "name": {
+        "ja": "腕組みで並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕組み",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の少女が腕を動かして踊り、周囲にハートや小さな飾りが舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4436",
+      "name": {
+        "ja": "二人で楽しく踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ダンス",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の人物がカウンター越しに身を乗り出し、帽子の人物と向き合っている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "4437",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "窓口で話す二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カウンター",
+        "二人",
+        "会話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が顔を寄せ、手にしたグラスを合わせている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4438",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "グラスを合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "グラス",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が肩を並べ、正面を向いて歯を見せながら笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4439",
+      "name": {
+        "ja": "並んでにっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "笑顔",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女の背後で紫の服の人物が険しい顔を見せ、周囲に炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "4440",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "炎を背負って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "険しい顔",
+        "二人"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "583",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

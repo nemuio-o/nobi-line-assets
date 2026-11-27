@@ -1,0 +1,1135 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "頬を赤くした人物が目を見開き、口を少し開けて戸惑っている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "4273",
+      "name": {
+        "ja": "赤面して驚く顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "赤面",
+        "戸惑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を閉じた人物が、胸元の小さな図柄を前にして眠そうに立っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "4274",
+      "name": {
+        "ja": "眠気をこらえる顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠気",
+        "目を閉じる",
+        "胸元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い影の中から赤い目を光らせ、険しい表情で正面をにらんでいる。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "4275",
+      "name": {
+        "ja": "鋭いにらみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い目",
+        "にらむ",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が首元に両手を添え、まっすぐこちらを見ている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "4276",
+      "name": {
+        "ja": "首元を整える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "首元",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が穏やかな目元で、口角を上げて微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4277",
+      "name": {
+        "ja": "柔らかな笑み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "青い髪",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を閉じた人物が片手を高く上げ、明るく手を振っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4278",
+      "intent": [
+        "greeting",
+        "farewell"
+      ],
+      "name": {
+        "ja": "目を閉じて手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "笑顔",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が正面を向き、落ち着いた表情でこちらを見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "4279",
+      "name": {
+        "ja": "静かな見つめ顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "正面",
+        "落ち着き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が片手を肩口へ伸ばし、伏し目がちに立っている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "4280",
+      "name": {
+        "ja": "肩に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い服",
+        "肩",
+        "伏し目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が片目を閉じ、赤い手袋を頬に当てている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "4281",
+      "name": {
+        "ja": "頬に赤い手袋"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウインク",
+        "赤い手袋",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が両腕を腰に当て、口を大きく開けて声を上げている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "4282",
+      "name": {
+        "ja": "赤い服で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "両腕",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "エプロン姿の人物が鍋を前に、長い道具で中身をかき混ぜている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4283",
+      "name": {
+        "ja": "鍋をかき混ぜる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "エプロン",
+        "鍋",
+        "料理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が瓶を片手に掲げたまま、別の人物と重なって後ろへ倒れ込んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4284",
+      "name": {
+        "ja": "瓶を掲げて転倒"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "瓶",
+        "転倒",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手のグラスを口元に当て、勢いよく飲んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "4285",
+      "name": {
+        "ja": "グラスを飲み干す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "飲む",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が腕を組み、鋭い目つきで前を見ている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "4286",
+      "name": {
+        "ja": "腕組みで見下ろす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "鋭い目",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い髪の人物が赤い上着を着て、両手を横へ広げている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4287",
+      "name": {
+        "ja": "赤い上着で両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い上着",
+        "両手",
+        "広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が足を交差させたまま、勢いよく後ろへ倒れている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "4288",
+      "name": {
+        "ja": "二人で転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "転倒",
+        "足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が腰を曲げ、スカートを広げるような姿勢で前にかがんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "4289",
+      "name": {
+        "ja": "前かがみの人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "前かがみ",
+        "スカート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が指で眼鏡の縁に触れ、きらりとした表情を見せている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4290",
+      "name": {
+        "ja": "眼鏡を直す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "指先",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた人物が横顔を見せ、顔のそばに手を添えている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "4291",
+      "name": {
+        "ja": "横顔で眼鏡に手"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "眼鏡",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を伸ばし、指の長い大きなピンク色の手袋を前に構えている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "4292",
+      "name": {
+        "ja": "大きな手袋を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンク",
+        "手袋",
+        "腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が椅子に座り、丸い容器を口元に当てて飲んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "4293",
+      "name": {
+        "ja": "飲み物をひと口"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "座る",
+        "ひと休み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い上着の人物が顔を赤くして眉を寄せ、頭上に怒りの印を浮かべている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "4294",
+      "name": {
+        "ja": "怒りの赤い印"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "赤い上着",
+        "怒りの印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が手足を投げ出して床に仰向けに倒れ、頭上に黒い雲のような印がある。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "4295",
+      "name": {
+        "ja": "床に仰向け"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仰向け",
+        "床",
+        "黒い印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が片腕を額にかざし、上を見上げるようにしている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "4296",
+      "name": {
+        "ja": "腕でまぶしさを遮る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白髪",
+        "腕",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "銀髪の人物が少し首を傾け、赤い目で静かに微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "4297",
+      "name": {
+        "ja": "銀髪の微笑み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "銀髪",
+        "微笑み",
+        "赤い目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が横一列になり、腕を振って同じ方向へ走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4298",
+      "name": {
+        "ja": "三人で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "走る",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い色の人物が両手を口元で組み、目を伏せて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "4299",
+      "name": {
+        "ja": "手を組んで思案"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "思案",
+        "目を伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が大きな黄色い手を前へ突き出し、光を放っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "4300",
+      "name": {
+        "ja": "光る手を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "黄色い手",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が翼のような形を広げ、斜め上へ飛んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "4301",
+      "name": {
+        "ja": "機体が飛翔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "飛翔",
+        "翼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が正面を向き、両側に武器のような装備を構えている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "4302",
+      "name": {
+        "ja": "正面の機体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "正面",
+        "装備"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い線で描かれた不定形の影が立ち上がり、周囲に鋭い線が広がっている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "4303",
+      "name": {
+        "ja": "黒い影の輪郭"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い影",
+        "輪郭",
+        "緊張感"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が体を低く構え、勢いの線を伴って前へ進んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "4304",
+      "name": {
+        "ja": "機体が低く突進"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "突進",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が片膝をつき、両腕を下げて身を構えている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "4305",
+      "name": {
+        "ja": "片膝をつく機体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "片膝",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が両手を広げ、頭上に大きな疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "4306",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符と両手"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "疑問符",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が横を向き、片腕を前へ伸ばしながら振り返っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4307",
+      "name": {
+        "ja": "振り返る機体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "横向き",
+        "腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が大きな灰色の丸い物体を前に抱え、身を乗り出している。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "4308",
+      "name": {
+        "ja": "大きな物体を抱える機体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "灰色の物体",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が前へ身を乗り出し、背後にオレンジ色の噴射を出している。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "4309",
+      "name": {
+        "ja": "炎を背に発進"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "噴射",
+        "発進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が低く座り込み、片腕を前に出している。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "4310",
+      "name": {
+        "ja": "座り込む機体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "座る",
+        "片腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒白の異形が立ち、足元の右側に小さな茶色い物体が離れて描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "4311",
+      "name": {
+        "ja": "黒白の異形と小さな物体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "異形",
+        "黒白",
+        "小さな物体"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と緑の機体が両腕を上げ、手に細長い武器のようなものを持っている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "4312",
+      "name": {
+        "ja": "武器を掲げる機体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "機体",
+        "両腕",
+        "武器"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "564",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1129 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青いスーツの男性が、茶色い台のようなものに片足を乗せている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7751",
+      "name": {
+        "ja": "台を踏みつける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "踏みつける",
+        "茶色い台"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が、両手を床につくようにして低い姿勢になっている。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "7752",
+      "name": {
+        "ja": "身を低くして構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "うずくまる",
+        "構える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いマフラーをなびかせた男性が、片腕を上げて空中に跳び上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7753",
+      "name": {
+        "ja": "勢いよく跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "ジャンプ",
+        "赤いマフラー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いマフラーの男性が、片脚を高く上げて蹴りの動きをしている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "7754",
+      "name": {
+        "ja": "高く蹴り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "蹴り",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が、体を大きく前に曲げて頭を下げている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7755",
+      "name": {
+        "ja": "深く頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "お辞儀",
+        "青いスーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が拳を振り下ろし、茶色い面に衝撃の線が出ている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7756",
+      "name": {
+        "ja": "拳を振り下ろす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "拳",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が後ろ向きに倒れ、そばに赤いびっくりマークが浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "7757",
+      "name": {
+        "ja": "転んで驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "転倒",
+        "びっくりマーク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の険しい顔の周囲に、赤と黄色の炎が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7758",
+      "name": {
+        "ja": "怒りで燃え上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性の顔",
+        "炎",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が、体を前に伸ばして勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7759",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "走る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が仰向けになり、両手を握って驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "7760",
+      "name": {
+        "ja": "仰向けに驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "仰向け",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が口を大きく開け、強い表情で叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7761",
+      "name": {
+        "ja": "大声で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性の顔",
+        "叫ぶ",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が腕を組み、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "anger"
+      ],
+      "id": "7762",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "腕組み",
+        "青いスーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が片腕を上げ、周囲に複数の紙や物が散らばっている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "7763",
+      "name": {
+        "ja": "書類を散らかして慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "書類",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の男性が、緑の服の男性の上半身につかみかかっている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "7764",
+      "name": {
+        "ja": "相手につかみかかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "つかむ",
+        "対立"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が床にうつ伏せに倒れ、そばに青と緑の服を着た女性が立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7765",
+      "name": {
+        "ja": "床に倒れ込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "倒れる",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が開いた扉から飛び出し、両腕で複数の荷物のようなものを抱えている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "7766",
+      "name": {
+        "ja": "荷物を抱えて飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "荷物",
+        "扉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いシャツの男性が机に向かい、汗の線を出しながら手元を見ている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "7767",
+      "name": {
+        "ja": "机で汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "机",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が振り向くように顔を向け、赤いびっくりマークが浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "7768",
+      "name": {
+        "ja": "驚いて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性の顔",
+        "びっくりマーク",
+        "振り向く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が片手を頭に当て、額や顔に汗の線を出している。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "7769",
+      "name": {
+        "ja": "頭をかいて汗を拭う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "頭をかく",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が、涙を流しながら口を大きく開けている。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "7770",
+      "name": {
+        "ja": "泣きながら叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "涙",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が、透明なグラスを口元に当てて飲んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7771",
+      "name": {
+        "ja": "グラスを一気に飲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "グラス",
+        "飲む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いシャツの男性が、容器を傾けて飲み物を飲んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7772",
+      "name": {
+        "ja": "飲み物をあおる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "飲み物",
+        "飲む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が片手を高く上げ、口を開けて呼びかけている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7773",
+      "name": {
+        "ja": "手を上げて呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "手を上げる",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長に見える男性が、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7774",
+      "name": {
+        "ja": "年長の男性が叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "年長の男性",
+        "叫ぶ",
+        "青いネクタイ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が険しい表情で口を開け、片手に小さな物を持っている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "7775",
+      "name": {
+        "ja": "険しい顔で声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物の顔",
+        "険しい表情",
+        "手元の物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性と女性が肩を寄せて並び、近くに赤いハートと音符が描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7776",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男女",
+        "寄り添う",
+        "赤いハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服の女性が青い台の後ろで両手を高く上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7777",
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "両手",
+        "青い台"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が胸の前で両手を合わせている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "7778",
+      "name": {
+        "ja": "手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "手を合わせる",
+        "青いスーツ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が首をかしげるような表情をし、赤い疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "7779",
+      "name": {
+        "ja": "疑問に首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性の顔",
+        "疑問符",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が笑顔でピースサインを出し、頭上に赤いハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "7780",
+      "name": {
+        "ja": "笑顔でピース"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "ピースサイン",
+        "赤いハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が笑顔で、片手の指を輪の形にして示している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "7781",
+      "name": {
+        "ja": "指で輪を作る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "指の輪",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が両手を顔の近くに置き、涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7782",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "涙",
+        "顔を覆う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の男性が床に横たわり、頭上に眠りを示す記号が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7783",
+      "name": {
+        "ja": "横になって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "横になる",
+        "睡眠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が、両手を頭の後ろにして仰向けに倒れている。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "7784",
+      "name": {
+        "ja": "仰向けに倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "転倒",
+        "仰向け"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の男性が足を滑らせ、両腕を広げて後ろへ倒れている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "7785",
+      "name": {
+        "ja": "滑って倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "転倒",
+        "滑る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いスーツの男性が前方へ腕を伸ばしながら走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "7786",
+      "name": {
+        "ja": "腕を伸ばして走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "走る",
+        "腕を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性と女性が頬を寄せ、二人の上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7787",
+      "name": {
+        "ja": "頬にキスする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男女",
+        "キス",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの服の女性が男性に寄り添い、そばに赤いハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7788",
+      "name": {
+        "ja": "女性に抱きつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男女",
+        "抱擁",
+        "赤いハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の男性が床に座った姿勢で眠り、頭上に眠りを示す記号がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7789",
+      "name": {
+        "ja": "座ったまま眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "座る",
+        "睡眠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の服の人物が、青いスーツの人物を背負うようにして運んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "joy"
+      ],
+      "id": "7790",
+      "name": {
+        "ja": "背負われて運ばれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "背負う",
+        "移動"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "687",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

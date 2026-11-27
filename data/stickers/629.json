@@ -1,0 +1,1161 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色いキャラクターが三段に積み重なり、いちばん上の一体が首をかしげている."
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "6239",
+      "name": {
+        "ja": "積み重なる三段"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三段",
+        "積み重なり",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが地面にぺたんと寝そべり、頬を赤らめている."
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "6240",
+      "name": {
+        "ja": "ぺたんこに寝そべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寝そべる",
+        "頬を赤らめる",
+        "ぺたんこ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが赤い花に囲まれ、目を閉じて嬉しそうにしている."
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "6241",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "花に囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "目を閉じる",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが頬を赤らめて微笑み、周囲に黄色いきらめきが浮かんでいる."
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "6242",
+      "name": {
+        "ja": "きらめく白い顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い姿",
+        "微笑み",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子と服の人物が、花に囲まれて片脚を上げて踊っている."
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6243",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "花の中で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "片脚上げ",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクター三体が横一列に並び、草の向こうから顔を出している."
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "6244",
+      "name": {
+        "ja": "並んで顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三体",
+        "横一列",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが草の上に伏せ、目を細めている."
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "6245",
+      "name": {
+        "ja": "草の上で伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "草",
+        "伏せる",
+        "目を細める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手で顔を覆い、涙を流している."
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "6246",
+      "name": {
+        "ja": "黄色い姿が泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い姿",
+        "涙",
+        "顔を覆う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが雨の中で身を縮め、汗をかきながら震えている."
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "6247",
+      "name": {
+        "ja": "雨の中で震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "身を縮める",
+        "震える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが険しい顔をし、頭の上から赤い炎が立ちのぼっている."
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "6248",
+      "name": {
+        "ja": "頭から炎を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い姿",
+        "炎",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色のキャラクターが頭に黒いこぶを作り、周囲に赤い怒りの印を浮かべている."
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "6249",
+      "name": {
+        "ja": "頭をぶつけて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫色の姿",
+        "こぶ",
+        "怒りの印"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒のキャラクターが拳を握り、赤い怒りの印を浮かべている."
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "6250",
+      "name": {
+        "ja": "拳を握って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "怒りの印",
+        "白黒"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが目を細め、周囲に星と赤い疑問符を浮かべている."
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "6251",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "星と疑問符の困り顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "星",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが目を見開いて舌を出し、頭上に疑問符と感嘆符を浮かべている."
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "6252",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "感嘆符",
+        "舌を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクター三体が並び、頭上に黄色い疑問符を浮かべている."
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "6253",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "三つの疑問符"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三体",
+        "疑問符",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが片手を上げ、頭上に青い「OK!」の文字がある."
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "6254",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "OKと手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "OK",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と紫色のキャラクターが並び、上に赤い「NO!」の文字がある."
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "6255",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと拒む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "二体",
+        "拒む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクター二体が並び、上に大きな「Yes!!」の文字がある."
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6256",
+      "intent": [
+        "agree",
+        "celebrate"
+      ],
+      "name": {
+        "ja": "Yesと喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Yes",
+        "二体",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが横たわり、白い細長いキャラクターが頭を下げるように立ち、上に「Sorry...」の文字がある."
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "6257",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "Sorryと謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Sorry",
+        "頭を下げる",
+        "二体"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが草地に座り込み、上に「Oh...」の文字がある."
+      },
+      "emotion": [
+        "surprise",
+        "sadness"
+      ],
+      "id": "6258",
+      "name": {
+        "ja": "Oh…と立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Oh",
+        "座り込む",
+        "白い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二体の黄色いキャラクターが旗や紙片に囲まれ、上に「Congratulations!」の文字がある."
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6259",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "お祝いの旗"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Congratulations",
+        "二体",
+        "旗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが花に囲まれ、上に「Thank You」の文字がある."
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "6260",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "Thank Youと感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Thank You",
+        "花",
+        "白い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが草の上を勢いよく走り、上に「Fwoooosh」の文字がある."
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "6261",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "風",
+        "Fwoooosh"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクター二体が並び、上に「Wow!!!」の文字がある."
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "6262",
+      "name": {
+        "ja": "Wowと驚く二体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Wow",
+        "二体",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが黄色い光を背に立ち、頭上に小さな雲が浮かんでいる."
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "6263",
+      "name": {
+        "ja": "光を浴びて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い姿",
+        "光",
+        "雲"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが草地に横たわり、舌を出している."
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "6264",
+      "name": {
+        "ja": "草地で横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "草地",
+        "舌を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが白い枕に顔を埋めて眠り、横に「Zzz...」の文字がある."
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "6265",
+      "name": {
+        "ja": "枕で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "枕",
+        "Zzz"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクター三体が花を持って歩き、中央の一体が赤い花を掲げている."
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6266",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "花を運ぶ三体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三体",
+        "花",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが青い布団の中で丸くなり、目を閉じて眠っている."
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "6267",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "丸くなる",
+        "睡眠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが横向きに寝そべり、目を閉じている."
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "6268",
+      "name": {
+        "ja": "横向きに休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横向き",
+        "寝そべる",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが赤い縞模様の布に包まれ、顔だけを出している."
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "6269",
+      "name": {
+        "ja": "白い姿が布に包まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い姿",
+        "縞模様",
+        "包まれる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが赤い小さな車に乗り、車が煙を出しながら走っている."
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "6270",
+      "name": {
+        "ja": "赤い車で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い車",
+        "乗る",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが箱の中から顔を出し、箱のふたを開けている."
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "6271",
+      "name": {
+        "ja": "箱から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "顔を出す",
+        "ふた"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが石の輪の中央に座り、周囲に湯気が立っている."
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "6272",
+      "name": {
+        "ja": "石の輪で温まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "石",
+        "湯気",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが皿とグラスのそばに横たわり、隣に赤い食べ物が置かれている."
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "6273",
+      "name": {
+        "ja": "皿とグラスのそばで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "皿",
+        "グラス",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが両手を上げ、左右に揺れるような動きをしている."
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "6274",
+      "name": {
+        "ja": "白い姿が揺れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "揺れる",
+        "白い姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い帽子の人物が湯気の立つ器から箸で食べている."
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "6275",
+      "name": {
+        "ja": "熱い料理を食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "箸",
+        "湯気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターが背を向けてしゃがみ、上から青い線が垂れている."
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "6276",
+      "name": {
+        "ja": "後ろ姿でしゃがむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "しゃがむ",
+        "青い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いキャラクターが木の幹の陰から顔を出し、片目だけを見せている."
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "6277",
+      "name": {
+        "ja": "木の陰から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "木",
+        "顔を出す",
+        "片目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が、茶色いキャラクター三体が積み重なった列を支えて運んでいる."
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "6278",
+      "name": {
+        "ja": "積み重なって運ばれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三体",
+        "積み重なり",
+        "運ぶ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "629",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

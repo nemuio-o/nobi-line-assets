@@ -1,0 +1,1124 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白いうさぎが小さなブランコに座っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15631",
+      "name": {
+        "ja": "ブランコに乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ブランコ",
+        "うさぎ",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが座り、そばに赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15632",
+      "name": {
+        "ja": "ハートと一緒"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "うさぎ",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎの目が星形になり、口を開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15633",
+      "name": {
+        "ja": "星の目で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "目",
+        "うさぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが手足を上げ、逆さまにひっくり返っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15634",
+      "name": {
+        "ja": "ひっくり返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆さ",
+        "転ぶ",
+        "うさぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いぞうがピンク色のクッションに横たわっている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "15635",
+      "name": {
+        "ja": "クッションで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぞう",
+        "クッション",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が赤い服を着て正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15636",
+      "name": {
+        "ja": "黒猫が立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "赤い服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが自転車に乗り、前へ進んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15637",
+      "name": {
+        "ja": "自転車に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "自転車",
+        "くま",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い雲のような塊から、白いうさぎが顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "15638",
+      "name": {
+        "ja": "雲からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雲",
+        "のぞく",
+        "うさぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがうつむき、両手を前にして立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "15639",
+      "name": {
+        "ja": "うつむいて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "うつむく",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長い動物が縞模様の大きなボールの上に乗っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "15640",
+      "name": {
+        "ja": "ボールに乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ボール",
+        "動物",
+        "バランス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが青い光の中でうつむいて立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "15641",
+      "name": {
+        "ja": "スポットライトの下"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "光",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いぞうのそばに疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "15642",
+      "name": {
+        "ja": "疑問に思う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぞう",
+        "疑問符",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服のうさぎが雨の中に立ち、周囲に水滴が落ちている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "15643",
+      "name": {
+        "ja": "雨の中で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "うさぎ",
+        "濡れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が黄色い目で正面を見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15644",
+      "name": {
+        "ja": "黒猫の正面顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "黄色い目",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがピンク色の服を着て立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15645",
+      "name": {
+        "ja": "ピンクの服で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "ピンク",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いたてがみのような飾りに囲まれた白い顔の動物が描かれている。周囲にきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "15646",
+      "name": {
+        "ja": "たてがみの顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "たてがみ",
+        "顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い動物が両手を上げ、そばに判読できる英字の『YES』が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15647",
+      "name": {
+        "ja": "腕を上げて返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "返事",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが小さな旗を持ち、前へ走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "15648",
+      "name": {
+        "ja": "旗を持つうさぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "旗",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が水玉模様のボールの上に乗り、そばにピンクのハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15649",
+      "name": {
+        "ja": "ボールの上の黒猫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "ボール",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが長い黄色い動物のそばで、跳ね上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "15650",
+      "name": {
+        "ja": "飛び跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "ジャンプ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンクの水玉模様の動物と細長い動物が並び、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15651",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "踊る",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二体の小さな動物がひもにぶら下がり、周囲に音符が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15652",
+      "name": {
+        "ja": "ぶら下がって歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぶら下がる",
+        "音符",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の動物が布団のような場所で寄り添い、眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "15653",
+      "name": {
+        "ja": "寄り添って眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "寄り添う",
+        "布団"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが大きな丸い眼鏡をかけて立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "15654",
+      "name": {
+        "ja": "眼鏡で見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "眼鏡",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが丸い札を掲げ、札には判読できる『OK』と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15655",
+      "name": {
+        "ja": "OKを示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "OK",
+        "うさぎ",
+        "看板"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のくまが自転車に乗り、そばに判読できる『Hi』の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15656",
+      "name": {
+        "ja": "自転車で挨拶する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "くま",
+        "自転車",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが赤白ストライプのテントの中で横になっている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "15657",
+      "name": {
+        "ja": "テントで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テント",
+        "うさぎ",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い動物と白い動物が寄り添って横になり、上に判読できる『Z』が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "15658",
+      "name": {
+        "ja": "並んで眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "二人",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の動物が床に横たわり、そばに小さな椅子が置かれている。"
+      },
+      "emotion": [
+        "tired",
+        "surprise"
+      ],
+      "id": "15659",
+      "name": {
+        "ja": "床に倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "椅子",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが帽子をかぶり、顔を正面に向けている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15660",
+      "name": {
+        "ja": "顔を見せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "顔",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが王冠をかぶり、そばに細長い黄色い動物がいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15661",
+      "name": {
+        "ja": "王冠をかぶる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "うさぎ",
+        "小動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが青い光の中で両手を下ろして立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15662",
+      "name": {
+        "ja": "光の中で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "光",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑色のランタンのような容器の中に、複数の小さな動物が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "15663",
+      "name": {
+        "ja": "ランタンの中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ランタン",
+        "青緑",
+        "動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い猫が青緑色のランタンのような容器の中に入っている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "15664",
+      "name": {
+        "ja": "黒猫のランタン"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "ランタン",
+        "青緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青いぞうが背中に複数の贈り物を載せ、小さな鳥を頭に乗せている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15665",
+      "name": {
+        "ja": "贈り物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぞう",
+        "贈り物",
+        "運ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "動物たちとケーキが描かれた飾り枠の中に、判読できる英字の『Happy Birthday』がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15666",
+      "name": {
+        "ja": "誕生日を祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "誕生日",
+        "ケーキ",
+        "祝う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い夜空と月の下で、ピンクの動物と青い動物が寄り添っている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "15667",
+      "name": {
+        "ja": "月夜に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "月",
+        "夜",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三体の小さな動物が並び、上に判読できる英字の『Bye Bye Bye』が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15668",
+      "name": {
+        "ja": "並んで別れを告げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "別れ",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い幕のある舞台のような枠の中に、複数の動物が並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15669",
+      "name": {
+        "ja": "舞台に並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舞台",
+        "動物",
+        "幕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが赤い幕の隙間から顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "15670",
+      "name": {
+        "ja": "幕からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うさぎ",
+        "赤い幕",
+        "のぞく"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "982",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

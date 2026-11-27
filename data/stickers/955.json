@@ -1,0 +1,1128 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが寄り添い、手に小さな贈り物を持っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15047",
+      "name": {
+        "ja": "寄り添う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが体を深く傾け、両手を前に出しておじぎしている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "15048",
+      "name": {
+        "ja": "おじぎするクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "クマ",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが寄り添って横になり、背後に赤いハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15049",
+      "name": {
+        "ja": "ハートを背に並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "二人",
+        "仲良し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと灰色のうさぎが肩を組んで並んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15050",
+      "name": {
+        "ja": "肩を組む二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肩組み",
+        "二人",
+        "仲良し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが手を振りながら走り、白いうさぎが後ろからついてきている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15051",
+      "name": {
+        "ja": "手を振って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "走る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが青い模様の布団に並んで横たわっている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "15052",
+      "name": {
+        "ja": "布団で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布団",
+        "寄り添う",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが赤い飾りを身につけ、胸元で赤いリボンを持っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "15053",
+      "name": {
+        "ja": "飾りを持つクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "飾り",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが並んで歩き、頭上に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "15054",
+      "name": {
+        "ja": "並んで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "二人",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが緑の大きな葉の下に入り、雨宿りしている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "15055",
+      "name": {
+        "ja": "傘の下で雨宿り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "傘",
+        "雨宿り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが白いうさぎの背中に手を添え、二人で前へ進んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "15056",
+      "name": {
+        "ja": "背中を押す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "背中",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが赤いギターを弾き、白いうさぎが隣で見ている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15057",
+      "name": {
+        "ja": "ギターを弾く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ギター",
+        "演奏",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが片足を上げてポーズを取り、周囲に音符と花が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15058",
+      "name": {
+        "ja": "音符とポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "ポーズ",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが机に向かい、紙や道具を広げて作業している。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "15059",
+      "name": {
+        "ja": "机で作業する二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "作業",
+        "机",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがカレンダーを掲げ、赤いチェックの入った予定を確認している。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "15060",
+      "name": {
+        "ja": "予定を確認する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カレンダー",
+        "確認",
+        "予定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが白いうさぎに花束を差し出し、うさぎが笑顔で受け取っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15061",
+      "name": {
+        "ja": "花束を渡す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "贈り物",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが食卓を囲み、丼を前に食事をしている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "15062",
+      "name": {
+        "ja": "一緒に食事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "丼",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが並んで座り、飲み物を手に乾杯している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15063",
+      "name": {
+        "ja": "並んで乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乾杯",
+        "食事",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが白いうさぎを抱きしめ、うさぎの背後に動きの線がある。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "15064",
+      "name": {
+        "ja": "抱きしめて慰める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "慰め",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが白いうさぎを抱き、うさぎが涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "love"
+      ],
+      "id": "15065",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "慰め",
+        "抱擁"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが両手を上げて喜び、茶色いクマと料理を囲んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15066",
+      "name": {
+        "ja": "食卓で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "喜び",
+        "料理"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが茶色いクマに後ろから抱きつき、周囲に赤いハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15067",
+      "name": {
+        "ja": "抱きつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "ハート",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが横たわる茶色いクマに寄り添い、腕を回している。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "15068",
+      "name": {
+        "ja": "横たわるクマを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱く",
+        "横たわる",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが複数の白いうさぎに囲まれ、周囲に吹き出しが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15069",
+      "name": {
+        "ja": "囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "仲間",
+        "会話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが料理の載ったトレーを両手で運び、茶色いクマがそばにいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15070",
+      "name": {
+        "ja": "料理を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "運ぶ",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが寄り添い、夜空に上がる花火を見ている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15071",
+      "name": {
+        "ja": "花火を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花火",
+        "夜空",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマの上に、肉料理やハンバーガーなど複数の料理が並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15072",
+      "name": {
+        "ja": "料理を囲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "食事",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎがテーブルの前に座り、複数の飲み物や容器が並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15073",
+      "name": {
+        "ja": "飲み物を並べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "テーブル",
+        "うさぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎが両手を上げて驚き、茶色いクマが背を向けて立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15074",
+      "name": {
+        "ja": "驚いて両手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎと茶色いクマが並んで立ち、足元に黄色い花がある。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "15075",
+      "name": {
+        "ja": "並んで立つ二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "立つ",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが重なって横向きに転がり、手足を広げている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15076",
+      "name": {
+        "ja": "転がって抱き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "抱擁",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが勢いよく抱き合い、周囲に動きの線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "love"
+      ],
+      "id": "15077",
+      "name": {
+        "ja": "勢いよく抱きつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "勢い",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが互いに腕を引っ張り合い、黄色い小さな鳥が足元にいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "15078",
+      "name": {
+        "ja": "引っ張り合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "引っ張る",
+        "二人",
+        "競争"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが赤い飲み物の容器を持って座り、黄色い小さな鳥がそばにいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15079",
+      "name": {
+        "ja": "飲み物を持って座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "座る",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが水上の浮き具に乗り、両手を上げて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15080",
+      "name": {
+        "ja": "水上で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水上",
+        "喜び",
+        "浮き輪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが机を挟んで座り、飲み物を置いて話している。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "15081",
+      "name": {
+        "ja": "机を囲んで話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "会話",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎと茶色いクマが小さなボートに乗り、水上を進んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15082",
+      "name": {
+        "ja": "ボートに乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ボート",
+        "水上",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いうさぎと茶色いクマが水しぶきの上で遊び、うさぎが手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15083",
+      "name": {
+        "ja": "水しぶきで遊ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水遊び",
+        "水しぶき",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが屋外のテーブルを囲み、飲み物を手にしている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15084",
+      "name": {
+        "ja": "テーブルで飲む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "テーブル",
+        "飲み物",
+        "サングラス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと白いうさぎが並んで座り、赤い夕景を眺めている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "15085",
+      "name": {
+        "ja": "夕景を眺める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夕景",
+        "後ろ姿",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが逆さまになって転がり、周囲に小物や箱が散らばっている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15086",
+      "name": {
+        "ja": "ひっくり返って散らかす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆さま",
+        "散らかる",
+        "動き"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "955",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

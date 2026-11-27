@@ -1,0 +1,1166 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黄色い服の人物が小さな猫のような動物を抱きしめ、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "19487",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "音符と一緒に抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "音符",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が大きな黄色い乗り物のような形に乗り、音符を伴って勢いよく回っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19488",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "回って陽気に踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "回転",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が楽器のようなものを抱えて歌うように口を開け、周囲に紙片が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19489",
+      "name": {
+        "ja": "音楽に夢中になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "夢中",
+        "お金"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が片手を前に突き出し、強い調子で制止するように見える。そばに英字の表示がある。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "19490",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "手のひらで止める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "制止",
+        "手のひら",
+        "英字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が背中を向け、丸い黄色い形にまたがるようにして走り去っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "19491",
+      "name": {
+        "ja": "背を向けて駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "走る",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が縦長の壁の陰から顔と上半身だけを出し、緊張した様子でのぞいている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "19492",
+      "name": {
+        "ja": "壁の陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "壁",
+        "不安"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が虫眼鏡を掲げ、座り込んで首をかしげている。周囲に疑問を示す記号がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "19493",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "手がかりを探して迷う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "虫眼鏡",
+        "疑問",
+        "探索"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が地面に手をつき、頭を深く下げている。"
+      },
+      "emotion": [
+        "sadness",
+        "gratitude"
+      ],
+      "id": "19494",
+      "intent": [
+        "apology",
+        "thanks"
+      ],
+      "name": {
+        "ja": "深く頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お辞儀",
+        "謝意",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が魚の尾のような下半身で水中を泳ぎ、周囲に水泡が浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "19495",
+      "name": {
+        "ja": "水中をすいすい進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泳ぐ",
+        "水中",
+        "魚の尾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が口を大きく開けて叫び、顔の横に赤い衝撃線が広がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19496",
+      "name": {
+        "ja": "突然の衝撃に固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "衝撃",
+        "驚き",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が体を前に倒し、斜めの動線と水色のしずくを伴って走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "19497",
+      "name": {
+        "ja": "勢いよく駆け抜ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "疾走",
+        "風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が舌を出しておどけ、周囲に色とりどりの星が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19498",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星を散らして舌を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "舌",
+        "おどける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が石造りの壁の開口部に座り、腕を抱えてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19499",
+      "name": {
+        "ja": "石壁の穴にこもる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "石壁",
+        "隠れる",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が紫色の敷物の上に座り、手に細長い道具のようなものを持って休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "19500",
+      "name": {
+        "ja": "静かにひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休憩",
+        "座る",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が大きな肉料理を両手で持って食べ、周囲に食材のかけらが飛んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19501",
+      "name": {
+        "ja": "ごちそうを頬張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "肉料理",
+        "満足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が腕を組み、眉を寄せて正面を鋭く見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19502",
+      "name": {
+        "ja": "腕を組んでむっとする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "不満",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の顔が大きく描かれ、眉をひそめて横目で見ながら不満そうな表情を浮かべている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "19503",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "横目で不満を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "不満",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じて歯を食いしばり、顔のそばに了承を示す英字が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19504",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "歯を食いしばって了承する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯",
+        "了承",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が片手で目元をぬぐい、もう一方の手を添えている。周囲に水色のしずくがある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19505",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "目元",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が両手を握って顔の脇に置き、涙をこらえるように眉を寄せている。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "19506",
+      "name": {
+        "ja": "こらえきれず泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泣く",
+        "涙",
+        "こぶし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が頬に手を添えて微笑み、周囲に淡いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19507",
+      "name": {
+        "ja": "頬を染めて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "頬",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が片手を頬のそばに添え、目を伏せた穏やかな表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19508",
+      "name": {
+        "ja": "そっと頬に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "頬",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が手で口元を隠し、頬を赤らめたような表情をしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19509",
+      "name": {
+        "ja": "口元を隠して照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "照れ",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が腕を上げて伸びをするような姿勢で立ち、朝の挨拶を示す英字が添えられている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19510",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "朝の光に伸びをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "朝",
+        "挨拶",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が木の幹に向かって拳を振り、赤い衝撃表現と怒りの記号が描かれている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19511",
+      "name": {
+        "ja": "木に八つ当たりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "木",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が首をかしげ、顔のそばに大きな疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "19512",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげて尋ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "疑問",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が鍋を手にしてかき混ぜ、周囲に小さな花形の動きが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19513",
+      "name": {
+        "ja": "鍋をかき混ぜる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "料理",
+        "鍋",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が横顔で目を閉じ、夜の挨拶を示す英字がそばに描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19514",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "静かに夜を告げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "夜",
+        "挨拶",
+        "黒髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が大きな画板の前で筆を動かし、絵を描いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "19515",
+      "name": {
+        "ja": "肖像画に向き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絵画",
+        "描く",
+        "黒髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が腕を組み、眉を寄せて横向きに冷たい視線を送っている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "19516",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "腕を組んで冷たく見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒髪",
+        "腕組み",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が赤い炎のような背景を背負い、険しい目つきで正面をにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19517",
+      "name": {
+        "ja": "炎を背ににらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "黒髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が目を見開き、顔の横に大きな感嘆符と赤い強調線が現れている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "19518",
+      "name": {
+        "ja": "突然の気づきに驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "ひらめき",
+        "黒髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が前方へ指を突き出し、放射状の線を背にして強く叱っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19519",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "指を突きつけて叱る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "叱る",
+        "黒髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が腕を組み、口を結んだ厳しい表情で立っている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "19520",
+      "name": {
+        "ja": "腕を組んで黙り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "黒髪",
+        "不機嫌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が身を縮めて汗をかき、背後に黒髪の人物が立っている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "19521",
+      "name": {
+        "ja": "背後の気配に怯える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "背後",
+        "怯える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物と黒い影のような人物が向かい合い、周囲に鋭い動きの線が描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "19522",
+      "name": {
+        "ja": "影の人物に立ち向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "対峙",
+        "影",
+        "緊張"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が振り返り、背後に立つ大きな黒い人物の気配を感じている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "19523",
+      "name": {
+        "ja": "背後から迫る影"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "背後",
+        "緊張"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が頭を抱えてうつむき、顔の周囲に悩みを示す線が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "19524",
+      "name": {
+        "ja": "頭を抱えて悩む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "悩み",
+        "頭を抱える",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い髪の人物が小さな虫眼鏡のような道具を手にし、慎重に何かを確かめている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "19525",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "虫眼鏡で確かめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "虫眼鏡",
+        "確認",
+        "女性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の寝間着の人物が横になって目を閉じ、そばに眠りを示す記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "19526",
+      "name": {
+        "ja": "布団でぐっすり眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "休む"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1145",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

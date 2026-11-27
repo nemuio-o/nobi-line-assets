@@ -1,0 +1,1089 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤いクマのような動物が笑顔で立ち、肩の近くに小さな緑の生き物が見えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18047",
+      "name": {
+        "ja": "赤い動物と小さな緑の生き物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "緑の生き物",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いクマのような動物が、目を細めて口を大きく開けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18048",
+      "name": {
+        "ja": "口を大きく開ける赤い動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "大きな口",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のカエルのような生き物が両手を広げ、体を弾ませるように踊っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18049",
+      "name": {
+        "ja": "両手を広げて踊る緑の生き物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の生き物",
+        "踊る",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い虫のような生き物が、木の陰から顔と前足を出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18050",
+      "name": {
+        "ja": "木の陰から顔を出す虫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "虫",
+        "木",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤みのある人物の顔が、眉を寄せて口を開け、叫ぶような表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18051",
+      "name": {
+        "ja": "叫ぶ顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "叫び",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いクマのような動物が座り、そばに小さな物体と音符が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18052",
+      "name": {
+        "ja": "音符のそばで座る赤い動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "音符",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "虫のような生き物が腕を広げ、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18053",
+      "name": {
+        "ja": "腕を広げて笑う虫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "虫",
+        "笑顔",
+        "腕を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いクマのような動物が、草の生えた場所を歩いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18054",
+      "name": {
+        "ja": "歩く赤い動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "歩く",
+        "草地"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い虫のような生き物が、脚を動かして勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18055",
+      "name": {
+        "ja": "走る虫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "虫",
+        "走る",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉を寄せ、汗を流しながら困ったような表情をしている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18056",
+      "name": {
+        "ja": "汗をかいて困る顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "汗",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の頭の上に細長い円筒形の物が乗っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "18057",
+      "name": {
+        "ja": "頭に細長い物を乗せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭",
+        "細長い物",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を細め、口元を上げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18058",
+      "name": {
+        "ja": "目を細めて笑う人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "笑顔",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が腕を組み、目を閉じて体を震わせている。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18059",
+      "name": {
+        "ja": "腕を組んで震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "腕組み",
+        "震え"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いクマのような動物が、突起のある緑色の物体のそばでのけぞっている。周囲に衝撃を示す線がある。"
+      },
+      "emotion": [
+        "fear"
+      ],
+      "id": "18060",
+      "name": {
+        "ja": "緑の物体のそばでのけぞる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "緑の物体",
+        "のけぞる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服と帽子を身につけた人物が、眉を寄せて正面をにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18061",
+      "name": {
+        "ja": "帽子をかぶってにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "制服",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が、片手を口元に当てて驚いたような表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18062",
+      "name": {
+        "ja": "帽子の人物が手を口元に当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "人物",
+        "手を口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が前かがみになり、顔をしかめて汗をかいている。"
+      },
+      "emotion": [
+        "disgust"
+      ],
+      "id": "18063",
+      "name": {
+        "ja": "前かがみで汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "前かがみ",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が手足を伸ばして床に伏せている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18064",
+      "name": {
+        "ja": "床に伏せる小さな人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "床",
+        "伏せる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いクマのような動物が、横たわった人物の上に乗るようにして押さえている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18065",
+      "name": {
+        "ja": "赤い動物が人物を押さえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "人物",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い鳥のような二羽の生き物が顔を寄せ、周囲にハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "18066",
+      "name": {
+        "ja": "黄色い二羽が寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い鳥",
+        "二羽",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑のカエルのような生き物が、毛のある茶色い物に顔を寄せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18067",
+      "name": {
+        "ja": "緑の生き物が茶色い物に顔を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の生き物",
+        "茶色い物",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "犬のような動物が涙を流し、汗をかきながら口を開けている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18068",
+      "name": {
+        "ja": "涙を流す犬のような動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬のような動物",
+        "涙",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が顔を上に向け、目を閉じて大きく笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18069",
+      "name": {
+        "ja": "顔を上げて大笑いする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "大笑い",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉をひそめ、口を開けて苦しそうに叫んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18070",
+      "name": {
+        "ja": "苦しそうに叫ぶ顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "叫び",
+        "苦しい表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いクマのような動物が立ち、汗をかいたような表情をしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18071",
+      "name": {
+        "ja": "汗をかいて立つ赤い動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "汗",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手を握りしめて前に上げ、周囲にハートを浮かべながら喜んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18072",
+      "name": {
+        "ja": "両手を握って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "喜ぶ",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が泡に包まれ、目を閉じてくつろいでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18073",
+      "name": {
+        "ja": "泡に包まれてくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "泡",
+        "入浴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人物が目元を覆う仮面をつけ、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18074",
+      "name": {
+        "ja": "仮面をつけた小さな人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仮面",
+        "人物",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いクマのような動物が、文字の入った札を両手で掲げている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18075",
+      "name": {
+        "ja": "札を掲げる赤い動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "札",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "突起のある緑色の物体と赤いクマのような動物が並んで描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18076",
+      "name": {
+        "ja": "緑の物体と赤い動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の物体",
+        "赤い動物",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いクマのような動物が、腕を広げて勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18077",
+      "name": {
+        "ja": "勢いよく走る赤い動物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "走る",
+        "動き線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が頭に包帯を巻き、疲れたような表情で立っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "18078",
+      "name": {
+        "ja": "頭に包帯を巻く人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "包帯",
+        "頭"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服を着た人物が、目を見開いて口を大きく開けている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18079",
+      "name": {
+        "ja": "赤い服の人物が叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "赤い服",
+        "叫び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が色のついた仕切りの陰から顔を出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18080",
+      "name": {
+        "ja": "仕切りの陰から顔を出す人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "仕切り",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "虫のような生き物が目を回し、体を大きく揺らしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18081",
+      "name": {
+        "ja": "目を回して倒れかける虫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "虫",
+        "目を回す",
+        "ふらつく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が前かがみになり、背中に赤い衝撃の印が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "18082",
+      "name": {
+        "ja": "背中を押さえて前かがみになる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "前かがみ",
+        "衝撃"
+      ]
+    },
+    {
+      "description": {
+        "ja": "包帯を巻いた人物が汗をかき、顔をしかめながら口元に手を当てている。"
+      },
+      "emotion": [
+        "disgust"
+      ],
+      "id": "18083",
+      "name": {
+        "ja": "汗をかいて顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "汗",
+        "顔をしかめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が眉を強く寄せ、口を結んで怒った表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18084",
+      "name": {
+        "ja": "怒った顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "怒り",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いクマのような動物が背を向けて座り、周囲に輝きが描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18085",
+      "name": {
+        "ja": "背を向けて輝く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い動物",
+        "背中",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が片手を上げ、手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18086",
+      "name": {
+        "ja": "手を振る人物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "手を振る",
+        "白い服"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1077",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

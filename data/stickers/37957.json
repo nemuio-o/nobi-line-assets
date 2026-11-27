@@ -1,0 +1,1180 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "小さなオレンジ色の生き物が音符を浮かべながら片手を上げ、楽しそうに跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712089",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "音符と元気な手振り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "手振り",
+        "元気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い体に黄色い模様のある四つ足の生き物が、体を低くしてこちらを振り向いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "905712090",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ひょこっと挨拶"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "挨拶",
+        "動物",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の羽を広げた昆虫のような姿が、両腕を広げて飛びながら感謝を伝えている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "905712091",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "羽ばたくお礼"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛翔",
+        "昆虫",
+        "お礼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の丸い体から二本の手を伸ばし、花を胸元に抱えて穏やかに立っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "905712092",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花を抱えて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "抱擁",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑の山のような体に顔を埋めた生き物が、目を閉じて眠そうにうずくまっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "905712093",
+      "name": {
+        "ja": "眠気の森"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠い",
+        "緑",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の女の子が片手を高く上げ、振り返りながら明るく別れを告げている。"
+      },
+      "emotion": [
+        "joy",
+        "sadness"
+      ],
+      "id": "905712094",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振る帰り道"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手振り",
+        "女の子",
+        "別れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の丸い顔が細い脚を伸ばし、ふわりと浮かぶように立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "905712095",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "ふわふわ見送り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風船",
+        "見送り",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の丸い生き物が体を細長く伸ばし、両腕を上げて元気に迎えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712096",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "伸びてお出迎え"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "伸びる",
+        "紫",
+        "再会"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い甲羅のような体をした小さな生き物が、両腕を広げて勢いよく跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712097",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "跳ねる赤い虫"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "跳躍",
+        "赤",
+        "虫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子のような頭をした生き物が、音符を添えて体を弾ませている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712098",
+      "name": {
+        "ja": "音符で浮かれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "赤",
+        "踊り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑色の丸い生き物が口を開け、頭上に水しぶきを上げて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "905712099",
+      "name": {
+        "ja": "驚きの水しぶき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水",
+        "驚き",
+        "青緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い魚のような姿が体を反らし、ひれを広げて誇らしげにポーズを取っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712100",
+      "name": {
+        "ja": "胸を張る赤い魚"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "魚",
+        "胸張り",
+        "赤"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青白い四つ足の生き物が耳を立て、落ち着いた表情でまっすぐ立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "905712101",
+      "name": {
+        "ja": "涼しい立ち姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青",
+        "立ち姿",
+        "涼やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青灰色の大きな生き物が、前脚をついて体を逆さにし、楽しそうに曲芸をしている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "905712102",
+      "name": {
+        "ja": "楽しい逆立ち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆立ち",
+        "曲芸",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い耳の長い生き物が片手を上げ、目を見開いて大きく驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "905712103",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "大きく驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "驚き",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い垂れ耳の小さな犬が胸元で手を合わせ、緊張した顔で見つめている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "905712104",
+      "name": {
+        "ja": "どきどき見守り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い犬",
+        "緊張",
+        "見守り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い垂れ耳の犬が両手を頬に添え、周囲の輝きに包まれて嬉しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "905712105",
+      "name": {
+        "ja": "きらめく喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "白い犬",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな人影や動物が乗った木製の山車を、にぎやかに進めている場面が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712106",
+      "name": {
+        "ja": "にぎやかな山車"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "山車",
+        "祭り",
+        "行列"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな帽子をかぶった茶色の小さな人物が、両腕を広げて元気よく立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712107",
+      "name": {
+        "ja": "帽子を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "茶色",
+        "祝福"
+      ]
+    },
+    {
+      "description": {
+        "ja": "桃色の丸い生き物が花に囲まれ、手を添えながら穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "905712108",
+      "name": {
+        "ja": "花に囲まれた笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "笑顔",
+        "桃色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い耳の長い生き物が肩を落とし、両目から大粒の涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "905712109",
+      "name": {
+        "ja": "涙のしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "茶色",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青灰色の毛むくじゃらな生き物が、棒のような物を手に前へ飛び出している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "905712110",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "勢いよく飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛び出し",
+        "青灰色",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つのスピーカーに挟まれた小さな機械が、音楽を鳴らして賑やかに立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712111",
+      "name": {
+        "ja": "音楽で盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "スピーカー",
+        "盛り上がり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小さな鳥のような生き物が首をかしげ、周囲を見回している。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "905712112",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "黄色",
+        "首かしげ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の女の子がうつむいて目を閉じ、肩を落として静かに立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "905712113",
+      "name": {
+        "ja": "うつむく気分"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむき",
+        "女の子",
+        "落ち込み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の女の子が両腕を広げ、笑顔でこちらを誘うように立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712114",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "一緒に出発"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女の子",
+        "手招き",
+        "出発"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の女の子が片拳を高く突き上げ、体を弾ませて応援している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "905712115",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "拳を上げて応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "応援",
+        "女の子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青灰色の二体の生き物が向かい合い、腕を振り上げて激しくぶつかり合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "905712116",
+      "name": {
+        "ja": "ぶつかり合う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "対決",
+        "衝突",
+        "青灰色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い小さな生き物が赤青の布をなびかせ、勢いよく前へ走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "905712117",
+      "name": {
+        "ja": "走り抜ける小さな戦士"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "小さな戦士",
+        "赤青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "桃色の丸い生き物が湯気の立つ器につかり、ほっとした顔で休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "905712118",
+      "name": {
+        "ja": "湯気のひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "湯気",
+        "桃色",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "桃色の長い耳の生き物が口を大きく開け、目を見開いて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "905712119",
+      "name": {
+        "ja": "大口でびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大口",
+        "桃色",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑色の小さな生き物が両手を上げ、頭上の大きなハートの下で嬉しそうにしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "905712120",
+      "name": {
+        "ja": "ハートの仲間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "仲間",
+        "青緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い小鳥のような生き物が二つのスピーカーの間で、腕を下げて静かに立っている。"
+      },
+      "emotion": [
+        "calm",
+        "sadness"
+      ],
+      "id": "905712121",
+      "name": {
+        "ja": "静かな応援席"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い鳥",
+        "スピーカー",
+        "静けさ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二つのスピーカーと小さな機械が並び、青い水滴のような印で音の勢いを表している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712122",
+      "name": {
+        "ja": "音響チェック"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "スピーカー",
+        "音響",
+        "確認"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の大きな人物と小さな桃色の人物が、拳を振り上げて向かい合っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "905712123",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "握りこぶしの対決"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "対決",
+        "拳",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い四つ足の生き物が体を丸め、目を閉じて地面に伏せている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "905712124",
+      "name": {
+        "ja": "丸まって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "丸まり",
+        "青",
+        "休息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "橙色の小さな生き物が尾を立て、口から小さな炎を出している。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "905712125",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "火を吹く元気"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "橙色",
+        "恐竜"
+      ]
+    },
+    {
+      "description": {
+        "ja": "銀色の装甲のような体をした人物が両腕を曲げ、筋肉を誇らしげに見せている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "905712126",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "筋肉で気合い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "筋肉",
+        "気合い",
+        "銀色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "橙色の翼を持つ生き物が両翼を広げ、炎をまとって飛び立とうとしている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "905712127",
+      "name": {
+        "ja": "飛び立つ炎"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "翼",
+        "炎",
+        "飛翔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い長い耳の生き物が片腕を横に伸ばし、星を散らして誇らしげに決めている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "905712128",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星の決めポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星",
+        "黄色",
+        "ポーズ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "37957",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

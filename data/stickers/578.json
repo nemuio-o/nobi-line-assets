@@ -1,0 +1,1125 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "目を閉じて頬に手を当て、うつむき気味に座っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "3712",
+      "name": {
+        "ja": "しょんぼり頬づえ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬づえ",
+        "うつむく",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手の指を立てて示し、周囲に星を散らしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "3713",
+      "name": {
+        "ja": "きらめき指さし"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指さし",
+        "星",
+        "紫の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を口元に添え、目を輝かせながら立っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "3714",
+      "name": {
+        "ja": "口元に手を添えて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "両手",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "笑顔で大きな赤いハートを胸の前に抱えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "3715",
+      "name": {
+        "ja": "大きなハートを抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を逆さにして顔を床近くまで下げ、そばの器をのぞき込んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "3716",
+      "name": {
+        "ja": "逆さで食卓のぞき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆さ",
+        "器",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "横向きに寝そべり、片手で湯気のないカップを持っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "3717",
+      "name": {
+        "ja": "横たわりティータイム"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "カップ",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "足を組んで座り、細い物を指に挟みながらそばの灰皿を置いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "3718",
+      "name": {
+        "ja": "灰皿そばで一服"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "灰皿",
+        "一服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を丸めて横になり、頭の上に青い眠りの記号を浮かべている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "3719",
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "丸まる",
+        "眠りの記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人が並んで腰を曲げ、眠そうな顔で体を伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "3720",
+      "name": {
+        "ja": "二人で伸びる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ストレッチ",
+        "眠そう"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を閉じた姿が、青い小さな姿を両腕で抱きしめている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "3721",
+      "name": {
+        "ja": "青い姿を抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "青い姿",
+        "寄り添い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "床に座り、片手を頬に当てて横を見ている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "3722",
+      "name": {
+        "ja": "頬に手を当てて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "座る",
+        "横を見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "四つんばいになり、床の緑色の丸い物に手を伸ばしている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "3723",
+      "name": {
+        "ja": "緑の物を押す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四つんばい",
+        "緑",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手に複数の袋を下げ、黄色い大きな袋を抱えて立っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "3724",
+      "name": {
+        "ja": "袋を両手にお買い物"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物袋",
+        "両手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "腕を組んで立ち、頭上の吹き出しに料理の絵を浮かべている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "3725",
+      "name": {
+        "ja": "料理を思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "料理",
+        "腕組み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "座った姿勢で手元の小さな画面を見つめている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "3726",
+      "name": {
+        "ja": "画面を見ながら座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "画面",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と緑の二人が泡の浮いた黄色い器を頭に載せている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "3727",
+      "name": {
+        "ja": "泡の帽子で乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "泡",
+        "黄色い器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "魚のような尾を持つ姿が、片手をついて座っている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "3728",
+      "name": {
+        "ja": "尾びれで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "尾びれ",
+        "座る",
+        "魚の姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の服の姿が青い小さな姿と並んで正面を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "3729",
+      "name": {
+        "ja": "青い仲間と並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "青い姿",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顎に手を当て、目を横に向けて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "3730",
+      "name": {
+        "ja": "顎に手を当てて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "顎",
+        "横目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "腕を前に出し、手首の時計らしき物を見ている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "3731",
+      "name": {
+        "ja": "腕時計を確認"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕時計",
+        "確認",
+        "手首"
+      ]
+    },
+    {
+      "description": {
+        "ja": "頭を大きく下げ、ピンク色の履物の足元を見ている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "3732",
+      "name": {
+        "ja": "足元を見下ろす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "見下ろす",
+        "足元",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手で白い丸い物を胸の前に抱えている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "3733",
+      "name": {
+        "ja": "白い丸い物を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱える",
+        "白い丸",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手で頬を左右に引っぱり、目を丸くしている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "3734",
+      "name": {
+        "ja": "頬を引っぱる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬を引っぱる",
+        "両手",
+        "目を丸くする"
+      ]
+    },
+    {
+      "description": {
+        "ja": "膝をつき、口元をこぶしで覆って咳き込むような姿を見せている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "3735",
+      "name": {
+        "ja": "膝をついて咳き込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "膝立ち",
+        "口元",
+        "こぶし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "胸の前で手を組み、舌を出してにこやかに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "3736",
+      "name": {
+        "ja": "手を組んで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を組む",
+        "笑顔",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑と青の服の二人が並んで膝を折り、正面を向いて座っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "3737",
+      "name": {
+        "ja": "二人で正座する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "正座",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人が横並びに座り、それぞれ耳や頭の周りに手を当てている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "3738",
+      "name": {
+        "ja": "三人で耳をふさぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "耳",
+        "横並び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の姿がしゃがみ、両手で頭を覆っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "3739",
+      "name": {
+        "ja": "頭を抱えてしゃがむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しゃがむ",
+        "頭を覆う",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片腕を前へ突き出し、走るような姿勢でパンチしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "3740",
+      "name": {
+        "ja": "前へパンチ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "パンチ",
+        "突き出す",
+        "走る姿勢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "背を向けて立ち、周囲に青い水しぶきが飛び散っている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "3741",
+      "name": {
+        "ja": "水しぶきを浴びる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水しぶき",
+        "背中",
+        "青い水"
+      ]
+    },
+    {
+      "description": {
+        "ja": "背を向けた姿の後ろから灰色の煙がふわりと出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "3742",
+      "name": {
+        "ja": "おならの煙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "煙",
+        "背中",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "食卓に伏せた姿の頭を、後ろの人物が両手で押さえている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "3743",
+      "name": {
+        "ja": "食卓で頭を押さえられる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食卓",
+        "二人",
+        "頭を押さえる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子とサングラスを身につけ、機材の前で両腕を動かしている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "3744",
+      "name": {
+        "ja": "サングラスでDJ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "サングラス",
+        "機材"
+      ]
+    },
+    {
+      "description": {
+        "ja": "マイクを口元に持ち、もう片手を上げて歌っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "3745",
+      "name": {
+        "ja": "マイクを握って歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マイク",
+        "歌う",
+        "片手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手で斧を高く掲げ、もう一方の手を横へ伸ばしている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "3746",
+      "name": {
+        "ja": "斧を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "斧",
+        "掲げる",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "膝を抱えて座り、足元に緑の小さな器を置いている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "3747",
+      "name": {
+        "ja": "膝を抱えて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "膝を抱える",
+        "座る",
+        "器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "座った姿で両手を前に重ね、歯を見せて力んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "3748",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "力む",
+        "歯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服と眼鏡の姿が、両腕を水平に広げて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "3749",
+      "name": {
+        "ja": "黒服で腕を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い服",
+        "眼鏡",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の姿が横向きに寝転び、脚を曲げている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "3750",
+      "name": {
+        "ja": "横向きに寝転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横向き",
+        "寝転ぶ",
+        "脚を曲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔を伏せてうつぶせになり、両腕と脚をまっすぐ伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "3751",
+      "name": {
+        "ja": "うつぶせで伸びる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつぶせ",
+        "伸びる",
+        "横になる"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "578",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

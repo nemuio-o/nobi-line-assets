@@ -1,0 +1,1146 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが両手を合わせ、周囲にハートを浮かべてうれしそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "17271",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を合わせて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが座り、両目から大粒の涙を流して泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "17272",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが目を閉じて笑い、周囲にハートが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "17273",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "ハート",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが大きなハートを抱え、そばに小さな青いキャラクターがいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17274",
+      "name": {
+        "ja": "ハートを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱える",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが片手を上げ、横に青い動き線を出して呼びかけている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17275",
+      "name": {
+        "ja": "手を振って呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "呼びかけ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが横になり、そばに星が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17276",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "休む",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが体を反らし、周囲に汗のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17277",
+      "name": {
+        "ja": "驚いて身を反らす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "汗",
+        "身を反らす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが楽しそうに踊り、周囲に音符ときらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17278",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "踊る",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが頬に手を添えて首をかしげ、周囲に疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "17279",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問に首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "首をかしげる",
+        "小物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが立ち、周囲に色とりどりのきらめきが広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17280",
+      "name": {
+        "ja": "きらめきをまとって立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "立つ",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが座り、手に小さな花を持っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "17281",
+      "name": {
+        "ja": "座って花を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "花",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが花のそばに立ち、目がハート形になっている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "17282",
+      "name": {
+        "ja": "花に囲まれて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "立つ",
+        "ハートの目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが小さな青いキャラクターと並び、両手を合わせて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "17283",
+      "name": {
+        "ja": "小さな青いキャラクターと喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "小さな仲間",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターがうつむき、上から縦線が降るように描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "17284",
+      "name": {
+        "ja": "雨のような線の下で落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込む",
+        "涙",
+        "線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが大きなピンク色の布にくるまり、そばに小さな丸い物体がある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "17285",
+      "name": {
+        "ja": "大きな布にくるまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布",
+        "くるまる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い丸い服を着た長い耳のキャラクターが、紫色の小さなキャラクターを抱いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17286",
+      "name": {
+        "ja": "黄色い服で小さな仲間を抱く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱く",
+        "小さな仲間",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが小さな青いキャラクターを追い、周囲に動き線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "17287",
+      "name": {
+        "ja": "小さな青い仲間を追う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "追う",
+        "小さな仲間",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターがうつぶせになって休み、上に点が並んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "17288",
+      "name": {
+        "ja": "うつぶせで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつぶせ",
+        "休む",
+        "点"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが丸い黄色の仲間に寄り添い、手を合わせている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "17289",
+      "name": {
+        "ja": "丸い仲間に寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寄り添う",
+        "仲間",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが目を見開いて固まり、横に感嘆符と丸い記号が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17290",
+      "name": {
+        "ja": "驚いて固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "硬直",
+        "記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが片手を高く上げ、周囲に勢いを示す線が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17291",
+      "name": {
+        "ja": "元気に手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を上げる",
+        "元気",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが口をへの字にして立ち、頭の上に汗のような記号がある。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "17292",
+      "name": {
+        "ja": "困った顔で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困惑",
+        "汗",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが手を口元に当て、ハートと『Chu』の文字を添えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17293",
+      "name": {
+        "ja": "投げキスをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "投げキス",
+        "ハート",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが目を閉じて歌い、周囲に色とりどりの音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17294",
+      "name": {
+        "ja": "音符の中で歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "歌う",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが横になり、目を閉じて穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17295",
+      "name": {
+        "ja": "横になってにっこりする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "笑顔",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが片手を上げ、そばに明瞭な『Good!』の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17296",
+      "name": {
+        "ja": "Goodと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "星",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが、ふわふわした小さな仲間と肩を寄せ、周囲にハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17297",
+      "name": {
+        "ja": "仲間と寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが手を上げて喜び、周囲に色とりどりの紙吹雪が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17298",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "紙吹雪の中で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙吹雪",
+        "喜ぶ",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが手を振り、そばに明瞭な『Bye Bye』の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17299",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "Bye Byeと手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "別れ",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが目を閉じて笑い、周囲に丸い光が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17300",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "目を閉じる",
+        "丸い光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが花束を両手で持ち、周囲に花が散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17301",
+      "name": {
+        "ja": "花束を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "花",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが片手を上げ、穏やかな表情で立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "17302",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "小さく手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "挨拶",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが片目を閉じて指を口元に当て、横に丸い記号を示している。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "17303",
+      "name": {
+        "ja": "丸い記号を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "記号",
+        "指差し",
+        "片目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが横たわり、吹き出しの中に明瞭な『×』が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "17304",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "横たわって拒否を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横たわる",
+        "拒否",
+        "記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが小さな青い仲間と並んで立ち、穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17305",
+      "name": {
+        "ja": "小さな仲間と立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "小さな仲間",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが身を低くして目を閉じ、周囲に汗のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17306",
+      "name": {
+        "ja": "驚いて身を低くする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "汗",
+        "身を低くする"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが軽くお辞儀をし、そばに明瞭な『Hi!』の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17307",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "Hiとお辞儀する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "挨拶",
+        "お辞儀",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが小さな青い仲間と並び、足元にハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17308",
+      "name": {
+        "ja": "小さな仲間と並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "小さな仲間",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが目を閉じて困ったように立ち、周囲に大きな汗のしずくがある。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "17309",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "困惑",
+        "耳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い耳のピンク色のキャラクターが手を合わせて目を閉じ、周囲に勢いを示す線が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17310",
+      "name": {
+        "ja": "手を合わせて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を合わせる",
+        "笑顔",
+        "動き"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1044",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1110 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "女性が机に向かい、目を細めた表情をしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "12495",
+      "name": {
+        "ja": "目を細めて机に向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "机",
+        "目を細める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が子どもに寄り添い、二人で笑っている。頭上に小さなハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "12496",
+      "name": {
+        "ja": "寄り添って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "子ども",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が鼻をつまみ、顔をしかめて嫌がっている。周囲に赤い効果線が描かれている。"
+      },
+      "emotion": [
+        "disgust"
+      ],
+      "id": "12497",
+      "name": {
+        "ja": "鼻をつまんで嫌がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "鼻をつまむ",
+        "赤い効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が顔を赤くして怒り、両手を握って地団駄を踏んでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "12498",
+      "name": {
+        "ja": "怒って地団駄を踏む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "怒り",
+        "地団駄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が横になり、そばの器に手を伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "12499",
+      "name": {
+        "ja": "横になって食事をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "横になる",
+        "食べ物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の女性が並び、明るい表情で笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12500",
+      "name": {
+        "ja": "並んで笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "二人",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が横になって休み、額に冷却材のようなものを当てている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "12501",
+      "name": {
+        "ja": "寝込んで休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "横になる",
+        "冷却材"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が人魚のような姿の相手に抱きつき、二人で喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "12502",
+      "name": {
+        "ja": "抱きついて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "抱擁",
+        "人魚"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性の顔に横向きの効果線が重なり、風を受けているように見える。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "12503",
+      "name": {
+        "ja": "風に吹かれて顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "風",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が机に向かい、汗を浮かべながら困った表情をしている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "12504",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "汗",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を見開き、赤い効果線を背にして怒った表情でにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "12505",
+      "name": {
+        "ja": "怒ってにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "怒り",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性の背後に灰色の影のような姿が立ち、女性は驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "12506",
+      "name": {
+        "ja": "背後の影に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "影",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を閉じて満面の笑みを浮かべ、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12507",
+      "name": {
+        "ja": "笑顔で喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が穏やかな笑顔で立ち、周囲に紫色のきらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "12508",
+      "name": {
+        "ja": "きらめきの中で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "きらめき",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服と帽子を身につけた人物が、きらめきの中で立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12509",
+      "name": {
+        "ja": "華やかに装う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "ピンクの服",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が赤い旗のようなものを高く掲げ、勢いのある表情をしている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "12510",
+      "name": {
+        "ja": "赤いものを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤い旗",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が上から飛んでくる紙幣のようなものを見上げ、驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "12511",
+      "name": {
+        "ja": "飛んでくるお金に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "お金",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が口を大きく開けて笑い、頭上に大きな文字が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12512",
+      "name": {
+        "ja": "大声で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "大きな文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が驚いた表情で立ち、そばに大きな青い文字が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "12513",
+      "name": {
+        "ja": "大きな声に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "驚き",
+        "青い文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が片手で横を指差し、もう片方の手に小さな物を持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12514",
+      "name": {
+        "ja": "指を差して示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "指差し",
+        "案内"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性がクッションに寄りかかり、目を閉じて横になっている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "12515",
+      "name": {
+        "ja": "クッションで横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "クッション",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が口元に手を添え、楽しそうに含み笑いをしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12516",
+      "name": {
+        "ja": "含み笑いをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "含み笑い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が口を大きく開けて舌を出し、豪快に笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "12517",
+      "name": {
+        "ja": "舌を出して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "舌"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が体に包帯を巻いた姿で、正面を向いて立っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "12518",
+      "name": {
+        "ja": "包帯姿で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "包帯",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が指を口元に当て、驚いた表情で吹き出しを掲げている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "12519",
+      "name": {
+        "ja": "信じられないと驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "驚き",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を細めて、にっこりと笑っている。頭上に効果文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12520",
+      "name": {
+        "ja": "にっこり笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "効果文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が親指を立て、明るい表情で肯定の仕草をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12521",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "親指",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が立ち止まり、周囲に複数の疑問符を浮かべて困っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "12522",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符に囲まれて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "疑問符",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が両手を頬に当て、きらめきの中で嬉しそうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "12523",
+      "name": {
+        "ja": "頬に手を当てて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が目を細めて歯を見せ、赤い効果文字とともに怒りを表している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "12524",
+      "name": {
+        "ja": "怒りを爆発させる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "怒り",
+        "赤い効果文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性と女性が寄り添い、二人のそばに赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "12525",
+      "name": {
+        "ja": "寄り添ってハートを浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "女性",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が紙を手にして見つめ、周囲に渦巻きのような線が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "12526",
+      "name": {
+        "ja": "紙を見て困惑する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "紙",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い小物を口元に当て、そばに小さなハートが描かれている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "12527",
+      "name": {
+        "ja": "赤い小物を口元に当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "赤い小物",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服を着た人物が片手を上げ、迷ったような表情で立っている。そばに縦書きの文字がある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "12528",
+      "name": {
+        "ja": "たぶんと迷う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "緑の服",
+        "迷い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "よだれかけを着けた人物が、目を閉じて穏やかに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "12529",
+      "name": {
+        "ja": "穏やかに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "よだれかけ",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が青ざめた顔で目を半開きにし、汗をかいている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "12530",
+      "name": {
+        "ja": "青ざめて汗をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "青ざめる",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が燃え上がる火の前に座り、炎を見つめている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "12531",
+      "name": {
+        "ja": "火を見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "火",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった女性が、並んだ植物の世話をしている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "12532",
+      "name": {
+        "ja": "植物の世話をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "植物",
+        "庭仕事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女性が物陰から顔をのぞかせ、片目で様子をうかがっている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "12533",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "物陰",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が拳を前に突き出し、赤い衝撃線と大きな効果文字が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "12534",
+      "name": {
+        "ja": "勢いよくパンチする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "パンチ",
+        "衝撃"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "857",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

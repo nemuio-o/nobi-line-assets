@@ -1,0 +1,1165 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "一つ目で緑色の丸いキャラクターが、片手を上げて笑顔であいさつしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17231",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振ってあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あいさつ",
+        "手を振る",
+        "緑色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色で毛の長いキャラクターが、両手を高く上げて口を開け、元気よく喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17232",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "両手",
+        "紫色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の小柄なキャラクターが腕を組み、険しい顔で前を見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "17233",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "腕を組んで断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拒否",
+        "腕組み",
+        "オレンジ色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大型の毛むくじゃらのキャラクターが、片手を上げて笑顔で手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17234",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って別れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "別れ",
+        "手を振る",
+        "青いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数のカラフルなキャラクターが横に並び、正面を向いて感謝を伝えるように手を上げている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "17235",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "並んで感謝を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "集合",
+        "キャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "丸い灰色のキャラクターが両手を広げ、首をかしげるような表情で問いかけている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "17236",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "問いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "問いかけ",
+        "両手",
+        "丸いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い毛むくじゃらのキャラクターが両腕を大きく広げ、笑顔で喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17237",
+      "name": {
+        "ja": "腕を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "腕を広げる",
+        "青いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色で一つ目のキャラクターが両腕を振り、脚を上げて走りながら呼びかけている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17238",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "走りながら呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "呼びかけ",
+        "緑色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大型のキャラクターが片足を前に出し、両腕を動かして勢いよく駆け出している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17239",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "駆け出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "前進",
+        "青いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色で丸いキャラクターが腕を組み、目を細めて満足そうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17240",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "腕を組んでほめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "称賛",
+        "腕組み",
+        "ピンク色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服を着た丸いキャラクターが、片手を耳元に添えて電話をかけるようにしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17241",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "電話をかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "呼びかけ",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い毛むくじゃらのキャラクターが片手を上げ、笑顔で手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17242",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って再会を喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "再会",
+        "青いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "濃い紫色のキャラクターがマントを着て立ち、周囲に星のようなきらめきが描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17243",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "きらめきの中で誘う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "誘い",
+        "きらめき",
+        "マント"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大型のキャラクターと緑色の一つ目のキャラクターが並び、そろって片手を上げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17244",
+      "name": {
+        "ja": "二人で手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手を振る",
+        "青と緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色で毛の長いキャラクターが両手を広げ、目を見開いて困惑している。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "17245",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "両手を広げて困惑する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困惑",
+        "両手",
+        "紫色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色で一つ目のキャラクターが小さな旗を振り、紙吹雪の中で祝っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17246",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "旗を振って祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祝賀",
+        "旗",
+        "緑色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い赤紫色のキャラクターが目を見開き、口を大きく開けて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17247",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "叫び",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色で一つ目の細長いキャラクターが片腕を高く上げ、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17248",
+      "name": {
+        "ja": "腕を上げて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "片腕",
+        "緑色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大型のキャラクターが両手を高く上げ、口を開けて力強く声を上げている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "17249",
+      "name": {
+        "ja": "両手を上げて雄たけび"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雄たけび",
+        "両手",
+        "青いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の細長いキャラクターが片腕を上げ、口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17250",
+      "name": {
+        "ja": "大笑いする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "紫色のキャラクター",
+        "片腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長い紫色のキャラクターの頭上に、光る電球の絵が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "17251",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ひらめき",
+        "電球",
+        "紫色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服を着た丸いキャラクターが、あごに手を添えて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "17252",
+      "name": {
+        "ja": "考え込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "思考",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の小さなキャラクターが横向きになり、目を見開いて後ろを振り向いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17253",
+      "name": {
+        "ja": "驚いて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り向く",
+        "目を見開く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大型のキャラクターが体を丸めて横たわり、眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "17254",
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "横たわる",
+        "青いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の一つ目のキャラクターと青い大型のキャラクターが並んで立ち、上に空の吹き出しがある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17255",
+      "name": {
+        "ja": "並んで黙る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "無言",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色で毛の長いキャラクターが口を開け、両腕を広げて驚いたように飛び上がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "17256",
+      "name": {
+        "ja": "驚いて飛び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "飛び上がる",
+        "紫色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色で一つ目のキャラクターが小さな旗を掲げ、片足を上げて前へ進んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17257",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "旗を掲げて進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "旗",
+        "進む",
+        "緑色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数のカラフルなキャラクターが集まり、口を開けて一緒に声を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17258",
+      "name": {
+        "ja": "仲間と声を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "集合",
+        "歓声",
+        "キャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが複数並び、上にたくさんのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17259",
+      "name": {
+        "ja": "ハートを届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "ピンク",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色で一つ目のキャラクターが片手を腰に当て、音符のそばで楽しそうに立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17260",
+      "name": {
+        "ja": "音楽を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音楽",
+        "歌う",
+        "緑色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服を着た丸いキャラクターが、汗を飛ばしながら走っている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "17261",
+      "name": {
+        "ja": "汗をかいて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "汗",
+        "緑の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い赤茶色で細長いキャラクターが、腕を下ろして静かに立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17262",
+      "name": {
+        "ja": "腕を下ろして立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立つ",
+        "腕を下ろす",
+        "細長いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の細長いキャラクターが歩き、その肩に小さな黄色いキャラクターが乗っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17263",
+      "name": {
+        "ja": "肩に乗せて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大型のキャラクターと緑色の一つ目のキャラクターが肩を組み、並んで歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "17264",
+      "name": {
+        "ja": "肩を組んで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩を組む",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い細長いキャラクターが帽子をかぶり、目を細めて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17265",
+      "name": {
+        "ja": "帽子をかぶって笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "笑顔",
+        "青いキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色で一つ目の小さなキャラクターが、顔が隠れるほど高く積んだ本を両手で運んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "17266",
+      "name": {
+        "ja": "本を山積みに運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "運ぶ",
+        "緑色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色で一つ目のキャラクターが本を持ち、車輪の付いた板の上に乗って滑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17267",
+      "name": {
+        "ja": "本を持って滑る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "本",
+        "滑る",
+        "緑色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白黒で描かれた細身のキャラクターが腕を組み、横を向いて考えている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "17268",
+      "name": {
+        "ja": "腕を組んで考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "腕組み",
+        "白黒のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数のカラフルなキャラクターが横一列に並び、腕を上げて応援している。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "17269",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "仲間と応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "集合",
+        "紫色のキャラクター"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大型の毛むくじゃらのキャラクターが片手の指を立て、笑顔で前を示している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17270",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "指を立てて励ます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "励まし",
+        "指差し",
+        "青いキャラクター"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1043",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

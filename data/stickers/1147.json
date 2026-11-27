@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤い服の少女が口を大きく開け、両手を胸元で動かしながら声を張って笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19631",
+      "name": {
+        "ja": "声を張って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大笑い",
+        "少女",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が目を閉じた笑顔で、胸の前に手を添えて丁寧におじぎをしている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "19632",
+      "name": {
+        "ja": "にこやかにおじぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "おじぎ",
+        "丁寧"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女と年長の男性が肩を寄せて笑い、周囲に青やピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19633",
+      "name": {
+        "ja": "仲良く寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "仲良し",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の男性と赤い服の少女が並び、男性が少女の肩に手を置いている。そばに縦書きの赤い文字が添えられている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19634",
+      "name": {
+        "ja": "肩を並べて励ます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "肩",
+        "寄り添う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が歯を食いしばって身を縮め、全身に青い汗が飛び散っている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "19635",
+      "name": {
+        "ja": "汗だくで焦る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "焦り",
+        "歯を食いしばる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が頬をふくらませ、両脇に白い煙のような怒りの表現を浮かべて立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19636",
+      "name": {
+        "ja": "むっとして立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "不機嫌",
+        "怒り",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が目を閉じて大泣きし、口を大きく開けて叫んでいる。周囲に涙と水たまりがある。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "19637",
+      "name": {
+        "ja": "泣いてわめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泣く",
+        "涙",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女がうつむいて顔を隠し、頭上から濃い紫色の影が垂れ込めている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19638",
+      "name": {
+        "ja": "深く落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込み",
+        "うつむく",
+        "暗い影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が笑顔で片手を上げ、足を広げて立つ。左右に大きな青い英字が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "19639",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "元気にOK"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肯定",
+        "笑顔",
+        "英字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が目を閉じて笑い、片手の人差し指を立てている。指先から黄色い光線が広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "19640",
+      "name": {
+        "ja": "指を立ててひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "ひらめき",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が深く頭を下げ、片手を前に出して小さく身をかがめている。"
+      },
+      "emotion": [
+        "sadness",
+        "gratitude"
+      ],
+      "id": "19641",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "ぺこりと謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "謝意",
+        "少女"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が目を閉じて椅子に座り、頭を垂れたまま静かに眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "19642",
+      "name": {
+        "ja": "静かに居眠り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "居眠り",
+        "静か",
+        "紫の服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が目を閉じて笑い、胸の前で手を打ち合わせている。周囲に星とカラフルな文字風の装飾がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19643",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "拍手で盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拍手",
+        "盛り上がり",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が目を細めて立ち、頭の周りに渦巻きと揺れるような線が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "19644",
+      "name": {
+        "ja": "ふらふら酔う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふらつき",
+        "渦巻き",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が赤い眼鏡をかけ、頬杖をついて得意げに笑っている。背後に黄色い光が広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19645",
+      "name": {
+        "ja": "眼鏡で決め顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "得意げ",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が無表情で立ち、体の左側に大きな灰色の影がかかっている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "19646",
+      "name": {
+        "ja": "影の中で無言"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "無言",
+        "影",
+        "無表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三つ編みの女性が口を少し開けて見上げ、頭の横に大きなピンク色の疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "19647",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "女性",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡の人物が両手を広げて笑い、カラフルな集中線と大きな文字風の装飾を背に躍動している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19648",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "元気に飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "躍動",
+        "集中線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の男性が汗を流し、額に手を添えて息を切らすような表情をしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "19649",
+      "name": {
+        "ja": "汗を拭って疲れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "疲労",
+        "息切れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が前へ駆け出し、背後に長い動線と短い効果音風の文字が描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "19650",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "動線",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が横向きに転がり、同じ姿が残像のように連なっている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "19651",
+      "name": {
+        "ja": "転がって慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転がる",
+        "残像",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が両手にピンクのポンポンを持ち、笑顔で元気よく跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19652",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "ポンポンで応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ポンポン",
+        "跳ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が大きな白い布を顔に当て、目を閉じて泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "19653",
+      "name": {
+        "ja": "ハンカチで涙を拭う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "ハンカチ",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が笑顔で片手を前に伸ばし、白い風のような線を送り出している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19654",
+      "name": {
+        "ja": "風を送って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風",
+        "笑顔",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が目を閉じて体を傾け、口元を赤くしながらふらついている。頭上に小さな光がある。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "19655",
+      "name": {
+        "ja": "ふらりと酔う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "酔う",
+        "ふらつき",
+        "赤い頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が目を閉じ、口から白い息を吐いている。頭上には緑色の効果文字が添えられている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "19656",
+      "name": {
+        "ja": "ふうっと一息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ため息",
+        "一息",
+        "白い息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が両手を広げて満面の笑みを浮かべ、紙吹雪と星のカラフルな背景に包まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19657",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "派手に喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜び",
+        "紙吹雪",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女がリボンをつけ、目を輝かせて立っている。周囲に黄色いきらめきが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "19658",
+      "name": {
+        "ja": "きらめく笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "リボン",
+        "きらめき",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が灰色のブロック壁の端から顔を出し、身を隠しながら様子をうかがっている。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "19659",
+      "name": {
+        "ja": "壁からそっと覗く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "壁",
+        "覗く",
+        "隠れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が壁の裏から半身だけを出し、口元から白い息を漏らしながらためらっている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "19660",
+      "name": {
+        "ja": "壁陰でためらう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "壁",
+        "ためらい",
+        "白い息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の男性が目を細めてぼんやり立ち、体の周囲に淡い青紫の揺らめきがある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "19661",
+      "name": {
+        "ja": "ぼんやり立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ぼんやり",
+        "立つ",
+        "揺らめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の男性が目を細めて口をすぼめ、頬を赤く染めて立っている。周囲に黄色い点が散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19662",
+      "name": {
+        "ja": "照れて頬を染める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "赤い頬",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の男性が笑顔で手を広げ、背後にピンクのバラとハートが広がっている。上部に英字が添えられている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19663",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "気持ちを贈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バラ",
+        "ハート",
+        "贈り物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の男性が目を閉じて微笑み、両手を左右に広げて軽やかに動いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19664",
+      "name": {
+        "ja": "軽やかに手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "微笑み",
+        "両手",
+        "軽やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた年長の男性が正面を向いて立ち、周囲をピンクの渦巻き模様が取り囲んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "19665",
+      "name": {
+        "ja": "渦の中で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眼鏡",
+        "渦巻き",
+        "年長者"
+      ]
+    },
+    {
+      "description": {
+        "ja": "眼鏡をかけた年長の男性が目を閉じ、両手を前にそろえて深くおじぎをしている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "19666",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "丁寧に頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "おじぎ",
+        "眼鏡"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女と三つ編みの女性が並んで笑い、周囲に花とハートの装飾がある。上部に挨拶の文字が添えられている。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "19667",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "並んでよろしく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "花",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色の大きな雲の下で、赤い服の少女と女性が並び、左の男性が身を乗り出して怒っている。上部に強い驚きの線がある。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "19668",
+      "name": {
+        "ja": "三人で叱られる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "叱責",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "年長の男性が腕を組み、険しい顔で正面を見据えている。背景は青から黄色へ輝くグラデーションになっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19669",
+      "name": {
+        "ja": "堂々と腕を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "険しい顔",
+        "輝き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の少女が目を輝かせて微笑み、ピンク色のきらめく背景の中央に立っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "19670",
+      "name": {
+        "ja": "華やかに微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "ピンク",
+        "微笑み"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1147",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

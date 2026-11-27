@@ -1,0 +1,1121 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが両手を口元で合わせ、目を閉じてお願いするような表情をしている。"
+      },
+      "emotion": [
+        "gratitude"
+      ],
+      "id": "18999",
+      "name": {
+        "ja": "手を合わせてお願いする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お願い",
+        "手を合わせる",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが座り、目を閉じて口を大きく開け、手を広げて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "19000",
+      "name": {
+        "ja": "大笑いする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "座る",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが片手を上げて笑い、周囲にピンクや紫の花が舞っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "19001",
+      "name": {
+        "ja": "花に囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "花",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが胸元で腕を広げ、目を閉じて嬉しそうにしている。周囲にピンクのハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "19002",
+      "name": {
+        "ja": "ハートを抱えて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "喜び",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが眉をつり上げ、口を開けて怒ったように威嚇している。背後に黄色い放射線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19003",
+      "name": {
+        "ja": "怒って威嚇する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "威嚇",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが両手にピンクのポンポンを持って跳ねるように応援している。そばに小さな動物もいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "19004",
+      "name": {
+        "ja": "ポンポンを持って応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ポンポン",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが目を細めて険しい顔をし、頭の周囲に大きな炎が燃えている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19005",
+      "name": {
+        "ja": "怒りで燃える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが片手にバナナを持ち、もう片方の手を口元に添えて驚いたようにしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "19006",
+      "name": {
+        "ja": "バナナを差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バナナ",
+        "差し出す",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが両手を頬に当て、目から大粒の涙を流して泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "19007",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが机に向かって座り、頬杖をついて疲れたようにうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19008",
+      "name": {
+        "ja": "机でうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "うつむく",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが背を向けて立ち、小さな動物がその背中の毛を引っ張っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "19009",
+      "name": {
+        "ja": "背中を引っ張られる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "引っ張る",
+        "背中",
+        "小さな動物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが目を見開き、口を大きく開けて叫んでいる。周囲に黄色い衝撃線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "19010",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "叫ぶ",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが両手を頬に添え、口を大きく開けてあくびをしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "19011",
+      "name": {
+        "ja": "大あくびする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あくび",
+        "眠い",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが片手で頭をかき、目を閉じて困ったような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "19012",
+      "name": {
+        "ja": "頭をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "困惑",
+        "頭をかく",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが体を丸め、顔を床に向けて伏せている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19013",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "丸まって伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "伏せる",
+        "丸まる",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが両手を上げて険しい顔をし、上部に明瞭な「NO!」の文字がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19014",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "NOと拒否する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが片手を上げて元気に答え、上部に明瞭な「YES!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19015",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと答える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "肯定",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが座り、目を閉じた穏やかな表情で前を向いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "19016",
+      "name": {
+        "ja": "穏やかに座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "穏やか",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが体を縦に伸ばし、目を閉じて気持ちよさそうにしている。周囲に星が輝いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19017",
+      "name": {
+        "ja": "輝きながら伸びをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "伸び",
+        "輝き",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが雨の中で立ち、肩を落として寂しそうにしている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "19018",
+      "name": {
+        "ja": "雨の中で立ち尽くす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "立つ",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターがほうきを振り、怒ったような顔で掃除している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "19019",
+      "name": {
+        "ja": "ほうきで掃く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除",
+        "ほうき",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが青白く凍ったような姿になり、体を震わせている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "19020",
+      "name": {
+        "ja": "凍えて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寒い",
+        "震える",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが少し開いたドアの陰から顔と体をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "19021",
+      "name": {
+        "ja": "ドアから顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ドア",
+        "のぞく",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが両手で顔を覆い、肩を落として落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "19022",
+      "name": {
+        "ja": "顔を覆って落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "落ち込む",
+        "顔を覆う",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが縦長の物陰から半身だけを出し、片目をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "19023",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "物陰",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが両手を上げて踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19024",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "音楽",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが犬の背中に乗り、犬が前へ走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19025",
+      "name": {
+        "ja": "犬に乗って進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "犬",
+        "乗る",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが笑顔で小さなカップを片手に持ち、もう片方の手を差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "19026",
+      "name": {
+        "ja": "飲み物を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "差し出す",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターがピンク色の湯船につかり、頭にタオルをのせてくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "19027",
+      "name": {
+        "ja": "湯船でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "風呂",
+        "湯船",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターがサングラスと帽子を身につけ、マイクを持って立っている。横に明瞭な「HEY! HEY!」の文字がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "19028",
+      "name": {
+        "ja": "サングラスで呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "呼びかけ",
+        "HEY"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターを中心に、犬や小さな動物たちが集まり、楽しそうな表情を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19029",
+      "name": {
+        "ja": "仲間と集まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "集合",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターと犬、小さな動物が並び、縦線の背景の中で不安そうに身を寄せている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "19030",
+      "name": {
+        "ja": "仲間と身を寄せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "寄り添う",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが座り、目を閉じて頭を少し下げ、静かに休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "19031",
+      "name": {
+        "ja": "目を閉じて休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休む",
+        "座る",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが体をひねって振り向き、目を見開いて驚いている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "19032",
+      "name": {
+        "ja": "驚いて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "振り向く",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが枕に横たわり、ピンクのチェック柄の布団をかけて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "19033",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが白い服と羽、頭上の輪を身につけ、両手を広げて舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19034",
+      "name": {
+        "ja": "天使の姿で舞う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "天使",
+        "羽",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが悪魔の衣装と角、翼を身につけ、三つまたの槍を持って構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "19035",
+      "name": {
+        "ja": "悪魔の姿で構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "悪魔",
+        "角",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターがヘッドホンを着け、音楽プレーヤーを持って目を閉じて聴いている。周囲に音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "19036",
+      "name": {
+        "ja": "音楽を聴く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ヘッドホン",
+        "音楽",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターがポップコーンの容器を抱え、片手で食べている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "19037",
+      "name": {
+        "ja": "ポップコーンを食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポップコーン",
+        "食べる",
+        "アライグマ風"
+      ]
+    },
+    {
+      "description": {
+        "ja": "アライグマ風のキャラクターが花で飾られた贈り物の箱を抱えて運んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "19038",
+      "name": {
+        "ja": "贈り物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "贈り物",
+        "運ぶ",
+        "アライグマ風"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1128",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

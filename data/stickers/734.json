@@ -1,0 +1,1135 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服の人物が片足を上げ、片手を挙げて動きのある姿勢をとっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8991",
+      "name": {
+        "ja": "片足を上げて手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "片足",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな目玉の姿をしたキャラクターが、湯の入った器のような浴槽につかっている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "8992",
+      "name": {
+        "ja": "目玉の風呂"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "浴槽",
+        "入浴"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が横向きに寝そべり、片脚を曲げている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8993",
+      "name": {
+        "ja": "床に寝そべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "横になる",
+        "寝そべる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が手足を伸ばして這うような姿勢をとり、そばに赤いハートが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8994",
+      "name": {
+        "ja": "赤い服で這う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "這う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いフードの人物が、別の人物の上に身をかがめ、頭上に疑問符が描かれている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "8995",
+      "name": {
+        "ja": "黄色いフードで首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色いフード",
+        "首をかしげる",
+        "疑問符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が両手を高く上げ、片脚を上げて跳びはねている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8996",
+      "name": {
+        "ja": "両手を上げて跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い服",
+        "両手",
+        "跳ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が、片手で小さな目玉のキャラクターを持ち上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "8997",
+      "name": {
+        "ja": "小さな目玉を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "目玉",
+        "持つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が身を低くして前へ進み、周囲に動きの線が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "confusion"
+      ],
+      "id": "8998",
+      "name": {
+        "ja": "身を低くして進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "前かがみ",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目玉のキャラクターが立ち、片側に青い汗のしずくを浮かべている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "8999",
+      "name": {
+        "ja": "汗をかく目玉"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "汗",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が座り、頬に手を当てて考え込むような表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "9000",
+      "name": {
+        "ja": "頬に手を当てて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "頬",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "薄い色の四角い体をしたキャラクターが、短い手足を広げて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "9001",
+      "name": {
+        "ja": "四角い姿で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四角い体",
+        "立つ",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い顔のキャラクターが赤い服を着て、両手を大きく広げている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "9002",
+      "name": {
+        "ja": "黒い顔で両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い顔",
+        "赤い服",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が前方へ体を伸ばし、何かを引っ張るような姿勢をとっている。対象物の細部は不明確。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "9003",
+      "name": {
+        "ja": "勢いよく引っ張る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "引っ張る",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな目玉のキャラクターが、両足で立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "9004",
+      "name": {
+        "ja": "目玉が立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "立つ",
+        "足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が、小さな目玉のキャラクターを両腕で胸元に抱えている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "9005",
+      "name": {
+        "ja": "目玉を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "目玉",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が小型飛行機の上に乗り、片手を上げている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9006",
+      "name": {
+        "ja": "飛行機に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛行機",
+        "青い服",
+        "乗る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手を上げ、片脚を折り曲げて跳び上がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "9007",
+      "name": {
+        "ja": "身軽に跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "跳ぶ",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目玉のキャラクターが横たわり、片手で小さな器のようなものを差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9008",
+      "name": {
+        "ja": "器を差し出す目玉"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "器",
+        "差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が立ち、片手を挙げている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9009",
+      "name": {
+        "ja": "片手を挙げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "片手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目玉のキャラクターが格子柄の布団に横たわり、頭上に眠りを示す記号がある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "9010",
+      "name": {
+        "ja": "目玉が布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "睡眠",
+        "格子柄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手で顔を覆い、もう一方の足を前に出している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9011",
+      "name": {
+        "ja": "顔を覆って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "顔を覆う",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな耳のあるキャラクターが黒い服を着て、片足を上げて踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9012",
+      "name": {
+        "ja": "黒い服で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒い服",
+        "踊る",
+        "片足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が口元から複数の青い泡を吹き出している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "9013",
+      "name": {
+        "ja": "泡を吹く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "泡",
+        "吹く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目玉のキャラクターが二本の足で歩き、そばに動きの線が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "9014",
+      "name": {
+        "ja": "目玉が歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "歩く",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目玉のキャラクターが、湯の入った器のような浴槽のそばに立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "9015",
+      "name": {
+        "ja": "浴槽をのぞく目玉"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "浴槽",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が立ち、片手を頬に添えている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "9016",
+      "name": {
+        "ja": "頬に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "頬",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が頭を下げ、両手を前に垂らしている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "9017",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "頭を下げる",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目玉のキャラクターが両手を広げ、周囲に色とりどりの紙吹雪が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "9018",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "目玉が祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "両手",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が白い服を着て、腕を前に出すように構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "9019",
+      "name": {
+        "ja": "白い服で構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い服",
+        "構える",
+        "腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が、黒い大きな形のそばで引っ張られるように身を反らしている。形の正体は不明確。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "9020",
+      "name": {
+        "ja": "黒い影に引かれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "黒い影",
+        "引かれる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "薄い色の四角い体をしたキャラクターが、両手を横に広げて立っている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "9021",
+      "name": {
+        "ja": "四角い姿で両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四角い体",
+        "両手",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目玉のキャラクターが低い姿勢で這い、そばに音符が描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "joy"
+      ],
+      "id": "9022",
+      "name": {
+        "ja": "目玉が這う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "這う",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い髪の人物が白い服を着て、腕を下ろして立っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "9023",
+      "name": {
+        "ja": "白い服で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い服",
+        "長い髪",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が手足を広げ、強い動きの線に囲まれて飛ばされるように描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "9024",
+      "name": {
+        "ja": "勢いよく飛ばされる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "飛ばされる",
+        "動きの線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が複数の小さな人物やキャラクターに囲まれ、支えられるように運ばれている。細部は不明確。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "9025",
+      "name": {
+        "ja": "大勢に運ばれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "複数人",
+        "運ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が腕を下ろして立ち、正面を見ている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "9026",
+      "name": {
+        "ja": "腕を下ろして立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "立つ",
+        "無表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いフードの人物が、青い服の人物の背後から身を寄せるように描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "9027",
+      "name": {
+        "ja": "黄色いフードに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色いフード",
+        "青い服",
+        "囲む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が床にうつぶせになり、手足を伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "9028",
+      "name": {
+        "ja": "うつぶせに倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い服",
+        "うつぶせ",
+        "倒れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いフードの人物と青い服の人物が並んで歩いている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "9029",
+      "name": {
+        "ja": "二人で歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色いフード",
+        "青い服",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目玉のキャラクターが両手を広げて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "9030",
+      "name": {
+        "ja": "目玉が手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目玉",
+        "両手",
+        "立つ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "734",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

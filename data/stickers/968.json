@@ -1,0 +1,1092 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色のクマが片足を上げ、体を逆さにしたようなポーズを取っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15279",
+      "name": {
+        "ja": "クマが逆さになる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "逆さ",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが足を上に向け、逆さになったような姿勢でいる。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15280",
+      "name": {
+        "ja": "白いクマが逆さになる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "逆さ",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15281",
+      "name": {
+        "ja": "小鳥が立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "立つ",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが横たわり、そばに黄色い小鳥がいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15282",
+      "name": {
+        "ja": "横たわるクマと小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "小鳥",
+        "横たわる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが座り、青い飲み物の入った容器を持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15283",
+      "name": {
+        "ja": "飲み物を持つクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "飲み物",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが茶色のクマの上に乗り、黄色い小鳥もそばにいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15284",
+      "name": {
+        "ja": "クマに乗る白いクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "クマ",
+        "乗る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが横向きになり、紙を手にして読んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15285",
+      "name": {
+        "ja": "紙を読む白いクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "読む",
+        "紙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が赤いハートのそばに寄り添っている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "15286",
+      "name": {
+        "ja": "ハートに寄り添う小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "ハート",
+        "赤"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが台の上に立ち、手元の画面を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15287",
+      "name": {
+        "ja": "画面を見るクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "画面",
+        "背中"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が青い手鏡を持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15288",
+      "name": {
+        "ja": "手鏡を持つ小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "手鏡",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが立ち、上に青い文字で「sorry...」と表示されている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "15289",
+      "name": {
+        "ja": "sorryと書かれたクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "謝罪",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが横たわり、上に赤い文字で「OK?」と表示されている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "15290",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "OK?と示すクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "確認",
+        "文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが仰向けになり、足を上に向けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15291",
+      "name": {
+        "ja": "仰向けのクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "仰向け",
+        "転ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマがピンクの服を着て、丸い物を手に持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15292",
+      "name": {
+        "ja": "丸いものを持つ白いクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "丸い物",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥がポテトの入った容器を持っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15293",
+      "name": {
+        "ja": "ポテトを持つ小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "食べ物",
+        "ポテト"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが円形のカラフルな飾りの中に描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15294",
+      "name": {
+        "ja": "飾り枠の白いクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "飾り",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥がハート形のサングラスをかけている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15295",
+      "name": {
+        "ja": "サングラスの小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "サングラス",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが器を前に座り、そばに小鳥とスイカがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15296",
+      "name": {
+        "ja": "スイカを食べるクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "スイカ",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "扇風機の前で茶色と白のクマが重なり、黄色い小鳥もそばにいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15297",
+      "name": {
+        "ja": "扇風機の前で重なる二匹"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "茶色のクマ",
+        "白いクマ",
+        "扇風機"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマがサングラスをかけ、飲み物を持ってデッキチェアで休んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15298",
+      "name": {
+        "ja": "サングラスで休むクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "サングラス",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが黄色い浮き輪に横たわり、水色の水の上で休んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15299",
+      "name": {
+        "ja": "浮き輪で休むクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "浮き輪",
+        "水遊び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが水玉模様の帽子をかぶり、そばに小鳥がいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15300",
+      "name": {
+        "ja": "帽子の白いクマと小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "小鳥",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが水玉模様のフードをかぶり、周囲に水滴のような丸がある。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15301",
+      "name": {
+        "ja": "水玉の服を着た白いクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "水玉",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が白い縁取りのある帽子のようなものをかぶっている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "15302",
+      "name": {
+        "ja": "小鳥の寝姿"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "眠る",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが茶色い小さな物を両手で抱えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15303",
+      "name": {
+        "ja": "茶色い物を抱える白いクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "茶色",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が後ろ向きに立ち、手に小さな茶色い物を持っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15304",
+      "name": {
+        "ja": "後ろを向く小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "後ろ姿",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服を着たクマが歩き、周囲に赤い音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15305",
+      "name": {
+        "ja": "音符と歩くクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "音符",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが赤いうちわを持ち、頭の上に白いクマを乗せている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15306",
+      "name": {
+        "ja": "うちわを持つクマと白いクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "白いクマ",
+        "うちわ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが黄色い浮き輪の上に立ち、白い水玉模様の布を首にかけている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15307",
+      "name": {
+        "ja": "浮き輪に立つクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "浮き輪",
+        "水遊び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが赤い三角旗を持ち、走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15308",
+      "name": {
+        "ja": "旗を持って走るクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "旗",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が小さな茶色い丸い物をくわえている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15309",
+      "name": {
+        "ja": "小鳥が物をかじる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "食べる",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマの着ぐるみの上に茶色いクマが乗り、音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15310",
+      "name": {
+        "ja": "音符と歩くクマの着ぐるみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "音符",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の大きなクマが赤いうちわを持ち、頭の上に小さな白いクマが乗っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15311",
+      "name": {
+        "ja": "親子のクマとうちわ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "親子",
+        "うちわ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが水着姿で黄色い浮き輪の上に立っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15312",
+      "name": {
+        "ja": "水着姿のクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "水着",
+        "浮き輪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが青い布を首に巻き、赤い旗を持っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "15313",
+      "name": {
+        "ja": "旗を持つクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "旗",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥のそばで小さな花火のようなものが弾けている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15314",
+      "name": {
+        "ja": "花火を見る小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "花火",
+        "見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のクマが花飾りと緑の腰布を身につけ、腕を広げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15315",
+      "name": {
+        "ja": "水着で踊るクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "クマ",
+        "水着",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い小鳥が花飾りと緑の布を身につけ、上に赤い音符がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15316",
+      "name": {
+        "ja": "花火模様の小鳥"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小鳥",
+        "花",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが花柄の服と髪飾りを身につけ、赤い音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15317",
+      "name": {
+        "ja": "花飾りの白いクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "花",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白いクマが歩き、頭の上に黄色い小鳥を乗せている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15318",
+      "name": {
+        "ja": "小鳥を乗せた白いクマ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白いクマ",
+        "小鳥",
+        "歩く"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "968",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

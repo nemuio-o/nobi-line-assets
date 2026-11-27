@@ -1,0 +1,1186 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服の少女が両手に袋を提げ、笑顔で立っている。足元には小さな猫がいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21578",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "両手いっぱいのごあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "買い物袋",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫と桃色のしま模様の大きな猫が、目を輝かせてにやりと笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21579",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "にやりと肯定"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しま模様",
+        "笑顔",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青緑色の毛虫が横たわり、険しい顔で前をにらんでいる。上には拒否を示す大きな文字がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21580",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "きっぱりお断り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "毛虫",
+        "拒否",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の小さな兵士たちが、赤いバラと花びらに囲まれて元気よく並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21581",
+      "intent": [
+        "greeting",
+        "celebrate"
+      ],
+      "name": {
+        "ja": "花いっぱいの大歓迎"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "トランプ兵",
+        "バラ",
+        "歓迎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな緑の帽子をかぶった人物が、頬に手を添えて首をかしげている。頭上に疑問符がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "21582",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "帽子屋のひらめき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きな帽子",
+        "考える",
+        "疑問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "王冠をかぶった赤い服の人物が、両手を合わせるようにして申し訳なさそうに頭を下げている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "21583",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "王さまのひとこと謝罪"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "謝罪",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の白い顔の人物が横一列に並び、目を見開いて一斉に驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21584",
+      "name": {
+        "ja": "三人そろってびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "驚き",
+        "トランプ兵"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が、さまざまな花に囲まれた小さな花束を抱えて微笑んでいる。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "21585",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "花束に込めた感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花束",
+        "少女",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が、飾り付けたケーキとティーポットの前で楽しそうに手を添えている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21586",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "お茶会の準備中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お茶",
+        "ケーキ",
+        "少女"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな紫色の人物たちが輪になって踊り、周囲に色とりどりの音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21587",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "音符と踊る仲間たち"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "ダンス",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女と赤い服の仲間たちが肩を寄せて笑い、紙吹雪が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21588",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "みんなでお祝い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祝福",
+        "紙吹雪",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が花の咲く緑の上に座り、そばの小さな猫を眺めている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "21589",
+      "name": {
+        "ja": "花の上でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "休憩",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い紫色のきのこの上で、小さな人物が目を閉じて座り、周囲にきらめきが漂っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21590",
+      "name": {
+        "ja": "きのこの上でうとうと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きのこ",
+        "眠気",
+        "休息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が箱のような枠の中で頬杖をつき、周囲にハートを浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21591",
+      "name": {
+        "ja": "夢見る箱の中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "ハート",
+        "夢"
+      ]
+    },
+    {
+      "description": {
+        "ja": "しま模様の大きな猫が舌を出して笑い、頭上に桃色のハートがいくつも浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21592",
+      "name": {
+        "ja": "ハートを飛ばす笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が目を閉じて穏やかに立ち、そばに音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21593",
+      "name": {
+        "ja": "音楽に耳をすます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "少女",
+        "音楽"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が大きな時計の文字盤から飛び出し、片手に小さなランプを持っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "21594",
+      "name": {
+        "ja": "時計からひょっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "時計",
+        "飛び出す",
+        "少女"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い上着の白うさぎがラッパを抱えて、砂ぼこりを上げながら勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "fear"
+      ],
+      "id": "21595",
+      "name": {
+        "ja": "急げ急げの大疾走"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白うさぎ",
+        "走る",
+        "急ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が大粒の涙を流し、水しぶきのような中で泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "21596",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "涙の水しぶき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "少女",
+        "水"
+      ]
+    },
+    {
+      "description": {
+        "ja": "しま模様の猫が腕を組んでにっこり笑い、頭上の白い吹き出しで何かを思いついている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "21597",
+      "name": {
+        "ja": "笑顔のひらめき"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "笑顔",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が水の中で大きな透明な瓶に入れられたように見え、周囲に水面が広がっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21598",
+      "name": {
+        "ja": "水の中からこんにちは"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "水",
+        "瓶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女がうつむいて座り、そばで小さな猫が寄り添っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21599",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "しょんぼりひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "落ち込む",
+        "猫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いベストの白うさぎがラッパを抱え、舌を出して疲れたように座っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21600",
+      "name": {
+        "ja": "ラッパを抱えて休憩"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白うさぎ",
+        "ラッパ",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が頬杖をついて考え込み、頭上に点々の吹き出しが浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "21601",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "考えごとの途中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "頬杖",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が手を頬に当てて考え込み、前に置かれた小さな花を見つめている。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "21602",
+      "name": {
+        "ja": "花を前に思案中"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "花",
+        "思案"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の二人組が両手を振り上げ、口を大きく開けて同時に叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21603",
+      "name": {
+        "ja": "二人で大さわぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "叫ぶ",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が両手を広げ、肩をすくめるような表情でこちらを見ている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "21604",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "肩をすくめてお手上げ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "肩をすくめる",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "少女と仲間たちが、飲み物や料理の並ぶテーブルを囲んでにぎやかに集まっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21605",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "にぎやかなお茶会"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お茶会",
+        "料理",
+        "仲間"
+      ]
+    },
+    {
+      "description": {
+        "ja": "しま模様の大きな猫が、丸いおなかを見せて紫色の地面に寝そべっている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21606",
+      "name": {
+        "ja": "大きなおなかでごろり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "横になる",
+        "しま模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が体をひねって振り返り、少し驚いたような顔で横を見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "21607",
+      "name": {
+        "ja": "振り向きざまの視線"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "振り返る",
+        "視線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と黒の服の人物が赤いハートを高く掲げ、拳を握って大声で叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21608",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ハートを掲げて大熱唱"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "ハート",
+        "叫ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が両手を頬に当て、目を大きく見開いて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21609",
+      "name": {
+        "ja": "びっくり両手をほほへ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "驚き",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が、鼻先まで伸びた大きな赤いめがねをかけて正面を見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "21610",
+      "name": {
+        "ja": "鼻先の大きなめがね"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "めがね",
+        "変装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が背の高い草の間から顔だけを出し、周囲をうかがっている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "21611",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "草むらからそっと確認"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "草むら",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が、赤い道の上を先を走る白うさぎに向かって追いかけている。"
+      },
+      "emotion": [
+        "excitement",
+        "fear"
+      ],
+      "id": "21612",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "急いで追いかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "走る",
+        "白うさぎ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が緑と青の迷路の中で額に手を当て、困ったように立ち止まっている。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "21613",
+      "name": {
+        "ja": "迷路で途方に暮れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "迷路",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が机に肘をつき、片手で額を覆ってうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21614",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "机でしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "机",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "しま模様の猫が体を丸め、歯を見せた大きな笑顔でこちらを見ている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21615",
+      "name": {
+        "ja": "満面のにやり笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "大笑い",
+        "しま模様"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の少女が大きな木の根元にもたれ、目を閉じて静かに眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21616",
+      "name": {
+        "ja": "木陰でひと眠り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "少女",
+        "木陰",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い花で飾られた舞台幕に、別れを告げる短い文字が描かれている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21617",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "花飾りの幕引き"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "幕",
+        "花",
+        "別れ"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1228",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1155 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが片手を上げ、上部に「Hello!」の文字がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27122",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振ってハロー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Hello",
+        "手を振る",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さなキャラクターが頬を赤らめ、赤い吹き出しの「Chu」とハートに囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27123",
+      "name": {
+        "ja": "ほっぺにキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キス",
+        "ハート",
+        "頬"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが目を閉じ、両目から大粒の涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "27124",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが目を細めて笑い、上部にハートと星が散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27125",
+      "name": {
+        "ja": "ハートを背ににっこり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "ハート",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが両手を上げ、上部に「YES!」の文字がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27126",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "両手を上げてイエス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "YES",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "水色のキャラクターが左右に揺れるような線とともに立ち、上部に「NO!」の文字がある。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "27127",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "首を振ってノー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "NO",
+        "拒否",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが目を閉じて微笑み、周囲に黄色や青のきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27128",
+      "name": {
+        "ja": "きらめく笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが黄色い花を前に差し出している。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27129",
+      "name": {
+        "ja": "花を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "差し出す",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが体を弾ませるように片手を上げ、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27130",
+      "name": {
+        "ja": "元気に手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "笑顔",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "キャラクターの顔の周囲に大きな疑問符があり、黄色い背景の中で驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "27131",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符で驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "驚き",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが横になって目を閉じ、上部に青い「Zzz」が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "27132",
+      "name": {
+        "ja": "横になって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "横になる",
+        "Zzz"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが目を閉じて笑い、周囲に紫と青のハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27133",
+      "name": {
+        "ja": "ハートに囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが笑顔で座り、上部に「Thank you!」の文字がある。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "27134",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "お礼を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Thank you",
+        "お礼",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが頭を下げ、上部に「SORRY」の文字と水滴がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "27135",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "頭を下げてソーリー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "SORRY",
+        "謝罪",
+        "お辞儀"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが腕を広げ、背後に赤や黄色の炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "27136",
+      "name": {
+        "ja": "炎を背負って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "勢い",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが両腕を上げて跳び上がり、周囲にきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27137",
+      "name": {
+        "ja": "跳び上がって喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが両手で口元を覆い、頬を赤らめている。周囲に短い線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "27138",
+      "name": {
+        "ja": "口元を隠して照れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "照れ",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが目を細め、歯を見せて舌を出しながら笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27139",
+      "name": {
+        "ja": "舌を出して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "舌",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のキャラクターが険しい表情をし、背後に赤や黄色の炎が広がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "27140",
+      "name": {
+        "ja": "炎の中で怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "炎",
+        "緑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが大きなピンクのハートを抱え、周囲にもハートが散っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27141",
+      "name": {
+        "ja": "ハートを抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱える",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが両手に黄色いポンポンを持ち、周囲に青い放射線がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27142",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "ポンポンで応援する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "応援",
+        "ポンポン",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが目に涙を浮かべ、口元に両手を寄せている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "27143",
+      "name": {
+        "ja": "涙をこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "こらえる",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色のキャラクターが目を閉じてうつむき、口元から白い息のような雲を出している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "27144",
+      "name": {
+        "ja": "ため息をつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ため息",
+        "疲れ",
+        "紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "水色のキャラクターが横を向き、左側の小さな黒い形を指し示している。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "27145",
+      "name": {
+        "ja": "小さなものを指す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "小さい",
+        "水色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが青い縦長の物陰から顔だけをのぞかせ、横に揺れの線がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "27146",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "物陰",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "水色のキャラクターが片腕を上へ長く伸ばし、その先に小さな白い形を掲げている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "27147",
+      "name": {
+        "ja": "手を高く伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を伸ばす",
+        "高く",
+        "水色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫とピンクのキャラクターが体を揺らして踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27148",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "音符",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが、三つの青いひさしのようなものが付いた車輪付きの乗り物に乗っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "27149",
+      "name": {
+        "ja": "車輪の乗り物に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乗り物",
+        "車輪",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが横になり、頭上の白い吹き出しに小さなカップの絵が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "27150",
+      "name": {
+        "ja": "夢を見ながら横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "夢",
+        "眠り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが両腕を上げて踊り、周囲に音符とハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "27151",
+      "name": {
+        "ja": "音符とハートで踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "音符",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "水色のキャラクターが黄色い格子柄の布をまとい、右側に「Good morning」の文字と雲形の飾りがある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "27152",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "グッドモーニング"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Good morning",
+        "朝",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが目を閉じて口を開け、音符を伴って体を揺らしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27153",
+      "name": {
+        "ja": "歌いながら揺れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歌う",
+        "音符",
+        "揺れる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが棒付きの旗を持ち、旗に「Good luck!」と書かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27154",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "グッドラックを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Good luck",
+        "旗",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青紫色の背景の中で、黄色いキャラクターが頭を下げて座り、上から縦線が落ちている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "27155",
+      "name": {
+        "ja": "青い影でうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うなだれる",
+        "青い背景",
+        "影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色のキャラクターが首を傾け、左右に青い疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "27156",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符に囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "困惑",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きなピンク色のキャラクターが、たくさんの小さなキャラクターに囲まれ、左右にハートがある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27157",
+      "name": {
+        "ja": "みんなに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "ハート",
+        "囲まれる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色のキャラクターが横向きに回転するような姿勢で、左側に速さを示す線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "27158",
+      "name": {
+        "ja": "勢いよく回る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "回転",
+        "スピード",
+        "紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが片足を上げたようなポーズを取り、胸元の小さな飾りと周囲の星が光っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27159",
+      "name": {
+        "ja": "きらめいて決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポーズ",
+        "きらめき",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色いキャラクターが目を閉じ、体を前に折り曲げるように頭を下げている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "27160",
+      "name": {
+        "ja": "おじぎして挨拶"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "挨拶",
+        "黄色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色のキャラクターが片手を振り、上部に「Bye」の文字と小さなハートがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "27161",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振ってバイバイ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "Bye",
+        "手を振る",
+        "ハート"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1464",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1148 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "ミニーが片手を上げ、笑顔で指を広げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "6159",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を上げて挨拶"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を上げる",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが腕を広げて踊り、周囲に紙吹雪や音符が舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6160",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "紙吹雪で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "紙吹雪",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じ、片手を口元に添えてキスを送るような仕草をしている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "6161",
+      "name": {
+        "ja": "目を閉じて投げキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "口元",
+        "投げキス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが大きな鍋と道具を持ち、黄色いリボンを頭につけている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "6162",
+      "name": {
+        "ja": "鍋を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鍋",
+        "料理",
+        "リボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーが横に並び、互いに腕を伸ばしている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "6163",
+      "name": {
+        "ja": "二人で歩み寄る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "腕を伸ばす",
+        "並んで立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが青い雨のような背景の前で、身を縮めて立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "6164",
+      "name": {
+        "ja": "雨の中で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "身を縮める",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーが洗濯物の下で黄色い布を持ち、洗濯かごのそばに立っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "6165",
+      "name": {
+        "ja": "洗濯物を干す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "洗濯物",
+        "布",
+        "かご"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが水玉模様の仕切りから顔を出し、片手を広げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "6166",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "顔を出して手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "手を広げる",
+        "水玉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが笑顔で両手を広げ、周囲に「YES」の文字が見える。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6167",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "笑顔でイエス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "両手",
+        "YES"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが口元に手を当て、周囲に「NO」の文字が見える。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "6168",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "口元に手を当ててノー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "NO",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じて口を開け、音符と音の線に囲まれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6169",
+      "name": {
+        "ja": "音符と歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "歌う",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーがじょうろを持ち、花のそばで水をやっている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "6170",
+      "name": {
+        "ja": "花に水をやる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花",
+        "じょうろ",
+        "水やり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが両手を胸元に寄せ、ハートに囲まれて笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "6171",
+      "name": {
+        "ja": "ハートを抱えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "胸元",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を見開き、両手を上げて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "6172",
+      "name": {
+        "ja": "驚いて手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "両手",
+        "目を見開く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じ、両手を胸の前で組んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "6173",
+      "name": {
+        "ja": "目を閉じて手を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "両手",
+        "胸元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーとミッキーが向かい合い、ミニーが片手を差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "6174",
+      "name": {
+        "ja": "二人で向き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "向かい合う",
+        "手を差し出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが黄色いポンポンのようなものを両手に持ち、音符の中で踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6175",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ポンポンを持って踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "ポンポン",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが両手の親指を立て、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6176",
+      "intent": [
+        "ok",
+        "agree"
+      ],
+      "name": {
+        "ja": "両手で親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "親指",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーとミッキーが屋外で横に並び、腕を振って走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6177",
+      "name": {
+        "ja": "二人で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "走る",
+        "屋外"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが頬に手を当て、周囲の疑問符を見て困った表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "6178",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符に囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "頬に手",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが両手で顔を覆い、大粒の涙を流している。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "6179",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "顔を覆う",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じて丸まり、月と星の背景の中で眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "6180",
+      "name": {
+        "ja": "月の下で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "月",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが口元に手を当て、そばに赤い感嘆符が浮かんでいる。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "6181",
+      "name": {
+        "ja": "驚いて口元に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感嘆符",
+        "口元",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが片手で白い布を持ち、もう一方の手を顔の近くに置いている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "6182",
+      "name": {
+        "ja": "布を顔に近づける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布",
+        "顔の近く",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが黄色い物を両手で抱え、緑色の円形の背景の前にいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "6183",
+      "name": {
+        "ja": "黄色い物を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色",
+        "両手",
+        "円形背景"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが腕を広げて体を傾け、頭の周囲に渦巻きが浮かんでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "6184",
+      "name": {
+        "ja": "ふらついて腕を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "渦巻き",
+        "ふらつき",
+        "腕を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーとミニーがテーブルを挟んで向かい合い、グラスを掲げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6185",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "二人で乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "グラス",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じて眉を寄せ、両手を握りしめている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "6186",
+      "name": {
+        "ja": "拳を握って怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "両手",
+        "握りこぶし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが片手を前に差し出し、ハートの背景の中で微笑んでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "6187",
+      "name": {
+        "ja": "ハートを差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "手を差し出す",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミッキーが片手を口元に添え、口の前に灰色の煙のような形が出ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "6188",
+      "name": {
+        "ja": "煙を吐くように立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "煙のような形",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが両腕を広げ、片脚を上げて勢いよく走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6189",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "片脚",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが笑顔で両腕を広げ、片脚を上げて駆けている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6190",
+      "name": {
+        "ja": "腕を広げて駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "駆ける",
+        "両腕"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが杖のような細長い物を片手に持ち、もう一方で上を指している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "6191",
+      "name": {
+        "ja": "きらめきの中で指す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "指差し",
+        "細長い物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じ、両手を胸元で組んで穏やかに笑っている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "6192",
+      "name": {
+        "ja": "目を閉じて手を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "両手",
+        "穏やかな笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが机の前に座り、画面を見ながら作業している。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "6193",
+      "name": {
+        "ja": "机で画面を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "画面",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが両手を頬に当て、青い渦巻きのそばで困った表情をしている。"
+      },
+      "emotion": [
+        "confusion",
+        "fear"
+      ],
+      "id": "6194",
+      "name": {
+        "ja": "頬に手を当てて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬に手",
+        "渦巻き",
+        "困り顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じて泡の浮かぶ水の中に横たわっている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "6195",
+      "name": {
+        "ja": "泡の中で横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泡",
+        "水",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが両手を広げて立ち、周囲に黄色い感嘆符が浮かんでいる。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "6196",
+      "name": {
+        "ja": "両手を広げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "感嘆符",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じ、両手を合わせた姿勢で青いしずくに囲まれている。"
+      },
+      "emotion": [
+        "sadness",
+        "gratitude"
+      ],
+      "id": "6197",
+      "name": {
+        "ja": "手を合わせて祈るようにする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "手を合わせる",
+        "しずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ミニーが目を閉じて口を開け、両腕を曲げた姿で紫色の印に囲まれている。"
+      },
+      "emotion": [
+        "surprise",
+        "tired"
+      ],
+      "id": "6198",
+      "name": {
+        "ja": "目を閉じて口を開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "口を開ける",
+        "紫色の印"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "627",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

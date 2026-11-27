@@ -1,0 +1,1138 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "金髪の人物が縦長の灰色の板の後ろから片目だけをのぞかせている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "8031",
+      "name": {
+        "ja": "顔を隠してのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "板",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が両腕を上げ、赤い服の裾をなびかせながら走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "8032",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "動き",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が正座のように座ってうつむき、顔の周りに汗が飛んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "8033",
+      "name": {
+        "ja": "汗をかいてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "うつむく",
+        "正座"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が床に横たわり、手足を伸ばして目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8034",
+      "name": {
+        "ja": "横になって休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横になる",
+        "休む",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が笑顔で片手を額に添え、もう一方の手を腰に置いて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8035",
+      "name": {
+        "ja": "元気にポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポーズ",
+        "笑顔",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が両手を広げ、片足を上げて笑顔で跳ねている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8036",
+      "name": {
+        "ja": "両手を広げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "喜ぶ",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が花柄の布団から顔を出して横になり、目を閉じている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8037",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "布団",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が正座して深く頭を下げ、周囲にきらめきが描かれている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "8038",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "きちんとおじぎ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "正座",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が片目を閉じて笑い、親指を立てている。頭の上に赤いハートがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8039",
+      "name": {
+        "ja": "親指で笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "笑顔",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が笑顔で片手を頬に添え、青い服の周りに色付きの星が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8040",
+      "name": {
+        "ja": "きらきら笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "星",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物がスカートを広げるように踊り、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8041",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "音符",
+        "スカート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物がハートの付いた封筒を掲げ、もう一方の手を振っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8042",
+      "name": {
+        "ja": "ハートを届ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "手紙",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物がノートパソコンの後ろから顔を出し、片手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8043",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "ノートパソコンから挨拶"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ノートパソコン",
+        "手を振る",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が赤い飲み物の入ったグラスを持ち、片目を閉じて微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8044",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "グラスを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "グラス",
+        "赤い飲み物",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物がスプーンのような道具を口元に運び、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8045",
+      "name": {
+        "ja": "食べ物を口に運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べる",
+        "スプーン",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が緑のマフラーと赤い手袋を身につけ、顔を覆うようにしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "8046",
+      "name": {
+        "ja": "寒さに身を縮める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "マフラー",
+        "手袋",
+        "寒い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物がストローで飲み物を飲み、片手に赤い実のようなものを持っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8047",
+      "name": {
+        "ja": "飲み物を味わう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "ストロー",
+        "赤い実"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が頬に片手を添え、穏やかな表情でこちらを見ている。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "8048",
+      "name": {
+        "ja": "頬に手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頬",
+        "手",
+        "ネックレス"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が腕を組み、片手を口元に添えて考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "8049",
+      "name": {
+        "ja": "腕を組んで考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "考える",
+        "赤いリボン"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が鞄を持ち、口を開けた表情で走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "8050",
+      "name": {
+        "ja": "急いで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "急ぐ",
+        "鞄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の人物が手に持った茶色い食べ物を口元に運び、目を閉じている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8051",
+      "name": {
+        "ja": "料理を味わう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べる",
+        "茶色い食べ物",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の人物が目を閉じ、指先を上げた口元から細い煙のような線が出ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8052",
+      "name": {
+        "ja": "煙を吐く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "煙",
+        "目を閉じる",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短髪の人物が笑顔でこちらを指差し、もう一方の手を胸元に置いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8053",
+      "name": {
+        "ja": "こちらを指す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "笑顔",
+        "男性"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が赤い服を着て眼鏡をかけ、指を口元に添えて考えている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "8054",
+      "name": {
+        "ja": "赤い服で考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い服",
+        "眼鏡",
+        "考える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が赤い服を着て振り返り、片手を顔の横に上げている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "8055",
+      "name": {
+        "ja": "振り返る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り返る",
+        "赤い服",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が顔の横に大きな黄色い飲み物のジョッキを掲げ、目を閉じている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8056",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "大きなジョッキを持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジョッキ",
+        "飲み物",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が赤い器を手に持ち、箸で食べ物を口に運んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8057",
+      "name": {
+        "ja": "丼をかき込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "丼",
+        "食事",
+        "箸"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が腕を組んで目を閉じ、肩口に矢のようなものが刺さっている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8058",
+      "name": {
+        "ja": "矢が刺さって落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "矢",
+        "落ち込む",
+        "腕組み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物があごに手を当て、目を閉じて考え込んでいる。周囲に小さなきらめきがある。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "8059",
+      "name": {
+        "ja": "あごに手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "あご",
+        "考える",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が白い扉の赤い鍵穴に手を伸ばし、扉を開けようとしている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "8060",
+      "name": {
+        "ja": "扉を開ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "扉",
+        "鍵穴",
+        "開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が床に仰向けに倒れ、片腕を伸ばしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "8061",
+      "name": {
+        "ja": "床に倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "倒れる",
+        "床",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が茶色い地面のような場所に座り込み、顔を覆うようにうなだれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8062",
+      "name": {
+        "ja": "泥の中でうなだれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "泥",
+        "うなだれる",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が飲み物の入った容器を抱え、周囲に紙や小物が散らばっている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "8063",
+      "name": {
+        "ja": "飲み物と紙を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "紙",
+        "抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が複数に分かれたように並び、両手を上げて踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8064",
+      "name": {
+        "ja": "分身して踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "分身",
+        "踊る",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が額縁の前で横になり、額縁の中には薄い人影と赤いハートが描かれている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8065",
+      "name": {
+        "ja": "額縁の前で横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "額縁",
+        "横になる",
+        "絵"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物二人が顔を寄せ、目を閉じて並んでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "8066",
+      "name": {
+        "ja": "寄り添って目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寄り添う",
+        "目を閉じる",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が白い大きな帽子のようなものをかぶり、目を閉じてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8067",
+      "name": {
+        "ja": "帽子をかぶってうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "うつむく",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が片目を閉じて笑い、人差し指を立てている。周囲にきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8068",
+      "name": {
+        "ja": "指を立てて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が目を細めて笑い、片手を大きくこちらへ向けて掲げている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "8069",
+      "name": {
+        "ja": "手を大きく掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手",
+        "笑顔",
+        "大きな手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物たちが横一列に並んで寝転び、中央の人物が手を上げている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8070",
+      "name": {
+        "ja": "並んで寝転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寝転ぶ",
+        "並ぶ",
+        "金髪"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "700",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

@@ -1,0 +1,1162 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "青い服の人物が体を前に折り、手に小さな黒っぽい物を持って深く頭を下げている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "27442",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "深くおじぎする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "おじぎ",
+        "青い服",
+        "手元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手両足を広げて跳び上がり、周囲に黄色や赤の勢い線が広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27443",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "勢いよく跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ジャンプ",
+        "両手",
+        "放射線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の人物がオレンジ色の縦長の面の陰から顔と片手を出し、指を立てている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "27444",
+      "name": {
+        "ja": "物陰から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "物陰",
+        "指差し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、片方が上を指しながら笑っている。上部にピンク色のLOVEの文字と星がある。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "27445",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "LOVEを指して喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "LOVE",
+        "二人",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "カラフルな衣装の人物が体を大きく動かし、周囲に黄色いきらめきが散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27446",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "きらめきの中で舞う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "舞う",
+        "カラフル",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が正面へ指を強く突き出し、指先の横に赤と黄色の衝撃のような図形がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "27447",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "指を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "勢い",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両腕を前に置いて顔を伏せ、頭の周りに青いしずくのような形が浮かんでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "27448",
+      "name": {
+        "ja": "机に伏して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "伏せる",
+        "涙",
+        "青いしずく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が緑色の丸いものに寄りかかって横になり、両手を顔の前に置いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "27449",
+      "name": {
+        "ja": "クッションに寄りかかる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休む",
+        "緑",
+        "寝そべる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服の人物が両足を開いて立ち、両手を広げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27450",
+      "name": {
+        "ja": "元気に立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンクの服",
+        "立つ",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が両手両足を床につけて大きく反り、逆さまの姿勢になっている。足の間に赤いOKの文字が見える。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "27451",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "逆さまのOK"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "逆さま",
+        "OK",
+        "ストレッチ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が並び、口元に手を当てたり目を見開いたりしている。上に黄色と赤のOHHHH!!の文字がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "27452",
+      "name": {
+        "ja": "みんなで驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "驚き",
+        "OHHHH"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が白い縦長の面の端から顔だけをそっと覗かせ、横に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "27453",
+      "name": {
+        "ja": "壁際からそっと覗く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "覗く",
+        "壁際",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の服の人物が片手を後頭部に当て、少し照れたように笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "confusion"
+      ],
+      "id": "27454",
+      "name": {
+        "ja": "照れながら頭をかく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭をかく",
+        "緑の服",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手を広げ、もう一方の手を胸元に置いて驚いたような表情をしている。横に赤い記号と黄色い線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "27455",
+      "name": {
+        "ja": "驚いて手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "手を広げる",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を伸ばして横向きに飛び出すような姿勢になり、上方に黒い縦線が並んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "27456",
+      "name": {
+        "ja": "勢いよく飛び出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飛ぶ",
+        "横向き",
+        "勢い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が低い位置から目元だけを出してこちらを見ており、頭の周りに緑色の曲線がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "27457",
+      "name": {
+        "ja": "そっと顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔を出す",
+        "隠れる",
+        "緑の線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が紫色の物を何段も積み重ねた大きな荷物として抱えて運んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "27458",
+      "name": {
+        "ja": "荷物を抱えて運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "運ぶ",
+        "積み重ね",
+        "紫"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が大きな紫色の布のようなものを両側から持って広げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27459",
+      "name": {
+        "ja": "大きな布を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "広げる",
+        "紫の布",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が赤い大きなものに両手をつき、力を込めて押さえ込んでいる。周囲に緑色の線がある。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "27460",
+      "name": {
+        "ja": "赤いものを押さえ込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "押さえる",
+        "赤",
+        "力む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並んで座るような姿勢で動き、周囲に白い円形の線がいくつも描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27461",
+      "name": {
+        "ja": "二人でくるくる回る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "回転",
+        "白い線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が膝を抱えて小さく座り、周囲に黄色いきらめきが散っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "27462",
+      "name": {
+        "ja": "膝を抱えて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "膝を抱える",
+        "座る",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が横になり、そばに立つ二つの飲み物の容器を眺めている。容器の周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "27463",
+      "name": {
+        "ja": "飲み物を前に休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "横になる",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がピンク色のものに顔を預けて横になり、頭の周りに淡い花が咲いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "27464",
+      "name": {
+        "ja": "花の中でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休憩",
+        "花",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が正面を向き、両手を左右に広げて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "27465",
+      "name": {
+        "ja": "両手を広げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "赤い服",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が紫色のクッションのようなものに横たわり、目を閉じている。上に青いZの文字がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "27466",
+      "name": {
+        "ja": "横になって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "横になる",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の服の人物が片足を上げて踊り、周囲に黄色や青のきらめきが広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27467",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "きらめいて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "ピンク",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物がペンを持ち、手元の罫線入りの紙に何かを書き込んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "27468",
+      "name": {
+        "ja": "予定を書き込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "メモ",
+        "書く",
+        "予定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い上着と赤いマフラーを身につけた人物が、小さな黄色い物を持った手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27469",
+      "name": {
+        "ja": "冬支度で手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "冬服",
+        "マフラー",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が青い星空のような背景の前で赤い飲み物を持ち、周囲に星がきらめいている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "27470",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星空の下で乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "星空",
+        "飲み物",
+        "乾杯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が青い毛布のようなものから顔を出し、片手を頬の近くに添えている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "27471",
+      "name": {
+        "ja": "毛布から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "毛布",
+        "顔を出す",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を横に傾け、足を浮かせたまま倒れ込むような姿勢になっている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "27472",
+      "name": {
+        "ja": "よろけて倒れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転倒",
+        "横向き",
+        "よろける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "前の人物が足を上げて跳び、後ろの複数の人物が腕を上げている。周囲に黄色や青のきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27473",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "みんなで盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "ジャンプ",
+        "応援"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が床に座り、片手をついてうつむいている。上方から黄色い光が差している。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "27474",
+      "name": {
+        "ja": "光の中で座り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "うつむく",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が赤い電話の受話器のようなものを耳に当て、笑顔で話している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "27475",
+      "name": {
+        "ja": "電話で話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "電話",
+        "通話",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が青い布団のようなものにくるまり、目を閉じて眠っている。頭の横に小さな点が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "27476",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "青"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の帽子をかぶった人物が両手に飲み物を持って立ち、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27477",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "音楽に合わせて乾杯"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "乾杯",
+        "音符",
+        "緑の帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が寄り添い、一人が赤い小物を持って口を開けている。周囲に赤と紫の音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "27478",
+      "name": {
+        "ja": "二人で音楽を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "音符",
+        "歌う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片手を額の横に上げ、胸を張って敬礼している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "27479",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "胸を張って敬礼する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "敬礼",
+        "青い服",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が椅子のようなものに座り、膝を抱えるようにしてうつむいている。周囲に紫や青の線がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "27480",
+      "name": {
+        "ja": "座ってひと息つく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "休憩",
+        "赤い靴下"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が灰色の台のようなものに座り、顔を下に向けている。頭の横に青い雲形の吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "27481",
+      "name": {
+        "ja": "考え込んで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "座る",
+        "考える",
+        "吹き出し"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1477",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

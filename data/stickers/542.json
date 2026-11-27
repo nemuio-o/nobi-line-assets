@@ -1,0 +1,1060 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "肩に手を添えられたまま正面を向き、静かな表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2772",
+      "name": {
+        "ja": "肩に手のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "肩に手",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "目を閉じ、肩に手を添えられたまま少し顔をしかめている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "2773",
+      "name": {
+        "ja": "目を閉じるのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を閉じる",
+        "肩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を握りしめて顔の横に上げ、目を閉じて力を込めている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "2774",
+      "name": {
+        "ja": "握りこぶしのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "握りこぶし",
+        "力を込める"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を前に差し出し、手のひらの間に小さな黄色い形を浮かべている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "2775",
+      "name": {
+        "ja": "両手のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "黄色い形"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服で正面を向き、腕を下ろしてまっすぐ立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2776",
+      "name": {
+        "ja": "正面のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "正面を向いて腕を下ろし、穏やかな顔で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2777",
+      "name": {
+        "ja": "正面のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "腕を組み、少し横を向いて考え込むような表情をしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "2778",
+      "name": {
+        "ja": "腕組みのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "考え込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手に小さなものを持ち上げ、もう一方の腕を下ろして見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2779",
+      "name": {
+        "ja": "小さなもののポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "小さなもの",
+        "持ち上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手で缶のような容器を持ち、もう一方の手を伸ばしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2780",
+      "name": {
+        "ja": "容器のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "容器",
+        "手を伸ばす"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな赤い容器を掲げ、もう一方の手にも小さな容器を持って立っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "2781",
+      "name": {
+        "ja": "赤い容器のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い容器",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手をもう一方の手のひらの上にかざし、周りに小さな黄色い形を散らしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "2782",
+      "name": {
+        "ja": "手のひらのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "黄色い形"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机に肘をつき、頬に手を当てて物思いにふけっている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "2783",
+      "name": {
+        "ja": "机のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "頬杖"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机に寄りかかり、片手を首元に添えて気だるそうにしている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "2784",
+      "name": {
+        "ja": "机のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "首元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "スマートフォンのようなものを耳に当て、立ったまま話している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2785",
+      "name": {
+        "ja": "通話のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "通話",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を高く上げ、こちらに向かって手を振っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "2786",
+      "intent": [
+        "greeting",
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振るのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "鏡の前に立ち、鏡に映る自分の姿をじっと見ている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "2787",
+      "name": {
+        "ja": "鏡のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鏡",
+        "自分を見る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を頭上に高く上げ、元気よく合図している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "2788",
+      "name": {
+        "ja": "片手のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "片手",
+        "合図"
+      ]
+    },
+    {
+      "description": {
+        "ja": "淡い色の大きな四角の後ろから、顔と上半身をのぞかせている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "2789",
+      "name": {
+        "ja": "四角のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "四角",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手の人差し指をこちらへ向け、強い表情で指し示している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "2790",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "指差しのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手でこちらを指し、もう一方の指で腕元を示している。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "2791",
+      "name": {
+        "ja": "指差しのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "腕元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "背を向け、両手を腰の後ろで組んで立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2792",
+      "name": {
+        "ja": "後ろ姿のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "手を組む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "背を向けて立ち、両手を後ろで組んだまま横へ動いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2793",
+      "name": {
+        "ja": "後ろ姿のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "後ろ姿",
+        "移動"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を腰に当て、汗を浮かべて前を見ている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "2794",
+      "name": {
+        "ja": "腰に手のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腰に手",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔を大きく傾け、近い位置からこちらを見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2795",
+      "name": {
+        "ja": "顔のアップのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔のアップ",
+        "見つめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を耳に添え、聞き返すような表情でこちらを向いている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "2796",
+      "name": {
+        "ja": "耳に手のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "耳に手",
+        "聞き返す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を前に出して歩き、足元に小さな黄色い形が舞っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "2797",
+      "name": {
+        "ja": "歩くのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歩く",
+        "黄色い形"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を頭の横に上げ、肩をすくめるようにしている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "2798",
+      "name": {
+        "ja": "両手のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "肩をすくめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服で正面を向き、腕を下ろして無表情に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2799",
+      "name": {
+        "ja": "正面のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正面",
+        "立ち姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を腰に当て、体を前に傾けてこちらを見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "2800",
+      "name": {
+        "ja": "腰に手のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腰に手",
+        "前傾"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手のひらを上向きに差し出し、横に丸い印の吹き出しがある。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "2801",
+      "name": {
+        "ja": "手のひらのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机に伏して横になり、横に得点入りの吹き出しが描かれている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "2802",
+      "name": {
+        "ja": "机のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "両手を頭の後ろで組み、横に得点入りの吹き出しを出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2803",
+      "name": {
+        "ja": "頭の後ろのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭の後ろ",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "腕を組んで座り、片手の親指を立てたような仕草をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "2804",
+      "name": {
+        "ja": "腕組みのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "親指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を握って胸元に上げ、横に得点入りの吹き出しがある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "2805",
+      "name": {
+        "ja": "握りこぶしのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "握りこぶし",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "机に両腕を置いて伏せ、横に得点入りの吹き出しを出している。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "2806",
+      "name": {
+        "ja": "机のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を頭に添え、横に得点入りの吹き出しを出している。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "2807",
+      "name": {
+        "ja": "頭に手のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "頭に手",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手を握って前に出し、横に得点入りの吹き出しがある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "2808",
+      "name": {
+        "ja": "握りこぶしのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "握りこぶし",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "体を反らして腕を組み、横に文字の入った吹き出しがある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "2809",
+      "name": {
+        "ja": "腕組みのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手で親指を立て、横に文字の入った吹き出しを添えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "2810",
+      "intent": [
+        "agree",
+        "ok"
+      ],
+      "name": {
+        "ja": "親指のポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "片手の人差し指を斜め上へ向け、横を指し示している。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "2811",
+      "name": {
+        "ja": "指差しのポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-26",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "斜め上"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "542",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

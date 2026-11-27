@@ -1,0 +1,1131 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "女の子が片手の親指を立て、片目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7991",
+      "name": {
+        "ja": "親指を立ててウインク"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "ウインク",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が両手を握り、目を閉じて口を大きく開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7992",
+      "name": {
+        "ja": "こぶしを握って大笑い"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大笑い",
+        "こぶし",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が両手を頬の近くに添え、唇をすぼめている。周囲に小さなハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7993",
+      "name": {
+        "ja": "両手で投げキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "投げキス",
+        "ハート",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が片手を上げて踊っている。頭上に音符があり、足元に小さなキャラクターが見える。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7994",
+      "name": {
+        "ja": "音符と一緒に踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "ダンス",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が片手でピースサインを作り、片目を閉じて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7995",
+      "name": {
+        "ja": "笑顔でピース"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピースサイン",
+        "ウインク",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が指を口元に当て、首をかしげている。そばに赤い疑問符が浮かんでいる。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "7996",
+      "name": {
+        "ja": "首をかしげて考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "考える",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が両手を頬に添えて目を輝かせている。周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7997",
+      "name": {
+        "ja": "きらきら喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらきら",
+        "両手",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が頬を赤らめ、視線を下げて立っている。周囲に小さな花のような印がある。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "7998",
+      "name": {
+        "ja": "照れてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "照れ",
+        "赤面",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が片手を口元に添え、目を細めていたずらっぽく笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7999",
+      "name": {
+        "ja": "にやりと笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "にやり",
+        "笑顔",
+        "片手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が大粒の涙を流しながら両手を合わせている。"
+      },
+      "emotion": [
+        "sadness",
+        "gratitude"
+      ],
+      "id": "8000",
+      "name": {
+        "ja": "涙をこらえて手を合わせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "手を合わせる",
+        "お願い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が両手を握り、口を大きく開けて元気に笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8001",
+      "name": {
+        "ja": "両手を握って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "喜ぶ",
+        "こぶし",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が両手で目元をぬぐい、涙を流している。周囲に青い水滴のような線がある。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "8002",
+      "name": {
+        "ja": "涙をぬぐう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "ぬぐう",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が片手でピースサインを作り、汗を浮かべながら笑っている。"
+      },
+      "emotion": [
+        "tired",
+        "joy"
+      ],
+      "id": "8003",
+      "name": {
+        "ja": "汗をかいてピース"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピースサイン",
+        "汗",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が片手の親指を立て、穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8004",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "親指でオーケー"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "オーケー",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が目を細め、歯を見せて笑っている。口元の横に青い息のような線がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8005",
+      "name": {
+        "ja": "歯を見せて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "歯",
+        "息"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が机に腕を置いて目を閉じ、口元から白い息のような線を出している。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8006",
+      "name": {
+        "ja": "机でひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "休憩",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が大きな赤いハートを抱え、片目を閉じている。ハートには英字のような白い文字が見える。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8007",
+      "name": {
+        "ja": "ハートを抱えて愛を伝える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "愛情",
+        "ウインク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子がピンク色の板状の物と黄色い小物を持って笑っている。細かな文字は判別しにくい。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8008",
+      "name": {
+        "ja": "黄色い小物を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い小物",
+        "掲げる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が親指を立てており、隣に「OK」と書かれた吹き出しがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "8009",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "オーケーの吹き出し"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オーケー",
+        "吹き出し",
+        "親指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が青いポンポンを両手に持って跳ね、応援するようなポーズをしている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "8010",
+      "name": {
+        "ja": "ポンポンで応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ポンポン",
+        "応援",
+        "ジャンプ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が両手を上げ、ハンバーガーや菓子のような食べ物に囲まれて立っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "8011",
+      "name": {
+        "ja": "食べ物に囲まれて慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べ物",
+        "ハンバーガー",
+        "慌てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が机の前で驚いた表情をしている。背後に白い幽霊のような形が浮かんでいる。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "8012",
+      "name": {
+        "ja": "幽霊に驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "幽霊のような影",
+        "驚き",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が机に伏せて眠っている。頭上に赤いZの記号が並んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8013",
+      "name": {
+        "ja": "机で寝落ちする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "寝る",
+        "机",
+        "Zマーク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物と女の子が並んで立ち、二人の周囲に黄色いきらめきが描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8014",
+      "name": {
+        "ja": "きらめく二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "きらめき",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が横を向いて息を吹きかけている。手元に黒い小さな機器のような物がある。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "8015",
+      "name": {
+        "ja": "息を吹きかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "息",
+        "小物",
+        "横向き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が歯を食いしばって叫び、片手を握りしめている。周囲に白い息のような線がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8016",
+      "name": {
+        "ja": "怒って叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "叫ぶ",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が両手で頭を抱え、大粒の涙を流している。頭の横に赤い衝撃線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "anger"
+      ],
+      "id": "8017",
+      "name": {
+        "ja": "泣き崩れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "頭を抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が床に手をつき、深く頭を下げている。背後に縦の線が並んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "gratitude"
+      ],
+      "id": "8018",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "深く頭を下げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お辞儀",
+        "頭を下げる",
+        "謝罪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が正面を見て立っている。隣に点が三つ入った吹き出しがある。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "8019",
+      "name": {
+        "ja": "無言で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "吹き出し",
+        "無言",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が目を閉じてうつむき、涙を流している。頭の周囲に青い汗のような線がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8020",
+      "name": {
+        "ja": "泣いてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "うつむく",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が両手を上げて飛び上がり、頭上に赤いびっくりマークが描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "8021",
+      "name": {
+        "ja": "驚いて飛び上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "飛び上がる",
+        "びっくりマーク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が汗をかきながら走っている。片手に小さな黒い柄の袋のような物を持っている。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "8022",
+      "name": {
+        "ja": "慌てて走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "慌てる",
+        "小さな鞄"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が文字の入った黄色い服を着て、片手を上げている。隣に立てかけた大きな看板があるが、文字は判別しにくい。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8023",
+      "name": {
+        "ja": "看板を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "看板",
+        "掲げる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の女の子が並んで笑い、片方が小さな包みを持っている。周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8024",
+      "name": {
+        "ja": "二人で贈り物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "贈り物",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の女の子がケーキを前に並んで座り、笑顔で祝っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8025",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ケーキを囲んで祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ケーキ",
+        "二人",
+        "お祝い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の女の子がグラスのような物を掲げて乾杯している。片方は赤い飲み物を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8026",
+      "name": {
+        "ja": "二人で乾杯する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "乾杯",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の女の子が肩を寄せて並び、片方がウインクしている。周囲にハートときらめきがあり、上部に英字のような文字が見える。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "8027",
+      "name": {
+        "ja": "親友と並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親友",
+        "二人",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が机に向かい、紙と花のような物を前にして作業している。そばに小さな黄色い人形のような物がある。"
+      },
+      "emotion": [
+        "calm",
+        "love"
+      ],
+      "id": "8028",
+      "name": {
+        "ja": "机で手紙を書く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "机",
+        "手紙",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が枕に頭を乗せて横になっている。額に体温計のような物があり、そばにコップが置かれている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "8029",
+      "name": {
+        "ja": "熱を出して休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "体温計",
+        "枕",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "女の子が布団に横になり、目を閉じて眠っている。枕元に小さな丸い時計のような物がある。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8030",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "目を閉じる"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "699",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

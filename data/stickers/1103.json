@@ -1,0 +1,1148 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが片手を上げ、口を開けて明るくあいさつしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18743",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "あいさつする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "手を上げる",
+        "あいさつ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが両手を広げ、周囲に赤いハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "18744",
+      "name": {
+        "ja": "ハートを飛ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "ハート",
+        "手を広げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが転び、片足を抱えながら痛そうな表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "18745",
+      "name": {
+        "ja": "転んで痛がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "転倒",
+        "痛み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが両手を上げて跳び上がり、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18746",
+      "name": {
+        "ja": "跳び上がって喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "ジャンプ",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが両手を振り、明るい表情で別れを告げている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18747",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "手を振って別れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "手を振る",
+        "別れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが大きく口を開けて笑い、前に身を乗り出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18748",
+      "name": {
+        "ja": "笑顔で身を乗り出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "笑顔",
+        "身を乗り出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが両手を体の横に下ろし、口をすぼめたすました表情で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18749",
+      "name": {
+        "ja": "すました顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "すまし顔",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが口を開け、頭の横に赤い疑問符を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "18750",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問に首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "疑問符",
+        "首をかしげる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが両手を高く上げて笑い、周囲に紙吹雪ときらめきが舞っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18751",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手を上げて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "両手を上げる",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが歯を食いしばって顔をしかめ、片手を突き出して拒否している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "18752",
+      "intent": [
+        "no",
+        "refuse"
+      ],
+      "name": {
+        "ja": "強く断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "拒否",
+        "しかめ顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが胸を張り、片手を上げて口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18753",
+      "name": {
+        "ja": "胸を張って笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "笑顔",
+        "胸を張る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが正面を向いて口を開け、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18754",
+      "name": {
+        "ja": "きらめく笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "笑顔",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが寝間着姿で小さな枕を抱え、眠そうに立っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "18755",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "おやすみ前のあいさつ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "パジャマ",
+        "就寝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが険しい表情で立ち、背後に赤と黄色の炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "18756",
+      "name": {
+        "ja": "燃えるように怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "怒り",
+        "炎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが体を横に倒し、口を大きく開けて笑いながら転がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18757",
+      "name": {
+        "ja": "笑いながら転がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "笑い",
+        "転がる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが机に伏せ、そばのスマートフォンを見ながら待っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "18758",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "電話を待つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "電話",
+        "机"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが頭を下げ、両手を合わせるようにして謝っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "18759",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "謝罪",
+        "頭を下げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが片手に飲み物を持って掲げ、もう片方の手を上げて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18760",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "乾杯して喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "乾杯",
+        "紙吹雪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが傘を差して雨の中で踊り、片足を黄色い水たまりに入れている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18761",
+      "name": {
+        "ja": "雨の中で踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "傘",
+        "雨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターがストロー付きの赤い飲み物を持ち、目を閉じて味わっている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18762",
+      "name": {
+        "ja": "飲み物を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "飲み物",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが泡の中で背を向けて座り、そばにボトルや洗面器が置かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18763",
+      "name": {
+        "ja": "お風呂に入る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "風呂",
+        "洗面器"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが両手で顔を覆い、目を強く閉じて泣いている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "18764",
+      "name": {
+        "ja": "顔を覆って泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "顔を覆う",
+        "涙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが赤い毛布にくるまり、飲み物と本のようなものをそばに置いている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "18765",
+      "name": {
+        "ja": "毛布にくるまる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "毛布",
+        "飲み物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが床に座り、開いた本を両手で読んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "18766",
+      "name": {
+        "ja": "本を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "読書",
+        "本"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが三体、手をつないだように横並びで歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "18767",
+      "name": {
+        "ja": "一緒に歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "三人",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが腕を前に伸ばし、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "18768",
+      "name": {
+        "ja": "急いで走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "走る",
+        "急ぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが雨に打たれて立ち、手に閉じた傘を持っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "18769",
+      "name": {
+        "ja": "雨に打たれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "雨",
+        "傘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが地面に座り、頭を下げて落ち込んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "18770",
+      "name": {
+        "ja": "落ち込んで座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "落ち込む",
+        "地面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが小さな舟に横たわり、音符を浮かべながらくつろいでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "18771",
+      "name": {
+        "ja": "舟でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "舟",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが目を見開き、両手を上げて驚きながら跳ねている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "18772",
+      "name": {
+        "ja": "驚いて跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "驚き",
+        "跳ねる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが胸元に手を置き、頭の横に黄色い電球を浮かべている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "18773",
+      "name": {
+        "ja": "ひらめく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "電球",
+        "ひらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが両手に箸を持ち、皿の料理を前に目を閉じて喜んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "18774",
+      "name": {
+        "ja": "食事を楽しむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "食事",
+        "箸"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが飲み物や食べ物の袋を両手に抱え、歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18775",
+      "name": {
+        "ja": "食べ物を抱えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "食べ物",
+        "買い物袋"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターがサングラスをかけ、音符を浮かべながら楽器を持って踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18776",
+      "name": {
+        "ja": "音楽に合わせて踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "サングラス",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが赤い毛布にくるまって丸まり、眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "18777",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "丸まって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "睡眠",
+        "毛布"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが水辺から顔を出し、近くの黄色い鳥のようなキャラクターと向き合っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "18778",
+      "name": {
+        "ja": "水辺で話す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "水辺",
+        "会話"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青色のウサギのようなキャラクターが腕を広げ、音符を伴って楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18779",
+      "name": {
+        "ja": "踊る青いキャラクター"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青いキャラクター",
+        "ダンス",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが両手に料理を掲げ、目を閉じて嬉しそうにしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18780",
+      "name": {
+        "ja": "ごちそうを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "料理",
+        "両手に持つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが食卓の中央で両手を上げ、周囲にさまざまな料理が並んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "18781",
+      "name": {
+        "ja": "料理に囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "料理",
+        "食卓"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエル状キャラクターが灰色の物陰から顔と片手を出し、こちらをのぞいている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "18782",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル状キャラクター",
+        "のぞく",
+        "物陰"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1103",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

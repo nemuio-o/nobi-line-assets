@@ -1,0 +1,1163 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが口を大きく開けて笑い、両手を左右に広げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20031",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "大きく笑って両手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "笑顔",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが目を閉じ、腰を落として眠そうに休んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "20032",
+      "name": {
+        "ja": "眠そうにひと休み"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "休憩",
+        "眠気"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが目をぎゅっと閉じ、左右に青い涙を飛ばしている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "20033",
+      "name": {
+        "ja": "涙をこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "涙",
+        "困る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが白い猫のようなキャラクターの背中に寄り添い、肩をたたくようにしている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "20034",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "背中をぽんぽん"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "励ます"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが片手を上げ、笑顔で頭上に黄色い星を出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20035",
+      "intent": [
+        "ok"
+      ],
+      "name": {
+        "ja": "きらりと了解"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "了解",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが目を細めて腕を組み、頭上に青い拒否の文字が見える。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "20036",
+      "intent": [
+        "refuse",
+        "no"
+      ],
+      "name": {
+        "ja": "きっぱり拒否"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "拒否",
+        "腕組み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが小さな端末を持ち、そばに音符を浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "20037",
+      "name": {
+        "ja": "音符でごきげん"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "音楽",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが床に座り、木のたらいを前に困った顔をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "20038",
+      "name": {
+        "ja": "たらいで反省"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "たらい",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが笑顔で、頭上に星を散らして感謝を表している。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "20039",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "星いっぱいの感謝"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "感謝",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが青い涙を浮かべ、申し訳なさそうにうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "20040",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "しょんぼり謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "涙",
+        "謝罪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが小さなほうきを持ち、床のそばで掃除している。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "20041",
+      "name": {
+        "ja": "掃除して整える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "掃除",
+        "ほうき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが両手で頭を抱え、横線を出して悩んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "sadness"
+      ],
+      "id": "20042",
+      "name": {
+        "ja": "頭を抱えて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "悩み",
+        "頭を抱える"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが首をかしげ、片手を上げて疑問を示している。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "20043",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "首をかしげる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "疑問",
+        "首かしげ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが腕を上げて得意げに笑い、周囲に星が輝いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20044",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星付きグッド"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "称賛",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが目を閉じて大笑いし、手に小さな道具を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "20045",
+      "name": {
+        "ja": "声を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "大笑い",
+        "道具"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが飲み物の入ったグラスを持ち、腰に手を当てている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "20046",
+      "name": {
+        "ja": "飲み物で一息"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "飲み物",
+        "休憩"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターの顔が赤く染まり、周囲に赤い炎が燃え上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20047",
+      "name": {
+        "ja": "熱く燃える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "炎",
+        "闘志"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが背を向けて床に座り、影を落としている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "20048",
+      "name": {
+        "ja": "力を抜いて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "座る",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが壁際に座り、肩を落としてうつむいている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20049",
+      "name": {
+        "ja": "壁際でしょんぼり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "落ち込み",
+        "壁"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが目を細めて振り向き、頭の後ろに黄色い光線が走っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "20050",
+      "name": {
+        "ja": "まぶしく振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "振り向く",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが目を閉じ、左右に青い涙を流している。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "20051",
+      "name": {
+        "ja": "涙が止まらない"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "涙",
+        "泣く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが眉を寄せ、輪郭線を強調して前をにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "20052",
+      "name": {
+        "ja": "むっとにらむ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "怒り",
+        "にらむ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターと白い猫のようなキャラクターが並び、二人とも青い汗を飛ばしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "20053",
+      "name": {
+        "ja": "二人で大あわて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "汗",
+        "あわてる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが横向きに倒れ込むように進み、背後に速さの線がある。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "20054",
+      "name": {
+        "ja": "勢いよく飛び去る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "急ぐ",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターが腕を組み、体を震わせるように立っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "20055",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "腕組みで不満"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黒猫",
+        "腕組み",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが背を丸めて座り、頭上に縦の落ち込み線が並んでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "20056",
+      "name": {
+        "ja": "さらに落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "落ち込み",
+        "縦線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが古いテレビの横から顔を出し、小さな物体を見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "20057",
+      "name": {
+        "ja": "テレビの陰から覗く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "テレビ",
+        "覗く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが目を閉じて微笑み、周囲をピンクのハートで囲まれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "20058",
+      "name": {
+        "ja": "ハートに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが赤い帽子とたすき姿で旗を掲げ、木の棒を持っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20059",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "旗を振って応援"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "応援",
+        "旗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが自転車に乗り、前へ進んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20060",
+      "name": {
+        "ja": "自転車で出発"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "自転車",
+        "出発"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが黄色と黒の柱の陰から顔を出し、足元の小さな物体を見ている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "20061",
+      "name": {
+        "ja": "柱の陰から覗く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "柱",
+        "覗く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが柱の反対側から顔を出し、床の小さな物体を気にしている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "20062",
+      "name": {
+        "ja": "そっと様子を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "柱",
+        "様子見"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが布団に横たわり、頭上に眠りの記号を浮かべている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "20063",
+      "intent": [
+        "farewell"
+      ],
+      "name": {
+        "ja": "布団でおやすみ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "睡眠",
+        "布団"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒いキャラクターと白い猫のようなキャラクターがぶつかり、中央に赤い衝撃線と黄色い星が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "anger"
+      ],
+      "id": "20064",
+      "name": {
+        "ja": "ぶつかってびっくり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "衝突",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが青い服でボールを蹴り、勢いよく動いている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20065",
+      "name": {
+        "ja": "ボールを蹴る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "サッカー",
+        "ボール"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫のようなキャラクターが目を閉じて頬に手を添え、周囲に縦書きの日本語が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "confusion"
+      ],
+      "id": "20066",
+      "name": {
+        "ja": "夢見心地で考える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "夢",
+        "思案"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の小さなキャラクターが眉をつり上げ、足元を踏み鳴らすように怒っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "20067",
+      "name": {
+        "ja": "怒りをぶつける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "踏み鳴らす",
+        "ピンク"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエルがオレンジ色の傘を差し、雨粒の中で立っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "20068",
+      "name": {
+        "ja": "雨宿りするカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "傘",
+        "雨"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いキャラクターがカメラを手にし、緑色の文字を添えて立っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "20069",
+      "name": {
+        "ja": "カメラを構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カメラ",
+        "撮影",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "灰色のロボットが片手を上げ、頭上の吹き出しに小さな点が描かれている。"
+      },
+      "emotion": [
+        "surprise",
+        "calm"
+      ],
+      "id": "20070",
+      "intent": [
+        "answer"
+      ],
+      "name": {
+        "ja": "ロボットが返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "吹き出し",
+        "返事"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1167",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

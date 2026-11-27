@@ -1,0 +1,1137 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "茶色いクマ、赤い髪の人物、帽子をかぶった人物の3人が並んで登場している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13671",
+      "name": {
+        "ja": "3人で登場する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仲間",
+        "3人",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が両腕を上げ、「OK!」の文字とともに返事をしている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13672",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "OKと返事する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "agree",
+        "OK",
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が腕を組み、「SORRY...」の文字とともに謝っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "13673",
+      "intent": [
+        "apology"
+      ],
+      "name": {
+        "ja": "SORRYと謝る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "apology",
+        "SORRY",
+        "謝罪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "マントを着けた人物が斜め上に向かって緑色の光線を放っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13674",
+      "name": {
+        "ja": "光線を放つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "光線",
+        "ヒーロー",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が親指を立て、「LIKE!」と示している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13675",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "LIKEと親指を立てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "agree",
+        "LIKE",
+        "親指"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服のクマが腕を広げ、「DISLIKE」と示している。"
+      },
+      "emotion": [
+        "disgust"
+      ],
+      "id": "13676",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "DISLIKEと示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "no",
+        "DISLIKE",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が体を傾け、周囲に渦巻きが描かれている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "13677",
+      "name": {
+        "ja": "めまいでふらつく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "めまい",
+        "ふらつく",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が青ざめた顔で身を縮め、縦の線を背にして震えている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "13678",
+      "name": {
+        "ja": "寒そうに震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震える",
+        "寒い",
+        "動揺"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが片脚を上げ、両腕を広げて勢いよく動いている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13679",
+      "name": {
+        "ja": "勢いよく動く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "動き",
+        "ポーズ",
+        "クマ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服のクマが「CONGRATS」と書かれた紙吹雪の中で笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13680",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "CONGRATSと祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "celebrate",
+        "CONGRATS",
+        "祝福"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が疑問符の付いた帽子をかぶり、両手を広げている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "13681",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "question",
+        "疑問符",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三つ編みの人物が目を閉じて笑い、周囲にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13682",
+      "name": {
+        "ja": "ハートに囲まれて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "love",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が口を開けて驚き、頭上に赤い感嘆符が描かれている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "13683",
+      "name": {
+        "ja": "驚いて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "感嘆符",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が湯船につかり、浴室の窓のそばでくつろいでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13684",
+      "name": {
+        "ja": "湯船でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お風呂",
+        "入浴",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が腕を組み、頭の上に怒りの煙を出している。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13685",
+      "name": {
+        "ja": "怒って腕を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "腕組み",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が両腕を広げ、「Thank you!」と感謝を伝えている。"
+      },
+      "emotion": [
+        "gratitude",
+        "joy"
+      ],
+      "id": "13686",
+      "intent": [
+        "thanks"
+      ],
+      "name": {
+        "ja": "Thank youと感謝する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "thanks",
+        "Thank you",
+        "感謝"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物とクマが虹色の背景と紙吹雪の中で盛り上がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13687",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "みんなで盛り上がる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祝福",
+        "仲間",
+        "パーティー"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服のクマが商品を積んだショッピングカートを押している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13688",
+      "name": {
+        "ja": "買い物をする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "買い物",
+        "カート",
+        "商品"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が両腕を広げ、「WELCOME」と書かれた文字とともに迎えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13689",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "WELCOMEと迎える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "greeting",
+        "WELCOME",
+        "歓迎"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服のクマが片手を振り上げ、怒った表情をしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13690",
+      "name": {
+        "ja": "怒って手を振り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "手を振る",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が頬に手を当てて笑い、周囲にピンク色のハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13691",
+      "name": {
+        "ja": "ハートを浮かべて喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "love",
+        "ハート",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服のクマが拳を握り、「YES!」と答えている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13692",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "YESと答える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "agree",
+        "YES",
+        "返事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服のクマが手を振り、「NO!」と断っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "13693",
+      "intent": [
+        "no"
+      ],
+      "name": {
+        "ja": "NOと断る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "no",
+        "NO",
+        "拒否"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が黒い上着を着て、あらたまった様子で立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13694",
+      "name": {
+        "ja": "あらたまって立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "正装",
+        "立つ",
+        "落ち着き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が机に突っ伏して眠っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "13695",
+      "name": {
+        "ja": "机で居眠りする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "居眠り",
+        "机",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が険しい表情でこちらを見つめている。"
+      },
+      "emotion": [
+        "anger",
+        "confusion"
+      ],
+      "id": "13696",
+      "name": {
+        "ja": "じっと見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "表情",
+        "見つめる",
+        "不満"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が床にうつぶせに伸びて横たわっている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "13697",
+      "name": {
+        "ja": "床に伸びて疲れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疲れ",
+        "横になる",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が片脚を上げ、腕を広げて元気に踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13698",
+      "name": {
+        "ja": "元気に踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "踊る",
+        "動き",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマと赤い髪の人物が寄り添い、大きなハートの中に描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "13699",
+      "name": {
+        "ja": "寄り添って愛情を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "love",
+        "ハート",
+        "仲良し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が腕を組み、青い風の線を受けて震えている。"
+      },
+      "emotion": [
+        "tired",
+        "fear"
+      ],
+      "id": "13700",
+      "name": {
+        "ja": "風に吹かれて震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "震える",
+        "風",
+        "動揺"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が帽子をかぶり、浮き具を抱えてヤシの木のそばでくつろいでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "13701",
+      "name": {
+        "ja": "南国でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "南国",
+        "ヤシの木",
+        "休暇"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が窓辺に座り、外の景色を眺めている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "13702",
+      "name": {
+        "ja": "窓辺で外を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "窓",
+        "景色",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "腰みのを着けたクマの頭上に料理の絵が浮かんでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "13703",
+      "name": {
+        "ja": "食べ物を思い浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食べ物",
+        "考える",
+        "空腹"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物がゴーグルを着け、浮き具を身につけて水中を泳いでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "13704",
+      "name": {
+        "ja": "水中で泳ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水中",
+        "泳ぐ",
+        "ゴーグル"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服のクマが背を向けて立ち、周囲ににおいを示す線が描かれている。"
+      },
+      "emotion": [
+        "disgust"
+      ],
+      "id": "13705",
+      "name": {
+        "ja": "においに困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "におい",
+        "困る",
+        "後ろ姿"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が机に向かい、時計や本に囲まれて作業している。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "13706",
+      "name": {
+        "ja": "夜遅くまで働く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仕事",
+        "夜更かし",
+        "疲れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色いクマが布団にくるまって眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "13707",
+      "name": {
+        "ja": "布団で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "睡眠",
+        "布団",
+        "休む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が雨の中でうつむき、傘のそばに座っている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "13708",
+      "name": {
+        "ja": "雨の中で落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雨",
+        "落ち込む",
+        "傘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が派手な衣装と帽子でポーズを決めている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "13709",
+      "name": {
+        "ja": "仮装して登場する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仮装",
+        "登場",
+        "ポーズ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い髪の人物が楽器を持って演奏している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "13710",
+      "name": {
+        "ja": "楽器を演奏する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "演奏",
+        "楽器",
+        "音楽"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "899",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

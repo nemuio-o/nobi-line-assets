@@ -1,0 +1,1126 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "猫が体を伸ばして横になり、目を閉じて眠っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8151",
+      "name": {
+        "ja": "横になって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "横になる",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を大きく見開き、口を開けて正面を見ている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "8152",
+      "name": {
+        "ja": "目を丸くして驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "驚き",
+        "目を丸くする"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が舌を出して笑うような表情を見せ、周囲を花が囲んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8153",
+      "name": {
+        "ja": "花に囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "花",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな猫が目を細め、舌を少し出して立っている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8154",
+      "name": {
+        "ja": "眠そうに立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "眠そう",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が尾を体の横に置き、目を細めた表情で座っている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8155",
+      "name": {
+        "ja": "しょんぼり座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "座る",
+        "うつむき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を閉じ、頭の上から青い汗のしずくを垂らしている。"
+      },
+      "emotion": [
+        "fear",
+        "confusion"
+      ],
+      "id": "8156",
+      "name": {
+        "ja": "汗をかいて困る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "汗",
+        "困る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い縁取りのものを頭にかぶった猫が、かごを持ち片足を上げている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8157",
+      "name": {
+        "ja": "かごを持って歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "かご",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫がうちわを掲げて踊るように動き、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8158",
+      "name": {
+        "ja": "うちわで踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "うちわ",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が敷物の上に横たわり、周囲に淡い色の飾りが浮かんでいる。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "8159",
+      "name": {
+        "ja": "敷物でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "敷物",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が縦長のすき間から顔だけをのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "8160",
+      "name": {
+        "ja": "すき間から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "すき間",
+        "顔を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を閉じ、体を低くして座っている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "8161",
+      "name": {
+        "ja": "力なく座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "座る",
+        "疲労"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が体を横たえ、目を閉じて力なく休んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "8162",
+      "name": {
+        "ja": "ぐったり横たわる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "横たわる",
+        "ぐったり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が床に伏せて体を伸ばし、壁際にいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "8163",
+      "name": {
+        "ja": "壁際で伸びる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "壁際",
+        "伸びる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が紫色の服を着て、椅子に座っている。周囲に小さな光がある。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8164",
+      "name": {
+        "ja": "紫の服で座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "紫の服",
+        "椅子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫が細長い箱のようなものを抱え、白い台の上に立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8165",
+      "name": {
+        "ja": "箱を抱えて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "箱",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い猫が目を細め、不満そうな表情で正面を見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8166",
+      "name": {
+        "ja": "不満そうに見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "不満",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が体を伏せて足を前に伸ばし、頭のそばに怒りを示す記号がある。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "8167",
+      "name": {
+        "ja": "怒って足を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "怒り",
+        "足"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が口を大きく開け、前足を伸ばしている。尾は上に立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8168",
+      "name": {
+        "ja": "大きく伸びをする"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "伸び",
+        "あくび"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫がピンク色のクッションの上で丸くなって眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8169",
+      "name": {
+        "ja": "クッションで眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "クッション",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が魚のようなものを口にくわえて歩き、そばに音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8170",
+      "name": {
+        "ja": "魚をくわえて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "魚",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が目を見開き、両目の上に赤い炎のような形を出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "8171",
+      "name": {
+        "ja": "目に炎を燃やす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "炎",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が背を向けて座り、周囲に青い炎のような記号が浮かんでいる。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "8172",
+      "name": {
+        "ja": "背を向けて落ち込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "背中",
+        "落ち込む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が壁のようなものの端から顔を出し、前足に小さな花を掲げている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "8173",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "物陰",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が体に白い包帯のようなものを巻き、片足を上げて走っている。"
+      },
+      "emotion": [
+        "tired",
+        "excitement"
+      ],
+      "id": "8174",
+      "name": {
+        "ja": "包帯姿で走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "包帯",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "猫が片目を覆う黒いものと青い衣服を身につけ、舌を出している。"
+      },
+      "emotion": [
+        "joy",
+        "tired"
+      ],
+      "id": "8175",
+      "name": {
+        "ja": "眼帯姿で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "眼帯",
+        "包帯"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫と茶色い猫が並び、二匹の頭の上から湯気のような線が出ている。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "8176",
+      "name": {
+        "ja": "頭から湯気を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "湯気",
+        "二匹"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな白い猫が歩き、その後ろを小さな茶色い猫がついてきている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8177",
+      "name": {
+        "ja": "仲間を連れて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "二匹",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が目を輝かせて笑い、周囲に星形の光がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8178",
+      "name": {
+        "ja": "きらきらした笑顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "笑顔",
+        "きらきら"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が細長い箱を両手に持ち、ピンク色の輪の中にいる。箱には読める範囲で英字がある。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8179",
+      "name": {
+        "ja": "食事を控える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "食べ物",
+        "箱"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が尾を高く上げて跳ねるように進み、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8180",
+      "name": {
+        "ja": "楽しそうに跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "跳ねる",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が段ボール箱の中で丸くなって眠っている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8181",
+      "name": {
+        "ja": "箱の中で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "段ボール箱",
+        "眠る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い猫が青い布のようなものを身につけ、体を伸ばして空中を跳んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8182",
+      "name": {
+        "ja": "軽やかに跳ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "ジャンプ",
+        "衣装"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色い猫と黄色い猫が向き合い、黄色い猫が白い猫に前足を伸ばしている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "8183",
+      "name": {
+        "ja": "猫同士でじゃれ合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "二匹",
+        "じゃれ合い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三匹の猫が並んで、それぞれ目の前の小さな器から食べている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "8184",
+      "name": {
+        "ja": "並んで食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "三匹",
+        "食事"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三匹の猫が寄り集まり、上の白い猫が目を輝かせて笑っている。周囲に星がある。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8185",
+      "name": {
+        "ja": "三匹で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "三匹",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "座った人物が、立ち上がった白い猫と向き合っている。"
+      },
+      "emotion": [
+        "joy",
+        "love"
+      ],
+      "id": "8186",
+      "name": {
+        "ja": "猫と向き合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "人物",
+        "向き合う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が茶色い猫を胸の前に抱え、歩いている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "8187",
+      "name": {
+        "ja": "猫を抱えて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "人物",
+        "抱く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が座った猫の頭を手でなでている。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "8188",
+      "name": {
+        "ja": "猫をなでる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "人物",
+        "なでる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が猫を膝に抱き、紫色の本を開いて読んでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "8189",
+      "name": {
+        "ja": "猫を抱いて読書する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "人物",
+        "読書"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が猫の絵柄のある敷物の上で横になり、そばに複数の猫がいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "8190",
+      "name": {
+        "ja": "猫柄の敷物で眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "猫",
+        "敷物",
+        "眠る"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "703",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

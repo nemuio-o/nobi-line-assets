@@ -1,0 +1,1134 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "黄色い丸い顔が王冠をかぶり、歯を見せて笑っている。周囲に音符と花が描かれている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7791",
+      "name": {
+        "ja": "音符と花で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "王冠",
+        "音符",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い四角い顔が王冠をかぶり、涙を流しながら前に手を伸ばしている。"
+      },
+      "emotion": [
+        "sadness",
+        "surprise"
+      ],
+      "id": "7792",
+      "name": {
+        "ja": "泣きながら手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い顔",
+        "涙",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と紫の丸い顔が王冠をかぶり、目の中に星を浮かべている。周囲にきらめきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7793",
+      "name": {
+        "ja": "星の目で輝く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い顔",
+        "星",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い三角形の顔が王冠をかぶり、歯を食いしばって両手を握っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7794",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い顔",
+        "王冠",
+        "握りこぶし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い丸い顔が王冠をかぶり、ハート形の目と赤い口で笑っている。周囲にもハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7795",
+      "name": {
+        "ja": "ハートに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "王冠",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の横長の顔が王冠をかぶり、目を細めて大きく歯を見せて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "7796",
+      "name": {
+        "ja": "大きく笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の顔",
+        "王冠",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の丸い顔が王冠をかぶり、両手で口元を覆っている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "7797",
+      "name": {
+        "ja": "口元を隠す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンクの顔",
+        "王冠",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い丸い顔が王冠をかぶり、両手に花のようなものを持っている。そばに音符がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7798",
+      "name": {
+        "ja": "花を持って喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い顔",
+        "花",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い大きな文字で「LOVE」と描かれ、文字の一部に青い花が入っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7799",
+      "name": {
+        "ja": "LOVEを掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "LOVE",
+        "赤い文字",
+        "花"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い丸い顔が王冠をかぶり、口を大きく開けて両手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7800",
+      "name": {
+        "ja": "両手を上げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い顔",
+        "王冠",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔が王冠をかぶって目を閉じ、口を開けている。周囲に音符が描かれている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "7801",
+      "name": {
+        "ja": "目を閉じて音を聴く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い顔",
+        "音符",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "細長い黄色い体が王冠をかぶり、片手を頭の横に上げて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "7802",
+      "name": {
+        "ja": "手を上げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い体",
+        "王冠",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の細長い顔が王冠をかぶり、長いまつげの目で横を見ている。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "7803",
+      "name": {
+        "ja": "横目で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ色",
+        "王冠",
+        "長いまつげ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "小さな緑色の体が王冠をかぶり、画面いっぱいの赤い手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7804",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "大きく手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い手",
+        "緑の体",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大きな形を頭に載せた小さなオレンジ色の体が、王冠をかぶって立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7805",
+      "name": {
+        "ja": "青い大きな髪で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い髪",
+        "王冠",
+        "オレンジ色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の細長い体が王冠をかぶり、片手でピースサインを出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7806",
+      "name": {
+        "ja": "ピースサインを出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピースサイン",
+        "緑の体",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い丸い顔が王冠をかぶり、頬を赤くして汗を流している。顔の周囲に青い記号がある。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "7807",
+      "name": {
+        "ja": "汗をかいて戸惑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い顔",
+        "汗",
+        "記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い細長い顔が王冠をかぶり、目を閉じて口を結んでいる。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "7808",
+      "name": {
+        "ja": "目を閉じてすます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "黄色い顔",
+        "王冠",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い顔が王冠をかぶり、眉を下げて涙を流しながら床に座っている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "7809",
+      "name": {
+        "ja": "泣いて座り込む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い顔",
+        "涙",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い体が王冠をかぶって低くうずくまり、周囲に水滴のような線が飛んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "7810",
+      "name": {
+        "ja": "うずくまって汗を飛ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い体",
+        "王冠",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い顔が小さな王冠をかぶってうつむき、背後に大きな紫色の星形がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7811",
+      "name": {
+        "ja": "星の影でうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫の星",
+        "王冠",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い唇の形をした顔が王冠をかぶり、周囲に揺れを示す線が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "tired"
+      ],
+      "id": "7812",
+      "name": {
+        "ja": "唇を結んで耐える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い唇",
+        "王冠",
+        "揺れ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色とオレンジ色の体が王冠をかぶり、口を開けて勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "7813",
+      "name": {
+        "ja": "勢いよく走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "王冠",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い体が王冠をかぶって前へ飛び、後ろに赤とオレンジ色の炎のような形が出ている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "7814",
+      "name": {
+        "ja": "炎を背に飛ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い体",
+        "炎",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い細長い体が王冠をかぶり、頭を下げて立っている。顔の横から涙のような線が垂れている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7815",
+      "name": {
+        "ja": "しょんぼり立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い体",
+        "涙",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の細長い体が王冠をかぶり、周囲に水滴と震えを示す線を出している。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "7816",
+      "name": {
+        "ja": "汗を飛ばして震える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紫の体",
+        "汗",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大きな疑問符のそばに、小さな白い体が王冠をかぶって立っている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "7817",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "疑問符と立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問符",
+        "白い体",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の顔が王冠をかぶり、目を見開いている。下半身が黄色い稲妻の形になっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7818",
+      "name": {
+        "ja": "雷のように怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ色",
+        "稲妻",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔が目を閉じて唇を突き出し、周囲に赤と青のハートを浮かべている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "7819",
+      "name": {
+        "ja": "ハートを添えてキス"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "キス",
+        "ハート",
+        "白い顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の体が王冠をかぶり、身をかがめて片手を顔の近くに添えている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "7820",
+      "name": {
+        "ja": "身をかがめて手を添える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "オレンジ色",
+        "王冠",
+        "身をかがめる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い腕の先の手が、泡のある黄色い飲み物の入った容器を差し出している。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7821",
+      "name": {
+        "ja": "飲み物を差し出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "飲み物",
+        "青い手",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の体が王冠をかぶり、片手を上げて踊っている。そばに音符と小さな箱がある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "7822",
+      "name": {
+        "ja": "音符と一緒に踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ピンクの体",
+        "音符",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔が王冠をかぶって前かがみになり、口元から虹色の帯のようなものを出している。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "7823",
+      "name": {
+        "ja": "虹色のものを吐き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い顔",
+        "虹色",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "水色の体が王冠をかぶって前に伏せ、体の下に波線のような記号が描かれている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "7824",
+      "name": {
+        "ja": "具合が悪そうに伏せる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "水色の体",
+        "王冠",
+        "波線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の横長の顔が王冠をかぶり、口を結んで立っている。顔の周囲に青い汗のような線がある。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "7825",
+      "name": {
+        "ja": "汗をかいて固まる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "緑の顔",
+        "汗",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い丸い体が王冠をかぶって座り、半分閉じた目で眠そうにしている。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7826",
+      "name": {
+        "ja": "眠そうに座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い体",
+        "眠そう",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い体が横になって眠り、頭の上に複数の「Z」のような記号が浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "7827",
+      "name": {
+        "ja": "横になって眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "白い体",
+        "眠る",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い丸い顔が王冠をかぶり、目が炎のように赤く燃えている。両側から炎が上がっている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "7828",
+      "name": {
+        "ja": "炎の目で怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "炎",
+        "赤い目",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い体が王冠をかぶって身を縮め、全身の周囲に激しい震えを示す線が描かれている。"
+      },
+      "emotion": [
+        "fear",
+        "tired"
+      ],
+      "id": "7829",
+      "name": {
+        "ja": "震えながら身を縮める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "青い体",
+        "震え",
+        "王冠"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い細長い体が王冠と赤い大きな眼鏡のようなものを身につけ、黄色い小物のそばを歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "7830",
+      "name": {
+        "ja": "赤い眼鏡で歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "赤い眼鏡",
+        "白い体",
+        "黄色い小物"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "688",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

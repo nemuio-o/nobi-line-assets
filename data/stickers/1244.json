@@ -1,0 +1,1139 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤と青の帽子をかぶった人物が、帽子のつばの下から横目で様子をうかがっている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "21898",
+      "name": {
+        "ja": "帽子の横目"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "様子見",
+        "横目",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と青の帽子をかぶった人物が、口を開けて明るく笑いながら正面を見ている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21899",
+      "name": {
+        "ja": "にっこり正面顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "正面",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が身を乗り出し、目を細めて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21900",
+      "name": {
+        "ja": "身を乗り出して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑い",
+        "身を乗り出す",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が両手を大きく広げ、目を閉じてうれしそうに迎えている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21901",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "両手を広げて歓迎"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "歓迎",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が頬をふくらませ、顔を赤くして怒りをあらわにしている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21902",
+      "name": {
+        "ja": "ぷんぷんふくれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ふくれる",
+        "怒り",
+        "赤い顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が拳を前に突き出し、歯を食いしばって力を込めている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21903",
+      "name": {
+        "ja": "歯を食いしばる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "歯",
+        "踏ん張る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が大きな拳を画面手前へ突き出し、勢いよく攻撃している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21904",
+      "name": {
+        "ja": "大きな拳を突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "突進",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が両拳を高く掲げ、周囲に星を散らして喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21905",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "星を散らしてガッツポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両拳",
+        "星",
+        "勝利"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が舌を出したまま前へ飛び、顔から転びそうになっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21906",
+      "name": {
+        "ja": "顔から転ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "舌",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が紙を広げて読みながら、歩いて前へ進んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21907",
+      "name": {
+        "ja": "歩きながら読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "読む",
+        "歩く",
+        "紙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が横になって目を閉じ、頭上に眠りを示すZが浮かんでいる。"
+      },
+      "emotion": [
+        "tired",
+        "calm"
+      ],
+      "id": "21908",
+      "name": {
+        "ja": "すやすや眠る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "眠る",
+        "横になる",
+        "Z"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が頭に灰色の球を受け、星を浮かべて歯を食いしばっている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21909",
+      "name": {
+        "ja": "頭に当たってふらふら"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "球",
+        "頭",
+        "星"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が両拳を握り、口を大きく開けて勢いよく叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21910",
+      "name": {
+        "ja": "大声で吠える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "両拳",
+        "大口"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が目を回し、舌を出してふらついている。"
+      },
+      "emotion": [
+        "confusion",
+        "tired"
+      ],
+      "id": "21911",
+      "name": {
+        "ja": "目を回してへろへろ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "目を回す",
+        "舌",
+        "ふらつく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が片手を上げて手を振りながら、煙を残して走っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21912",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "手を振って駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を振る",
+        "走る",
+        "煙"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が牙をむき、両拳を握った怪物のような顔で威嚇している。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "21913",
+      "name": {
+        "ja": "怪物顔で威嚇"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "牙",
+        "怪物",
+        "威嚇"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が歯を食いしばり、頭上に星を飛ばして必死に力んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21914",
+      "name": {
+        "ja": "星が飛ぶほど力む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯",
+        "星",
+        "力む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物が大きな目で正面を見つめ、口元に小さな笑みを浮かべている。"
+      },
+      "emotion": [
+        "calm",
+        "surprise"
+      ],
+      "id": "21915",
+      "name": {
+        "ja": "きょとんと見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "大きな目",
+        "見つめる",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い帽子の人物が荷物を両手に持ち、片足を上げて歩いている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "21916",
+      "name": {
+        "ja": "荷物を抱えて歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "荷物",
+        "歩く",
+        "黄色い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い帽子の人物が両手にバケツを持ち、汗をかきながら急いでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "tired"
+      ],
+      "id": "21917",
+      "name": {
+        "ja": "バケツを運んで急ぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "バケツ",
+        "急ぐ",
+        "汗"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い帽子の人物が目を見開き、口を開けて大きく驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21918",
+      "name": {
+        "ja": "びっくり青ざめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "目を見開く",
+        "帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が歯を食いしばり、緊張した顔でこらえている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21919",
+      "name": {
+        "ja": "歯を見せてこらえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "歯",
+        "こらえる",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が片目をつぶり、歯を見せて豪快に笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21920",
+      "name": {
+        "ja": "片目をつぶって笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ウインク",
+        "笑顔",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青と白の服の人物がシャツを左右に引っ張られながら、勢いよく走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "21921",
+      "name": {
+        "ja": "シャツを引っ張って走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "シャツ",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い衣装とシルクハットの人物がステッキを手に、片足を上げて踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21922",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "ステッキで踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "シルクハット",
+        "ステッキ",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い衣装の人物がギターを抱えて演奏し、音符を飛ばしながら歌っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21923",
+      "name": {
+        "ja": "音符とギター"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ギター",
+        "音符",
+        "演奏"
+      ]
+    },
+    {
+      "description": {
+        "ja": "オレンジ色の服を着た虎が両拳を振り上げ、口を開けて怒っている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21924",
+      "name": {
+        "ja": "こぶしを振る虎"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "虎",
+        "両拳",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "鉢巻きをした人物が片拳を高く掲げ、口を開けて気合いを入れている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "21925",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "拳を高く掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "鉢巻き",
+        "気合い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の小さな人物が音符をそばに浮かべ、楽しそうに歩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21926",
+      "name": {
+        "ja": "音符と行進"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "歩く",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "顔に包帯を巻いた人物が目を閉じ、青い服の中でぐったりしている。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "21927",
+      "name": {
+        "ja": "包帯でぐったり"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "包帯",
+        "ぐったり",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が足を上げ、勢い余って後ろへ転げている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21928",
+      "name": {
+        "ja": "大きく転げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "転ぶ",
+        "足",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の女性が口元に手を添え、目を閉じて楽しそうに笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21929",
+      "name": {
+        "ja": "口元を隠して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "笑う",
+        "金髪"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色のカエルが口を大きく開け、体を揺らすようにおどけている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "21930",
+      "name": {
+        "ja": "おどけるカエル"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "カエル",
+        "緑色",
+        "おどける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子と覆面を身につけた人物が、コート姿で片拳を上げて立っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21931",
+      "name": {
+        "ja": "覆面探偵ポーズ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "覆面",
+        "帽子",
+        "コート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒い服と帽子のひげの人物が杖を持ち、片手を上げて呼びかけている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21932",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "杖を持って手を振る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "杖",
+        "ひげ",
+        "手を振る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "骸骨が音符をまとい、足を跳ね上げて楽しそうに踊っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21933",
+      "name": {
+        "ja": "骨になって踊る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "骸骨",
+        "音符",
+        "踊る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、目を見開いて口を開けながらおびえている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "21934",
+      "name": {
+        "ja": "二人でおびえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "驚き",
+        "恐怖"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の人物と青い服の人物が並び、前方へ足を突き出して突進している。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "21935",
+      "name": {
+        "ja": "二人で突進する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "突進",
+        "走る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "大きな人物と虎、女性が近くに集まり、汗を飛ばして慌てている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear",
+        "confusion"
+      ],
+      "id": "21936",
+      "name": {
+        "ja": "三人で大混乱"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "虎",
+        "混乱"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子の小さな人物が大きな人物の腕に抱えられ、二人で驚いた様子を見せている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21937",
+      "name": {
+        "ja": "小さな仲間を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "抱える",
+        "驚き"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1244",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

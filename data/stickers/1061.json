@@ -1,0 +1,1113 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤い髪の人物が片腕を高く振り上げ、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17679",
+      "name": {
+        "ja": "腕を振り上げて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕を上げる",
+        "叫び",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が胸を張って立ち、片手を前に出している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17680",
+      "name": {
+        "ja": "胸を張って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "立つ",
+        "長髪",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "筋肉質の人物が両腕を曲げ、拳を握って構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17681",
+      "name": {
+        "ja": "拳を構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "構える",
+        "筋肉"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長い白髪の人物が片手を広げ、もう片方の手を前に出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "17682",
+      "name": {
+        "ja": "手を広げて呼びかける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手を広げる",
+        "呼びかけ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "筋肉質の人物が大きく手のひらを向け、青い効果線の中に立っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "17683",
+      "name": {
+        "ja": "手のひらを向ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "手のひら",
+        "制止",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が胸元に手を当て、口を開けて叫ぶような姿勢をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17684",
+      "name": {
+        "ja": "胸を押さえて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸",
+        "叫び",
+        "効果音"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の拳が青い水しぶきのような効果の中で突き上げられている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17685",
+      "name": {
+        "ja": "拳を突き上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "突き上げる",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "短い巻き髪の人物が目を見開き、片手を首元に添えて口を開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "17686",
+      "name": {
+        "ja": "口を開けて驚く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "驚き",
+        "口を開く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の衣服を着た人物が、眉を寄せて鋭い目つきで横を見ている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "17687",
+      "name": {
+        "ja": "鋭い目で見つめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "横顔",
+        "鋭い目",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が片目を細め、口元に不敵な笑みを浮かべている。"
+      },
+      "emotion": [
+        "joy",
+        "anger"
+      ],
+      "id": "17688",
+      "name": {
+        "ja": "不敵に笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "長髪",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が正面を向いて笑い、頭の横にピンク色のハートが描かれている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "17689",
+      "name": {
+        "ja": "ハートを添えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片拳を高く突き上げ、口を開けて勢いよく笑っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "17690",
+      "name": {
+        "ja": "拳を高く上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "腕を上げる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が胸元に手を当て、落ち着いた表情で前を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17691",
+      "name": {
+        "ja": "胸に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "胸",
+        "手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ひげのある人物が両手を合わせ、目を閉じて祈るような表情をしている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "17692",
+      "name": {
+        "ja": "手を合わせて祈る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "祈り",
+        "手を合わせる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物がうつむき気味に目を細め、穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "17693",
+      "name": {
+        "ja": "うつむいて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "うつむく",
+        "笑顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "鋭い表情の人物が正面を向き、顔を上げて前へ進むように描かれている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17694",
+      "name": {
+        "ja": "顔を上げて進む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "前進",
+        "人物",
+        "効果文字"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が片手で拳を握り、もう片方の手を添えて力を込めている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17695",
+      "name": {
+        "ja": "拳を握って気合いを入れる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "気合い",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "筋肉質の人物が腕を組み、正面を向いて立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17696",
+      "name": {
+        "ja": "腕を組んで立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕組み",
+        "筋肉",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物の横顔が描かれ、そばに縦書きの文字が添えられている。"
+      },
+      "emotion": [
+        "gratitude",
+        "calm"
+      ],
+      "id": "17697",
+      "name": {
+        "ja": "感謝を示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "感謝",
+        "人物",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手を前に出し、周囲に大きな縦書きの文字が添えられている。"
+      },
+      "emotion": [
+        "disgust",
+        "anger"
+      ],
+      "id": "17698",
+      "name": {
+        "ja": "汚れを払う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汚れ",
+        "手",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が片手を上げ、もう片方の手に黄色い硬貨のような印を示している。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17699",
+      "name": {
+        "ja": "お金を示して笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "お金",
+        "笑顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "複数の人物が横並びに集まり、中央に大きな縦書きの文字が描かれている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17700",
+      "name": {
+        "ja": "集団で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "複数人",
+        "集団",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物の顔が並び、どちらも険しい表情で前をにらんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "17701",
+      "name": {
+        "ja": "二人でにらみ合う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "にらむ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、片方が腕を構えた険しい表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17702",
+      "name": {
+        "ja": "二人で身構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "構える",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片腕を上げ、そばに縦書きの文字を添えて訴えるように描かれている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "17703",
+      "name": {
+        "ja": "腕を上げて訴える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕を上げる",
+        "訴え",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の人物が拳を握って前に突き出し、険しい表情をしている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17704",
+      "name": {
+        "ja": "拳を握って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "拳",
+        "立つ",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "角のような装飾のある仮面を着けた人物が、片手を前に出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "17705",
+      "name": {
+        "ja": "仮面の人物が手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "仮面",
+        "手を上げる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "筋肉質の人物が胸を張り、口を開けて叫ぶような姿勢をしている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "17706",
+      "name": {
+        "ja": "胸を張って叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "胸を張る",
+        "叫び",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が眉を寄せ、顔をしかめている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "17707",
+      "name": {
+        "ja": "顔をしかめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "しかめ顔",
+        "人物",
+        "頭"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が目を閉じ、顔をゆがめて苦しそうな表情をしている。"
+      },
+      "emotion": [
+        "sadness",
+        "fear"
+      ],
+      "id": "17708",
+      "name": {
+        "ja": "苦痛に顔をゆがめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "苦痛",
+        "顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "帽子をかぶった人物が青い布のようなものを振り、片腕を前に出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17709",
+      "name": {
+        "ja": "布を振りかざす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "布",
+        "腕",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片手の人差し指を立て、正面を見ている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "17710",
+      "name": {
+        "ja": "指を立てて示す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "指差し",
+        "人物",
+        "説明"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が青い光のような背景の中で、口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "fear",
+        "excitement"
+      ],
+      "id": "17711",
+      "name": {
+        "ja": "青い光の中で叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫び",
+        "青い光",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白髪の人物が目を閉じ、口元をゆるめて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "17712",
+      "name": {
+        "ja": "目を閉じて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "目を閉じる",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、前方へ身構えるように立っている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "17713",
+      "name": {
+        "ja": "二人で立ち向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "立ち向かう",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が片腕を大きく前へ伸ばし、緑色の効果線の中で攻撃するように描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "17714",
+      "name": {
+        "ja": "腕を伸ばして攻撃する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕を伸ばす",
+        "攻撃",
+        "効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が横を向き、気づいたような表情で振り向いている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "17715",
+      "name": {
+        "ja": "気づいて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り向く",
+        "気づく",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "筋肉質の人物が両手を広げ、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17716",
+      "name": {
+        "ja": "両手を広げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両手",
+        "笑顔",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "長髪の人物が横を向き、口元に微笑みを浮かべている。"
+      },
+      "emotion": [
+        "surprise",
+        "joy"
+      ],
+      "id": "17717",
+      "name": {
+        "ja": "振り向いて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "振り向く",
+        "微笑み",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "筋肉質の人物が両腕を広げ、正面を向いて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "17718",
+      "name": {
+        "ja": "両腕を広げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "両腕",
+        "立つ",
+        "人物"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1061",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

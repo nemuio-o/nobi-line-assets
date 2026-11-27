@@ -1,0 +1,1156 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "ヘルメット姿の人物が大きく親指を立て、明るい線で動きを強調している。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21858",
+      "intent": [
+        "agree"
+      ],
+      "name": {
+        "ja": "親指で太鼓判"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "親指",
+        "宇宙服",
+        "肯定"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が穏やかに微笑み、顔の横に二つの金色のきらめきが浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21859",
+      "name": {
+        "ja": "きらりと決め顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "きらめき",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い宇宙服の人物が片手を額の近くに上げ、正面を見ながら敬礼している。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21860",
+      "intent": [
+        "greeting"
+      ],
+      "name": {
+        "ja": "敬意をこめて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "敬礼",
+        "宇宙服",
+        "挨拶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子とゴーグルを身につけた人物が、口を開けて戸惑うように見上げている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "21861",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "帽子の人の困惑"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "帽子",
+        "ゴーグル",
+        "疑問"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ヘルメットの人物が目を大きく見開き、顔の横に赤と黄色の強調記号が出ている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "21862",
+      "name": {
+        "ja": "目を見開く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "ヘルメット",
+        "強調記号"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤いヘルメットの人物が影の中から鋭い目で見つめ、険しい表情を浮かべている。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "21863",
+      "name": {
+        "ja": "静かな怒気"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ヘルメット",
+        "険しい顔",
+        "怒り"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が向かい合い、手前の人物が赤い服の相手へ勢いよく腕を突き出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21864",
+      "name": {
+        "ja": "向き合う一撃"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "対決",
+        "二人",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が目を閉じ、頬に涙をにじませながら苦しそうに顔をゆがめている。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "21865",
+      "name": {
+        "ja": "こらえる涙"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "目を閉じる",
+        "苦悶"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が前を向き、右側から伸びた黒い手に腕をつかまれている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "21866",
+      "name": {
+        "ja": "腕をつかまれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "腕",
+        "つかむ",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の髪の人物が黄色い服の相手を両腕で包み、相手は目を閉じて身を寄せている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "21867",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "そっと抱きしめる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱擁",
+        "二人",
+        "いたわり"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の髪の人物が眉を寄せて口を結び、頭の横に赤い怒りの印が浮かんでいる。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21868",
+      "name": {
+        "ja": "こみ上げる怒り"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "緑髪",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の人物が両腕を広げて踊り、周囲に色とりどりの音符が散っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21869",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "音符とステップ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ダンス",
+        "音符",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が目を閉じて顔をしかめ、頬のそばに水色の汗のしずくが飛んでいる。"
+      },
+      "emotion": [
+        "tired",
+        "sadness"
+      ],
+      "id": "21870",
+      "name": {
+        "ja": "汗をぬぐう顔"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "疲れ",
+        "制服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い帽子の人物が口を大きく開け、身振りを交えて勢いよく叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21871",
+      "name": {
+        "ja": "声を張り上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "叫ぶ",
+        "帽子",
+        "大声"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤紫色の髪の女性が眉を寄せ、横顔で厳しい表情を見せながら強く言い聞かせている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "21872",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "厳しく言い聞かせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "叱る",
+        "険しい顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "褐色の肌の人物が目だけを鋭く向け、口元を引き締めて無言の圧を出している。"
+      },
+      "emotion": [
+        "anger",
+        "calm"
+      ],
+      "id": "21873",
+      "name": {
+        "ja": "鋭いひとこと"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鋭い目",
+        "横顔",
+        "注意"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒髪の女性が横を向き、口元をわずかに開いて静かに相手を見つめている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21874",
+      "name": {
+        "ja": "落ち着いたまなざし"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "女性",
+        "横顔",
+        "穏やか"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫髪の人物が目を見開き、髪を逆立てるようにしながら口を大きく開けて叫んでいる。"
+      },
+      "emotion": [
+        "anger",
+        "fear"
+      ],
+      "id": "21875",
+      "name": {
+        "ja": "魂の叫び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "絶叫",
+        "驚愕",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の服の小さな人物が両手を高く掲げ、頭上に金色のきらめきが広がっている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "21876",
+      "intent": [
+        "celebrate"
+      ],
+      "name": {
+        "ja": "両手いっぱいの喜び"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "子ども",
+        "両手",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が赤と黒の制服姿で正面を向き、口を結んだ真剣な表情をしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "21877",
+      "name": {
+        "ja": "きりっと立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "制服",
+        "金髪",
+        "真剣"
+      ]
+    },
+    {
+      "description": {
+        "ja": "制服姿の人物が食べ物を手に持ち、目を閉じて大きくひと口ほおばっている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21878",
+      "name": {
+        "ja": "ひと口いただきます"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "食事",
+        "サンドイッチ",
+        "ひと休み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤紫色の髪の女性が振り向き、片手を胸元に添えながら柔らかく微笑んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "21879",
+      "name": {
+        "ja": "にこやかに振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "女性",
+        "振り向く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い髪の人物が体を預けるように座り、片手を床につきながら穏やかに呼びかけている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "21880",
+      "intent": [
+        "encourage"
+      ],
+      "name": {
+        "ja": "力を抜いて"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "休む",
+        "横たわる",
+        "励まし"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が青い地球のような景色を背に、遠くへ浮かぶように進んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "calm"
+      ],
+      "id": "21881",
+      "name": {
+        "ja": "星空へ飛び立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宇宙",
+        "飛行",
+        "地球"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物がサングラスをかけ、赤い服で堂々と正面を見つめている。"
+      },
+      "emotion": [
+        "calm",
+        "excitement"
+      ],
+      "id": "21882",
+      "name": {
+        "ja": "サングラスで決める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "赤い服",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が顔を寄せて見つめ合い、周囲に紫や桃色のハートときらめきが舞っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "21883",
+      "name": {
+        "ja": "ハートの急接近"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "ハート",
+        "親密"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黒と赤を基調にした大型ロボットが、炎のような背景の中で斜めに身構えている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "21884",
+      "name": {
+        "ja": "炎を背負う機体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "炎",
+        "戦闘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青紫色の髪の人物があごに手を添え、縦に並ぶ点を見ながら考え込んでいる。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "21885",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "思案の間"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "考える",
+        "沈黙",
+        "人物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の大型ロボットが複数の腕のような装備を広げ、放射状の線とともに迫っている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "21886",
+      "name": {
+        "ja": "紫の機体が急接近"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "突進",
+        "スピード"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金色の装甲を持つ大型ロボットが、青い斜線を背にして前方へ勢いよく進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "21887",
+      "name": {
+        "ja": "金色の機体が駆ける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "金色",
+        "突進"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白と青の大型ロボットが両腕を前に出し、黄色い放射線を背に力強く構えている。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "21888",
+      "name": {
+        "ja": "正面突破の機体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "正面",
+        "戦闘"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い大型ロボットが赤い放射状の線の中で身をひねり、攻撃に踏み込んでいる。"
+      },
+      "emotion": [
+        "excitement",
+        "anger"
+      ],
+      "id": "21889",
+      "name": {
+        "ja": "赤線を切り裂く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "斬撃",
+        "スピード線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金色のロボットが武器のような装備を正面へ向け、白い放射線の中で狙いを定めている。"
+      },
+      "emotion": [
+        "excitement",
+        "calm"
+      ],
+      "id": "21890",
+      "name": {
+        "ja": "黄金の照準"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ロボット",
+        "金色",
+        "照準"
+      ]
+    },
+    {
+      "description": {
+        "ja": "葉のような飾りが付いた丸い緑色のキャラクターが、口を開けて呼びかけている。"
+      },
+      "emotion": [
+        "joy",
+        "surprise"
+      ],
+      "id": "21891",
+      "intent": [
+        "question"
+      ],
+      "name": {
+        "ja": "元気をたずねる球体"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "球体",
+        "葉っぱ",
+        "呼びかけ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ヘルメット姿の人物が両手で頭を抱え、周囲に震えを示す線が出ている。"
+      },
+      "emotion": [
+        "fear",
+        "sadness"
+      ],
+      "id": "21892",
+      "name": {
+        "ja": "頭を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "宇宙服",
+        "頭を抱える",
+        "困惑"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い服の人物が指を口元に添え、うつむき気味に静かに合図している。"
+      },
+      "emotion": [
+        "calm",
+        "confusion"
+      ],
+      "id": "21893",
+      "intent": [
+        "request"
+      ],
+      "name": {
+        "ja": "そっと口止め"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "口元",
+        "内緒",
+        "黄色い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が眉を寄せて横を見つめ、胸元で腕を組むようにして待っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "21894",
+      "name": {
+        "ja": "花を待つまなざし"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "金髪",
+        "待つ",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "金髪の人物が赤い手袋で眼鏡を持ち上げ、鋭い目で正面を見据えている。"
+      },
+      "emotion": [
+        "calm",
+        "anger"
+      ],
+      "id": "21895",
+      "name": {
+        "ja": "眼鏡を外して見据える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "サングラス",
+        "金髪",
+        "真剣"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶髪の人物が赤紫色の髪の相手の肩に手を置き、顔を近づけて寄り添っている。"
+      },
+      "emotion": [
+        "love"
+      ],
+      "id": "21896",
+      "intent": [
+        "comfort"
+      ],
+      "name": {
+        "ja": "肩を寄せて慰める"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "慰め"
+      ]
+    },
+    {
+      "description": {
+        "ja": "サングラスの金髪の人物が、葉の付いた丸い緑色のキャラクターを両腕で抱えている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "21897",
+      "name": {
+        "ja": "丸い相棒を抱える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "抱える",
+        "球体",
+        "サングラス"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "1243",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

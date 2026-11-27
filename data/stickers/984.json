@@ -1,0 +1,1120 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤い服の人物と紫色の人物が並び、両手を上げている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15711",
+      "name": {
+        "ja": "二人で手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手を上げる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い鼻の丸い顔の人物が、仕切りの横から顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15712",
+      "name": {
+        "ja": "顔をのぞかせる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "顔",
+        "のぞく",
+        "赤い鼻"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の顔の人物が、灰色の雲の中から顔を出している。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15713",
+      "name": {
+        "ja": "雲の中から顔を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "雲",
+        "顔",
+        "のぞく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が、大きな太鼓を勢いよく叩いている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15714",
+      "name": {
+        "ja": "大きな太鼓を叩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "太鼓",
+        "叩く",
+        "勢い"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が花びらに囲まれ、頬を赤らめて笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15715",
+      "name": {
+        "ja": "花びらに囲まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "花びら",
+        "笑顔",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色と赤い服の二人が並び、きらめきの中で喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15716",
+      "name": {
+        "ja": "並んで喜ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "喜び",
+        "きらめき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い顔の人物が片目を閉じ、周囲のハートに囲まれて笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15717",
+      "name": {
+        "ja": "ハートに囲まれて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "笑顔",
+        "片目"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が、ろうそくの立ったケーキを皿に載せて運んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "gratitude"
+      ],
+      "id": "15718",
+      "name": {
+        "ja": "ケーキを運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ケーキ",
+        "運ぶ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "黄色い帽子の人物が、片手を伸ばしながら走っている。"
+      },
+      "emotion": [
+        "excitement",
+        "joy"
+      ],
+      "id": "15719",
+      "name": {
+        "ja": "走って手を伸ばす"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "走る",
+        "手を伸ばす",
+        "黄色い帽子"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の人物が口を開け、汗を飛ばしながら慌てている。"
+      },
+      "emotion": [
+        "fear",
+        "surprise"
+      ],
+      "id": "15720",
+      "name": {
+        "ja": "汗をかいて慌てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "汗",
+        "慌てる",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の人物が赤い旗を高く掲げ、口を開けて喜んでいる。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15721",
+      "name": {
+        "ja": "旗を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "旗",
+        "掲げる",
+        "喜び"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服と紫色の二人が並び、胸元で手をそろえて正面を向いている。"
+      },
+      "emotion": [
+        "calm",
+        "gratitude"
+      ],
+      "id": "15722",
+      "name": {
+        "ja": "並んで手をそろえる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手をそろえる",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "ピンク色の人物が大きなハートを抱え、頬を赤らめて笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15723",
+      "name": {
+        "ja": "ハートを抱えて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "抱える",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "暗い服と覆面の人物が、腕を下ろして正面に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "15724",
+      "name": {
+        "ja": "覆面で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "覆面",
+        "立つ",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が目を閉じ、両側に涙を流して泣いている。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "15725",
+      "name": {
+        "ja": "涙を流して泣く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "涙",
+        "泣く",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い服の人物が目を見開き、両手を広げて驚いている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15726",
+      "name": {
+        "ja": "驚いて手を広げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "手を広げる",
+        "白い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "緑色の人物が、周囲の黄色いきらめきに囲まれて立っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15727",
+      "name": {
+        "ja": "光に囲まれて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "きらめき",
+        "立つ",
+        "緑色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色と白の二人が寄り添い、大きなハートを背に並んでいる。"
+      },
+      "emotion": [
+        "love",
+        "calm"
+      ],
+      "id": "15728",
+      "name": {
+        "ja": "寄り添う二人"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が正面を向き、目を細めて穏やかに笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15729",
+      "name": {
+        "ja": "穏やかに笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "正面",
+        "青い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服と青い服の二人が手をつなぎ、並んで歩いている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15730",
+      "name": {
+        "ja": "手をつないで歩く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "手をつなぐ",
+        "歩く"
+      ]
+    },
+    {
+      "description": {
+        "ja": "三人の人物が並び、それぞれ飲み物の入った容器を持っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15731",
+      "name": {
+        "ja": "三人で飲み物を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "三人",
+        "飲み物",
+        "並ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の人物が小さなハートを持ち、片足を上げて跳ねている。"
+      },
+      "emotion": [
+        "love",
+        "excitement"
+      ],
+      "id": "15732",
+      "name": {
+        "ja": "ハートを持って跳ねる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "ハート",
+        "跳ねる",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の人物が丼を前にして、箸で麺を食べている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15733",
+      "name": {
+        "ja": "麺を食べる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "麺",
+        "食事",
+        "丼"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の人物が黄色い小さな人物と並び、周囲に音符を出して歌っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15734",
+      "name": {
+        "ja": "音符と歌う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "音符",
+        "歌う",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が正面を向き、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15735",
+      "name": {
+        "ja": "正面で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "正面",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い頭の人物が目を閉じ、両手を握って怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15736",
+      "name": {
+        "ja": "目を閉じて怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "怒り",
+        "目を閉じる",
+        "拳"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤と紫の二人が向き合い、眉を寄せて怒っている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "15737",
+      "name": {
+        "ja": "二人で怒る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "怒り",
+        "向き合う"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の人物が緑色の大きな箱の中へ押し込まれている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15738",
+      "name": {
+        "ja": "箱に押し込まれる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "箱",
+        "押し込む",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い人物が座り、手に小さな鈴のようなものを持っている。"
+      },
+      "emotion": [
+        "sadness",
+        "calm"
+      ],
+      "id": "15739",
+      "name": {
+        "ja": "小さな鈴を持つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "鈴",
+        "座る",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の人物が目を見開き、口を開けて立っている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "15740",
+      "name": {
+        "ja": "驚いて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "驚き",
+        "立つ",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "白い大きな人物と小さな紫色の人物が並び、笑顔を見せている。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "15741",
+      "name": {
+        "ja": "大きな人物と並ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "並ぶ",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "紫色の人物が緑色の物陰から顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "15742",
+      "name": {
+        "ja": "物陰からのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "のぞく",
+        "物陰",
+        "紫色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物と茶色の人物が、絵柄の入った旗を持って立っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15743",
+      "name": {
+        "ja": "旗を持って立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "旗",
+        "二人",
+        "立つ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が片手を上げ、笑顔で正面を向いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "15744",
+      "name": {
+        "ja": "笑顔で手を上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "手を上げる",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が星形の飾りを掲げ、紙吹雪の中で祝っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15745",
+      "name": {
+        "ja": "紙吹雪で祝う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "紙吹雪",
+        "祝う",
+        "二人"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が並び、ほうきや容器を手にして掃除している。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "15746",
+      "name": {
+        "ja": "二人で掃除する"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "掃除",
+        "二人",
+        "道具"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が首を傾け、頭の周りに疑問を示す記号を浮かべている。"
+      },
+      "emotion": [
+        "confusion",
+        "surprise"
+      ],
+      "id": "15747",
+      "name": {
+        "ja": "疑問を浮かべる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "疑問",
+        "考える",
+        "正面"
+      ]
+    },
+    {
+      "description": {
+        "ja": "茶色の人物が腕を広げ、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "15748",
+      "name": {
+        "ja": "腕を広げて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "笑顔",
+        "腕を広げる",
+        "茶色"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の人物が白い煙に囲まれ、両手を前に出して立っている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "15749",
+      "name": {
+        "ja": "煙の中で立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "煙",
+        "立つ",
+        "赤い服"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服と紫色の二人が肩を寄せ、並んで笑っている。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "15750",
+      "name": {
+        "ja": "二人で寄り添う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "二人",
+        "寄り添う",
+        "笑顔"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "984",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}

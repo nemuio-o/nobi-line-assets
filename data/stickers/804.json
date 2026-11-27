@@ -1,0 +1,1109 @@
+{
+  "items": [
+    {
+      "description": {
+        "ja": "赤い服の男性が体を後ろ向きにし、片手を上げて振り向いている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11327",
+      "name": {
+        "ja": "手を上げて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "赤い服",
+        "手を上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が、手にした長い黒い物を肩の上に掲げている。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "11328",
+      "name": {
+        "ja": "長い物を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "赤い服",
+        "長い物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が腕を交差し、画面に明確に「NO!」と表示されている。"
+      },
+      "emotion": [
+        "anger",
+        "surprise"
+      ],
+      "id": "11329",
+      "intent": [
+        "refuse"
+      ],
+      "name": {
+        "ja": "腕を交差してNO!"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "腕を交差",
+        "NO!"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が目を見開き、両手を口元に当てている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "11330",
+      "name": {
+        "ja": "手を口元に当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "口元",
+        "驚き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が振り向き、口を開けて笑っている。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11331",
+      "name": {
+        "ja": "振り向いて笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "赤い服",
+        "笑顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の横顔が大きく描かれ、顔のそばに光る小さな点が見える。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11332",
+      "name": {
+        "ja": "顔を近づける"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "横顔",
+        "顔のアップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が口を大きく開けて舌を出し、背後に黄色い放射状の効果線がある。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11333",
+      "name": {
+        "ja": "舌を出して叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "舌",
+        "黄色い効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の顔が大きく描かれ、目を見開いて口を大きく開けている。"
+      },
+      "emotion": [
+        "surprise",
+        "excitement"
+      ],
+      "id": "11334",
+      "name": {
+        "ja": "口を開けて叫ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "叫ぶ",
+        "口を開ける"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が振り向き、目を見開いて口を開けた表情をしている。"
+      },
+      "emotion": [
+        "surprise"
+      ],
+      "id": "11335",
+      "name": {
+        "ja": "顔をしかめて振り向く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "振り向く",
+        "表情"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が振り向き、穏やかに微笑んでいる。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11336",
+      "name": {
+        "ja": "振り向いて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "赤い服",
+        "微笑み"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が片手を頬に当て、正面を見ている。"
+      },
+      "emotion": [
+        "confusion",
+        "calm"
+      ],
+      "id": "11337",
+      "name": {
+        "ja": "頬に手を当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "頬",
+        "手を当てる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が下を向き、両手を左右に広げて立っている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "11338",
+      "name": {
+        "ja": "両手を広げて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "赤い服",
+        "両手"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が鍵盤のような場所に横たわり、周囲に音符が浮かんでいる。"
+      },
+      "emotion": [
+        "joy",
+        "calm"
+      ],
+      "id": "11339",
+      "name": {
+        "ja": "鍵盤の上でくつろぐ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "鍵盤",
+        "音符"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性がソファのような場所に横たわり、脚を伸ばしている。"
+      },
+      "emotion": [
+        "calm",
+        "tired"
+      ],
+      "id": "11340",
+      "name": {
+        "ja": "ソファで横になる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "ソファ",
+        "横になる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が片腕を頭の後ろに回し、口を開けて笑っている。周囲に水しぶきがある。"
+      },
+      "emotion": [
+        "joy",
+        "excitement"
+      ],
+      "id": "11341",
+      "name": {
+        "ja": "水しぶきの中で笑う"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "笑顔",
+        "水しぶき"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が両手を頭の後ろで組み、ゆったり座っている。"
+      },
+      "emotion": [
+        "calm",
+        "joy"
+      ],
+      "id": "11342",
+      "name": {
+        "ja": "頭の後ろで手を組む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "手を組む",
+        "くつろぐ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が前方へ腕を出し、画面右側に明るい光の効果が広がっている。"
+      },
+      "emotion": [
+        "excitement",
+        "surprise"
+      ],
+      "id": "11343",
+      "name": {
+        "ja": "光に向かって手を出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "光",
+        "手を出す"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が拳を前方に突き出し、周囲に光と動きの効果が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "11344",
+      "name": {
+        "ja": "拳を前に突き出す"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "拳",
+        "攻撃の効果線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "筋肉質の男性が体をひねり、拳を前方へ振り出している。"
+      },
+      "emotion": [
+        "anger",
+        "excitement"
+      ],
+      "id": "11345",
+      "name": {
+        "ja": "拳を振り抜く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "拳",
+        "動き"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が正面に向かって走り、背後に放射状の動きの線がある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "11346",
+      "name": {
+        "ja": "正面へ走る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "走る",
+        "放射状の線"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が机に向かって座り、片手を机の上に置いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11347",
+      "name": {
+        "ja": "机に向かう"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "机",
+        "座る"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が室内で椅子に座り、カップのような容器を手にしている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11348",
+      "name": {
+        "ja": "飲み物を手に休む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "飲み物",
+        "室内"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が目を閉じ、口元に細長い物を当てている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11349",
+      "name": {
+        "ja": "細長い物を口元に当てる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "口元",
+        "細長い物"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が本を両手で開いて読んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11350",
+      "name": {
+        "ja": "本を読む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "本",
+        "読む"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が、手にした青い物を口元へ運んでいる。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11351",
+      "name": {
+        "ja": "青い物を口元へ運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "青い物",
+        "口元"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が目を閉じて微笑み、背後に放射状の光がある。"
+      },
+      "emotion": [
+        "joy"
+      ],
+      "id": "11352",
+      "name": {
+        "ja": "目を閉じて微笑む"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "目を閉じる",
+        "光"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が目を閉じてうつむき、背後に赤と青の効果がある。"
+      },
+      "emotion": [
+        "sadness",
+        "tired"
+      ],
+      "id": "11353",
+      "name": {
+        "ja": "目を閉じてうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "目を閉じる",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "青い服の男性が座り、周囲に赤いハートが浮かんでいる。"
+      },
+      "emotion": [
+        "love",
+        "joy"
+      ],
+      "id": "11354",
+      "name": {
+        "ja": "ハートに囲まれて座る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "青い服",
+        "ハート"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が青いゴーグルのような眼鏡をかけ、画面の端から顔をのぞかせている。"
+      },
+      "emotion": [
+        "surprise",
+        "confusion"
+      ],
+      "id": "11355",
+      "name": {
+        "ja": "ゴーグルでのぞく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "ゴーグル",
+        "顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "二人の人物が赤い円盤状の乗り物に乗り、空中を進んでいる。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "11356",
+      "name": {
+        "ja": "円盤状の乗り物に乗る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "乗り物",
+        "飛ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が大きな黒い荷物を持って立っている。"
+      },
+      "emotion": [
+        "tired"
+      ],
+      "id": "11357",
+      "name": {
+        "ja": "大きな荷物を運ぶ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "荷物",
+        "運ぶ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "人物が黒い棒状の物を上方へ掲げ、周囲に黄色いきらめきがある。"
+      },
+      "emotion": [
+        "excitement"
+      ],
+      "id": "11358",
+      "name": {
+        "ja": "黒い物を掲げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "人物",
+        "黒い物",
+        "掲げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が背を向けて立ち、そばの吹き出しに明確に「…」と表示されている。"
+      },
+      "emotion": [
+        "confusion"
+      ],
+      "id": "11359",
+      "name": {
+        "ja": "背を向けて立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "後ろ姿",
+        "吹き出し"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が目を大きく見開き、口を開けて驚いた表情をしている。"
+      },
+      "emotion": [
+        "surprise",
+        "fear"
+      ],
+      "id": "11360",
+      "name": {
+        "ja": "驚いて目を見開く"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "驚き",
+        "顔のアップ"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が横を向いており、背後に黒い人影のような形が重なっている。"
+      },
+      "emotion": [
+        "fear",
+        "calm"
+      ],
+      "id": "11361",
+      "name": {
+        "ja": "影を背に横を見る"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "横顔",
+        "影"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性が上方を見つめ、頬に涙のような線が見える。"
+      },
+      "emotion": [
+        "sadness"
+      ],
+      "id": "11362",
+      "name": {
+        "ja": "涙を浮かべて見上げる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "涙",
+        "見上げる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が目を閉じ、背後に赤黒い炎のような効果が広がっている。"
+      },
+      "emotion": [
+        "anger"
+      ],
+      "id": "11363",
+      "name": {
+        "ja": "炎を背に目を閉じる"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "炎",
+        "目を閉じる"
+      ]
+    },
+    {
+      "description": {
+        "ja": "男性の顔と上半身が青い光に照らされ、片手を顔の近くに置いている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11364",
+      "name": {
+        "ja": "青い光の中で構える"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "青い光",
+        "横顔"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性がうつむき、周囲に炎のような赤や橙色の背景が描かれている。"
+      },
+      "emotion": [
+        "anger",
+        "sadness"
+      ],
+      "id": "11365",
+      "name": {
+        "ja": "炎の中でうつむく"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "炎",
+        "うつむく"
+      ]
+    },
+    {
+      "description": {
+        "ja": "赤い服の男性が長い物を両手に持って背を向け、夕日の前に立っている。"
+      },
+      "emotion": [
+        "calm"
+      ],
+      "id": "11366",
+      "name": {
+        "ja": "夕日に向かって立つ"
+      },
+      "provenance": {
+        "captured_at": "2026-11-27",
+        "description_source": "vision",
+        "keyword_source": "line",
+        "keywords_raw": []
+      },
+      "resource_type": "STATIC",
+      "review": {
+        "status": "draft"
+      },
+      "tags": [
+        "男性",
+        "後ろ姿",
+        "夕日"
+      ]
+    }
+  ],
+  "license": "CC0-1.0",
+  "package_id": "804",
+  "schema_version": 1,
+  "status": "active",
+  "type": "sticker"
+}
